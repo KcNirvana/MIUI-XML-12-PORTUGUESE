@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Para aceder e guardar imagens, aplicações e outros ficheiros assim como transferi-los</item>
+        <item>Para transferir ficheiros utilizando Bluetooth e Wi-Fi</item>
+    </string-array>
+</resources>
