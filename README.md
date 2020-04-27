@@ -1,7 +1,7 @@
 # MIUI 12 Portuguese Translation
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 <dl>
-  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://t2.tudocdn.net/510106?w=1000&fit=clip" border="0" alt="MIUI12_logo"></a></dt>
+  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/qLcFcYE.png" border="0" alt="MIUI12_logo"></a></dt>
   <dd>
     MIUI 12 translation for all supported devices. MIUI Translation: <b>Efex, KcNirvana, Lippe35</b>
   </dd>
