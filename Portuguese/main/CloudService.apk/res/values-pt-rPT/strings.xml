@@ -24,6 +24,7 @@
   <string name="cloud_storage_already_full">O armazenamento Xiaomi Cloud está cheio: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
+  <string name="cloud_storage_info_type_family">Família</string>
   <string name="cloud_storage_info_type_others">Outros</string>
   <string name="cloud_storage_info_type_pdc">Definições de sistema</string>
   <string name="cloud_storage_loading_data">Aguarde…</string>
@@ -58,6 +59,7 @@
   <string name="error_network">Não é possível ligar à rede</string>
   <string name="error_server">Erro do servidor</string>
   <string name="error_unknown">Não foi possível iniciar sessão</string>
+  <string name="feedback_custom_hint">Descreva os erros que encontrou. Se for uma sugestão agradecemos mais detalhes</string>
   <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#0097FF&gt;%s&lt;/font&gt; para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
@@ -99,6 +101,9 @@
   <string name="menu_add_feedback">Comentários</string>
   <string name="menu_add_short_cut">Criar um atalho no ecrã inicial</string>
   <string name="merge">Unir</string>
+  <string name="mi_drive_not_publish_toast">O Mi Drive vai estar disponível brevemente</string>
+  <string name="mi_drive_summary">Aceder a documentos da Xiaomi Cloud em vários dispositivos</string>
+  <string name="mi_drive_title">Mi Drive</string>
   <string name="micloud_alert_dialog_positive">OK</string>
   <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
   <string name="micloud_all_sub_1_sms">Uma SMS nacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
@@ -465,6 +470,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="soundrecorder_sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não vai utilizar dados móveis para transferir ou enviar gravações</string>
   <string name="soundrecorder_sync_records">Sincronizar com a Xiaomi Cloud</string>
+  <string name="special_func_title">Funcionalidades especiais</string>
   <string name="starred_contact">Favoritos</string>
   <string name="storage_manage_expansion">Obter mais</string>
   <string name="storage_manage_list_title">Dados da Xiaomi Cloud</string>
@@ -472,6 +478,8 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="storage_manage_renewal">Renovar</string>
   <string name="storage_manage_title">Alterar o plano da Xiaomi Cloud</string>
   <string name="storage_manage_upgrade">Actualizar</string>
+  <string name="storage_upgrade_card_summary">Obter mais espaço da Xiaomi Cloud</string>
+  <string name="storage_upgrade_card_title">Actualizar o seu plano</string>
   <string name="sub_alert_notif_content">Ligar sincronização com a Xiaomi Cloud</string>
   <string name="sub_alert_notif_title">Sincronizar com a Xiaomi Cloud</string>
   <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens com fotos, áudio ou outro tipo de multimédia quando estiver ligado a uma rede Wi-Fi</string>

@@ -325,6 +325,7 @@
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
+  <string name="date_picker_lunar"/>
   <string name="date_time_done">Concluído</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete_description">Eliminar</string>

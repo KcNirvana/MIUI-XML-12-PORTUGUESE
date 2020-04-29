@@ -448,10 +448,13 @@ Taxa de amostragem"</string>
   <string name="car_lockscreen_disclaimer_title">Conduza com segurança</string>
   <string name="change_theme_reboot">Para alterar o tema necessita de reiniciar</string>
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
+  <string name="choose_clock_panel_title">Layout do ecrã de bloqueio</string>
+  <string name="choose_clock_third_theme_hint_text">Ecrã de bloqueio do tema actual</string>
   <string name="choose_clock_title_left_top">Esquerda</string>
   <string name="choose_clock_title_middle">Centrado</string>
   <string name="choose_clock_title_vertical">Vertical</string>
   <string name="clear_all_notifications_text">Limpar tudo</string>
+  <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="click_expand">Toque para expandir</string>
   <string name="click_to_enter_text">Toque para ver</string>
   <string name="click_to_return_multi_window">Toque para voltar para o ecrã dividido</string>
@@ -981,6 +984,8 @@ d 'de' MMMM"</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introduzir</string>
   <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>
   <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
+  <string name="lock_screen_signature_msg">Mostrar info. do proprietário no ecrã de bloqueio</string>
+  <string name="lock_screen_signature_title">Info. do proprietário no ecrã de bloqueio</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
@@ -1150,6 +1155,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="not_support_multi_window">A aplicação actual não suporta o modo ecrã dividido</string>
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notch_status_bar_date_format_12">"EEEE, d 'de' MMMM"</string>
+  <string name="notification_aggregate_text">Marcar notificações de %1$s como não importantes</string>
   <string name="notification_all_categories">Todas as categorias</string>
   <string name="notification_app_settings">Personalizar: %1$s</string>
   <string name="notification_channel_alerts">Alertas</string>
@@ -1175,8 +1181,11 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_hidden_text">Tem uma nova mensagem</string>
   <string name="notification_info_channel_disabled_text">Não vai receber notificações de %2$s de %1$s</string>
   <string name="notification_info_channel_enabled_text">Vai receber notificações de %2$s de %1$s</string>
+  <string name="notification_info_disabled_text">Notificações bloqueadas de %1$s</string>
+  <string name="notification_info_enabled_text">Notificações de %1$s</string>
   <string name="notification_manager">Gerir notificações</string>
   <string name="notification_manager_des">Filtrar e gerir notificações</string>
+  <string name="notification_menu_aggregate_description">Opções de agrupamento</string>
   <string name="notification_menu_filter_description">Notificações não importantes</string>
   <string name="notification_menu_filter_secondary_text">Todas as notificações de %s vão aparecer numa pasta separada</string>
   <string name="notification_menu_filter_title">Não importante</string>
@@ -1215,6 +1224,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
   <string name="overview">Vista geral</string>
+  <string name="owner_info_settings_edit_text_hint">P.e. Android do João</string>
   <string name="phone_hint">Deslizar a partir do ícone para aceder ao Telefone</string>
   <string name="phone_label">Abrir Telefone</string>
   <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>
@@ -1304,8 +1314,21 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="prompt_return_to_split">Ecrã dividido</string>
   <string name="prompt_safe">Seguro</string>
   <string name="prompt_unknown">Desconhecido</string>
-  <string name="oldman_status_bar_time_format_12">h:mm</string>
-  <string name="oldman_status_bar_time_format_24">HH:mm</string>
+  <string name="qs_control_big_tile_state_closed">Desligado</string>
+  <string name="qs_control_big_tile_state_closing">A desligar…</string>
+  <string name="qs_control_big_tile_state_connected">Ligado</string>
+  <string name="qs_control_big_tile_state_connecting">A ligar…</string>
+  <string name="qs_control_big_tile_state_disconnected">Não ligado</string>
+  <string name="qs_control_big_tile_state_disconnecting">A desligar…</string>
+  <string name="qs_control_big_tile_state_opened">Ligado</string>
+  <string name="qs_control_big_tile_state_opening">A ligar…</string>
+  <string name="qs_control_big_tile_state_unavailable">Não disponível</string>
+  <string name="qs_control_customize_other_tiles_title">Atalhos disponíveis</string>
+  <string name="qs_control_customize_save_text">Concluído</string>
+  <string name="qs_control_customize_sub_title">Arrastar atalhos para os organizar</string>
+  <string name="qs_control_customize_title">Atalhos adicionados</string>
+  <string name="qs_control_expand_detail_title">Os meus dados</string>
+  <string name="qs_control_header_tiles_title">Centro de controlo</string>
   <string name="qs_customize">Permitir pressão longa para personalizar nas Definições rápidas</string>
   <string name="qs_customize_info">Informações</string>
   <string name="qs_customize_remove">Remover</string>
@@ -1536,6 +1559,9 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="show_battery_percentage_summary">Mostrar a percentagem do nível da bateria no ícone da barra de estado quando não estiver a carregar</string>
   <string name="show_brightness">Mostrar brilho nas Definições rápidas</string>
   <string name="show_silently">Mostrar notificações silenciosamente</string>
+  <string name="small_window_guide_title">Janelas flutuantes</string>
+  <string name="small_window_notification_text">Toque para saber mais sobre esta funcionalidade da MIUI %d</string>
+  <string name="small_window_notification_title">Janelas flutuantes</string>
   <string name="snooze_option_15_min">15 minutos</string>
   <string name="snooze_option_1_hour">1 hora</string>
   <string name="snooze_option_2_hour">2 horas</string>
@@ -1560,6 +1586,8 @@ monitorizada"</string>
   <string name="status_bar_clock_date_format_12">"EEEE, d 'de' MMMM"</string>
   <string name="status_bar_clock_date_time_format">"H:mm | EEEE, d 'de' MMMM"</string>
   <string name="status_bar_clock_date_time_format_12">"h:mm aa | EEEE, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_weekday_format">"EEEE, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_weekday_format_12">"EEEE, d 'de' MMMM"</string>
   <string name="status_bar_date_format">"EEEE
 d 'de' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -1847,7 +1875,9 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="wifi_remembered">Guardado</string>
   <string name="wifi_scan_throttling">WLAN scan throttling</string>
   <string name="wifi_scan_throttling_summary">Reduzir o descarregamento de bateria e melhorar o desempenho da rede</string>
+  <string name="wifi_security_none_owe">Nenhuma/Abertura melhorada</string>
   <string name="wifi_security_owe">Abertura melhorada</string>
+  <string name="wifi_security_short_none_owe">Nenhuma/OWE</string>
   <string name="window_animation_scale_title">Escala de animação da janela</string>
   <string name="wireless_change_to_ac_charging">Trocou para carregamento com fios</string>
   <string name="wireless_charge_current">A carregar</string>

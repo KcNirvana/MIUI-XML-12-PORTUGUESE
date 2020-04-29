@@ -19,6 +19,8 @@
   <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
   <string name="advertisements_disable">Anúncios estão desligados</string>
   <string name="advertisements_enable">Anúncios estão ligados</string>
+  <string name="ai_assistant_not_installed">Instalar assistente de chamadas IA primeiro</string>
+  <string name="ai_assistant_setting_title">Assistente de chamadas IA</string>
   <string name="alert_dialog_close">Fechar o perfil</string>
   <string name="alert_dialog_dismiss">Dispensar</string>
   <string name="alert_dialog_in_ecm_call">A acção seleccionada não está disponível enquanto estiver no Modo de Emergência</string>
@@ -842,9 +844,18 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante a chamada</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erro do cartão SIM</string>
   <string name="msim_setting_categery_title">Informações do cartão SIM</string>
+  <string name="msim_setting_default_data">Predefinido para dados</string>
+  <string name="msim_setting_default_voice">Predefinido para chamadas</string>
+  <string name="msim_setting_install_virtual_sim_install">Instalar</string>
+  <string name="msim_setting_install_virtual_sim_message">Instalar Serviços de Operadora Mi para comprar cartões SIM e gerir o seu plano</string>
+  <string name="msim_setting_install_virtual_sim_tip">Serviços de Operadora Mi</string>
   <string name="msim_setting_no_sim_indicator">Sem cartão SIM</string>
+  <string name="msim_setting_no_sim_number">Não definido</string>
+  <string name="msim_setting_no_sim_package_info">Sem informação do saldo</string>
   <string name="msim_setting_operator_network_title">Rede móvel</string>
+  <string name="msim_setting_pop_text">Seleccionar SIM para marcar</string>
   <string name="msim_setting_screen_title">Cartões SIM e redes móveis</string>
+  <string name="msim_setting_set_package">Seleccionar plano</string>
   <string name="msim_setting_sim_info_editor_title">Editar informações do cartão SIM</string>
   <string name="msim_sim_lock">Bloqueado</string>
   <string name="msim_sim_radio_off">Desligado</string>

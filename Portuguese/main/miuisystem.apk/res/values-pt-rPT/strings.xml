@@ -7,6 +7,7 @@
   <string name="anti_aggression_day"/>
   <string name="arbor_day">Dia da Árvore</string>
   <string name="armed_forces_day"/>
+  <string name="atlantis">Atlantis (estéreo)</string>
   <string name="autumn_begins">Início Outono</string>
   <string name="autumn_equinox">Equinócio de Outono</string>
   <string name="birdcicada_preview">Sons da natureza 2</string>
@@ -32,6 +33,7 @@
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Telefone Mi</string>
+  <string name="digitaluniverse">Universo digital (estéreo)</string>
   <string name="double_seventh_day"/>
   <string name="easter">Páscoa</string>
   <string name="fireflies">Pirilampos</string>
@@ -43,6 +45,18 @@
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amigos</string>
   <string name="maml_component_customization_title">Definições</string>
+  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_second">Segundo relógio</string>
+  <string name="miui_lock_screen_date">"EEEE, d 'de' MMMM"</string>
+  <string name="miui_lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d 'de' MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d 'de' MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEEW
+d 'de' MMMM"</string>
+  <string name="miui_lock_screen_large_date_12">"EEEW
+d 'de' MMMM"</string>
   <string name="miui_device_name">Dispositivo MIUI</string>
   <string name="national_father_day">Dia do Pai</string>
   <string name="new_years_day">Ano Novo</string>
@@ -55,6 +69,7 @@
   <string name="presentation_unknown">Número privado</string>
   <string name="resource_select">Seleccionar</string>
   <string name="retrocession_day"/>
+  <string name="reveries">Devaneios (estéreo)</string>
   <string name="slight_cold"/>
   <string name="slight_heat"/>
   <string name="solar_calendar"/>
@@ -69,6 +84,16 @@
   <string name="vip_login">Toque para iniciar sessão</string>
   <string name="vip_not_login">Sem sessão iniciada</string>
   <string name="vip_sign">Assinatura:</string>
+  <string name="wallpaper_group_black_white_title">Preto e branco</string>
+  <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+  <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinâmica</string>
+  <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+  <string name="wallpaper_group_geometric_title">Geometria</string>
+  <string name="wallpaper_group_minimalist_scenery_title">Minimalismo</string>
+  <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen e outros</string>
+  <string name="wallpaper_group_natural_texture_title">Padrões da natureza</string>
+  <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, universidade do Arizona</string>
+  <string name="wallpaper_group_red_mars_title">Marte</string>
   <string name="waterdrop_preview">Sons da natureza 1</string>
   <string name="windchime">Espanta espíritos</string>
   <string name="yellow_page_module_sms_sent">SMS enviada</string>

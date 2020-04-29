@@ -146,6 +146,8 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="miui_clean">Limpar</string>
   <string name="miui_clear_apk_desc">Pacote de instalação e dados residuais eliminados (%s)</string>
   <string name="miui_clear_apks">Eliminar pacote de instalação e dados residuais (%s)</string>
+  <string name="miui_clear_apks_summary">Total %s</string>
+  <string name="miui_clear_apks_title">Limpar pacotes de instalação automaticamente</string>
   <string name="miui_compatibility_desc">Esta aplicação não está optimizada para o seu dispositivo. Se a instalar, pode não funcionar correctamente</string>
   <string name="miui_delete">Eliminar</string>
   <string name="miui_failed_already_exists">Esta aplicação já está instalada</string>

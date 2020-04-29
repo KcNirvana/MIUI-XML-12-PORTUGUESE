@@ -22,6 +22,22 @@
   <string name="HIPS_Perm_Contact_Desc">modificar e eliminar os seus contactos</string>
   <string name="HIPS_Perm_External_Storage">Aceder e alterar ficheiros no armazenamento interno</string>
   <string name="HIPS_Perm_External_Storage_Desc">adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">gravar áudio e efectuar chamadas</string>
+  <string name="HIPS_Perm_Intl_group_desc_auto_start">executar aplicações em segundo plano automaticamente</string>
+  <string name="HIPS_Perm_Intl_group_desc_calendar">aceder aos eventos do calendário</string>
+  <string name="HIPS_Perm_Intl_group_desc_call_log">aceder e editar o registo de chamadas</string>
+  <string name="HIPS_Perm_Intl_group_desc_camera">tirar fotos e gravar vídeos</string>
+  <string name="HIPS_Perm_Intl_group_desc_contact">editar e eliminar contactos</string>
+  <string name="HIPS_Perm_Intl_group_desc_location">aceder à localização exacta (baseada no GPS e na rede)</string>
+  <string name="HIPS_Perm_Intl_group_desc_storage">adicionar e eliminar ficheiros no armazenamento interno</string>
+  <string name="HIPS_Perm_Intl_group_name_audio_recorder">Microfone</string>
+  <string name="HIPS_Perm_Intl_group_name_auto_start">Início automático</string>
+  <string name="HIPS_Perm_Intl_group_name_calendar">Calendário</string>
+  <string name="HIPS_Perm_Intl_group_name_call_log">Registo de chamadas</string>
+  <string name="HIPS_Perm_Intl_group_name_camera">Câmara</string>
+  <string name="HIPS_Perm_Intl_group_name_contact">Contactos</string>
+  <string name="HIPS_Perm_Intl_group_name_location">Localização</string>
+  <string name="HIPS_Perm_Intl_group_name_storage">Armazenamento</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
   <string name="HIPS_Perm_Location_Desc">obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Alterar conectividade de rede</string>
@@ -143,7 +159,10 @@
   <string name="permission_group_title_charges_related">Encargos</string>
   <string name="permission_group_title_media_related">Multimédia</string>
   <string name="permission_group_title_privacy_related">Privacidade</string>
+  <string name="permission_group_title_sensitive_privacy_related">Permissões sensíveis</string>
   <string name="permission_group_title_settings_related">Definições</string>
+  <string name="permission_list_include">"Incluindo as seguintes:
+"</string>
   <string name="permission_reminders">Lembretes de permissões</string>
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>

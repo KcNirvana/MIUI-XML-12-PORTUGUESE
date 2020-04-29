@@ -45,6 +45,7 @@
   <string name="account_user_email">Email de recuperação</string>
   <string name="account_user_gender">Género</string>
   <string name="account_user_id">ID Conta Mi</string>
+  <string name="account_user_id_show">Conta Mi: %s</string>
   <string name="account_user_name">Nome</string>
   <string name="account_user_name_dialog_title">Introduzir utilizador</string>
   <string name="account_user_other_info">Outras informações</string>
@@ -52,6 +53,7 @@
   <string name="account_user_region">Região</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="action_add_phone">Adicionar número de telefone</string>
+  <string name="action_retry">Tentar novamente</string>
   <string name="action_update_phone">Alterar número de telefone</string>
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
@@ -75,6 +77,8 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="change_email_address">Alterar endereço de email</string>
   <string name="change_password">Alterar palavra-passe</string>
   <string name="change_phone_number">Alterar número de telefone</string>
+  <string name="cloud_description_closed">Ocupado | Sinc. desligada</string>
+  <string name="cloud_description_normal">Ocupado</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Gerar registo de diagnóstico</string>
   <string name="completed">Tudo configurado</string>
@@ -86,6 +90,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="confirm_unbind">Desassociar esta conta?</string>
   <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado com a Conta Mi %2$s. Não vai mais ser necessário associar com a Conta Mi %3$s se continuar. Continuar?</string>
   <string name="continue_action">Continuar</string>
+  <string name="copy">Copiar</string>
   <string name="delete_action">Eliminar</string>
   <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
   <string name="delete_bank_card_title">Atenção</string>
@@ -107,6 +112,7 @@ Envie este código ao supervisor"</string>
   <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="exit">Sair</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
@@ -141,7 +147,14 @@ Envie este código ao supervisor"</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
-  <string name="guest_account_label">Conta Mi de Convidado</string>
+  <string name="guest_account_label">Conta Mi de convidado</string>
+  <string name="health_action_activate">Activar</string>
+  <string name="health_action_install">Instalar</string>
+  <string name="health_action_update">Actualizar</string>
+  <string name="health_description_normal">Passos</string>
+  <string name="health_state_not_activated">Não activado</string>
+  <string name="health_state_not_installed">Não instalado</string>
+  <string name="health_state_not_support">Não suportado nesta versão</string>
   <string name="i_agree">OK</string>
   <string name="i_agree_continue">Concordar</string>
   <string name="identity">Identificação</string>
@@ -159,6 +172,7 @@ Envie este código ao supervisor"</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
   <string name="mi_finance">As minhas finanças</string>
   <string name="mi_finance_info">Bónus para novos utilizadores</string>
+  <string name="mi_health">Saúde</string>
   <string name="mi_vip_info">Ver privilégios</string>
   <string name="mipay">Pagamentos</string>
   <string name="mipay_balance">Saldo</string>
@@ -176,6 +190,7 @@ Envie este código ao supervisor"</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
   <string name="no_phone">Sem número de telefone</string>
   <string name="no_response_retry">Sem resposta. Tente novamente</string>
+  <string name="not_set">Não definido</string>
   <string name="no_sim_card_or_unactivated">Sem cartão SIM ou não activado</string>
   <string name="nobind">Não associada</string>
   <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
@@ -265,6 +280,10 @@ Envie este código ao supervisor"</string>
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_activator_phone">A obter informação do SIM…</string>
   <string name="passport_getting_verify_code">A obter</string>
+  <string name="passport_google_login">Iniciar sessão com uma conta Google utilizada anteriormente?</string>
+  <string name="passport_google_login_agree">Conta Google</string>
+  <string name="passport_google_login_disagree">Conta Mi</string>
+  <string name="passport_google_login_failed">Não foi possível inicia sessão com a conta Google. Inicie sessão com a sua Conta Mi</string>
   <string name="passport_i_know">Percebi</string>
   <string name="passport_identification_expired">Código de verificação expirado</string>
   <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
@@ -413,6 +432,7 @@ Envie este código ao supervisor"</string>
   <string name="permission_group_storage">Armazenamento</string>
   <string name="phone_num_use_for">Número de telefone utilizado para:</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="push_notification_content">Obter código de verificação</string>
   <string name="push_notification_title">Iniciou sessão na Conta Mi num dispositivo desconhecido</string>
   <string name="push_notify_dialog_message">Um dispositivo desconhecido foi utilizado para iniciar sessão na sua Conta Mi. Introduza este código de verificação no dispositivo. Se não o fez, altere a palavra-passe da sua Conta Mi. Não divulgue o código de verificação a outras pessoas</string>
@@ -461,6 +481,8 @@ Envie este código ao supervisor"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
+  <string name="state_data_error">Não foi possível obter dados</string>
+  <string name="state_loading">Aguarde…</string>
   <string name="system_ad">Anúncios em aplicações de sistema</string>
   <string name="system_ad_list">Ver aplicações relacionadas</string>
   <string name="system_ad_summary">"Ligar esta funcionalidade para mostrar anúncios em aplicações de sistema. Estes anúncios ajudam-nos a desenvolver e melhorar os nossos produtos e serviços. Obrigado pelo seu suporte! "</string>

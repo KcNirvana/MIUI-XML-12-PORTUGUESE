@@ -44,6 +44,8 @@
   <string name="input_hint_prefix">Introduza %1$s</string>
   <string name="keep_sound">Guardar equalizador</string>
   <string name="low_pitch">Passo baixo</string>
+  <string name="multi_music_coexistence_summary">Não ajustar o volume multimédia durante as notificações recebidas ou enquanto o áudio de outra origem estiver a ser reproduzido</string>
+  <string name="multi_music_coexistence_title">Várias origens de áudio</string>
   <string name="music_add_my_sound">Adicionar equalizador personalizado</string>
   <string name="music_app_unavailable">Certifique-se que a aplicação Música está disponível</string>
   <string name="music_audio_effect_optimize">Definições de áudio</string>
@@ -69,6 +71,7 @@
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
+  <string name="music_dirac_mode_in_ear_four_unit">Mi Quadruple Driver Earphones</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
   <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
@@ -79,6 +82,7 @@
   <string name="music_dirac_mode_piston_basic">Edição básica</string>
   <string name="music_dirac_mode_piston_color">Edição colorida</string>
   <string name="music_dirac_mode_piston_standard">Edição genérica</string>
+  <string name="music_dirac_mode_piston_typec">Mi In-Ear Headphones (Type-C)</string>
   <string name="music_dirac_mode_piston_youth">Edição jovem</string>
   <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (Type-C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
@@ -101,7 +105,7 @@
   <string name="music_headset_calibrate_wrong_key">Botão incorrecto</string>
   <string name="music_headset_mode_music">Controlar leitor de música</string>
   <string name="music_headset_mode_settings">Botões remotos do auricular</string>
-  <string name="music_headset_mode_volume">Controlo do volume</string>
+  <string name="music_headset_mode_volume">Controlar volume</string>
   <string name="music_headset_no_contected">Não foram detectados auriculares</string>
   <string name="music_headset_settings">Efeitos sonoros</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
@@ -130,9 +134,15 @@
   <string name="retry_test">Começar de novo</string>
   <string name="save_and_apply">Guardar e aplicar</string>
   <string name="second_note">Coloque os auriculares</string>
+  <string name="sound_assist_key_summary">Ajustar o som para aplicações individualmente enquanto várias aplicações reproduzem áudio simultâneamente</string>
+  <string name="sound_assist_key_title">Ajustar o som multimédia em várias aplicações</string>
+  <string name="sound_assist_title">Assistente de som</string>
   <string name="sound_test_title">Teste de percepção auditiva</string>
   <string name="start_test_sound">Iniciar teste</string>
   <string name="sure_give_up_test">Vai ter de começar de novo da próxima vez se parar o teste agora. Parar mesmo assim?</string>
   <string name="sure_to_back">Rejeitar alterações?</string>
+  <string name="switch_audio_device_bt">Bluetooth</string>
+  <string name="switch_audio_device_phone">Este dispositivo</string>
+  <string name="switch_audio_dialog_title">Trocar áudio para</string>
   <string name="third_note">Encontre um lugar sossegado</string>
 </resources>

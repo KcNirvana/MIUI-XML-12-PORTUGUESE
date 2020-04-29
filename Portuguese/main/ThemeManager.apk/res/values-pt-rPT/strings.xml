@@ -27,6 +27,11 @@
   <string name="apply_font_btn_exclude">Agora não</string>
   <string name="apply_font_btn_reboot">Reiniciar</string>
   <string name="apply_font_tip">Reiniciar para definir este tipo de letra ao tema</string>
+  <string name="apply_not_support_aod">O ecrã ambiente não é suportado neste dispositivo</string>
+  <string name="apply_not_support_in_second_space">Não é possível aplicar este item no Segundo espaço</string>
+  <string name="apply_not_support_maml_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo</string>
+  <string name="apply_success_not_enable_aod">Ligar primeiro o ecrã ambiente nas Definições</string>
+  <string name="apply_success_not_support_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo. O resto dos componentes foram aplicados com sucesso</string>
   <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
   <string name="audio_duration_minutes_format">%1$d minutos</string>
   <string name="audio_duration_seconds_format">%1$d segundos</string>
@@ -146,10 +151,12 @@
   <string name="has_mamual_hide_font">Ocultos</string>
   <string name="has_mamual_hide_theme">Ocultos</string>
   <string name="has_mamual_hide_wallpaper">Ocultos</string>
+  <string name="hide_free_aod">Ocultar temas gratuitos</string>
   <string name="hide_free_font">Ocultar tipos de letra gratuitos</string>
   <string name="hide_free_theme">Ocultar temas gratuitos</string>
   <string name="hide_free_wallpaper">Ocultar papéis de parede gratuitos</string>
   <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
+  <string name="hide_mamual_hide_aod">Não mostrar itens ocultos</string>
   <string name="hide_mamual_hide_font">Não mostrar tipos de letra ocultos</string>
   <string name="hide_mamual_hide_theme">Não mostrar temas ocultos</string>
   <string name="hide_mamual_hide_wallpaper">Não mostrar papéis de parede ocultos</string>
@@ -175,6 +182,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="incompatible_dialog_message">Este tema não é totalmente compatível com a versão MIUI instalada. Alguns elementos podem ser mostrados incorrectamente</string>
   <string name="incompatible_dialog_ok">Percebi</string>
   <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
+  <string name="icon_content_description">Ícone de diálogo</string>
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
   <string name="item_resource_audio_optional_color_ring">Toque de retorno</string>
@@ -193,6 +201,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="lockscreen_apply_failured_but_home_apply_success">Papel de parede do ecrã inicial definido mas não foi possível definir no ecrã de bloqueio</string>
   <string name="lockscreen_apply_success">Papel de parede do ecrã de bloqueio definido</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">Papel de parede do ecrã de bloqueio definido mas não foi possível definir no ecrã inicial</string>
+  <string name="lockscreen_desk_wallpaper">Papéis de parede do ecrã inicial e de bloqueio</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
   <string name="lockscreen_magazine_summary">Categorias</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s papéis de parede</string>

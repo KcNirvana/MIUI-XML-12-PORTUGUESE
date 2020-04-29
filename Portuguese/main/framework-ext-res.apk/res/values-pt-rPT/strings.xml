@@ -52,6 +52,10 @@
   <string name="default_device_name">Dispositivo desconhecido</string>
   <string name="default_name">Predefinido</string>
   <string name="description_title">Modo silêncio</string>
+  <string name="device_status_failed">Não foi possível enviar</string>
+  <string name="device_status_sending">A enviar…</string>
+  <string name="device_status_success">Enviado com sucesso</string>
+  <string name="device_status_waiting">A aguardar…</string>
   <string name="device_type_pc">Computador</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">0,0068€ por minuto para chamadas nacionais</string>
@@ -134,6 +138,8 @@
   <string name="miui_warning_button_ok">OK</string>
   <string name="miui_warning_tip_info">Ocorreu um erro em %1$s. Fechar esta aplicação agora?</string>
   <string name="onehour">30 minutos</string>
+  <string name="open_close_tip_action">Percebi</string>
+  <string name="open_close_tip_content">Para fechar a janela, prima e segure a barra de acção e deslize para cima</string>
   <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
   <string name="package_delete_confirm_step_2">Desinstalar esta aplicação pode fazer com que o sistema fique instável</string>
   <string name="package_delete_confirm_step_3">Não vai poder abrir esta aplicação depois de a desinstalar</string>
@@ -156,7 +162,7 @@
   <string name="popup_camera_sure_wait">Percebi (%ds)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">Não foi possível fechar a câmara frontal. Tente calibrar a câmara</string>
   <string name="popup_camera_tip">Atenção</string>
-  <string name="popup_camera_using_camera_background">%s is using the front camera</string>
+  <string name="popup_camera_using_camera_background">%s está a utilizar a câmara frontal</string>
   <string name="reboot_confirm_title">Reiniciar o dispositivo agora?</string>
   <string name="reboot_info_auto_boot">O dispositivo está programado para ligar às %s</string>
   <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
@@ -191,6 +197,7 @@
   <string name="security_permission_validate_warning">Obrigado por ajudar a fazer uma MIUI melhor!</string>
   <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ligados</string>
   <string name="security_permission_xiaomi_account_missed_text">Introduza o ID da sua Conta Mi</string>
+  <string name="security_share_text">Protecção de Privacidade</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="send_files_to">Enviar itens para</string>
