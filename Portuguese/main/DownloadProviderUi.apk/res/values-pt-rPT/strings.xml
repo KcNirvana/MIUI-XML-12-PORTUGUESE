@@ -63,6 +63,7 @@
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_content_limit0">Restringido</string>
   <string name="dialog_content_limit_max">Ilimitado</string>
+  <string name="dialog_delete_positive">Eliminar</string>
   <string name="dialog_failed_body">Tentar transferir mais tarde ou removê-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Este ficheiro já existe</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
@@ -153,6 +154,8 @@
   <string name="get_order_fail_msg">Não foi possível finalizar a compra</string>
   <string name="goto_global_search">Pesquisar na web por \"%1$s\"</string>
   <string name="guess_like">Também pode gostar</string>
+  <string name="h5_net_error" formatted="false">Não foi possível carregar %s (%s)</string>
+  <string name="h5_net_error_tip">Não foi possível abrir o URL</string>
   <string name="high_speed_channel">Acelerador Xunlei (pago):</string>
   <string name="high_speed_tryout">A velocidade de transferência é lenta. Torne-se um membro Xunlei</string>
   <string name="high_speed_tryout_percent">Velocidade optimizada por %1$s. Torne-se um membro Xunlei</string>
@@ -188,12 +191,13 @@
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Desconhecido&gt;</string>
-  <string name="net_error">Não é possível obter ligação à rede. Tente novamente</string>
-  <string name="network_error">Não é possível obter ligação à rede</string>
+  <string name="net_error">Não é possível obter ligar à rede. Tente novamente</string>
+  <string name="network_error">Não é possível obter ligar à rede</string>
   <string name="new_add">Nova transferência</string>
   <string name="new_add_bt">Adicionar torrent</string>
   <string name="no_downloads">Sem ficheiros</string>
   <string name="no_file_hint">Já existe uma transferência para este ficheiro</string>
+  <string name="no_net">Não é possível ligar à rede</string>
   <string name="no_result_for_keyword">Não foi possível encontrar \"%1$s\"</string>
   <string name="no_share_file">Não foi possível partilhar este ficheiro</string>
   <string name="no_share_file_content">O ficheiro seleccionado já foi eliminado</string>
@@ -430,6 +434,7 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
   <string name="xl_vip_pay">Expirado</string>
   <string name="xl_vip_quarter">Trimestral: %1$s Mi Credits × 3 meses</string>
   <string name="xl_vip_semiannual">Semestral: %1$s Mi Credits × 6 meses</string>
+  <string name="xlunbind_sub_title">Remova a sua conta Xunlei e adicione uma Conta Mi</string>
   <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
   <string name="xunlei_brand">Fornecido por Xunlei</string>
   <string name="xunlei_close_tips_button">Ligar</string>

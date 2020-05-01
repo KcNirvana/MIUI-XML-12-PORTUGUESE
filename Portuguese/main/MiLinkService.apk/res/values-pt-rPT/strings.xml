@@ -22,6 +22,7 @@ Para mais questões, veja a ajuda"</string>
     <string name="dialog_connect_retry">Toque para tentar novamente</string>
     <string name="dialog_connect_verify_perssion">Autorize a transmissão na sua TV primeiro</string>
     <string name="dialog_connect_verify_perssion_fail">Não foi possível autorizar a transmissão na sua TV. Aguarde um momento e tente novamente</string>
+    <string name="dialog_nfc_cast_wifi_off">Ligue o Wi-Fi para poder transmitir utilizando NFC. Ligar agora?</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">O que é a transmissão?</string>
     <string name="help_page_text_03">Transmissão é a projecção de itens do seu telefone para um ecrã externo maior. Isto permite que partilhe imagens e vídeos com os seus amigos e família. O consumo de bateria normalmente não é afectado ao utilizar esta funcionalidade</string>
@@ -117,7 +118,9 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="san_wait_msg_4">Ver \"Ajuda\" se não conseguir localizar dispositivos</string>
     <string name="status_bar_in_casting">A transmitir</string>
     <string name="status_bar_in_casting_long">Toque para mais funcionalidades</string>
+    <string name="toast_nfc_dont_move">Não afaste o telefone</string>
     <string name="toast_msg_for_multi_window">Não é possível transmitir no modo ecrã dividido</string>
     <string name="toast_msg">Utilize a janela para transmitir o ecrã na aplicação</string>
+    <string name="toast_turn_off_hotspot_before_cast">Desligar PA Móvel antes de transmitir</string>
     <string name="casting_tips">A transmitir…</string>
 </resources>

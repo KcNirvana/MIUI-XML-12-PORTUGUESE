@@ -33,6 +33,18 @@
         <item quantity="other">%d dias</item>
         <item quantity="one">%d dia</item>
     </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f vezes por dia em média</item>
+        <item quantity="one">%.2f vez por dia em média</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Desbloqueado %d vezes</item>
+        <item quantity="one">Desbloqueado %d vez</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Desbloqueado %d vezes</item>
+        <item quantity="one">Desbloqueado %d vez</item>
+    </plurals>
     <plurals name="usage_remain_about_hour">
         <item quantity="other">≈%s horas</item>
         <item quantity="one">≈%s hora</item>

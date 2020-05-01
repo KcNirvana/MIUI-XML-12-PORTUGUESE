@@ -38,6 +38,7 @@
   <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações que inseriu até agora vão ser copiadas</string>
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Associar o contacto actual ao contacto seleccionado?</string>
+  <string name="ai_calllog_call_record_menu">Gravação de chamadas IA</string>
   <string name="all_list_empty">Sem contactos</string>
   <string name="antispam_mark_my_contribution">A partilhar informações do marcador</string>
   <string name="antispam_provider_format">Identificado por %s</string>
@@ -123,6 +124,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
+  <string name="callrecordview_menu_aiphone">Chamadas IA</string>
   <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>

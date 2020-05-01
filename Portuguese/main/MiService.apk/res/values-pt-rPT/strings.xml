@@ -111,6 +111,7 @@
   <string name="miui_main_update_start">Actualizar agora</string>
   <string name="miui_main_update_success_sub_title">Conheça a nova MIUI</string>
   <string name="miui_main_update_success_title">Melhorar a productividade</string>
+  <string name="miui_main_update_success_title_12">Só sua</string>
   <string name="permission_agree">Concordar</string>
   <string name="permission_china_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Esta aplicação necessita também de ligar à Internet para funcionar normalmente</string>
   <string name="permission_complete">Concluído</string>
@@ -134,5 +135,15 @@
   <string name="rationale_ask">Esta aplicação pode não funcionar correctamente sem as permissões necessárias</string>
   <string name="rationale_ask_again">Esta aplicação pode não funcionar correctamente sem as permissões necessárias. Abra as definições da aplicação para modificar as permissões</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="share_cancel">Partilha cancelada</string>
+  <string name="share_failed">Não foi possível partilhar</string>
+  <string name="share_no_network">Não foi possível ligar à rede</string>
+  <string name="share_not_install_wechat">Instalar WeChat primeiro</string>
+  <string name="share_not_install_weibo">Instalar Weibo primeiro</string>
+  <string name="share_success">Partilhado com sucesso</string>
+  <string name="share_title">Partilhar</string>
+  <string name="share_wechat_timeline_title">WeChat Moments</string>
+  <string name="share_wechat_title">WeChat</string>
+  <string name="share_weibo_title">Weibo</string>
   <string name="title_settings_dialog">Permissões necessárias</string>
 </resources>

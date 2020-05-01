@@ -283,6 +283,54 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="name_password_not_consistent">Utilizador ou palavra-passe inválidos</string>
   <string name="never">Nunca</string>
   <string name="new_backup">Fazer cópia de segurança</string>
+  <string name="new_britem_audio">Áudio</string>
+  <string name="new_britem_doc">Ficheiros</string>
+  <string name="new_britem_other">Outros</string>
+  <string name="new_britem_pic">Imagens</string>
+  <string name="new_britem_video">Vídeos</string>
+  <string name="new_confirm_enable_encrypt_content">A MIUI associa cópias encriptadas com a sua Conta Mi. Vai ter que iniciar sessão na sua Conta Mi para restaurar os itens dessas cópias</string>
+  <string name="new_confirm_enable_encrypt_title">Encrypt</string>
+  <string name="new_local_button_backup">Fazer cópia</string>
+  <string name="new_local_button_restore">Restaurar</string>
+  <string name="new_local_click_to_jump">Toque para ver instruções detalhadas</string>
+  <string name="new_local_detail_description">"Nota:
+%1$d. Faça cópias para o seu computador para evitar a perda de dados. %2$s.
+%3$d. As cópias vão ser guardadas em MIUI-Backup-AllBackup"</string>
+  <string name="new_local_tab_backup">Copiar para um dispositivo móvel</string>
+  <string name="new_local_tab_restore">Restaurar de um dispositivo móvel</string>
+  <string name="new_low_storage_title">Sem espaço suficiente</string>
+  <string name="new_more_settings_label">Definições adicionais</string>
+  <string name="new_pc_backup_content1">%1$d. Abrir \"%2$s\"</string>
+  <string name="new_pc_backup_content2">%d. Aguardar até todos os itens estarem copiados</string>
+  <string name="new_pc_backup_content3">%d. Localizar a cópia em MIUI-Backup-AllBackup</string>
+  <string name="new_pc_backup_content4">%d. Copiar o ficheiro para o seu computador</string>
+  <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
+  <string name="new_pc_backup_summary1">Seleccionar itens e tocar em \"Fazer cópia\"</string>
+  <string name="new_pc_backup_summary2">Ligar o seu dispositivo móvel ao computador via cabo USB</string>
+  <string name="new_pc_backup_summary4">Nota: pode também copiar fotos e vídeos de MIUI-DCIM</string>
+  <string name="new_pc_restore_content1">%d. Ligar o seu dispositivo móvel ao computador via cabo USB</string>
+  <string name="new_pc_restore_content2">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
+  <string name="new_pc_restore_content3">%1$d. Abrir \"%2$s\" e seleccionar os itens a restaurar</string>
+  <string name="new_pc_title">Copiar cópias</string>
+  <string name="new_select_file">Áudios, vídeos e ficheiros</string>
+  <string name="new_select_message">SMS, contactos e registo de chamadas</string>
+  <string name="new_select_pic">Imagens</string>
+  <string name="new_select_system">Dados de outras aplicações de sistema</string>
+  <string name="new_select_tencent">QQ e WeChat</string>
+  <string name="new_select_third">Aplicações e dados de terceiros</string>
+  <string name="new_select_third_apk">Aplicações de terceiros</string>
+  <string name="new_select_third_data">Dados de aplicações de terceiros</string>
+  <string name="new_tab_pc_backup">Copiar para o computador</string>
+  <string name="new_tab_pc_restore">Restaurar do computador</string>
+  <string name="new_task_finished">Concluído</string>
+  <string name="new_usb_detail_description">"Notae:
+%1$d. Este método permite fazer cópias de aplicações e dados de aplicações de terceiros
+%2$d. Certifique-se que existe espaço suficiente na sua drive USB para armazenar cópias"</string>
+  <string name="new_usb_disconnect_dialog_message">Ligue uma drive USB primeiro</string>
+  <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar uma drive USB</string>
+  <string name="new_usb_select_data_no_space">Apenas está disponível %s na sua drive USB. Liberte algum espaço</string>
+  <string name="new_usb_tab_backup">Copiar para a drive USB</string>
+  <string name="new_usb_tab_restore">Restaurar da drive USB</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="note_title">Notas</string>

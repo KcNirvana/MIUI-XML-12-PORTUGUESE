@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ai_assistant">Assistente de chamadas IA</string>
+  <string name="ai_assistant_not_installed">Instalar assistente de chamadas IA primeiro</string>
   <string name="antispam_local_marked">Localização marcada</string>
   <string name="antispam_notification_title">Número desconhecido</string>
   <string name="antispam_provider">Identificado por %s</string>
@@ -108,6 +110,8 @@
   <string name="description_target_answer">Atender</string>
   <string name="do_not_support_video_calls_by_remote">As videochamadas não são suportadas pelo outro dispositivo</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
+  <string name="enter_ai_assistant">Utilizar</string>
+  <string name="enter_ai_assistant_tip">O assistente de chamadas IA pode atender esta chamada e transcrever o discurso da outra pessoa. Permitir que a IA atenda agora?</string>
   <string name="inCallLabel">Telefone</string>
   <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar para a chamada</string>
   <string name="incall_call_type_label_sip">Chamadas pela Internet</string>
@@ -191,6 +195,7 @@
   <string name="voicemail">Voice Mail</string>
   <string name="volte_call">Chamada VoLTE</string>
   <string name="volume_boost_text">Volume aumentado com sucesso</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Banda insuficiente. Trocado para chamada de voz</string>
   <string name="video_crbt_title">O toque de chamada de vídeo da outra parte está a tocar</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>

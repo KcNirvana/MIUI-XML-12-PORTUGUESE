@@ -28,6 +28,10 @@
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
     </plurals>
+    <plurals name="number_items">
+        <item quantity="other">%s itens</item>
+        <item quantity="one">%s item</item>
+     </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Eliminar %d itens?</item>
         <item quantity="one">Eliminar este item?</item>

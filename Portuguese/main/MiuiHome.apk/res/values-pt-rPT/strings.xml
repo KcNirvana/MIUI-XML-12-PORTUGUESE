@@ -2,6 +2,11 @@
 <resources>
   <string name="accessibility_menu_item_split_disable">A aplicação não suporta o ecrã dividido</string>
   <string name="accessibility_menu_item_split_enable">A aplicação suporta o ecrã dividido</string>
+  <string name="accessibility_recent_task_enter">Abriu Recentes</string>
+  <string name="accessibility_recent_task_exit">Fechou Recentes</string>
+  <string name="accessibility_recent_task_locked_state">Bloqueado</string>
+  <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | RAM disponível: %1$s. Duplo toque para limpar</string>
+  <string name="accessibility_recent_task_unlocked_state">Desbloqueado</string>
   <string name="accessibility_recents_item_open_app_info">Abrir as informações de %s</string>
   <string name="accessibility_splite_screen_primary">Adicionada como aplicação primária no ecrã dividido</string>
   <string name="accessibility_splite_screen_secondary">Adicionada como aplicação secundária no ecrã dividido</string>
@@ -338,11 +343,13 @@
   <string name="permdesc_install_widget">Permite que uma aplicação adicione widgets sem a intervenção do utilizador</string>
   <string name="permdesc_read_settings">Permite que uma aplicação leia as definições e os atalhos da página inicial</string>
   <string name="permdesc_uninstall_shortcut">Permite que uma aplicação remova atalhos sem a intervenção do utilizador</string>
+  <string name="permdesc_uninstall_widget">Permite que uma aplicação remova widgets sem a intervenção do utilizador</string>
   <string name="permdesc_write_settings">Permite que uma aplicação altere as definições e os atalhos da página inicial</string>
   <string name="permlab_install_shortcut">instalar atalhos</string>
   <string name="permlab_install_widget">instalar widgets</string>
   <string name="permlab_read_settings">ler definições do ecrã inicial e atalhos</string>
   <string name="permlab_uninstall_shortcut">desinstalar atalhos</string>
+  <string name="permlab_uninstall_widget">desinstalar widgets</string>
   <string name="permlab_write_settings">editar definições do ecrã inicial e atalhos</string>
   <string name="photo_adjust">Pré-visualizar</string>
   <string name="photo_confirm">Definir</string>
@@ -378,7 +385,10 @@
   <string name="recents_empty_message">Sem itens recentes</string>
   <string name="recents_empty_message_dismissed_all">Tudo limpo</string>
   <string name="recents_empty_message_multi_window">Abrir aplicações do ecrã inicial</string>
+  <string name="recents_exit_multi_window_mode">Sair</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Não é possível utilizar o ecrã dividido quando estiver a transmitir</string>
+  <string name="recents_incompatible_app_message">Esta aplicação não suporta o ecrã dividido</string>
+  <string name="recents_smallwindow_text">Solte para adicionar</string>
   <string name="recents_task_screening">Transmitir</string>
   <string name="recents_title_app_manager">Gerir aplicações</string>
   <string name="recents_title_game">Jogos</string>
@@ -386,6 +396,7 @@
   <string name="recents_title_garbage_deepclean">Limpeza Profunda</string>
   <string name="recents_title_market">Procurar aplicações</string>
   <string name="recents_title_security_scan">Verif. de segurança</string>
+  <string name="recents_tv_small_window_text">Janelas flutuantes</string>
   <string name="recommend_app">Sugestões da aplicação</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
@@ -427,6 +438,14 @@
   <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>
   <string name="show_most_popular_apps_you_used">Mostrar as aplicações frequentas na gaveta</string>
+  <string name="slide_to_open_newhome">Deslizar para cima para abrir o Centro de controlo</string>
+  <string name="small_window_button_complete">Concluído</string>
+  <string name="small_window_edit_content">Pode adicionar até %d aplicações</string>
+  <string name="small_window_edit_title">Aplicações actuais</string>
+  <string name="small_window_empty">Seleccionar das aplicações disponíveis</string>
+  <string name="small_window_select_title">Aplicações disponíveis</string>
+  <string name="small_window_title_text">Toque para abrir uma janela flutuante</string>
+  <string name="small_window_toast">Pode adicionar até %d aplicações</string>
   <string name="sort_by_abc">Ordenar por nome</string>
   <string name="sort_by_frequency">Ordenar por utilização</string>
   <string name="sort_by_not_defined">Ordenar automaticamente</string>

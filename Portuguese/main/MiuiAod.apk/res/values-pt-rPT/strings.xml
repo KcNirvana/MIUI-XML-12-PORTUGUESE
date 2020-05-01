@@ -3,6 +3,7 @@
   <string name="above_image">Cima</string>
   <string name="accessibility_battery_level">Bateria a %d porcento</string>
   <string name="accessibility_battery_level_charging">Bateria a carregar. %d porcento</string>
+  <string name="add_from_album">Adicionar da Galeria</string>
   <string name="align_type">Alinhamento</string>
   <string name="always_style">Sempre</string>
   <string name="animation_clock_panel">Visualização em onda</string>
@@ -32,6 +33,7 @@ d 'de' MMMM"</string>
   <string name="background_icon">Fundo</string>
   <string name="black_white_clock_panel">Relógio</string>
   <string name="below_image">Baixo</string>
+  <string name="btn_know">Percebi</string>
   <string name="cancel">Cancelar</string>
   <string name="character_counter_content_description">Caracteres introduzidos %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
@@ -58,6 +60,8 @@ d 'de' MMMM"</string>
   <string name="line_space">Espaço entre linhas</string>
   <string name="mini_time">Relógio pequeno</string>
   <string name="minimalist_clock">Relógio simples</string>
+  <string name="modify_scheduled_time">Alterar hora</string>
+  <string name="more_online_theme">Itens online</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="my_style_title">Os meus temas</string>
   <string name="notification_anim_pulse">Pulsação</string>
@@ -67,12 +71,17 @@ d 'de' MMMM"</string>
   <string name="notification_screen_on">Ligar ecrã</string>
   <string name="only_show_bg_description">Não mostrar hora, data e outros itens</string>
   <string name="only_show_bg_title">Apenas mostrar fundo</string>
+  <string name="open_aod_mode">Ligar</string>
   <string name="panel_clock">Analógico</string>
   <string name="paper_mode_end_time_title">Desligar</string>
   <string name="paper_mode_start_time_title">Ligar</string>
   <string name="photo_editor_saving">A guardar…</string>
   <string name="please_input_signature">Introduzir assinatura</string>
+  <string name="scheduled_mode_dialog_msg">Os itens vão ser mostrados no ecrã ambiente durante este período: %s</string>
+  <string name="scheduled_mode_msg">Período activo: %s</string>
   <string name="scheduled_style">Programado</string>
+  <string name="show_lunar">Mostrar calendário chinês tradicional</string>
+  <string name="show_lunar_desc">O relógio duplo não suporta o calendário chinês tradicional</string>
   <string name="scope_des">Cada caleidoscópio contem 5 padrões diferentes que vão ser mostrados alternadamente sempre que o ecrã acender</string>
   <string name="scope_icon">Estilo do caleidoscópio</string>
   <string name="scope_time">Caleidoscópio</string>
@@ -90,6 +99,10 @@ maravilhoso está para acontecer"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standard</string>
   <string name="summary">Para reduzir o consumo de bateria, os itens não vão ser mostrados quando o dispositivo estiver no escuro por muito tempo</string>
+  <string name="super_wallpaper_date">"EEEE
+dd/MM"</string>
+  <string name="super_wallpaper_date_lunar">"EEEE
+dd/MM"</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>
   <string name="text_color">Cor do texto</string>
   <string name="text_length_exceed_limit_alert">*O texto inserido é demasiado longo</string>
@@ -98,4 +111,5 @@ maravilhoso está para acontecer"</string>
   <string name="time_location">Posição do relógio</string>
   <string name="time_style">Estilo</string>
   <string name="time_style_layout">Layout</string>
+  <string name="tip_to_open_aod_mode">Ecrã ambiente desligado. Ligar agora?</string>
 </resources>

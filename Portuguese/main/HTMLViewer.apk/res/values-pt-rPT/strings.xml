@@ -17,6 +17,7 @@ vá a %s noutro dispositivo ligado"</string>
   <string name="permdesc_accessDrm">Permitir que a aplicação aceda a conteúdo protegido por DRM</string>
   <string name="policy_name">Protocolo:%s</string>
   <string name="pre_installed_apps">Aplicações pré-instaladas</string>
+  <string name="privacy_station_title">Privacidade na Xiaomi</string>
   <string name="settings_ad_loading">Aguarde…</string>
   <string name="settings_ad_loading_unavailable">Não foi possível carregar a informação</string>
   <string name="settings_license_activity_loading">Aguarde…</string>
