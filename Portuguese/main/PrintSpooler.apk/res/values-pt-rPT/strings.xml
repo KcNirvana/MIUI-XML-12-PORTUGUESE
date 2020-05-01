@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_convert_pdf_alert_message">A conversão de ficheiros é fornecida por WPS Office</string>
+  <string name="activity_convert_pdf_alert_title">A converter ficheiros antes de imprimir…</string>
+  <string name="activity_jump_market_alert_install_message">Instalar WPS Office para converter este ficheiro e prepará-lo para a impressão. Vai necessitar de iniciar a impressão novamente após instalar. Instalar agora?</string>
+  <string name="activity_jump_market_alert_install_positive_button">Instalar</string>
+  <string name="activity_jump_market_alert_title">Atenção</string>
+  <string name="activity_jump_market_alert_update_message">Actualizar WPS Office para converter este ficheiro e prepará-lo para a impressão. Vai necessitar de iniciar a impressão novamente após actualizar. Actualizar agora?</string>
+  <string name="activity_jump_market_alert_update_positive_button">Actualizar</string>
   <string name="add_print_service_label">Adicionar serviço</string>
   <string name="all_printers">Todas as impressoras…</string>
   <string name="all_printers_label">Todas as impressoras</string>
@@ -66,4 +73,6 @@
   <string name="summary_template">Resumo, %1$s cópias, tamanho do papel %2$s</string>
   <string name="template_all_pages">Todas as %1$s páginas</string>
   <string name="template_page_range">Intervalo de %1$s pág.</string>
+  <string name="wps_convert_error_toast_text">Não foi possível converter este ficheiro</string>
+  <string name="wps_convert_too_large_and_wait_toast_text">A conversão pode demorar mais tempo que o previsto. a converter…</string>
 </resources>

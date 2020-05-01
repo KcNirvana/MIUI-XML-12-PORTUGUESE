@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="hybrid_provider">Fornecido por %1$s</string>
+  <string name="i_know">OK</string>
   <string name="mibi_app_name">Mi Credits</string>
   <string name="mibi_applock_dialog_cancel">Agora não</string>
   <string name="mibi_applock_dialog_content">Devido à actualização de sistema, o seu padrão de bloqueio actual expirou. Defina um novo</string>
@@ -196,6 +197,8 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
   <string name="mibi_paytool_weixin">WeChat</string>
+  <string name="mibi_permanently_denied_perm_camera">Permitir a utilização da Câmara nas Definições para utilizar as funcionalidades</string>
+  <string name="mibi_permanently_denied_perm_send_sms">Permitir o envio de SMS nas Definições para utilizar as funcionalidades</string>
   <string name="mibi_prepaid_card_order_info">%1$s cartão de carregamento: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Seleccionar operadora</string>
   <string name="mibi_prepaid_edit_limit">dígitos</string>
@@ -298,6 +301,7 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="mibi_web_login_waiting">Aguarde…</string>
   <string name="mibi_web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="no_network">Não é possível ligar à rede</string>
+  <string name="open_settings">Ir para Definições</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
@@ -452,6 +456,7 @@ link que enviámos para o seu email"</string>
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
+  <string name="request_camera_permission_message">This service need to ask your permission follows, we will strictly abide by relevant laws to protect your personal information: &lt;br&gt;&lt;br&gt;&lt;b&gt; Access Camera: experience real-time recording services for setting Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; If you do not agree to call the above permissions, this function will not work properly, but it will not affect your use of the basic functions of this application. You can choose to turn off the above permission call in the system settings to withdraw your consent.</string>
   <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="web_sso_login_message">A iniciar sessão…</string>
   <string name="webview_reload">Tente novamente</string>

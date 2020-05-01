@@ -318,6 +318,8 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
   <string name="search_result_text">Não foi possível encontrar aplicações</string>
   <string name="secondSpace">Segundo espaço</string>
+  <string name="secondspace_homepage">"Definir um ecrã de bloqueio para o Segundo espaço.
+Separe e proteja os seus dados"</string>
   <string name="second_owner_finger_print">Impressão digital do Segundo espaço</string>
   <string name="second_space_desktop_tips_dialog_message">Após esta actualização, os ícones para mover dados e gerir o Segundo espaço não vão estar disponíveis no ecrã inicial. Pode aceder a estas funcionalidades nas Definições</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Percebi</string>

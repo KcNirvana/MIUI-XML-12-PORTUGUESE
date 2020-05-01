@@ -62,6 +62,8 @@
   <string name="locale_picker_title">Escolher a sua região</string>
   <string name="location_introduction">Serviços baseados em localização localizam produtos e serviços perto de si</string>
   <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
+  <string name="mint_keyboard_oobe_checkbox">Eu li e concordei com a Política de Privacidade do teclado Mint</string>
+  <string name="mint_keyboard_oobe_terms">Política de Privacidade do teclado Mint</string>
   <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Utilização em %s</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
@@ -132,6 +134,8 @@ Desligar os anúncios personalizados mesmo assim?"</string>
   <string name="permission_user_record_introduction">Para gravar áudio</string>
   <string name="permission_virusscan_introduction">Para fazer análises de vírus e optimizar o seu dispositivo</string>
   <string name="permission_xunlei_introduction">Para iniciar sessão e gerir contas de sistema para fornecer serviços Xunlei</string>
+  <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Termos de Utilização do POCO Launcher</string>
   <string name="pref_title_data_slot">Cartão SIM de dados preferido</string>
   <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
   <string name="privacy_policy">Política de Privacidade</string>
@@ -203,6 +207,9 @@ Os componentes de %s e Conta Mi vão ligar à Internet e adquirir a sua localiza
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Tem de concordar com a Política de Privacidade de Facemoji para utilizar esta funcionalidade"</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Tem de concordar com a Política de Privacidade do teclado Mint para utilizar esta funcionalidade"</string>
   <string name="terms_of_use_lable_gms">, serviços Google Play </string>
   <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
   <string name="title_fingerprint">Definir palavra-passe</string>
