@@ -1,0 +1,14 @@
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">%d rostos detectados</item>
+        <item quantity="one">%d rosto detectado</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Pode criar até %d clones de cada vez</item>
+        <item quantity="one">Pode criar até %d clone de cada vez</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">%1$s fotos tiradas</item>
+        <item quantity="one">%1$s foto tirada</item>
+    </plurals>
+</resources>

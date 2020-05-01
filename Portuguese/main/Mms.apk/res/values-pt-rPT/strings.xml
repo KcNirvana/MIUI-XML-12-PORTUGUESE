@@ -87,6 +87,7 @@
   <string name="change_duration_activity">Alterar duração</string>
   <string name="check_all">Seleccionar todas</string>
   <string name="class_0_message_activity">Mensagem de classe 0</string>
+  <string name="classifing">A agrupar mensagens…</string>
   <string name="click_to_view">Toque para ver</string>
   <string name="close">Fechar</string>
   <string name="cloud_recommend_view_tip">Ligue a sincronização com a Xiaomi Cloud para restaurar mensagens importantes a qualquer hora</string>
@@ -159,14 +160,17 @@
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
+  <string name="dialog_choice_all_correct_as_normal">Todas as mensagens de %s</string>
   <string name="dialog_complain_tips">Permita que Mensagens se ligue à rede para poder reportar itens</string>
+  <string name="dialog_message_correct_as_ad">Todas as mensagens de %s (excepto códigos de verificação) vão ser movidas para promoções</string>
+  <string name="dialog_message_correct_as_normal">Seleccionar mensagens a mover</string>
   <string name="dialog_message_fake_cell_detect_error">Corrijir a informação acerca desta mensagem? Para fazer isto, a MIUI necessita de enviar o seu número de telefone (%1$s), o conteúdo da mensagem e a informação acerca da localização para os seus servidores</string>
   <string name="dialog_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar</string>
   <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
   <string name="dialog_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com \"%1$s\" antes de utilizar</string>
   <string name="dialog_sim_locked_confirm">OK</string>
-  <string name="dialog_title_correct_as_ad">Definir como empresarial</string>
-  <string name="dialog_title_correct_as_normal">Definir como normal</string>
+  <string name="dialog_title_correct_as_ad">Mover para promoções</string>
+  <string name="dialog_title_correct_as_normal">Mover para normais</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Termos e condições</string>
@@ -264,8 +268,8 @@
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Ocultar endereço do remetente</string>
   <string name="hold_to_talk">Segure para falar</string>
-  <string name="home_tab_ad">Empresa</string>
-  <string name="home_tab_common">Normal</string>
+  <string name="home_tab_ad">Promoções</string>
+  <string name="home_tab_common">Normais</string>
   <string name="hybrid_check_network">Definições de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não foi possível encontrar a sua localização</string>
@@ -299,8 +303,8 @@
   <string name="menu_call">Ligar</string>
   <string name="menu_compose_new">Escrever</string>
   <string name="menu_contact">Ver info. de contacto</string>
-  <string name="menu_correct_as_ad">Definir como empresarial</string>
-  <string name="menu_correct_as_normal">Definir como normal</string>
+  <string name="menu_correct_as_ad">Mover para promoções</string>
+  <string name="menu_correct_as_normal">Mover para normais</string>
   <string name="menu_delete_messages">Eliminar mensagens</string>
   <string name="menu_edit">Editar</string>
   <string name="menu_forward">Reencaminhar</string>
@@ -356,7 +360,7 @@ Esta mensagem pode não ser solicitada"</string>
   <string name="msg_no_member_selected">Seleccione pelo menos 1 contacto</string>
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi Msg</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
   <string name="msg_type_hint_mx_omit">Mi Message</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -443,6 +447,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="non_english_subject_limit">13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
   <string name="not_prepare_for_send">Sem mensagens para enviar</string>
+  <string name="notification_ad_content">Recebeu uma mensagem de promoções de %s</string>
   <string name="notification_channel_msg_description">Notificação de mensagem</string>
   <string name="notification_channel_msg_name">Mensagem</string>
   <string name="notification_channel_other_description">Notificação de outros</string>
@@ -502,6 +507,8 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
+  <string name="pref_summary_collapse_ad_notification">Mostrar todas as mensagens de promoções numa pasta separada na área de notificações</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Mostrar todas as mensagens de promoções numa pasta separada</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
@@ -520,7 +527,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_auto_delete">Eliminar mensagens antigas</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
-  <string name="pref_title_collapse_ad_notification">Não mostrar mensagens empresariais</string>
+  <string name="pref_title_collapse_ad_notification">Agrupar notificações de mensagens de promoções</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_fwd_sender_info">Reencaminhar informações do remetente</string>
   <string name="pref_title_manage_sim_messages">Armazenamento do cartão SIM</string>
@@ -553,6 +560,8 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="priority_label">"Prioridade: "</string>
   <string name="priority_low">Baixa</string>
   <string name="priority_normal">Normal</string>
+  <string name="private_entry_available">Solte para abrir pastas privadas</string>
+  <string name="private_entry_default">Puxe para abrir pastas privadas</string>
   <string name="privacy_mode_hint">Não pode enviar mensagens em Modo Convidado</string>
   <string name="privacy_password_message1">O padrão de Protecção de Privacidade funciona para fotos, notas e pastas ocultas</string>
   <string name="privacy_password_message2">Utilize o padrão de Protecção de Privacidade. Funciona para fotos, notas e pastas ocultas</string>
@@ -574,6 +583,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="rate_limit_surpassed">OK</string>
   <string name="received_at_time">Recebida às: %1s</string>
   <string name="received_label">"Recebida: "</string>
+  <string name="recent_label">Contactos recentes</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinatário: </string>
   <string name="recipients_contain_sub_sim_number">Existe um SIM secundário nos destinatários. Envie esta mensagem utilizando o SIM secundário</string>
@@ -596,6 +606,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="refill_now">Recarregar agora</string>
   <string name="refreshing">Actualizar…</string>
   <string name="release_cancel">Solte para cancelar</string>
+  <string name="release_end">Solte para parar</string>
   <string name="remove">Remover</string>
   <string name="remove_music">Remover música</string>
   <string name="remove_picture">Remover imagem</string>
@@ -762,6 +773,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="system_permission_declare_no_say_no">"As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
 Se não concordar com as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
   <string name="system_permission_declare_privacy_declare">%1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:</string>
+  <string name="system_permission_declare_privacy_declare_new">Esta aplicação necessita de ligar à Internet e das seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições de Mensagens</string>
   <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com os nossos %1s, %2s, e %3s antes de utilizar estas funcionalidades</string>
@@ -770,6 +782,9 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
   <string name="system_permission_perm_send_mms">Enviar MMS</string>
+  <string name="tab_finance">Finanças</string>
+  <string name="tab_message">Mensagens</string>
+  <string name="tab_promotions">Promoções</string>
   <string name="text_in_popup_saved_to_clipboard">Copiado para a área de transferências</string>
   <string name="text_message">Mensagem de texto</string>
   <string name="timed_message_expired_title_2">Enviá-las agora?</string>

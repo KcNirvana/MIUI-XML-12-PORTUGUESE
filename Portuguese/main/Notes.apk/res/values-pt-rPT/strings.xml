@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_folder_description">Ver pastas</string>
+  <string name="action_mode_cancel_folder_priority">Não mostrar pastas primeiro</string>
+  <string name="action_mode_switcher_folder_priority">Mostrar pastas primeiro</string>
   <string name="action_mode_switcher_grid_description">Vista de grelha</string>
   <string name="action_mode_switcher_list_description">Vista de lista</string>
   <string name="action_settings_description">Definições</string>
@@ -36,11 +38,14 @@
   <string name="confirm_cancel">Não concordar</string>
   <string name="confirm_ok">Concordar</string>
   <string name="copy">Copiar</string>
+  <string name="cta_agree_desc">Permitir que esta aplicação se ligue à Internet e conceder as permissões opcionais para utilizar todas as funcionalidades</string>
   <string name="cta_confirm_cancel">Não permitir</string>
   <string name="cta_confirm_ok">Permitir</string>
   <string name="cta_dialog_message">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
   <string name="cta_dialog_title">Permissões necessárias</string>
   <string name="cta_reminder">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
+  <string name="cta_v2_app_purpose">Criar, ver e gerir notas</string>
+  <string name="cta_v2_app_purpose_v12">Bem-vindo a Notas! Pode utilizar esta aplicação para criar tarefas e notas</string>
   <string name="data_empty_note">Sem notas</string>
   <string name="data_empty_todo">Sem tarefas</string>
   <string name="date_calculate_today">0 dias</string>
@@ -92,12 +97,21 @@
   <string name="exceed_todo_text_limitation">A descrição da tarefa é demasiado longa</string>
   <string name="expand_button_title">Avançado</string>
   <string name="first_enter_custom_folder_hint">Pode mudar o nome ou eliminar pastas aqui</string>
+  <string name="float_todo_guide_cancel">Cancelar</string>
+  <string name="float_todo_guide_message">O atalho no ecrã inicial permite que deslize desde a lateral do ecrã para ver e criar tarefas. Criar o atalho agora?</string>
+  <string name="float_todo_guide_ok">Criar</string>
+  <string name="float_todo_guide_title">Atalho no ecrã inicial</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
   <string name="folder_operation_delete">Eliminar</string>
   <string name="folder_operation_rename">Mudar o nome</string>
   <string name="force_touch_menu_add">Adicionar nota</string>
   <string name="format_move_note_out_folder">Esta nota foi movida</string>
   <string name="format_move_note_to_folder">Movida para %1$s</string>
+  <string name="gesture_guide_cancel">Ignorar</string>
+  <string name="gesture_guide_message">Pode tocar, premir e segurar e arrastar para criar e ordenar notas. Aprender os gestos agora?</string>
+  <string name="gesture_guide_ok">Aprender</string>
+  <string name="gesture_guide_title">Gestos</string>
+  <string name="hear_note">Notas ditadas</string>
   <string name="hide_arrow_description">Ocultar</string>
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
   <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo das notas ocultas</string>
@@ -113,6 +127,7 @@
   <string name="menu_delete">Eliminar</string>
   <string name="menu_delete_forever">Eliminar</string>
   <string name="menu_folders">Pastas</string>
+  <string name="menu_group">Criar uma pasta</string>
   <string name="menu_hide">Ocultar</string>
   <string name="menu_more_description">Mais</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
@@ -130,6 +145,7 @@
   <string name="menu_todo_show_finished_todo">Mostrar tarefas concluídas</string>
   <string name="menu_unhide">Mostrar</string>
   <string name="menu_unstick">Soltar</string>
+  <string name="merge_to_folder">Criar uma pasta</string>
   <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
   <string name="new_audio_create_done_talkback_des">Criado</string>
   <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>
@@ -157,7 +173,9 @@
   <string name="permission_intro_storage">Para guardar notas e anexos</string>
   <string name="permission_microphone_desc">Fazer notas de voz</string>
   <string name="permission_network_for_cloud_desc">Para sincronizar notas com a Xiaomi Cloud, necessita de ligar à Internet. Os dados móveis podem ser utilizados para sincronizar itens. Ligar agora?</string>
+  <string name="permission_phone_state_desc">Parar de gravar notas de voz durante chamadas</string>
   <string name="permission_read_contact_desc">A associar as notas criadas durante as chamadas com contactos</string>
+  <string name="permission_storage_desc">Guardar notas como imagens</string>
   <string name="permission_xiaoai_desc">A IA Mi vai obter as suas gravações de voz e ID de dispositivo para transcrever o áudio e criar notas de voz. Saiba mais em IA Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
   <string name="permlab_accessNote">Aceder a notas</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com dois dedos para eliminar notas sem confirmação</string>
@@ -174,6 +192,8 @@
   <string name="pref_title_todo_shorcut">Ferramentas</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="privacy_note_content_empty">Sem itens</string>
+  <string name="private_entry_available">Solte para abrir pastas privadas</string>
+  <string name="private_entry_default">Puxe para abrir pastas privadas</string>
   <string name="recover_notes_hint">Ocorreu um erro. Vá a i.mi.com para restaurar as notas</string>
   <string name="redo">Refazer</string>
   <string name="refuse_to_share_as_pic_because_of_content">Esta nota é demasiado grande para partilhar</string>
@@ -256,6 +276,7 @@
   <string name="theme_title_yellow">Amarelo</string>
   <string name="theme_white_description">Branco</string>
   <string name="theme_yellow_description">Amarelo</string>
+  <string name="time_picker_dialog_title">Definir hora</string>
   <string name="toast_cancel_to_insert_image">Não foi possível adicionar imagem</string>
   <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
   <string name="toast_notes_delete_success">Eliminada com sucesso</string>

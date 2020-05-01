@@ -262,6 +262,10 @@
         <item quantity="other">%1$d vídeos a aguardar sincronização</item>
         <item quantity="one">%1$d vídeo a aguardar sincronização</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">A transferir %d ficheiros restantes</item>
+        <item quantity="one">A transferir %d ficheiro restante</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d itens no total</item>
         <item quantity="one">%1$d item no total</item>
