@@ -31,6 +31,7 @@
   <string name="disageement_abnormal_download">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço</string>
   <string name="disagree">Cancelar</string>
   <string name="disagreement_abnormal_running">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação ou restringir permissões em Segurança</string>
+  <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões nas Definições nestes casos</string>
   <string name="disagreement_donnot_use_application">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação</string>
   <string name="disagreement_donnot_use_product">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este produto. Pode escolher não utilizar este produto</string>
   <string name="disagreement_donnot_use_service">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço. Pode escolher não utilizar este serviço</string>
@@ -38,12 +39,13 @@
   <string name="disagreement_function">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta funcionalidade. Pode escolher não utilizar esta funcionalidade</string>
   <string name="disagreement_location_service">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço</string>
   <string name="disagreement_terminate_service">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher desinstalar, terminar sessão ou restringir permissões em Definições</string>
-  <string name="download_introduction">Esta aplicação gere todas as suas transferências, incluindo as de Vídeos, Actualizações, Temas e Navegador</string>
+  <string name="download_introduction">A aplicação \"Transferências\" está a utilizar Xunlei para transferir itens para o seu dispositivo. Esta ferramenta serve para GetApps, actualizações de sistema, temas e vídeos</string>
   <string name="enable_accessibility_canceled">Acessibilidade cancelada</string>
   <string name="enable_accessibility_dialog_message">Ligou o TalkBack ao premir o ecrã com 2 dedos por mais de 10 segundos. O TalkBack fornece uma voz para pessoas invisuais. Se o ligou por acidente, toque no botao Cancelar e depois duplo toque no ecrã</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="fast_application_introduction">A framework Aplicações rápidas permite criar e fornecer serviços em aplicações rápidas</string>
+  <string name="fast_pairing_introduction">O Mi Link permite que o seu dispositivo se ligue a dispositivos Bluetooth próximos. Para poder localizar dispositivos, dê permissão ao Mi Link para ligar à Internet</string>
   <string name="font_hint_large">Tamanho do texto predefinido</string>
   <string name="font_hint_normal">Aumentar tamanho do texto</string>
   <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Mi, Mi Push, Estatísticas Mi e MIUI BI</string>
@@ -164,12 +166,14 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="service_name_google_service">Declaração sobre os serviços Google</string>
   <string name="service_name_location">Serviços baseados na localização</string>
   <string name="service_name_lockscreen">Papéis de parede aleatórios</string>
+  <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_name_note">Notas</string>
   <string name="service_name_recorder">Gravador</string>
   <string name="service_name_screen_recording">Gravador de Ecrã</string>
   <string name="service_name_security">Segurança</string>
   <string name="service_name_service_framework">Serviços Mi</string>
   <string name="service_policy">Leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade&amp;lt;/a &amp;gt;</string>
+  <string name="service_policy_download">Antes de utilizar os nossos serviços, Leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade da Xunlei&amp;lt;/a &amp;gt;</string>
   <string name="service_privacy_index">Política de Privacidade</string>
   <string name="servicestate_title">Declaração sobre serviços básicos</string>
   <string name="setting_locale">A definir região…</string>

@@ -16,6 +16,8 @@
   <string name="contact_description">Toque nos atalhos do seu ecrã inicial para efectuar chamadas</string>
   <string name="contact_title">Atalhos de contactos</string>
   <string name="contrast_ratio">Contraste</string>
+  <string name="control_center_title">Tempo de ecrã hoje</string>
+  <string name="control_center_title_new">Utilizado hoje</string>
   <string name="create">Criar</string>
   <string name="create_failed">Não foi possível criar</string>
   <string name="create_shortcut">Atalho de ecrã inicial</string>
@@ -26,6 +28,13 @@
   <string name="display_title">Itens maiores</string>
   <string name="exit_easymode">Desligar Modo Leve</string>
   <string name="first_unlock_time">"Primeiro desbloqueado: "</string>
+  <string name="focus_mode_custom_time">Duração personalizada</string>
+  <string name="focus_mode_timer_add_limit">Pode adicionar até %d temporizadores personalizados</string>
+  <string name="focus_mode_timer_delete">Eliminar</string>
+  <string name="focus_mode_timer_exist">Esta sessão já existe</string>
+  <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
+  <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
+  <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
   <string name="gamma">Gama</string>
   <string name="healthy_use_phone">Gerir tempo de ecrã</string>
@@ -33,12 +42,6 @@
   <string name="hsv_space_color_hue">Matiz</string>
   <string name="hsv_space_color_saturation">Saturação</string>
   <string name="hsv_space_color_value">Valor</string>
-  <string name="focus_mode_timer_add_limit">Pode adicionar até %d temporizadores personalizados</string>
-  <string name="focus_mode_timer_delete">Eliminar</string>
-  <string name="focus_mode_timer_exist">Esta sessão já existe</string>
-  <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d a %d minutos</string>
-  <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
-  <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
   <string name="intelligent_recognition_item_summary">Utilizar um toque para chamadas de entregas e serviços de táxi. Esta funcionalidade vai funcionar quando %s está definido como toque predefinido</string>
   <string name="intelligent_recognition_item_title">Identificar serviços</string>
   <string name="lock_summary">Protejer as suas informações pessoais</string>
