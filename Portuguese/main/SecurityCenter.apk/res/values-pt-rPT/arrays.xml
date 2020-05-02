@@ -85,6 +85,7 @@
   <string-array name="miui_optimization_close_intercept">
     <item>Importante: As aplicações de sistema podem não funcionar correctamente</item>
     <item>Os textos, contas e conteúdo podem não ser mostrados correctamente</item>
+  </string-array>
   <string-array name="network_speed_update_internals">
     <item>3 segundos</item>
     <item>4 segundos</item>
