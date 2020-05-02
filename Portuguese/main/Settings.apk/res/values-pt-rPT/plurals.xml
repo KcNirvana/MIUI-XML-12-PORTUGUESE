@@ -48,6 +48,10 @@
         <item quantity="other">%d aplicações não podem ligar-se à rede</item>
         <item quantity="one">%d aplicação não pode ligar-se à rede</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dispositivos disponíveis</item>
+        <item quantity="one">%d dispositivo disponível</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispositivos</item>
         <item quantity="one">%d dispositivo</item>
@@ -248,6 +252,10 @@
         <item quantity="other">%1$d de %2$d permissões concedidas</item>
         <item quantity="one">%1$d de %2$d permissão concedida</item>
     </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="one">%d item seleccionado</item>
+     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>
         <item quantity="one">1 segundo</item>

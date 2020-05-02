@@ -308,6 +308,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_oaid_used">Permitir utilizar o ID de dispositivo</string>
+  <string name="allow_oaid_used_desc">As aplicações não vão poder aceder a nenhum ID a não ser que permita. Algumas recomendações podem não funcionar correctamente com esta funcionalidade desligada</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
   <string name="allow_sound">Permitir som</string>
   <string name="allow_sound_title">Som</string>
@@ -531,6 +532,11 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_brightness_very_low_title">Muito baixa</string>
   <string name="auto_caps">Capitalização automática</string>
   <string name="auto_caps_summary">Capitalizar primeira letra nas frases</string>
+  <string name="auto_clean_description">"Acerca desta funcionalidade
+1. Execute esta funcionalidade uma ou duas vezes se verificar que o altifalante está ligeiramente bloqueado por poeira
+2. Se o altifalante estiver muito bloqueado, execute esta funcionalidade 2 a 5 vezes enquanto agita o dispositivo com o altifalante voltado para baixo"</string>
+  <string name="auto_clean_summary">Reproduzir um áudio de 30 segundos para limpar o altifalante</string>
+  <string name="auto_clean_title">Limpar altifalante</string>
   <string name="auto_disable_screenbuttons_ask">Perguntar para desactivar</string>
   <string name="auto_disable_screenbuttons_auto">Desactivar sempre</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
@@ -605,6 +611,7 @@ Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de ap
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar</string>
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que deixe de funcionar normalmente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
+  <string name="backup_at_once">Fazer cópia</string>
   <string name="backup_configure_account_default_summary">Sem contas a armazenar as cópias de segurança actualmente</string>
   <string name="backup_configure_account_title">Conta das cópias de segurança</string>
   <string name="backup_data">Cópias de segurança</string>
@@ -620,6 +627,7 @@ As cópias são guardadas na Xiaomi Cloud e podem ser acedidas de qualquer lugar
   <string name="backup_difference_title">4. Quais as diferenças entre as cópias locais e as da Xiaomi Cloud?</string>
   <string name="backup_erase_dialog_message">Deixar de fazer cópia de segurança de palavras-passe de rede Wi-Fi, marcadores, outras definições e dados da aplicação, bem como eliminar todas as cópias nos servidores da Google?</string>
   <string name="backup_inactive_title">Serviço de cópia está inactivo</string>
+  <string name="backup_more_settings">Definições</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
   <string name="backup_restore_data_content">"As suas cópias contêm contactos, mensagens (SMS e MMS), registos de chamadas, eventos do calendário, fotos, ficheiros de áudio, vídeos, documentos, aplicações, dados das aplicações e o layout do ecrã inicial
@@ -899,6 +907,7 @@ Aplicações:
   <string name="bluetooth_device_details">Definições do dispositivo</string>
   <string name="bluetooth_device_misc_title">Dispositivos raramente utilizados</string>
   <string name="bluetooth_device_name">Nome:</string>
+  <string name="bluetooth_device_nearby_title">Dispositivos próximos</string>
   <string name="bluetooth_device_searchable">Visível</string>
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_a2dp_hw_offload">Desactivar descarga hardware Bluetooth A2DP</string>
@@ -1169,6 +1178,7 @@ Taxa de amostragem"</string>
 Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão não vai conseguir desbloquear o seu dispositivo"</string>
   <string name="bootloader_tips_ok">Percebi</string>
   <string name="bootloader_tips_warning">Não desligue da rede, termine sessão da sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
+  <string name="bottom_function_settings">Funções dos botões adicionais</string>
   <string name="breathing_light_color_menu_title">Cor do LED</string>
   <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
   <string name="breathing_light_freq_summary">Pulsar quando houver novas notificações</string>
@@ -1320,6 +1330,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="cellular_data_title">Dados de móveis</string>
   <string name="cellular_data_usage">Utilização de dados móveis</string>
   <string name="change">Alterar</string>
+  <string name="change_lock_screen_password_title">Alterar bloqueio de ecrã</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimentar outras formas de desbloqueio</string>
   <string name="change_storage">Alterar armazenamento</string>
@@ -1358,6 +1369,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
   <string name="clear_all_data">Eliminar todos os dados</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
+  <string name="clear_data_alert_info">Todas as cópias armazenadas neste dispositivo vão ser eliminadas permanentemente. Copie os itens mais importantes para o seu computador e Xiaomi Cloud antes de continuar</string>
   <string name="clear_data_dlg_text">Todos os dados desta aplicação vão ser eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
   <string name="clear_data_dlg_title">Eliminar dados da aplicação</string>
   <string name="clear_data_failed">Não foi possível limpar dados da aplicação</string>
@@ -1376,6 +1388,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="close_fod_aod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o ecrã desligado. O \"Sempre ligado\" também não vai estar disponível. A impressão digital só vai funcionar com o ecrã ligado</string>
   <string name="cloud_backup_section_title">Cópias da Xiaomi Cloud</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
+  <string name="cloud_category_text">Xiaomi Cloud</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
   <string name="cloud_restore_section_summary_new">Copiar o layout do ecrã inicial, aplicações, definições de sistema e mais</string>
   <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
@@ -1446,6 +1459,8 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="common_settings">Definições rápidas</string>
   <string name="complete_parameters">Especificações</string>
   <string name="complete_settings">Definições gerais</string>
+  <string name="computer_backup_summary">Copiar e restaurar itens utilizando um computador</string>
+  <string name="computer_backup_title">Computador</string>
   <string name="computing_size">A calcular…</string>
   <string name="condition_airplane_summary">Redes indisponíveis</string>
   <string name="condition_airplane_title">Modo Avião ligado</string>
@@ -1540,6 +1555,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="contextual_card_feedback_send">Enviar comentários</string>
   <string name="contextual_card_removed_message">Sugestão removida</string>
   <string name="contextual_card_undo_dismissal_text">Anular</string>
+  <string name="continue_reset_factory">Reposição de fábrica</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
@@ -1624,6 +1640,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="cryptkeeper_wrong_pin">PIN incorrecto</string>
   <string name="current_backup_pw_prompt">Introduza a sua palavra-passe actual para cópia de segurança completa</string>
   <string name="current_input_method">Teclado actual</string>
+  <string name="current_password">Bloqueio de ecrã actual</string>
   <string name="current_screen_lock">Bloqueio de ecrã actual</string>
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
   <string name="current_use_ese_wallet">A utilizar a Mi Wallet. Isto permite utilizar o Mi Pay e cartões de transporte NFC</string>
@@ -1632,6 +1649,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="current_use_uicc_wallet">A utilizar a carteira SIM%1$s</string>
   <string name="current_zone">(actual)</string>
   <string name="custom_carrier_title">Editar nome da operadora</string>
+  <string name="custom_color">Personalizado</string>
   <string name="custom_wifi_name_title">Editar nome do Wi-Fi</string>
   <string name="cutout_mode_always">Mostrar sempre a monocelha</string>
   <string name="cutout_mode_default">Automático</string>
@@ -1653,6 +1671,8 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="dark_color_mode">Modo Escuro</string>
   <string name="dark_color_summary_lcd">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro ajuda a aliviar a fadiga ocular</string>
   <string name="dark_color_summary_oled">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro reduz o consumo de bateria e ajuda a aliviar a fadiga ocular</string>
+  <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
+  <string name="dark_mode_contrast_hint">Ajustar cores e baixar o contraste automaticamente quando o brilho é reduzido</string>
   <string name="dark_ui_mode">Tema escuro</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporariamente ligado devido à poupança de bateria</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ligado / Temporariamente desligado devido à poupança de bateria</string>
@@ -1826,6 +1846,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="default_for_sms">SMS</string>
   <string name="default_for_work">Trabalho</string>
   <string name="default_input_method">Escolher teclado predefinido</string>
+  <string name="default_keyboard">Predefinido</string>
   <string name="default_keyboard_layout">Predefinido</string>
   <string name="default_launcher_set_jeejen_message">Press the Home button to set up Jeejen</string>
   <string name="default_launcher_set_system_message">Press the Home button to restore default launcher</string>
@@ -1857,6 +1878,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="demo_mode_summary">Mostrar ícones específicos na barra de estado para demonstração</string>
   <string name="deny">Negar</string>
   <string name="detail_app_button">Informação da aplicação</string>
+  <string name="detail_question">Detalhes</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="dev_logpersist_clear_warning_message">Já não estamos a monitorizar utilizando o armazenamento persistente do registo. Necessitamos de eliminar o armazenamento persistente do registo no seu dispositivo</string>
   <string name="dev_logpersist_clear_warning_title">Limpar o armazenamento persistente do registo?</string>
@@ -1912,6 +1934,9 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_name_input_overlength">Passou o limite de caracteres</string>
   <string name="device_name_usage_point">Outros dispositivos próximos podem ver este nome</string>
   <string name="device_oaid">ID de dispositivo</string>
+  <string name="device_oaid_desc">Em vez do seu identificador real, a MIUI vai fornecer um ID virtual (OAID) para aplicações de terceiros. Impede que as aplicações rastreiem o seu comportamento e preferências e protege a sua privacidade</string>
+  <string name="device_oaid_title">ID virtual</string>
+  <string name="device_of_someone">%2$s de %1$s</string>
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
   <string name="device_rear_camera">Câmara traseira</string>
   <string name="device_screen_resolution">Resolução do ecrã</string>
@@ -1933,6 +1958,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
 Para corrigir este problema, pode parar a aplicação %1$s e impedir que esta execute em segundo plano"</string>
   <string name="dialog_background_check_ok">Desligar</string>
   <string name="dialog_background_check_title">Desligar a execução em segundo plano e parar a aplicação?</string>
+  <string name="dialog_backup_title">Actualizar cópias antes de fazer uma reposição de fábrica?</string>
   <string name="dialog_chose_item">Seleccione um item para mostrar</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
   <string name="dialog_location_message">"O telefone não consegue gerir a bateria normalmente, pois a aplicação %1$s está constantemente a solicitar a sua localização quando não está a utilizar a aplicação.
@@ -1947,6 +1973,9 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dialog_restrict_all_wlan_title">Restringir ligação Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringir</string>
   <string name="dialog_restrict_positive">Cancelar</string>
+  <string name="dialog_speaker_auto_clean_button">Percebi</string>
+  <string name="dialog_speaker_auto_clean_content">A limpeza demora 30 segundos. Não saia da página. Aumente o volume no máximo para um melhor efeito</string>
+  <string name="dialog_speaker_auto_clean_title">Atenção</string>
   <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_login">Iniciar sessão na sua Conta Mi</string>
@@ -2309,15 +2338,69 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="extreme_threats_summary">Receber alertas de ameaças extremas à vida e à propriedade</string>
   <string name="extreme_threats_title">Ameaças extremas</string>
   <string name="face_add_max">Pode adicionar até %d rostos</string>
+  <string name="face_data_apply_for_category_title">Desbloquear utilizando o rosto</string>
+  <string name="face_data_apply_for_keyguard_title">Ecrã de bloqueio</string>
+  <string name="face_data_input_camera_fail">Não foi possível carregar a câmara</string>
+  <string name="face_data_input_camera_ok">A carregar a câmara…</string>
+  <string name="face_data_input_cancel_msg">Não foi possível adicionar dados do rosto</string>
+  <string name="face_data_input_ok">Concluído</string>
+  <string name="face_data_input_ok_title">Adicionado com sucesso</string>
+  <string name="face_data_input_structure_title">Dados de rosto 3D</string>
+  <string name="face_data_input_title">Adicionar rosto</string>
+  <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma palavra-passe de ecrã de bloqueio antes de adicionar o seu rosto</string>
+  <string name="face_data_introduction_next">Seguinte</string>
+  <string name="face_data_introduction_title">Reconhecimento de rosto</string>
+  <string name="face_data_manage_delete">Eliminar rosto?</string>
+  <string name="face_data_manage_delete_msg">Eliminar rosto</string>
+  <string name="face_data_manage_delete_sure">Não vai poder desbloquear o seu dispositivo utilizando o seu rosto depois de o eliminar</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Após o ecrã acender, deslizar para cima para desbloquear o dispositivo utilizando o rosto</string>
+  <string name="face_data_manage_unlock_msg">Desbloquear utilizando o seu rosto</string>
+  <string name="face_data_manage_unlock_slide_msg">Substituir os atalhos pelo desbloqueio com o rosto</string>
+  <string name="face_data_manage_unlock_title">Desbloquear utilizando o rosto</string>
+  <string name="face_data_siggesstion_next">Seguinte</string>
+  <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
+  <string name="face_data_suggesstion_first">Desbloquear o seu dispositivo utilizando o seu rosto é menos seguro que utilizar uma palavra-passe de ecrã de bloqueio</string>
+  <string name="face_data_suggesstion_second">Certifique-se que o seu rosto não está coberto por nenhum objecto e está claramente visível</string>
   <string name="face_intro_error_max">Já adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rosto</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Proteja o seu telefone com uma opção de bloqueio de ecrã para que ninguém o consiga utilizar se for roubado ou se o perder. Também precisa de uma opção de bloqueio de ecrã para configurar o desbloqueio facial. Toque em Cancelar e defina um PIN, um padrão ou uma palavra-passe</string>
+  <string name="face_unlock">Desbloqueio facial</string>
+  <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto consome mais bateria</string>
+  <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio por rosto</string>
+  <string name="face_unlock_category_title">Opções do ecrã de bloqueio</string>
+  <string name="face_unlock_check_failed">Não foi possível reconhecer o seu rosto</string>
+  <string name="face_unlock_close_screen">Aproxime-se do ecrã</string>
   <string name="face_unlock_disable">Desbloqueio facial desligado</string>
+  <string name="face_unlock_down">Levante a sua cabeça</string>
   <string name="face_unlock_enable">Desbloqueio facial ligado</string>
+  <string name="face_unlock_not_found">Não foi possível reconhecer o seu rosto</string>
+  <string name="face_unlock_offset_bottom">Baixe o seu telefone</string>
+  <string name="face_unlock_offset_left">Ande para a direita</string>
+  <string name="face_unlock_offset_right">Ande para a esquerda</string>
+  <string name="face_unlock_offset_top">Levante o seu telefone</string>
+  <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
+  <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
+  <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
+  <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
+  <string name="face_unlock_rise">Abaixe a sua cabeça</string>
+  <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
+  <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
+  <string name="face_unlock_sc_status">Puxe para abrir a câmara</string>
   <string name="face_unlock_set_unlock_password">Desbloqueio facial + Palavra-passe</string>
   <string name="face_unlock_set_unlock_pattern">Desbloqueio facial + Padrão</string>
   <string name="face_unlock_set_unlock_pin">Desbloqueio facial + PIN</string>
   <string name="face_unlock_skip_face">Continuar sem desbloqueio facial</string>
+  <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Permitir notificações no ecrã de bloqueio</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
+  <string name="face_unlock_success_show_message_dialog_title">Notificações no ecrã de bloqueio</string>
+  <string name="face_unlock_success_show_message_msg">Mostrar apenas a origem da notificação quando o dispositivo está bloqueado e adicionar os detalhes quando os dados do rosto forem verificados</string>
+  <string name="face_unlock_success_show_message_title">Mostrar os detalhes das notificações após verificar os dados do rosto</string>
+  <string name="face_unlock_success_show_message_toast">As notificações vão ser mostradas no ecrã de bloqueio</string>
+  <string name="face_unlock_success_stay_screen_msg">Manter-se no ecrã de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o ecrã inicial</string>
+  <string name="face_unlock_success_stay_screen_title">Manter-se no ecrã de bloqueio após desbloquear</string>
   <string name="face_unlock_title">Pode desbloquear o telefone através do seu rosto. Por motivos de segurança, esta opção requer um bloqueio de ecrã de segurança</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
@@ -2330,6 +2413,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fallback_home_title">Aguarde…</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="feedback">Comentários</string>
+  <string name="feedback_btn_text">Submeter comentário</string>
   <string name="feedback_settings">Comentários</string>
   <string name="file_privacy_password_role_instruction">Os seus ficheiros privados vão ser armazenados aqui</string>
   <string name="filter">Filtro</string>
@@ -2426,6 +2510,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi quando isto estiver desligado</string>
   <string name="firmware_version">Versão Android</string>
+  <string name="flash_drive_backup_disable">Ligar drive USB primeiro</string>
+  <string name="flash_drive_backup_enable">Utilizar uma drive USB para copiar ou restaurar itens</string>
   <string name="flash_drive_backup_restore">Fazer cópia ou restaurar utilizando USB</string>
   <string name="flash_drive_backup_restore_summary">Ligue um armazenamento USB</string>
   <string name="floating_window_switch_label">Activar janelas flutuantes</string>
@@ -2507,6 +2593,19 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="free_wifi_user_agreement_title">Alerta de privacidade</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Toque para ligar a %1$s</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Premir, segurar e puxar para baixo a barra duma janela flutuante</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_title">Ver janelas flutuantes em ecrã inteiro</string>
+  <string name="freeform_guide_move_summary">Premir e segurar a barra de uma janela flutuante para a arrastar</string>
+  <string name="freeform_guide_move_title">Mover janelas flutuantes</string>
+  <string name="freeform_guide_move_to_small_freeform_window_summary">Arrastar a janela flutuante para o canto do ecrã</string>
+  <string name="freeform_guide_move_to_small_freeform_window_title">Minimizar janelas flutuantes</string>
+  <string name="freeform_guide_notification_drop_down_summary">Premir, segurar e puxar para baixo a barra duma notificação</string>
+  <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
+  <string name="freeform_guide_settings">Janelas flutuantes</string>
+  <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
+  <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
+  <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
+·Toque \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
   <string name="frequently_fragment_delete">Remover</string>
   <string name="frequently_fragment_tempty">Itens utilizados com frequência vão ser mostrados aqui</string>
   <string name="fsg_mistake_touch_summary">Em alguns casos, como jogos e vídeos de ecrã inteiro, os gestos têm que ser duplos para fazerem efeito</string>
@@ -2572,7 +2671,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_service_title">Serviços Google</string>
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
-  <string name="gps_description">Vários sistema de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) suportados</string>
+  <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) suportados</string>
+  <string name="gps_description_global">Vários sistemas de navegação por satélite (%s) suportados</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Sensor de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
@@ -2644,6 +2744,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
+  <string name="help_and_feedback_title">Ajuda e comentários</string>
   <string name="help_label">Ajuda</string>
   <string name="hidden_ssid_label">SSID oculto:</string>
   <string name="hide_extra_apps">Mostrar utilização da aplicação</string>
@@ -2965,6 +3066,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="layout_exhuge_font_tips_reg">Acessibilidade e tamanho do ecrã</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">Enorme</string>
+  <string name="layout_size_extral_small">XXS</string>
   <string name="layout_size_huge">XL</string>
   <string name="layout_size_huge_text">Muito grande</string>
   <string name="layout_size_large">L</string>
@@ -3429,6 +3531,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="menu_stats_unplugged">%1$s desde que foi desligado</string>
   <string name="menu_use_uss">Utilizar Uss</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados</string>
+  <string name="micloud_service_summary">Sincronizar a lista de aplicações, copiar definições de sistema e layout do ecrã inicial</string>
+  <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast está indisponível devido a um PC estar a transmitir para este dispositivo</string>
   <string name="miracast_cancelconnect_dialog">Cancelar ligação</string>
   <string name="miracast_connection_failed_generic">Não é possível ligar ao ecrã</string>
@@ -3460,12 +3564,16 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miracast_wifi_off">Para utilizar Miracast, activar Wi-Fi</string>
   <string name="misc_files">Ficheiros diversos</string>
   <string name="misc_files_selected_count">seleccionados %1$d de %2$d</string>
+  <string name="miui_accessibility_asr_summary">Transcrever áudio e guardar texto</string>
+  <string name="miui_accessibility_asr_title">Mi Ditto</string>
   <string name="miui_allow_alarm">Alarmes</string>
   <string name="miui_allow_light">LED de notificações</string>
   <string name="miui_allow_music">Multimédia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
+  <string name="miui_face_enroll_success">"Agora pode desbloquear este dispositivo utilizando o seu rosto.
+Continuar para aceder a definições adicionais"</string>
   <string name="miui_lab_ai_cloud_closed">O pré-carregamento IA ainda não está disponível</string>
   <string name="miui_lab_ai_preload_desc">O pré-carregamento IA aumenta a velocidade de execução da aplicação</string>
   <string name="miui_lab_ai_preload_title">Pré-carregamento IA</string>
@@ -3652,9 +3760,18 @@ Seleccione o seu sistema operativo:"</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
   <string name="mtp_solution_button_cancel">Percebi</string>
   <string name="mtp_solution_button_ok">Solução de problemas</string>
+  <string name="multi_face_delete_message">Atenção</string>
+  <string name="multi_face_delete_show_message">Eliminar dados de rosto agora?</string>
+  <string name="multi_face_input">Adicionar dados de rosto</string>
+  <string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados de rosto. Aguarde um momento e tente novamente</string>
+  <string name="multi_face_input_success_name_title">Nome</string>
+  <string name="multi_face_list">Dados de rosto</string>
+  <string name="multi_face_name_prefix">"Rosto "</string>
+  <string name="multi_face_number_reach_limit">Não é possível adicionar dados para mais do que 2 rostos</string>
   <string name="multi_network_acceleration_app_settings">Gestão de aceleração de redes</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
+  <string name="multifunction_keyboard">Multifunctional</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="mute_music_stream">Silenciar a transmissão de música</string>
   <string name="mvno_match_data">Valor MVNO</string>
@@ -3780,6 +3897,24 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_payment_use_default">Utilizar predefinição</string>
   <string name="nfc_quick_toggle_summary">Permitir a troca de dados quando o telefone toca noutro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
+  <string name="nfc_repair_action_btn">Restaurar</string>
+  <string name="nfc_repair_action_desc">Toque em \"<b>Restaurar</b>\" para corrigir os problemas que impedem a utilização do NFC. Não saia da página actual enquanto o NFC estiver a ser restaurado. Reinicie o dispositivo para aplicar as alterações</string>
+  <string name="nfc_repair_btn_no">Não</string>
+  <string name="nfc_repair_btn_reboot">Reiniciar</string>
+  <string name="nfc_repair_btn_reboot_later">Mais tarde</string>
+  <string name="nfc_repair_btn_retry">Tentar novamente</string>
+  <string name="nfc_repair_btn_yes">Sim</string>
+  <string name="nfc_repair_confirm_desc" formatted="false">"Já teve algum destes problemas?
+%d. Não conseguiu adicionar ou carregar um cartão NFC
+%d. O seu cartão NFC não funcionou
+%d. Outras funcionalidades NFC não carregam"</string>
+  <string name="nfc_repair_fail_desc">Ocorreu um erro que impediiu a restauração do NFC. Tente novamente</string>
+  <string name="nfc_repair_fail_title">Não foi possível restaurar</string>
+  <string name="nfc_repair_ongoing">A restaurar… Não saia desta página</string>
+  <string name="nfc_repair_pass_desc">Reiniciar o dispositivo para aplicar as alterações</string>
+  <string name="nfc_repair_pass_title">Restaurado com sucesso</string>
+  <string name="nfc_repair_summary">Corrigir os problemas que impedem a utilização do NFC</string>
+  <string name="nfc_repair_title">Restaurar NFC</string>
   <string name="nfc_se_route_title">Elemento de segurança</string>
   <string name="nfc_se_wallet_title">Carteira predefinida</string>
   <string name="nfc_secure_settings_title">NFC seguro</string>
@@ -3995,6 +4130,8 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="number_of_device_admins_none">Sem aplicações activas</string>
   <string name="nsd_quick_toggle_summary">Permitir que aplicações noutros dispositivos descubram aplicações neste dispositivo</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
+  <string name="oaid_string">"ID virtual actual:
+%1s"</string>
   <string name="oem_radio_info_label">Info./definições específicas de OEM</string>
   <string name="oem_unlock_enable">Desbloqueio de OEM</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">O bootloader já está desbloqueado</string>
@@ -4029,6 +4166,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Este perfil de trabalho é gerido por:</string>
+  <string name="operation_guide_title">Tutorial</string>
   <string name="operator_warning">A contagem de dados da operadora pode ser diferente da contagem do dispositivo</string>
   <string name="optimization_cancel">Cancelar</string>
   <string name="osu_completing_sign_up">A concluir o registo…</string>
@@ -4037,6 +4175,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="osu_sign_up_complete">Registo concluído. A ligar…</string>
   <string name="osu_sign_up_failed">Não foi possível concluir o registo. Toque para tentar novamente</string>
   <string name="ota_disable_automatic_update">Actualizações de sistema automáticas</string>
+  <string name="other_password">Outras palavras-passe</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Desligado</string>
   <string name="otg_opened">Ligado</string>
@@ -4138,6 +4277,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
+  <string name="password_and_security">Segurança</string>
   <string name="password_entrance_title">Bloqueio de ecrã</string>
   <string name="password_guard">Bloqueio de ecrã</string>
   <string name="password_security_settings_title">Segurança</string>
@@ -4170,6 +4310,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="personal_data_section_title">Dados pessoais</string>
   <string name="personal_device_admin_title">Pessoal</string>
   <string name="personal_section_title">Personalização</string>
+  <string name="phone_backup_summary">Copiar e restaurar itens neste dispositivo</string>
+  <string name="phone_backup_title">Dispositivo móvel</string>
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
   <string name="phone_index_label">Seleccionar lista telefónica</string>
   <string name="phone_info_label">Informações do telefone</string>
@@ -4462,6 +4604,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_use_finger_success">Ligado</string>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>
+  <string name="privacy_protection">Protecção de Privacidade</string>
   <string name="privacy_protection_title">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="privacy_settings">Cópias e restauro</string>
@@ -4630,6 +4773,7 @@ Interface UT: %5$s"</string>
   <string name="recommend_item_title">Recomendações</string>
   <string name="recommend_tip">Necessita de outras definições?</string>
   <string name="recompute_size">A calcular o tamanho…</string>
+  <string name="regional_screen_shot">Captura de ecrã parcial</string>
   <string name="register_automatically">Registo automático…</string>
   <string name="register_on_network">A registar em %s…</string>
   <string name="registration_done">Registado na rede</string>
@@ -4703,6 +4847,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="restore_dialog_title">Atenção</string>
   <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo</string>
   <string name="restore_oaid_positive">Repor</string>
+  <string name="restore_oaid_positive_step">Repor(%1$d)</string>
   <string name="restore_oaid_title">Repor o ID do dispositivo</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restrict_bg_app">Restringir</string>
@@ -4728,6 +4873,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="retail_demo_reset_next">Seguinte</string>
   <string name="retail_demo_reset_title">Necessário palavra-passe</string>
   <string name="retry">Tentar novamente</string>
+  <string name="rgb_face_data_manage_delete_msg">Eliminar dados de rosto 2D</string>
   <string name="rgb_manage_facerecoginition_text">Gerir dados de rosto 2D</string>
   <string name="right_function_key">Atalho da direita</string>
   <string name="ring_to_you">Toque de chamada personalizado</string>
@@ -5552,12 +5698,36 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sort_max_use">Ordenar por utilização máxima</string>
   <string name="sort_order_alpha">Ordenar por nome</string>
   <string name="sort_order_size">Ordenar por tamanho</string>
+  <string name="sos_phone_call_privacy_dialog_message">"Para ligar para os seus contactos de emergência e reproduzir uma gravação SOS, esta aplicação necessita das seguintes permissões:
+• Efectuar chamadas
+Para efectuar chamadas para os seus contactos de emergência
+• Monitorizar o estado do dispositivo
+Para reproduzir uma gravação SOS quando o seu contacto de emergência atender
+Se não concordar em conceder estas permissões, não vai poder utilizar as funcionalidades desta aplicação. Pode sempre escolher desligar esta funcionalidade"</string>
+  <string name="sos_phone_call_privacy_dialog_message_confirm">Permitir</string>
+  <string name="sos_phone_log_privacy_dialog_message">"Esta aplicação necessita de aceder ao seu registo de chamadas para poder partilhá-lo com os seus contactos de emergência.
+Se não concordar em conceder estas permissões, não vai poder utilizar as funcionalidades desta aplicação. Pode sempre escolher desligar esta funcionalidade"</string>
+  <string name="sos_privacy_dialog_message_new_version">"O SOS Emergência permite partilhar a sua localização em tempo real e enviar mensagens de texto para os seus contatos de emergência.
+As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
+Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
+• Aceder ao armazenamento
+Para guardar contactos de emergência
+• Aceder aos contactos
+Para marcar contactos como contactos de emergência
+• Enviar SMS
+Para enviar mensagens de texto para os contactos de emergência
+• Aceder à localização
+Para partilhar a localização com os contactos de emergência
+Se não concordar em conceder estas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode sempre escolher desligar esta funcionalidade.
+Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string>
   <string name="sos_privacy_and_content_policy">Termos de Utilização e Política de Privacidade</string>
   <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
   <string name="sos_privacy_dialog_button_ok">Concordar</string>
   <string name="sos_privacy_dialog_message">"Leia e concorde com os nossos %s antes de utilizar esta funcionalidade.
 Esta funcionalidade necessita de permissões para aceder à sua localização, utilizar redes móveis e ler os seus contactos. Concorda?"</string>
   <string name="sos_privacy_dialog_title">Termos e condições</string>
+  <string name="sound_assist_summary">Personalizar as suas definições de som</string>
+  <string name="sound_assist_title">Assistente de som</string>
   <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_dashboard_summary">Volume, vibração, Não incomodar</string>
@@ -5747,6 +5917,7 @@ Este ^1 está formatado para funcionar apenas neste dispositivo. Não funciona e
   <string name="storage_unmount_success">%1$s foi ejectado com segurança</string>
   <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_usb_settings">Armazenamento e USB</string>
+  <string name="storage_use_title">Ocupado</string>
   <string name="storage_used">Armazenamento utilizado</string>
   <string name="storage_volume_summary">%1$s utilizados de %2$s</string>
   <string name="storage_volume_total">Utilizado de %1$s</string>
@@ -5811,6 +5982,47 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Não é possível utilizar devido a bateria fraca</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">A bateria tem de ter pelo menos 5% para iniciar a gravação</string>
+  <string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de rosto 3D. Tente novamente</string>
+  <string name="structure_face_data_input_down">Abaixe a sua cabeça</string>
+  <string name="structure_face_data_input_error_away_screen">Mova o telefone para um pouco mais longe do seu rosto</string>
+  <string name="structure_face_data_input_error_expose_features">Não é possível ver algumas partes do seu rosto</string>
+  <string name="structure_face_data_input_error_keep_inface">Mantenha o seu rosto dentro do círculo</string>
+  <string name="structure_face_data_input_error_overly_light">A luz de fundo é demasiado forte</string>
+  <string name="structure_face_data_input_left">Vire a cabeça para a esquerda</string>
+  <string name="structure_face_data_input_right">Vire a cabeça para a direita</string>
+  <string name="structure_face_data_input_timeout_msg">Não foi possível gravar. Tente novamente</string>
+  <string name="structure_face_data_input_timeout_title">Tentar novamente</string>
+  <string name="structure_face_data_input_up">Olhe para cima</string>
+  <string name="structure_face_data_introduction_back">Voltar</string>
+  <string name="structure_face_data_introduction_msg">O rosto 3D permite desbloquear o seu dispositivo e verificar a sua identidade. Tem de definir uma palavra-passe antes de utilizar esta funcionalidade</string>
+  <string name="structure_face_data_introduction_title">Adicionar dados de rosto 3D</string>
+  <string name="structure_face_data_ir_input_face">Mova a cabeça levemente</string>
+  <string name="structure_face_data_manage_delete_msg">Eliminar dados de rosto 3D</string>
+  <string name="structure_face_data_suggestion_text">Certifique-se que todas as partes do seu rosto estão visíveis. Não utilize chapéus, óculos de sol ou outros acessórios que possam cobrir o seu rosto</string>
+  <string name="structure_face_data_suggestion_warning_text">Nota: Utilizar o rosto 3D é menos seguro que utilizar uma palavra-passe. Pessoas ou objectos parecidos podem desbloquear o seu dispositivo</string>
+  <string name="structure_face_delete_data_dialog_msg">Não foi possível iniciar Câmara. Tente novamente</string>
+  <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
+  <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmara</string>
+  <string name="structure_face_hardware_abnormal_btn">Percebi</string>
+  <string name="structure_face_hardware_abnormal_msg">Ocorreu um erro de hardware. Reinicie o seu dispositivo</string>
+  <string name="structure_face_hardware_abnormal_title">Erro de hardware</string>
+  <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
+  <string name="structure_face_modules_abnormal_msg">Não é possível gravar dados do rosto devido a um erro do módulo óptico. Reinicie o seu dispositivo e tente novamente</string>
+  <string name="structure_face_modules_abnormal_title">Erro do módulo óptico</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">O reconhecimento 3D vai ser desligado. Os dados do rosto 3D vão ser eliminados. Tem de adicionar os seus dados de rosto 2D. Ligar reconhecimento 2D?</string>
+  <string name="structure_face_unlock_model2d_dialog_title">Ligar reconhecimento 2D</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">O reconhecimento 2D vai ser desligado. Os dados do rosto 2D vão ser eliminados. Tem de adicionar os seus dados de rosto 3D. Ligar reconhecimento 3D?</string>
+  <string name="structure_face_unlock_model3d_dialog_title">Ligar reconhecimento 3D</string>
+  <string name="structure_face_unlock_model_dialog_enable">Ligar</string>
+  <string name="structure_face_unlock_model_dialog_notenable">Não, obrigado</string>
+  <string name="structure_face_unlock_model_other">Outros</string>
+  <string name="structure_face_unlock_model_other_msg_2d">Reconhecimento 2D</string>
+  <string name="structure_face_unlock_model_other_msg_3d">Reconhecimento 3D</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">Utilizar o rosto 2D é menos seguro que utilizar uma palavra-passe. Pessoas ou objectos parecidos podem desbloquear o seu dispositivo</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">Utilizar o rosto 2D é relativamente seguro. É altamente improvável que o seu dispositivo possa ser desbloqueado com uma foto sua. No entanto, pessoas ou objectos parecidos podem desbloquear o seu dispositivo</string>
+  <string name="structure_face_unlock_model_other_title">Reconhecimento do rosto</string>
+  <string name="structure_face_unlock_not_same_person">Tem de concluir todos os passos sozinho. Não troque com ninguém</string>
+  <string name="structure_face_unlock_tof_covered">Não foi possível adicionar dados do rosto. Afaste-se do ecrã</string>
   <string name="structure_manage_facerecoginition_text">Gerir dados de rosto 3D</string>
   <string name="style_and_wallpaper_settings_title">Estilos e papéis de parede</string>
   <string name="style_suggestion_summary">Experimente estilos, papéis de parede, relógios e mais</string>
@@ -5941,6 +6153,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="theme_settings_title">Temas</string>
   <string name="thememanager_not_found">Não foi possível abrir Temas. Certifique-se que a aplicação está instalada</string>
   <string name="three_gesture_down">Gesto de 3 dedos</string>
+  <string name="three_gesture_long_press">Premir e segurar com %d dedos</string>
   <string name="time_format_category_title">Formato da hora</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_spent_in_app_pref_title">Tempo de ecrã</string>
@@ -6117,6 +6330,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_disable_frp_warning_title">Remover a protecção do dispositivo?</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
   <string name="unlock_disable_lock_title">Desligar bloqueio de ecrã</string>
+  <string name="unlock_failed">Erro interno</string>
   <string name="unlock_footer_high_complexity_requested">%1$s recomenda um PIN ou uma palavra-passe fortes e pode não funcionar conforme esperado sem um destes</string>
   <string name="unlock_footer_low_complexity_requested">%1$s recomenda um padrão, um PIN ou uma palavra-passe novos e pode não funcionar conforme esperado sem um destes</string>
   <string name="unlock_footer_medium_complexity_requested">%1$s recomenda um PIN ou uma palavra-passe novos e pode não funcionar conforme esperado sem um destes</string>
@@ -6322,6 +6536,7 @@ ou auscultadores com ficha de 3,5 mm"</string>
   <string name="usb_use_photo_transfers_desc">Transferir fotos ou ficheiros se não suportar MTP (PTP)</string>
   <string name="usb_use_power_only">Fornecer energia</string>
   <string name="usb_use_power_only_desc">Carregar o dispositivo ligado. Apenas funciona com dispositivos que suportem carregamento USB</string>
+  <string name="use_control_panel">Utilizar centro de controlo</string>
   <string name="use_default_tts_settings_summary">As predefinições abaixo substituem as definições da aplicação</string>
   <string name="use_default_tts_settings_title">Utilizar sempre as minhas definições</string>
   <string name="use_location_summary">Permitir que o Google utilize a sua localização para melhorar resultados de pesquisa e outros serviços</string>
@@ -7016,7 +7231,9 @@ Permitir esta opção para todas as aplicações que pretenderem verificar?"</st
   <string name="wifi_scan_throttling">Controlo da procura de Wi-Fi</string>
   <string name="wifi_scan_throttling_summary">Reduzir o descarregamento da bateria e melhorar o desempenho da rede</string>
   <string name="wifi_security">Segurança</string>
-  <string name="wifi_security_none">Nenhum</string>
+  <string name="wifi_security_none">Nenhuma</string>
+  <string name="wifi_security_none_owe">Nenhuma/Abertura melhorada</string>
+  <string name="wifi_security_short_none_owe">Nenhuma/OWE</string>
   <string name="wifi_select_network">Seleccionar Wi-Fi</string>
   <string name="wifi_setting_category">Redes disponíveis</string>
   <string name="wifi_setting_frequency_band_error">Houve um problema ao definir a banda de frequência</string>

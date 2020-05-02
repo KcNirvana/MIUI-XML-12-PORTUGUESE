@@ -5,37 +5,57 @@
     <item quantity="one">%d jogo adicionado</item>
   </plurals>
   <plurals name="app_behavior_desc_allow">
-        <item quantity="other">Foram permitidas %3$d vezes entre %1$s e %2$s</item>
-        <item quantity="one">Foi permitida %3$d vez entre %1$s e %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">Foram restringidas %3$d vezes entre %1$s e %2$s</item>
-        <item quantity="one">Foi restringida %3$d vez entre %1$s e %2$s</item>
-    </plurals>
-     <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">Devolvidas %3$d mensagens em branco entre %1$s e %2$s</item>
-        <item quantity="one">Devolvida %3$d mensagem em branco entre %1$s e %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">%1$1s e mais %2$d aplicações estão a gravar áudio</item>
-        <item quantity="one">%1$1s está a gravar áudio</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">%1$1s e mais %2$d aplicações estão a utilizar a câmara</item>
-        <item quantity="one">%1$1s está a utilizar a câmara</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">%1$1s e mais %2$d aplicações estão a aceder à sua localização</item>
-        <item quantity="one">%1$1s está a aceder à sua localização</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">Não vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
-        <item quantity="one">Não vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">Vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
-        <item quantity="one">Vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
-    </plurals>
+    <item quantity="other">Permitidas %3$d vezes entre %1$s e %2$s</item>
+    <item quantity="one">Permitida %3$d vez entre %1$s e %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_allow_minute">
+    <item quantity="other">Permitidas %2$d vezes às %1$s</item>
+    <item quantity="one">Permitida %2$d vez às %1$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny">
+    <item quantity="other">Restringidas %3$d vezes entre %1$s e %2$s</item>
+    <item quantity="one">Restringida %3$d vez entre %1$s e %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny_minute">
+    <item quantity="other">Restringidas %2$d vezes às %1$s</item>
+    <item quantity="one">Restringida %2$d vez às %1$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_virtual">
+    <item quantity="other">Devolvidas %3$d mensagens em branco entre %1$s e %2$s</item>
+    <item quantity="one">Devolvida %3$d mensagem em branco entre %1$s e %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_virtual_minute">
+    <item quantity="other">Devolvidas %2$d mensagens em branco às %1$s</item>
+    <item quantity="one">Devolvida %2$d mensagem em branco às %1$s</item>
+  </plurals>
+  <plurals name="app_behavior_notification_audio_more">
+    <item quantity="other">%1$1s e mais %2$d aplicações estão a gravar áudio</item>
+    <item quantity="one">%1$1s está a gravar áudio</item>
+  </plurals>
+  <plurals name="app_behavior_notification_camera_more">
+    <item quantity="other">%1$1s e mais %2$d aplicações estão a utilizar a câmara</item>
+    <item quantity="one">%1$1s está a utilizar a câmara</item>
+  </plurals>
+  <plurals name="app_behavior_notification_location_more">
+    <item quantity="other">%1$1s e mais %2$d aplicações estão a aceder à sua localização</item>
+    <item quantity="one">%1$1s está a aceder à sua localização</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_off">
+    <item quantity="other">Não vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
+    <item quantity="one">Não vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_on">
+    <item quantity="other">Vai ser notificado acerca de acções sensíveis de %1$d aplicações</item>
+    <item quantity="one">Vai ser notificado acerca de acções sensíveis de %1$d aplicação</item>
+  </plurals>
+  <plurals name="app_behavior_wakepath_multiple">
+    <item quantity="other">%1$1s iniciou %2$d aplicações</item>
+    <item quantity="one">%1$1s iniciou %2$d aplicação</item>
+  </plurals>
+  <plurals name="app_behavior_wakepath_multiple_single">
+    <item quantity="other">Esta aplicação iniciou %1$d outras aplicações</item>
+    <item quantity="one">Esta aplicação iniciou %1$d outra aplicação</item>
+  </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">Concedeu %d permissões</item>
     <item quantity="one">Concedeu %d permissão</item>
@@ -300,6 +320,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d aplicações estão a descarregar a bateria</item>
     <item quantity="one">%d aplicação está a descarregar a bateria</item>
   </plurals>
+  <plurals name="pc_battery_history_hour">
+    <item quantity="other">" horas"</item>
+    <item quantity="one">" hora"</item>
+  </plurals>
+  <plurals name="pc_battery_history_minute">
+    <item quantity="other">" minutos"</item>
+    <item quantity="one">" minuto"</item>
+  </plurals>
   <plurals name="pc_main_power_center_battery_day">
     <item quantity="other">%s dias</item>
     <item quantity="one">%s dia</item>
@@ -392,6 +420,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%s minutos restantes</item>
     <item quantity="one">%s minuto restante</item>
   </plurals>
+  <plurals name="power_off_warning_button_ok_time">
+    <item quantity="other">Percebi (%ds)</item>
+    <item quantity="one">Percebi (%ds)</item>
+  </plurals>
+  <plurals name="power_off_warning_notification_message">
+    <item quantity="other">O seu dispositivo vai encerrar em %d segundos. Ligue o carregador</item>
+    <item quantity="one">O seu dispositivo vai encerrar em %d segundo. Ligue o carregador</item>
+  </plurals>
   <plurals name="privacy_apps_disable_header_title">
     <item quantity="other">%d ícones das aplicações ocultos</item>
     <item quantity="one">%d ícone da aplicação oculto</item>
@@ -399,6 +435,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
   <plurals name="privacy_apps_enable_header_title">
     <item quantity="other">%d ícones das aplicações não ocultos</item>
     <item quantity="one">%d ícone da aplicação não oculto</item>
+  </plurals>
+  <plurals name="privacy_permission_summary">
+    <item quantity="other">%s aplicações com acesso permanente</item>
+    <item quantity="one">%s aplicação com acesso permanente</item>
+  </plurals>
+  <plurals name="privacy_pop_times">
+    <item quantity="other">%s vezes</item>
+    <item quantity="one">%s vez</item>
   </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d problemas de bateria</item>

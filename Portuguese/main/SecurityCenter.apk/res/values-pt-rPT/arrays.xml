@@ -25,6 +25,12 @@
     <item>PIN</item>
     <item>Palavra-passe</item>
   </string-array>
+  <string-array name="daily_brand">
+    <item>Personalizado</item>
+    <item>Cartão Mi Fan</item>
+    <item>Cartão Xiao Tiansheng</item>
+    <item>Cartão Tencent King</item>
+  </string-array>
   <string-array name="date_of_app_all">
     <item>"Ontem (Dados móveis) "</item>
     <item>"Hoje (Dados móveis) "</item>
@@ -57,9 +63,15 @@
     <item>"Hoje: "</item>
     <item>"Este mês: "</item>
   </string-array>
+  <string-array name="debug_open_intercept">
+    <item>Vai ser possível aceder e editar ficheiros no seu dispositivo utilizando um computador</item>
+    <item>Vai ser possível instalar aplicações no seu dispositivo sem a sua permissão</item>
+    <item>Vai ser possível monitorizar e gravar o conteúdo do seu ecrã remotamente</item>
+    <item>Vai ser possível aceder a informações detalhadas sobre o seu dispositivo</item>
+  </string-array>
   <string-array name="ew_emergency_organ_donation_arrays">
-    <item>Yes</item>
-    <item>No</item>
+    <item>Sim</item>
+    <item>Não</item>
   </string-array>
   <string-array name="lock_mode">
     <item>Quando o dispositivo está bloqueado</item>
@@ -70,6 +82,9 @@
     <item>"Utilização dados móveis "</item>
     <item>"Utilização Wi-Fi "</item>
   </string-array>
+  <string-array name="miui_optimization_close_intercept">
+    <item>Importante: As aplicações de sistema podem não funcionar correctamente</item>
+    <item>Os textos, contas e conteúdo podem não ser mostrados correctamente</item>
   <string-array name="network_speed_update_internals">
     <item>3 segundos</item>
     <item>4 segundos</item>
