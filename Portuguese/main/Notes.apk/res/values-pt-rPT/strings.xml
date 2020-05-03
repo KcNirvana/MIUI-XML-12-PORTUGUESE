@@ -353,6 +353,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_user_guide_tip3">Para editar uma tarefa de texto, toque nela</string>
   <string name="todo_user_guide_tip4">Não se esqueça de criar um atalho no ecrã inicial para as Tarefas</string>
   <string name="todo_user_guide_tip5">Fique por dentro do jogo e nunca perca nada de importante!</string>
+  <string name="todo_user_guide_tip6">Toque \"Enter\" para criar uma criar uma lista de subtarefas</string>
   <string name="todoalert_done">OK</string>
   <string name="toolbar_check_description">Adicionar caixa de verificação</string>
   <string name="toolbar_delete_description">Eliminar esta nota</string>

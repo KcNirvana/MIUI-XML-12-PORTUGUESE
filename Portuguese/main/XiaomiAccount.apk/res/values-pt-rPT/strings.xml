@@ -408,7 +408,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_use_generated_pwd_message">Certifique-se que memoriza a sua palavra-passe. Pode utilizá-la para iniciar sessão noutros serviços Mi</string>
   <string name="passport_use_generated_pwd_title">Memorizar a sua palavra-passe</string>
   <string name="passport_user_agreement">Termos de Utilização</string>
-  <string name="passport_user_agreement_link">Eu li e concordei com &amp;lt;a href=%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; da Xiaomi</string>
+  <string name="passport_user_agreement_link">Eu li e concordei com os Termos de Utilização e Política de Privacidade da Xiaomi</string>
   <string name="passport_user_agreement_required">Termos de Utilização (necessário)</string>
   <string name="passport_user_id_notice">O seu ID Conta Mi é %s</string>
   <string name="passport_user_reg_region">País/Região</string>

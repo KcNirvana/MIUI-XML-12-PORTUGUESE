@@ -2605,6 +2605,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
   <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
+
 ·Toque \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
   <string name="frequently_fragment_delete">Remover</string>
   <string name="frequently_fragment_tempty">Itens utilizados com frequência vão ser mostrados aqui</string>

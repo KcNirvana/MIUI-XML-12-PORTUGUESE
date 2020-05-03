@@ -6,6 +6,7 @@
   <string name="add_private">Ocultar ficheiros agora</string>
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="aggree_desc">Permitir que esta aplicação se ligue à Internet e conceda as seguintes permissões obrigatórias:</string>
+  <string name="app_all_purpose">"Bem-vindo a Ficheiros! Pode utilizar esta aplicação para gerir os ficheiros armazenados no seu dispositivo. "</string>
   <string name="app_function">Gerir ficheiros no dispositivo</string>
   <string name="app_name">Ficheiros</string>
   <string name="app_name_bluetooth">Bluetooth</string>
