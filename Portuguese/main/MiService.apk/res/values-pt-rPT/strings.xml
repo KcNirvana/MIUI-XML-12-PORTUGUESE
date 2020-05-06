@@ -112,6 +112,14 @@
   <string name="miui_main_update_success_sub_title">Conheça a nova MIUI</string>
   <string name="miui_main_update_success_title">Melhorar a productividade</string>
   <string name="miui_main_update_success_title_12">Só sua</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="permission_agree">Concordar</string>
   <string name="permission_china_version_msg">Antes de utilizar \"Serviços e comentários\", tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Esta aplicação necessita também de ligar à Internet para funcionar normalmente</string>
   <string name="permission_complete">Concluído</string>

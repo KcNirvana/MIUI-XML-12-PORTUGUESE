@@ -146,6 +146,14 @@
   <string name="menu_unhide">Mostrar</string>
   <string name="menu_unstick">Soltar</string>
   <string name="merge_to_folder">Criar uma pasta</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="new_audio_create_cancel_talkback_des">Cancelado</string>
   <string name="new_audio_create_done_talkback_des">Criado</string>
   <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>

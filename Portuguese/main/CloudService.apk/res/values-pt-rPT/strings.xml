@@ -334,6 +334,14 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Xiaomi Cloud do telefone após terminar sessão?</string>
   <string name="micloud_wipe_data_remove">Remover</string>
   <string name="micloud_wipe_data_retain">Manter</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"O Mi Message permite enviar mensagens para outros dispositivos MIUI gratuitamente quando ligados ao Wi-Fi.
 

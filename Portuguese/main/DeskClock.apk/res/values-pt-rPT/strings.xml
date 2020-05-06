@@ -220,6 +220,14 @@
   <string name="more_alert_setting">Definições de alarme adicionais</string>
   <string name="more_setting">Mais definições</string>
   <string name="more_settings">Definições</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="net_permission_cancel">Não concordar</string>
   <string name="net_permission_ok">Concordar</string>
   <string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio necessita de ligar à Internet. Antes de utilizar o Relógio, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Concordar?</string>

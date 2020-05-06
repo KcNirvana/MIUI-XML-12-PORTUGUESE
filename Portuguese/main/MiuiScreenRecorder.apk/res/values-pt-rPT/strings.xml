@@ -50,6 +50,14 @@
   <string name="low_momery_warning">Sem espaço suficiente. A gravação foi parada e o vídeo guardado</string>
   <string name="memory_not_allowed">Sem espaço suficiente. Liberte algum espaço e tente novamente</string>
   <string name="mic_sound">Microfone</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="no_recorder_info">Sem vídeos</string>
   <string name="no_recorder_info2">Toque no botão para iniciar a gravação​</string>
   <string name="no_sound">Sem som</string>

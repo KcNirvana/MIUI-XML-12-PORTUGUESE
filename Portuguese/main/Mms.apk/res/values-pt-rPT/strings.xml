@@ -345,6 +345,14 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="messaging">Mensagens</string>
   <string name="mi_message_title">Mi Message</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Todas as MMS, excepto as mensagens enviadas de remetentes autorizados, vão ser bloqueadas</string>
   <string name="mms_block_alert_ok">Bloquear</string>

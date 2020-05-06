@@ -191,6 +191,14 @@
   <string name="mi_money">Mi Credits</string>
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Desconhecido&gt;</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="net_error">Não é possível obter ligar à rede. Tente novamente</string>
   <string name="network_error">Não é possível obter ligar à rede</string>
   <string name="new_add">Nova transferência</string>

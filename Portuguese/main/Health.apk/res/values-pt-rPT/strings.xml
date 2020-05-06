@@ -439,6 +439,14 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="min_heart_rate">Menor frequência cardíaca</string>
   <string name="min_pace">Menor ritmo</string>
   <string name="minimum">Mínimo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="model_card_setting">Definições dos cartões</string>
   <string name="modify">Editar</string>
   <string name="modify_end_date">Alterar data de fim</string>

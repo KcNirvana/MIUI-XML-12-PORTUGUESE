@@ -138,6 +138,14 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Tamanho</string>
   <string name="miui_device_name">Android</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Xiaomi Cloud. Tente novamente</string>
   <string name="msg_restore_start_with_metered_network">"O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de ficheiros vão ser transferidos&lt;/font&gt;&lt;/b&gt;"</string>

@@ -732,6 +732,14 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Ligar</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualizar foto de perfil</string>
   <string name="missing_name">(Sem nome)</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
   <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="more_call_logs">Oiça todas as suas gravações de chamadas em &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>

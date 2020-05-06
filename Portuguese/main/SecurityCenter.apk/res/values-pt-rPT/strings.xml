@@ -1726,7 +1726,14 @@ da operadora"</string>
   <string name="mian_page_primary_txt">Roaming</string>
   <string name="midrop_post_notification_contentText">Tente o Mi Drop. É rápido e não tem anúncios</string>
   <string name="midrop_post_notification_contentTitle">Necessita de transferir ficheiros?</string>
-  <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mixed_need_to_confirm">Introduza novamente para confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="mixed_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
@@ -1735,6 +1742,7 @@ da operadora"</string>
   <string name="mixed_retry_button_text">Cancelar</string>
   <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
   <string name="modifypassword">Alterar tipo de palavra-passe</string>
+  <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
   <string name="monitor_app_add">Adicionar</string>
   <string name="monitor_app_more">Mais</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
@@ -2364,6 +2372,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_look_all_permission_status">Todas as permissões</string>
   <string name="privacy_look_all_permission_times">Todas as aplicações</string>
   <string name="privacy_manage_title">Gerir</string>
+  <string name="privacy_mask_summary">Em vez do seu identificador real, a MIUI vai fornecer um ID Virtual (OAID) para aplicações de terceiros. Isto impede que o seu comportamento e preferências sejam rastreados e protege a sua privacidade</string>
+  <string name="privacy_mask_title">ID Virtual ligado</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="privacy_more_info_title">Saber mais sobre as funcionalidade de protecção de privacidade</string>
   <string name="privacy_notification_subtitle">Toque para gerir permissões</string>
@@ -2411,7 +2421,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_search_key_6">Notificações de permissões</string>
   <string name="privacy_search_key_7">Localização</string>
   <string name="privacy_search_key_8">Máscara de privacidade</string>
-  <string name="privacy_search_key_9">ID virtual</string>
+  <string name="privacy_search_key_9">ID Virtual</string>
   <string name="privacy_show_password">Mostrar palavras-passe</string>
   <string name="privacy_show_password_summary">Manter as palavras-passe visíveis por um curto período de tempo</string>
   <string name="privacy_special_permission_summary">Monitorizar como as aplicações utilizam permissões sensíveis</string>

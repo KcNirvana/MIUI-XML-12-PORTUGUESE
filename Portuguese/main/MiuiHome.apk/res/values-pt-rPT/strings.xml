@@ -319,6 +319,14 @@
   <string name="menu_wallpaper">Papel de parede</string>
   <string name="menu_workspace_preview">Pré-visualização dos ecrãs iniciais</string>
   <string name="mi_wallpaper">Temas MIUI</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="minus_one_screen">Assistente</string>
   <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="mtzgadget_missing_text">Widget não disponível</string>

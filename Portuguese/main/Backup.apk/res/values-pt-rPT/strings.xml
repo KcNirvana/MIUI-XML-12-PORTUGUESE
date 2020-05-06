@@ -275,6 +275,14 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="logining">A iniciar sessão…</string>
   <string name="miliao_account_guide">Utilize a sua Conta Mi para iniciar sessão na Xiaomi Cloud, Loja de Temas MIUI e outros serviços Mi em qualquer lugar</string>
   <string name="miliao_account_login">Iniciar sessão com MiTalk</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
   <string name="multi_user_mode_backup_message">Não é possível utilizar Cópias de Segurança no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
@@ -307,7 +315,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
   <string name="new_pc_backup_summary1">Seleccionar itens e tocar em \"Fazer cópia\"</string>
   <string name="new_pc_backup_summary2">Ligar o seu dispositivo móvel ao computador via cabo USB</string>
-  <string name="new_pc_backup_summary4">Nota: pode também copiar fotos e vídeos de MIUI-DCIM</string>
+  <string name="new_pc_backup_summary4">Nota: pode também copiar fotos e vídeos de DCIM</string>
   <string name="new_pc_restore_content1">%d. Ligar o seu dispositivo móvel ao computador via cabo USB</string>
   <string name="new_pc_restore_content2">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
   <string name="new_pc_restore_content3">%1$d. Abrir \"%2$s\" e seleccionar os itens a restaurar</string>

@@ -212,6 +212,14 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="miui_virus_scanning_2">A verificar..</string>
   <string name="miui_virus_scanning_3">A verificar...</string>
   <string name="miui_virus_title">Alto risco</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mobil_net_work_warning_cancel">Cancelar</string>
   <string name="mobil_net_work_warning_msg">Está a utilizar dados móveis agora. Instalar esta aplicação necessita de %1$s de dados móveis. Instalar mesmo assim?</string>
   <string name="mobil_net_work_warning_ok">Instalar mesmo assim</string>

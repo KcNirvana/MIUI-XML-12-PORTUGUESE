@@ -922,6 +922,14 @@ para personalizar a galeria"</string>
   <string name="messagelist_sender_self">Eu</string>
   <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
   <string name="midnight">Noite</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="month_view_tip_button_text">Percebi</string>
   <string name="month_view_tip_sub_title">Aperte o ecrã para mudar para a vista mensal</string>
   <string name="month_view_tip_title">Vista mensal</string>

@@ -42,6 +42,14 @@
   <string name="menu_setting_toast_recommend_normal">As notificações de %s não vão ser reduzidas</string>
   <string name="menu_setting_toast_show_in_home">As notificações de %s não vão ser agrupadas</string>
   <string name="menu_setting_unfold">Importantes</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="not_sent_recently">Sem recentes</string>
   <string name="notch_and_status_bar_setting">Monocelha e barra de estado</string>
   <string name="notification_aggregate_description1">A MIUI pode agrupar as notificações automaticamente tornando a área de notificações mais vazia</string>

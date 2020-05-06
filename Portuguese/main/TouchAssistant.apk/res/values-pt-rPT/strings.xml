@@ -15,6 +15,14 @@
   <string name="hide_when_fullscreen">Mover para o lado em ecrã inteiro</string>
   <string name="hide_when_fullscreen_intro">Mover para o lado quando entrar em modo ecrã inteiro</string>
   <string name="mi_ai">Atalhos Mi IA</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="motion_behavior">Gesto preferido</string>
   <string name="name_alipay_payment_code">Pagamento Alipay</string>
   <string name="name_alipay_scan">Digitalizador Alipay</string>
