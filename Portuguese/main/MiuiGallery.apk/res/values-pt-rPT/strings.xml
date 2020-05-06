@@ -113,7 +113,7 @@
   <string name="album_type_system">Álbuns de sistema</string>
   <string name="album_videos_name">Vídeos</string>
   <string name="album_wallpaper">Papéis de parede</string>
-  <string name="alert_secret_album_enter">Entendi</string>
+  <string name="alert_secret_album_enter">Percebi</string>
   <string name="alert_secret_album_message">Puxe para ver álbuns ocultos</string>
   <string name="alert_secret_album_message_lower_case">Puxe para ver álbuns ocultos</string>
   <string name="alert_secret_album_title">Como ver álbuns ocultos</string>
@@ -795,7 +795,7 @@ efeitos de fotos"</string>
   <string name="grant_permission_title">Permissão de acesso</string>
   <string name="grant_permission_unlock_and_set">Desbloquear e definir</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
-  <string name="have_known">Entendi</string>
+  <string name="have_known">Percebi</string>
   <string name="help">Não consegue encontrar dispositivos?</string>
   <string name="help_content">Se não conseguir encontrar o dispositivo que precisa, diga à outra pessoa para ligar o Mi Share</string>
   <string name="hidden_album_display_name">Álbum oculto</string>
@@ -994,7 +994,7 @@ para personalizar a galeria"</string>
   <string name="movie_template_xmas">Natal</string>
   <string name="movie_video_long">Vídeo longo</string>
   <string name="movie_video_short">Vídeo de 10s</string>
-  <string name="multi_view_tip_button_text">Got it</string>
+  <string name="multi_view_tip_button_text">Percebi</string>
   <string name="multi_view_tip_sub_title">Junte ou afaste dois dedos para ajustar o tamanho dos itens mostrados</string>
   <string name="multi_view_tip_title">Zoom</string>
   <string name="must_pick_file">Seleccionar uma foto</string>

@@ -59,7 +59,7 @@
   <string name="bedtime_settings">Definições da hora de dormir</string>
   <string name="bedtime_sleep_time_remind">Vai ser lembrado de ir para a cama 15 minutos antes dessa hora</string>
   <string name="bedtime_sleep_time_setting">A que horas vai dormir?</string>
-  <string name="bedtime_wake_up_time_remind">Um alarme desliga-se a esta hora</string>
+  <string name="bedtime_wake_up_time_remind">Um alarme vai desligar se a esta hora</string>
   <string name="bedtime_wake_up_time_setting">A que horas acorda?</string>
   <string name="bedtime_welcome">Gerir a sua hora de dormir</string>
   <string name="bedtime_welcome_desc">Manter um horário de sono regular e consistente beneficia a sua saúde. Defina lembretes que o vão ajudar a ir para a cama e acordar todos os dias a horas</string>
@@ -222,7 +222,7 @@
   <string name="more_settings">Definições</string>
   <string name="net_permission_cancel">Não concordar</string>
   <string name="net_permission_ok">Concordar</string>
-  <string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio necessita de ligar à Internet. Antes de utilizar o Relógio, tem de ler e concordar com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;. Concordar?</string>
+  <string name="network_privacy_global">Para fornecer serviços personalizados, o Relógio necessita de ligar à Internet. Antes de utilizar o Relógio, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Concordar?</string>
   <string name="never">Uma vez</string>
   <string name="new_label">Adicionar nome ao alarme</string>
   <string name="no_alarm_setting">Sem alarmes</string>

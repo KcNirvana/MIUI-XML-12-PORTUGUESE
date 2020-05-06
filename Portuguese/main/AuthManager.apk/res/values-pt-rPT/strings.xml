@@ -105,7 +105,7 @@
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Esta aplicação pode aceder sempre à sua localização. Toque para alterar</string>
   <string name="background_location_access_reminder_notification_title">%s está a utilizar a sua localização</string>
-  <string name="current_permission_template">%1$s de %2$s</string>
+  <string name="current_permission_template">%1$s (%2$s/%3$s)</string>
   <string name="default_permission_description">executar acções desconhecidas</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>

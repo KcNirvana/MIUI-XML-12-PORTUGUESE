@@ -39,6 +39,15 @@
         <item>Sem dados de sono</item>
         <item>A abrir Saúde Mi</item>
     </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Ser sedentário provoca muitos problemas de saúde. Se a duração total do tempo sedentário não puder ser reduzida, as actividades intermitentes em pé podem melhorar efectivamente esses problemas</item>
+        <item>O assistente ajuda o sedentário a permanecer em pé pelo menos 1 minuto por hora, para atingir o objectivo de 12 horas todos os dias e a ficar longe dos perigos da vida sedentária</item>
+        <item>Toque Continuar para abrir o assistente</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>O assistente grava registos automaticamente de quando estiver em pé pelo estado de utilização do telefone. Se não for detectada nenhuma actividade em pé durante 1 hora, é enviada uma notificação para o lembrar de permanecer em pé ou adicionar manualmente um registo</item>
+        <item>Confirmar a activação vai simultaneamente activar a detecção e o envio de notificações de ficar em pé</item>
+    </string-array>
     <string-array name="week">
         <item>Domingo</item>
         <item>Segunda</item>

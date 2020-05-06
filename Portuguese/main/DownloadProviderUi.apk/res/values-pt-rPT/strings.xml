@@ -151,7 +151,7 @@
   <string name="get_account_dialog_msg">A obter informações de conta…</string>
   <string name="get_data_failed">Não foi possível obter informação. Tente novamente mais tarde</string>
   <string name="get_order_dialog_msg">A obter informações da compra…</string>
-  <string name="get_order_fail_msg">Não foi possível finalizar a compra</string>
+  <string name="get_order_fail_msg">Não foi possível concluir a compra</string>
   <string name="goto_global_search">Pesquisar na web por \"%1$s\"</string>
   <string name="guess_like">Também pode gostar</string>
   <string name="h5_net_error" formatted="false">Não foi possível carregar %s (%s)</string>
@@ -426,14 +426,6 @@ Optimize a velocidade das transferências em todos os seus dispositivos."</strin
   <string name="xl_privilege_support">Vários dispositivos</string>
   <string name="xl_privilege_title">Membro Xunlei</string>
   <string name="xl_validate_title">"Válido até:  "</string>
-  <string name="xl_vip_annual">Anual: %1$s Mi Credits × 12 meses</string>
-  <string name="xl_vip_combo">Planos</string>
-  <string name="xl_vip_month">Mensal: %1$s Mi Credits × 1 meses</string>
-  <string name="xl_vip_open">Comprar</string>
-  <string name="xl_vip_overdue">Expirado</string>
-  <string name="xl_vip_pay">Expirado</string>
-  <string name="xl_vip_quarter">Trimestral: %1$s Mi Credits × 3 meses</string>
-  <string name="xl_vip_semiannual">Semestral: %1$s Mi Credits × 6 meses</string>
   <string name="xlunbind_sub_title">Remova a sua conta Xunlei e adicione uma Conta Mi</string>
   <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
   <string name="xunlei_brand">Fornecido por Xunlei</string>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d vezes</item>
+        <item quantity="one">%1$d-%2$d vez</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Ande pelo menos %1$d passos todos os dias</item>
         <item quantity="one">Ande pelo menos %1$d passo todos os dias</item>
@@ -15,6 +19,18 @@
     <plurals name="dialog_delete_records_confirm">
         <item quantity="other">Eliminar %1$d registos?</item>
         <item quantity="one">Eliminar %1$d registo?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d gravações</item>
+        <item quantity="one">%1$d gravação</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">gravações</item>
+        <item quantity="one">gravação</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Objectivo: %1$d passos</item>
@@ -92,6 +108,34 @@
         <item quantity="other">Ciclo de %1$d dias</item>
         <item quantity="one">Ciclo de %1$d dia</item>
     </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minutos</item>
+        <item quantity="one">≤%1$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f horas</item>
+        <item quantity="one">%1$.2f hora</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f horas</item>
+        <item quantity="one">%1$.1f-%2$.1f hora</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minutos</item>
+        <item quantity="one">%1$d-%2$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d vezes</item>
+        <item quantity="one">%1$d vez</item>
+    </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d vezes</item>
         <item quantity="one">%1$d vez</item>
@@ -115,6 +159,10 @@
     <plurals name="unit_days">
         <item quantity="other">" dias"</item>
         <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" vezes"</item>
+        <item quantity="one">" vez"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d anos</item>

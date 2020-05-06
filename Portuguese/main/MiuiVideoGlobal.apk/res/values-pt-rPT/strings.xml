@@ -475,7 +475,15 @@ Tente ver outros vídeos!"</string>
   <string name="read_and_agree">Concordar</string>
   <string name="recommend_online_switch">Recomendações online</string>
   <string name="recommend_online_tips">Ligar para receber recomendações de vídeos online</string>
-  <string name="recommend_page_replay">REPETIR</string>
+  <string name="recommend_page_replay">Repetir</string>
+  <string name="report">Reportar</string>
+  <string name="report_content_fakement">Spam ou fraude</string>
+  <string name="report_content_illegal">Declarações ilegais</string>
+  <string name="report_content_other">Outros</string>
+  <string name="report_content_sexy">Conteúdo sexual explicíto</string>
+  <string name="report_content_violence">Discurso de ódio</string>
+  <string name="report_fail">Não foi possível reportar. Tente novamente</string>
+  <string name="report_success">Reportado com sucesso</string>
   <string name="retry">Tentar novamente</string>
   <string name="revoke">Revogar</string>
   <string name="s1">Guardar imagem</string>

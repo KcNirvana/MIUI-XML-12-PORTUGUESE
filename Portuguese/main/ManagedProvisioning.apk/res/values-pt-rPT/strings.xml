@@ -116,7 +116,7 @@
   <string name="progress_data_process">A processar os dados de configuração…</string>
   <string name="progress_delete_non_required_apps">A remover aplicações de sistema não necessárias…</string>
   <string name="progress_download">A transferir a aplicação de administração…</string>
-  <string name="progress_finishing_touches">A finalizar…</string>
+  <string name="progress_finishing_touches">A concluir…</string>
   <string name="progress_initialize">A iniciar o dispositivo…</string>
   <string name="progress_install">A instalar a aplicação de administração…</string>
   <string name="progress_set_owner">A definir o proprietário do dispositivo…</string>
