@@ -29,8 +29,8 @@
         <item quantity="one">%1$d gravação</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">gravações</item>
-        <item quantity="one">gravação</item>
+        <item quantity="other">" instâncias"</item>
+        <item quantity="one">" instância"</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Objectivo: %1$d passos</item>

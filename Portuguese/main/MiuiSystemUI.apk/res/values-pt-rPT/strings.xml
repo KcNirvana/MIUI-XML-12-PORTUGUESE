@@ -1336,7 +1336,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="qs_control_customize_sub_title">Arrastar atalhos para os organizar</string>
   <string name="qs_control_customize_title">Atalhos adicionados</string>
   <string name="qs_control_expand_detail_title">Os meus dados</string>
-  <string name="qs_control_header_tiles_title">Centro de controlo</string>
+  <string name="qs_control_header_tiles_title">Centro de Controlo</string>
   <string name="qs_customize">Permitir pressão longa para personalizar nas Definições rápidas</string>
   <string name="qs_customize_info">Informações</string>
   <string name="qs_customize_remove">Remover</string>

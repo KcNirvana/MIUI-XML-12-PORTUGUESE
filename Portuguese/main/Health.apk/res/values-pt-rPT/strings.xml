@@ -237,9 +237,9 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
   <string name="edit_sleep_record_button">Editar</string>
   <string name="enable">Ligado</string>
-  <string name="enable_go_now">Ligado</string>
-  <string name="enable_not_now">Desligado</string>
-  <string name="enable_right_now">Ligado</string>
+  <string name="enable_go_now">Ligar</string>
+  <string name="enable_not_now">Agora não</string>
+  <string name="enable_right_now">Ligar</string>
   <string name="enough">Suficiente</string>
   <string name="enter_mi_health">Abrir Saúde</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
@@ -466,7 +466,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="no_data">Sem dados</string>
   <string name="no_records">Sem itens</string>
   <string name="no_snore">Não ressonou ou falou durante o sono</string>
-  <string name="no_snore_1">Não ressonou ou falou durante o sono</string>
+  <string name="no_snore_1">Sem itens</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">O objectivo de ficar em pé não foi atingido</string>
   <string name="not_added">Não adicionado</string>
@@ -556,7 +556,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sedentary_enhance_remind">Vibrar também</string>
   <string name="sedentary_enhance_remind_content">Esta funcionalidade funciona com o modo Não incomodar desligado</string>
   <string name="sedentary_harm_known">Percebi</string>
-  <string name="sedentaty_hazard_description">O sedentarismo provoca muitos problemas de saúde. Mantenha-se em pé pelo menos 1 minuto por hora e atinja o objectivo de 12 horas, longe dos perigos sedentários</string>
+  <string name="sedentaty_hazard_description">Sentar-se não beneficia a sua saúde. 12 horas com intervalos de 1 minuto em pé todos os dias vão ajudar a evitar os riscos de um estilo de vida sedentário</string>
   <string name="sedentary_popular_science">"* Não se mexer por um longo tempo não é bom para si. A não ser que esteja a dormir, tente mover-se por 2 minutos a cada hora. Lembre-se que não é recomendado ficar quieto por mais de 6 horas por dia</string>
   <string name="sedentary_reminder_channel_name">Lembrete para se mover</string>
   <string name="sedentary_reminder_subject">Lembrete para se mover</string>
@@ -581,6 +581,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sleep_deep">Sono profundo</string>
   <string name="sleep_deep_light_analysis">Sono leve e profundo</string>
   <string name="sleep_deep_light_close_tip">Análise do sono profundo desligada</string>
+  <string name="sleep_deep_light_no_data">Sem dados</string>
+  <string name="sleep_deep_light_no_data_improvement">Não foi possível detectar as fases do sono. Estamos a melhorar o nosso algoritmo</string>
   <string name="sleep_detection_enable">Analisar ciclo de sono</string>
   <string name="sleep_detection_feedback">Comentários</string>
   <string name="sleep_detection_guide_four_description">O rastreio do sono vai consumir cerca de 1% da sua bateria diariamente</string>
@@ -601,7 +603,11 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sleep_detection_question_four_title">Porque é que dispositivos diferentes consomem diferentes quantidades de bateria para rastrear o sono?</string>
   <string name="sleep_detection_question_one_answer">"Quando o dispositivo é desligado, reiniciado ou a bateria estiver fraca, o rastreio do sono vai ser interrompido porque os sensores não conseguem obter e analisar dados. Nestes casos, as estatísticas do sono vão aparecer incompletas.
 Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas de desligar ou actualizações nocturnas de sistema"</string>
+  <string name="sleep_detection_question_one_answer_1">"As fases do sono profundo e leve são detectadas com base nos dados de movimento do corpo obtidos pelos sensores do seu dispositivo. Motivos pelos quais pode não conseguir ver as estatísticas:
+1. Saúde não conseguiu obter dados. Isto pode acontecer quando o seu dispositivo é desligado quando vai dormir, bateria fraca ou a aplicação não tem permissão de execução em segundo plano. Dê permissão de início automático a Saúde e adicione-a às excepções da poupança de bateriaa para prevenir estas situações
+2. Saúde não conseguiu analisar os dados obtidos. Isto pode acontecer quando o seu é colocado muito longe do seu corpo quando está a dormir ou os movimentos do seu corpo podem ser muito subtis para fazer suposições sobre as alterações no seu ciclo de sono. Estamos constantemente a melhorar os nossos algoritmos para fazer com que Saúde analise melhor seu sono"</string>
   <string name="sleep_detection_question_one_title">Porque é que as minhas estatísticas estão incompletas?</string>
+  <string name="sleep_detection_question_one_title_1">Porque é que eu não vejo as minhas estatísticas de ciclo de sono?</string>
   <string name="sleep_detection_question_three_answer">O seu dispositivo rastreia os movimentos do seu corpo durante o sono utilizando sensores. Para tornar as estatísticas mais precisas, coloque o dispositivo numa superfície macia junto ao seu corpo. Evite colocá-lo em mesas de cabeceira ou muito longe do colchão</string>
   <string name="sleep_detection_question_three_title">Como posso tornar as minhas estatísticas mais precisas?</string>
   <string name="sleep_detection_question_two_answer">Os seus ciclos de sono são analisados no dispositivo localmente. O rastreio do sono vai funcionar mesmo quando não estiver ligado à rede ou a ligação for interrompida</string>
@@ -647,14 +653,14 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_service">Serviço de registo do sono</string>
   <string name="sleep_service_background_running">O serviço de registo do sono está a ser executado em segundo plano</string>
   <string name="sleep_setting_title">Definições de sono</string>
-  <string name="sleep_snore_audio_auto">Rastrear o áudio</string>
-  <string name="sleep_snore_audio_auto_desc">Gravar as suas falas quando estiver a dormir e guardar o ficheiro no seu telefone para proteger a sua privacidade</string>
-  <string name="sleep_snore_audio_close_desc">Pode desactivá-la nas definições do sono</string>
-  <string name="sleep_snore_audio_enable">A detecção está activa</string>
-  <string name="sleep_snore_audio_enable_desc">Esta noite, o seu sono vai ser rastreado automaticamente</string>
-  <string name="sleep_snore_audio_hight_power_desc">Certifique-se que o seu dispositivo tem bateria suficiente antes de ir dormir</string>
+  <string name="sleep_snore_audio_auto">Gravar automaticamente o ressonar e falar</string>
+  <string name="sleep_snore_audio_auto_desc">Saúde pode gravar o ressonar e falar automaticamente baseado na sua hora de dormir. As gravações vão parar quando acordar. Para proteger a sua privacidadeGravar as suas falas quando estiver a dormir e guardar o ficheiro no seu telefone para proteger a sua privacidade</string>
+  <string name="sleep_snore_audio_close_desc">Pode desligar esta funcionalidade nas Definições</string>
+  <string name="sleep_snore_audio_enable">Detecção automática ligada</string>
+  <string name="sleep_snore_audio_enable_desc">O seu ressonar e falar vai ser gravado automaticamente quando for dormir</string>
+  <string name="sleep_snore_audio_hight_power_desc">Lembre-se que utilizar esta funcionalidade consome bastante bateria. É uma boa ideia manter o carregador ligado enquanto dorme para evitar interrupções</string>
   <string name="sleep_snore_detection">Detectar o ressonar e falar</string>
-  <string name="sleep_snore_detection_desc">Rastrear o seu sono</string>
+  <string name="sleep_snore_detection_desc">Detectar o ressonar e falar para saber mais sobre o seu sono</string>
   <string name="sleep_sober">Acordado</string>
   <string name="sleep_sober_times_title">Acordou</string>
   <string name="sleep_status">Estado do sono</string>
@@ -690,8 +696,10 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="snore_detection_notification_title">Teste de sono em curso</string>
   <string name="snore_detection_running_state">A detectar…</string>
   <string name="snore_detection_running_state_description">Microfone ligado. Vai continuar a funcionar em segundo plano</string>
+  <string name="snore_detection_sotp_opt_1">Parar e eliminar resultados</string>
+  <string name="snore_detection_sotp_opt_2">Parar e guardar resultados</string>
   <string name="snore_detection_stop_pop_content">Não vai poder retomar esta sessão se a parar agora. A próxima sessão vai iniciar assim da próxima vez que for dormir</string>
-  <string name="snore_detection_stop_pop_title">Parar sessão agora?</string>
+  <string name="snore_detection_stop_pop_title">Parar a sessão actual?</string>
   <string name="snore_detection_stopped_notification_title">Parou a detecção do ressonar e falar</string>
   <string name="snore_dream_talk">Ressonar e falar</string>
   <string name="snore_duration_label">Duração do ressonar</string>
@@ -758,6 +766,7 @@ baseados nas suas informações pessoais"</string>
   <string name="sync_status_in_progress">A sincronizar…</string>
   <string name="sync_status_network_failure">Não foi possível sincronizar. Ligue-se à rede e tente novamente</string>
   <string name="sync_status_never_done">Não sincronizado</string>
+  <string name="sync_status_oauth_error">Não foi possível sincronizar</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
   <string name="tb_card_on_using_list">Adicionado</string>
   <string name="tb_click_finish_stand">Ficar de pé não terminado por quase 1 hora. Toque para terminar</string>
@@ -853,8 +862,8 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_picker_sleep_goal">Objectivo de sono: %1$s</string>
   <string name="tb_picker_weight">Peso: %1$s</string>
   <string name="tb_picker_year">Ano: %1$d</string>
-  <string name="tb_play_next">Áudio seguinte</string>
-  <string name="tb_play_previous">Áudio anterior</string>
+  <string name="tb_play_next">Gravação seguinte</string>
+  <string name="tb_play_previous">Gravação anterior anterior</string>
   <string name="tb_select_a_column">%1$s seleccionado</string>
   <string name="tb_show_sleep_info">Mostrar estatísticas de sono para %1$s</string>
   <string name="tb_sleep_evaluation">Resultado estimado: %1$s</string>

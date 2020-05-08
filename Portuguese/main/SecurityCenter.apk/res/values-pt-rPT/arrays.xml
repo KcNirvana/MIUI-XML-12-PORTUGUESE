@@ -107,6 +107,24 @@
     <item>Utilizar o controlo de temperatura predefinido</item>
     <item>Dar prioridade ao desempenho</item>
   </string-array>
+  <string-array name="perm_intercept_notification">
+    <item>Ler todas as suas notificações, incluindo o conteúdo das mesmas que podem conter informações pessoais</item>
+    <item>Restringir permissões de notificações para algumas aplicações</item>
+    <item>Simular o toque em notificações e abrir aplicações</item>
+    <item>Ligar e desligar o modo Não incomodar</item>
+  </string-array>
+  <string-array name="perm_intercept_statitics">
+    <item>Obter dados acerca dos seus interesses e comportamentos ao saber que aplicações utiliza e quanto tempo as utiliza</item>
+    <item>Aceder às definições de idioma e operadora assim como outros detalhes</item>
+  </string-array>
+  <string-array name="perm_intercept_unknown_source">
+    <item>Aplicações de terceiros que não são verificadas pelo GetApps podem causar vários problemas</item>
+    <item>Algumas aplicações de terceiros podem conter malware</item>
+  </string-array>
+  <string-array name="priority_storage_entries">
+    <item>Interno</item>
+    <item>Externo</item>
+  </string-array>
   <string-array name="roaming_network_type">
     <item>Sempre</item>
     <item>Apenas para excepções</item>
