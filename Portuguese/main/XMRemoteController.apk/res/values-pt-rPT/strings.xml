@@ -860,9 +860,9 @@ para permitir o início de sessão rápido da Conta Mi;
 •Para ler e escrever no armazenamento do telefone:
 para armazenar cache e informação de dispositivos duplicados.
 
-Se não concordar em conceder estas permissões ou não permitir obter as informações acima, não vai poder utilizar esta aplicação. Pode desinstalar ou sair desta aplicação.
+Se não concordar em conceder estas permissões ou não permitir obter as informações acima, não vai poder utilizar esta aplicação. Pode desinstalar ou sair desta aplicação
 "</string>
-  <string name="privacy_content_cn_sub"><Data>&lt;Data> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/Data>.</Data>。</string>
+  <string name="privacy_content_cn_sub">Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a></string>
   <string name="privacy_content_new">Leia %1$s e %2$s da Xiaomi antes de utilizar o C. Remoto. É necessário aceder à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_content_new_license">\"Termos de Utilização\"</string>
   <string name="privacy_content_new_privacy">\"Política de Privacidade\"</string>
