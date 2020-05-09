@@ -253,7 +253,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="refresh_empty_data">Não foi possível carregar dados. Aguarde um momento e tente novamente</string>
   <string name="refresh_fail">Não foi possível ligar à rede</string>
   <string name="reminder_from_xiaomi_weather_app">Alertas de Tempo</string>
-  <string name="request_cta_connect_net">Permitir que esta aplicação se ligue à Internet e conceda as seguintes permissões obrigatórias:</string>
+  <string name="request_cta_connect_net">Permitir que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="request_permission_location_dialog_content">Para mostrar a informação do tempo relevante na sua localização actual</string>
   <string name="request_permission_main_purpose">Para mostrar a informação do tempo</string>
   <string name="request_permission_read_phone_state_dialog_content">Para identificar o seu dispositivo</string>

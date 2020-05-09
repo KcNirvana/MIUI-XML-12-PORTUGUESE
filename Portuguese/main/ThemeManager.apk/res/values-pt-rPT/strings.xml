@@ -629,7 +629,7 @@ Toque aqui para iniciar agora"</string>
   <string name="system_aod_dialog_message">Ligar ecrã ambiente primeiro</string>
   <string name="system_aod_dialog_positive_button">Definições</string>
   <string name="system_aod_dialog_title">Ecrã ambiente desligado</string>
-  <string name="system_cta_agree_desc">Permitir que esta aplicação se ligue à Internet e conceda as seguintes permissões obrigatórias:</string>
+  <string name="system_cta_agree_desc">Permitir que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="system_cta_all_purpose">Bem-vindo aos Temas! Pode utilizar esta aplicação para gerir os seus temas, papéis de parede, toques e tipos de letra</string>
   <string name="system_cta_main_purpose">Gerir e utilizar temas, papéis de parede, toques e tipos de letra</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Aceder ao IMEI e fornecer serviços de transferências</string>

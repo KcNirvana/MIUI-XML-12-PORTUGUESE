@@ -909,9 +909,13 @@ baseados nas suas informações pessoais"</string>
   <string name="title_no_record_menstruation">Ainda não regitou os seus períodos</string>
   <string name="title_run_in_background">Executar em segundo plano</string>
   <string name="title_select_birthday">Seleccionar data de nascimento</string>
+  <string name="title_select_birthday_description">Vamos ajustar os nossos serviços à sua idade</string>
   <string name="title_select_gender">Seleccionar género</string>
+  <string name="title_select_gender_description">Vamos ajustar os nossos serviços ao seu género</string>
   <string name="title_select_height">Definir altura</string>
+  <string name="title_select_height_description">Isto vai tornar as nossas estatísticas mais precisas</string>
   <string name="title_select_weight">Definir peso</string>
+  <string name="title_select_weight_description">Isto vai tornar as nossas estatísticas mais precisas</string>
   <string name="title_start_use">Iniciar</string>
   <string name="title_start_use_menstruation_assistant">Registe o seu ciclo menstrual</string>
   <string name="title_today_exercise_detail">Actividades de hoje</string>
@@ -955,6 +959,13 @@ Actualizar agora?"</string>
   <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
+  <string name="welcome_exercise">Rastreiar exercícios</string>
+  <string name="welcome_exercise_description">Leve o seu dispositivo consigo para rastrear exercícios automaticamente</string>
+  <string name="welcome_sedentary">Manter-se em movimento</string>
+  <string name="welcome_sedentary_description">O Saúde pode lembrá-lo para se manter em pé quando estiver sentado muito tempo</string>
+  <string name="welcome_sleep">Analisar ciclo de sono</string>
+  <string name="welcome_sleep_description">Coloque o seu telefone junto a si para saber mais sobre o seu ciclo de sono de manhã</string>
+  <string name="welcome_start_use">Iniciar</string>
   <string name="well">Bom</string>
   <string name="write_strorage_perm_description">Registar os problemas que encontrou na utilização</string>
   <string name="year">Ano</string>

@@ -430,6 +430,7 @@
   <string name="login_failed">Não foi possível iniciar sessão</string>
   <string name="login_failed_tips">Não foi possível obter informações da conta</string>
   <string name="login_mi_account">Iniciar sessão</string>
+  <string name="login_remotecontroller">Iniciar sessão</string>
   <string name="login_thirdparty">Outros métodos para iniciar sessão</string>
   <string name="login_wxfailed_tips">Não foi possível obter informações da conta. Tente novamente mais tarde</string>
   <string name="logining">A iniciar sessão…</string>
@@ -793,19 +794,13 @@ Para activar a sua conta, siga o
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo ao dispositivos verificados</string>
   <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>
-  <string name="passport_uplink_reg">Utilizar número de telefone</string>
-  <string name="passport_uplink_slot1_reg">Utilizar SIM 1</string>
-  <string name="passport_uplink_slot2_reg">Utilizar SIM 2</string>
-  <string name="passport_use_generated_pwd_message">Certifique-se que memoriza a sua palavra-passe. Pode utilizá-la para iniciar sessão noutros serviços Mi</string>
-  <string name="passport_use_generated_pwd_title">Memorizar a sua palavra-passe</string>
-  <string name="passport_user_agreement">Termos de Utilização</string>
-  <string name="passport_user_agreement_p1">"Concorda com "</string>
-  <string name="passport_user_agreement_p2">Termos de Utilização</string>
-  <string name="passport_user_agreement_p3">" e "</string>
-  <string name="passport_user_agreement_p4">Política de Privacidade</string>
-  <string name="passport_user_id_notice">O seu ID Conta Mi é %s</string>
-  <string name="passport_user_reg_region">País/Região</string>
-  <string name="passport_user_reg_region_warning">Não pode alterar o seu país/região após criar conta</string>
+  <string name="passport_unknow_error">Ocorreu um erro de rede</string>
+  <string name="passport_unknow_host_network_error">Verifique as suas definições de rede e tente novamente</string>
+  <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
+  <string name="passport_user_agreement_link">"&lt;Data>Eu li e concordei com &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> da Xiaomi&lt;/Data>"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data>Eu li e concordei com os seguintes documentos: &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%4$s>Política de Privacidade&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a> da Xiaomi&lt;/Data>"</string>
+  <string name="passport_user_id_intro">Introduzir palavra-passe para %1$s</string>
+  <string name="passport_v_code_error">Código de verificação incorrecto</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
@@ -850,8 +845,9 @@ Se não concordar em dar esta autorização, não vai poder utilizar esta funcio
   <string name="pravicy_terms">Ler Política de Privacidade</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
+  <string name="prev_remote">Controlo anterior</string>
   <string name="privacy_content">Leia a <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e os <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
-  <string name="privacy_content_new">"Bem-vindo ao C. Remoto. Com esta aplicação pode controlar os seus dispositivos IR e muito mais.
+  <string name="privacy_content_cn">"Bem-vindo ao C. Remoto. Com esta aplicação pode controlar os seus dispositivos IR e muito mais.
  Vamos cumprir rigorosamente as leis regulamentadas e a nossa política de privacidade para proteger as suas informações pessoais.
  Para fornecer os serviços básicos, esta aplicação necessita de aceder à Internet e ter as seguintes permissões para obter as informações pessoais necessárias:
 
@@ -865,8 +861,9 @@ para permitir o início de sessão rápido da Conta Mi;
 para armazenar cache e informação de dispositivos duplicados.
 
 Se não concordar em conceder estas permissões ou não permitir obter as informações acima, não vai poder utilizar esta aplicação. Pode desinstalar ou sair desta aplicação.
-
-Leia e concorde com os nossos %2$s e %1$s"</string>
+"</string>
+  <string name="privacy_content_cn_sub"><Data>&lt;Data> Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/Data>.</Data>。</string>
+  <string name="privacy_content_new">Leia %1$s e %2$s da Xiaomi antes de utilizar o C. Remoto. É necessário aceder à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_content_new_license">\"Termos de Utilização\"</string>
   <string name="privacy_content_new_privacy">\"Política de Privacidade\"</string>
   <string name="privacy_nohit">Não mostrar novamente</string>

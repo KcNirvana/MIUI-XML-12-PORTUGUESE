@@ -1594,9 +1594,9 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="main_normal_data_usage">Dados móveis utilizados</string>
   <string name="main_open_traffic_ctrl_button">Restringir a utilização de dados</string>
   <string name="main_primary_message_leisure_alert">Aviso de dados móveis</string>
-  <string name="main_primary_message_leisure_overlimit">Passou o limite de dados</string>
+  <string name="main_primary_message_leisure_overlimit">Acima do limite</string>
   <string name="main_primary_message_leisure_remain">Dados móveis</string>
-  <string name="main_primary_message_traffic_overlimit">Passou o limite de dados</string>
+  <string name="main_primary_message_traffic_overlimit">Acima do limite</string>
   <string name="main_primary_message_traffic_remain">Dados móveis</string>
   <string name="main_primary_message_traffic_warning">Aviso de dados móveis</string>
   <string name="main_purchase_tips">Promoções</string>
