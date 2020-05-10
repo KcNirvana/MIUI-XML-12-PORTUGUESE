@@ -337,6 +337,10 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_item_status_delete">Eliminar</string>
   <string name="todo_item_status_finished">Concluído</string>
   <string name="todo_item_status_unfinished">Não concluído</string>
+  <string name="todo_list">Lista de subtarefas</string>
+  <string name="todo_list_edit_text_hint">Toque \"Enter\" para criar subtarefas</string>
+  <string name="todo_list_new_finish_all_tip">Os novos itens deve conter pelo menos uma tarefa não concluída</string>
+  <string name="todo_list_overflow_tip">Não é possível criar mais subtarefas</string>
   <string name="todo_menu_add_audio_description">Adicionar tarefa de voz</string>
   <string name="todo_menu_add_description">Adicionar tarefa</string>
   <string name="todo_menu_cancel">Cancelar</string>
