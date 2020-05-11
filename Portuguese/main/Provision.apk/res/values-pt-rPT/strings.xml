@@ -9,6 +9,7 @@
   <string name="application_package_introduction">Esta aplicação permite instalar aplicações de terceiros, analisá-las antes da instalação e dar recomendações após</string>
   <string name="application_permissions">Permissões da aplicação</string>
   <string name="back">Voltar</string>
+  <string name="backup_introduction">Pode utilizar esta aplicação copiar e restaurar itens no seu dispositivo</string>
   <string name="calculator_introduction">Pode utilizar esta aplicação para cálculos, conversão de unidades e divisas e empréstimos</string>
   <string name="camera_introduction">Pode utilizar esta aplicação para tirar fotos e gravar vídeos</string>
   <string name="carrier_introduction">Para o fornecermos com melhores serviços, o seu dispositivo pode enviar-nos periodicamente informações sobre a sua versão, dados de identificação (incluindo IMEI/IMSI/MSISDN/MAC,MEID/ICCID) e localização</string>
@@ -98,6 +99,8 @@ Desligar os anúncios personalizados mesmo assim?"</string>
   <string name="permission_account">Aceder a contas no seu dispositivo:</string>
   <string name="permission_account_introduction">Para iniciar sessão na sua Conta Mi</string>
   <string name="permission_application_package_introduction">Para aceder ao armzenamento para analisar e verificar os pacotes de instalação</string>
+  <string name="permission_backup">Aceder ao armazenamento</string>
+  <string name="permission_backup_introduction">Para aceder e guardar cópias no seu dispositivo</string>
   <string name="permission_call_records">Aceder ao registo de chamadas:</string>
   <string name="permission_call_records_introduction">Para aceder ao registo de chamadas para mostrar itens bloqueados</string>
   <string name="permission_call_state_introduction">Para aceder ao estado do seu telefone, gravar chamadas e pausar gravações durante as chamadas recebidas</string>
@@ -154,6 +157,7 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="service_agreement">Eu li e concordei com os termos e condições</string>
   <string name="service_name_album">Galeria</string>
   <string name="service_name_application_package">Instalador de pacotes</string>
+  <string name="service_name_backup">Cópias</string>
   <string name="service_name_calculator">Calculadora</string>
   <string name="service_name_camera">Câmara</string>
   <string name="service_name_carrier">Declaração sobre serviços da operadora</string>

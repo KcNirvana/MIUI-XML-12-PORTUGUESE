@@ -307,7 +307,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_lights_title">LED de notificações</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-  <string name="allow_oaid_used">Permitir utilizar o ID de dispositivo</string>
+  <string name="allow_oaid_used">Utilizar ID Virtual</string>
   <string name="allow_oaid_used_desc">As aplicações não vão poder aceder a nenhum ID a não ser que permita. Algumas recomendações podem não funcionar correctamente com esta funcionalidade desligada</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
   <string name="allow_sound">Permitir som</string>
@@ -990,6 +990,8 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Não ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferência de ficheiros</string>
+  <string name="bluetooth_paired">Guardado</string>
+  <string name="bluetooth_paired_device_title">Os seus dispositivos</string>
   <string name="bluetooth_pairing">A emparelhar…</string>
   <string name="bluetooth_pairing_accept">Emparelhar</string>
   <string name="bluetooth_pairing_accept_all_caps">Emparelhar</string>
@@ -2675,7 +2677,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
   <string name="gps_description">Vários sistemas de navegação por satélite (GPS, BeiDou, GLONASS, Galileo) suportados</string>
-  <string name="gps_description_global">Vários sistemas de navegação por satélite (%s) suportados</string>
+  <string name="gps_description_global">Os dispositivos Xiaomi são compatíveis com vários sistemas de navegação, incluindo GPS, NavIC, BeiDou, GLONASS e Galileo</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Sensor de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
@@ -4814,6 +4816,7 @@ Interface UT: %5$s"</string>
 
 Não vai perder quaisquer dados das aplicações"</string>
   <string name="reset_app_preferences_title">Repor preferências das aplicações?</string>
+  <string name="reset_confirm_directory">Nota: Antes de restaurar itens, verifique se a pasta \"MIUI-Backup-AllBackup\" existe no seu dispositivo. Se não existir, crie-a</string>
   <string name="reset_dashboard_title">Reposição</string>
   <string name="reset_default_apn_failed">Erro ao repor ponto de acesso (APN)</string>
   <string name="reset_esim_desc">Para transferir SIM de substituição, contacte a sua operadora. Esta acção não cancela qualquer plano de serviços móveis</string>
@@ -4839,6 +4842,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="reset_network_final_desc_esim">Repor todas as definições de rede e eliminar os SIM transferidos? Não pode reverter esta acção!</string>
   <string name="reset_network_title">Reposição de Wi-Fi, redes móveis e Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="reset_remove_data_hint">Todos os itens listados acima vão ser eliminados permanentemente. Faça cópias de todos os itens importantes para o seu computador ou Xiaomi Cloud antes de continuar</string>
   <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
   <string name="reset_second_space_passwd_cancel">Cancelar</string>
   <string name="reset_second_space_passwd_confirm">Continuar</string>
@@ -4857,8 +4861,9 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="restore_dialog_positive">Repor</string>
   <string name="restore_dialog_title">Atenção</string>
   <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo</string>
+  <string name="restore_oaid_dialog_content">O ID Virtual está a ser utilizado por várias aplicações. Se fizer a reposição dele agora, uma parte dos dados das aplicações pode ser perdido. Repor ID Virtual agora?</string>
   <string name="restore_oaid_positive">Repor</string>
-  <string name="restore_oaid_positive_step">Repor(%1$d)</string>
+  <string name="restore_oaid_positive_step">Repor (%1$d)</string>
   <string name="restore_oaid_title">Repor o ID do dispositivo</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restrict_bg_app">Restringir</string>

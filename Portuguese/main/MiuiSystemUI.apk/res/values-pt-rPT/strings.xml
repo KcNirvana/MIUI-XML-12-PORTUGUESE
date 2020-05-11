@@ -366,6 +366,7 @@
   <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Não ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferência de ficheiros</string>
+  <string name="bluetooth_paired">Guardado</string>
   <string name="bluetooth_pairing">A emparelhar…</string>
   <string name="bluetooth_pairing_accept">Emparelhar</string>
   <string name="bluetooth_pairing_accept_all_caps">Emparelhar</string>

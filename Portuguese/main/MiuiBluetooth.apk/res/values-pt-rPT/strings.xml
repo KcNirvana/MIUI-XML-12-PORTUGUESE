@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Miui Bluetooth</string>
+  <string name="band_24G">" (2.4GHz)"</string>
+  <string name="band_5G">" (5GHz)"</string>
+  <string name="battery_info_status_charging">A carregar</string>
+  <string name="battery_info_status_charging_lower">A carregar</string>
+  <string name="battery_info_status_discharging">Não está a carregar</string>
+  <string name="battery_info_status_full">Cheia</string>
+  <string name="battery_info_status_not_charging">Ligado. Não é possível carregar agora</string>
+  <string name="battery_info_status_unknown">Desconhecido</string>
   <string name="ble_device_address">MAC dispositivo BLE</string>
   <string name="ble_device_profile">Perfil de dispositivo Bluetooth</string>
   <string name="ble_device_profile_header_title">Definições</string>
@@ -11,6 +19,7 @@
   <string name="bluetooth_device_context_unpair">Desemparelhar</string>
   <string name="bluetooth_disconnected">Desemparelhado</string>
   <string name="bluetooth_disconnecting">A desemparelhar…</string>
+  <string name="bluetooth_paired">Guardado</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
   <string name="bluetooth_preference_scan_title">Procurar dispositivos</string>

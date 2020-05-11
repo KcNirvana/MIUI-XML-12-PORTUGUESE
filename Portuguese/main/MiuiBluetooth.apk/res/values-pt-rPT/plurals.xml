@@ -8,4 +8,12 @@
         <item quantity="other">Prima e segure numa área sensível dos auriculares %1$d segundos</item>
         <item quantity="one">Prima e segure numa área sensível dos auriculares %1$d segundo</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Segure o botão no topo por %1$s segundos enquanto desliga</item>
+        <item quantity="one">Segure o botão no topo por %1$s segundo enquanto desliga</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos ligados</item>
+        <item quantity="one">%1$d dispositivo ligado</item>
+    </plurals>
 </resources>
