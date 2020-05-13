@@ -764,7 +764,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_zsl_entry_off">Desligado</string>
   <string name="pref_camera_zsl_entry_on">Ligado</string>
   <string name="pref_capture_settings">Câmara</string>
-  <string name="pref_custom_feature_layout_title">Layout de funcionalidades</string>
+  <string name="pref_custom_feature_layout_title">Disposição das funcionalidades</string>
   <string name="pref_custom_shutter_sound_title">Som</string>
   <string name="pref_custom_tint_title">Cores</string>
   <string name="pref_customization_title">Personalizar</string>

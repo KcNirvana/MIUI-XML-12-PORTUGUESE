@@ -330,8 +330,8 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_warn_low_sum">A sua Xiaomi Cloud está 90% cheia</string>
   <string name="micloud_warn_low_title">Quase sem espaço</string>
   <string name="micloud_web_discription_place_holder">Visitar %1$s no seu computador para gerir os seus dados</string>
-  <string name="micloud_wipe_data_confirm_label">Remover dados da Xiaomi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Xiaomi Cloud do telefone após terminar sessão?</string>
+  <string name="micloud_wipe_data_confirm_label">Eliminar dados sincronizados deste dispositivo?</string>
+  <string name="micloud_wipe_data_confirm_title">Alguns itens das seguintes aplicações estão sincronizados com a Xiaomi Cloud. Pode eliminá-los deste dispositivo</string>
   <string name="micloud_wipe_data_remove">Remover</string>
   <string name="micloud_wipe_data_retain">Manter</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>

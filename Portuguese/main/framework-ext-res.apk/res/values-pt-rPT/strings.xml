@@ -201,6 +201,7 @@
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="send_files_to">Enviar itens para</string>
+  <string name="serviceEnabled">Serviço activado</string>
   <string name="set_password_action">Definir palavra-passe</string>
   <string name="set_password_message">Definir uma palavra-passe para utilizar esta funcionalidade</string>
   <string name="set_password_title">Definir uma palavra-passe</string>
