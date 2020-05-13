@@ -4,6 +4,7 @@
   <string name="action_get_otp">Obter código</string>
   <string name="action_sign_in">Iniciar sessão</string>
   <string name="action_sign_in_short">Iniciar sessão</string>
+  <string name="actionbar_button_up_description">Voltar</string>
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="addBlackList">Bloquear</string>
@@ -220,6 +221,7 @@
   <string name="fail_to_view_attachment">O anexo não está disponível</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
+  <string name="failed_to_send">Erro ao enviar</string>
   <string name="fake_cell_alert_detect_error">Isto não foi enviado por uma célula falsa</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
   <string name="fake_cell_checking_hint">A verificar segurança…</string>
@@ -345,6 +347,9 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="messaging">Mensagens</string>
   <string name="mi_message_title">Mi Message</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Sincronização desligada</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sincronizado com sucesso</string>
+  <string name="miuix_appcompat_cloud_state_syncing">A sincronizar…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

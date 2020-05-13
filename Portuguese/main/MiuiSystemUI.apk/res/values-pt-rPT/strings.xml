@@ -1370,6 +1370,11 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_cellular_detail_data_usage">Utilização de dados</string>
   <string name="quick_settings_cellular_detail_data_used">%s utilizados</string>
   <string name="quick_settings_cellular_detail_data_warning">Aviso de %s</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Os dados móveis (WCDMA/LTE) vão ser desligados. A não ser que utilize o Wi-Fi, não vai poder utilizar aplicações que necessitem duma ligação de dados. O envio ou recebimento de MMS vão ser restritas</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Os dados móveis vão ser ligados. Ligar a redes móveis podem gerar custos adicionais</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Desligar</string>
   <string name="quick_settings_cellular_detail_over_limit">Acima do limite</string>
   <string name="quick_settings_cellular_detail_remaining_data">Dados restantes</string>
   <string name="quick_settings_cellular_detail_title">Dados móveis</string>

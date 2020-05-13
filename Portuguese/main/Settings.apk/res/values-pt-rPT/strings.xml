@@ -1122,7 +1122,7 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_state_label">"Estado: "</string>
   <string name="bluetooth_unlock_state_ok">Desbloqueado</string>
   <string name="bluetooth_unlock_state_too_far">Não está suficientemente perto</string>
-  <string name="bluetooth_unlock_title">Desbloqueio com dispositivo Bluetooth</string>
+  <string name="bluetooth_unlock_title">Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
   <string name="bluetooth_unpair_dialog_body">O seu telefone não vai estar mais emparelhado com %1$s</string>
@@ -2368,7 +2368,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="face_intro_error_max">Já adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rosto</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Proteja o seu telefone com uma opção de bloqueio de ecrã para que ninguém o consiga utilizar se for roubado ou se o perder. Também precisa de uma opção de bloqueio de ecrã para configurar o desbloqueio facial. Toque em Cancelar e defina um PIN, um padrão ou uma palavra-passe</string>
-  <string name="face_unlock">Desbloqueio facial</string>
+  <string name="face_unlock">Facial</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto consome mais bateria</string>
   <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio por rosto</string>
@@ -3640,6 +3640,8 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_sos_msg_call_log_prefix">Aqui está o meu registo de chamadas da última hora:</string>
   <string name="miui_sos_play_voice">Reproduzir mensagem SOS</string>
   <string name="miui_sos_remind_add">Adicionar</string>
+  <string name="miui_sos_remind_close">O modo SOS Emergência está ligado. Desligá-lo e todas as funcionalidades relacionadas?</string>
+  <string name="miui_sos_remind_close_confirm">Desligar</string>
   <string name="miui_sos_remind_infocontent">Eu adicionei-o como contacto de emergência. Vai receber uma mensagem com a minha localização no caso de eu necessitar de ajuda. [Mi Emergency SOS]</string>
   <string name="miui_sos_remind_open">O SOS Emergência necessita de pelo menos um contacto para funcionar normalmente</string>
   <string name="miui_sos_remind_sendinfo">Não se esqueça de informar as pessoas que agora são os seus contactos de emergência. Os contactos de emergência vão poder ajudá-lo em caso de urgência</string>
@@ -3649,7 +3651,7 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_sos_settings_alert_contacts_too_many">Pode adicionar até 3 contactos de emergência</string>
   <string name="miui_sos_settings_category">Definições SOS</string>
   <string name="miui_sos_statusbar_summary">Toque para desligar</string>
-  <string name="miui_sos_statusbar_title">A emergência SOS está activada</string>
+  <string name="miui_sos_statusbar_title">O SOS Emergência está activado</string>
   <string name="miui_special_feature">Funcionalidades especiais</string>
   <string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões está escondida pelo menu flutuante. Mova o menu flutuante ou desligue esta funcionalidade</string>
   <string name="miui_touch_filtered_warning">Se uma aplicação estiver a bloquear a janela de permissões, arraste o item sobreposto para fora ou feche a aplicação</string>
@@ -4297,7 +4299,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="password_toggle_content_description">Mostrar palavra-passe</string>
   <string name="password_turned_off_text">Desligado</string>
   <string name="password_turned_on_text">Ligado</string>
-  <string name="password_unlock_title">Desbloqueio com palavra-passe</string>
+  <string name="password_unlock_title">Palavra-passe</string>
   <string name="payment_summary">Predefinido :%1$s</string>
   <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
   <string name="performance_category">Desempenho</string>
@@ -4613,7 +4615,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_toggle_summary">É necessário palavra-passe sempre que aceder aos itens privados</string>
   <string name="privacy_password_use_finger_dialog_mess">Pode também utilizar a sua impressão digital com a Protecção de Privacidade</string>
   <string name="privacy_password_use_finger_dialog_open">Definições</string>
-  <string name="privacy_password_use_finger_dialog_title">Desbloqueio com impressão digital</string>
+  <string name="privacy_password_use_finger_dialog_title">Impressão digital</string>
   <string name="privacy_password_use_finger_success">Ligado</string>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>

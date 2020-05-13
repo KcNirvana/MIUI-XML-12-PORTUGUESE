@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Notificações</string>
+  <string name="back">Voltar</string>
   <string name="cancel">Cancelar</string>
   <string name="category_other">Outras</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
