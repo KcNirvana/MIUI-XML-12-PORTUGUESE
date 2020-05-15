@@ -22,6 +22,7 @@
   <string name="cancel">Cancelar</string>
   <string name="compass_settings">Definições</string>
   <string name="copy">Copiar</string>
+  <string name="cta_agree_desc">Permita que esta aplicação se ligue à Internet e conceda as permissões opcionais listadas acima</string>
   <string name="cta_v2_app_purpose">mostrar direcções, coordenadas, pressão atmosférica e altitude actual</string>
   <string name="dialog_body_no_network">Não é possível ligar à rede</string>
   <string name="dialog_calibrat_altitude">A calibrar…</string>
