@@ -28,6 +28,14 @@
         <item quantity="other">%d gravações transferidas</item>
         <item quantity="one">%d gravação transferida</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Pesquisar entre %d gravações</item>
+        <item quantity="one">Pesquisar entre %d gravação</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Pesquisar entre %d gravações de chamadas</item>
+        <item quantity="one">Pesquisar entre %d gravação de chamada</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Encontrou %d gravações</item>
         <item quantity="one">Encontrou %d gravação</item>

@@ -71,6 +71,7 @@
   <string name="finddevice_miservice_notification_content">Bloquear o seu dispositivo remotamente se estiver perdido</string>
   <string name="finddevice_miservice_notification_title">Ligar Localizar Dispositivo</string>
   <string name="forget_password"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="help_and_feedback">Ajuda e comentários</string>
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
@@ -168,6 +169,8 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Memorizar a sua palavra-passe</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
+  <string name="micloud_find_device_guide_desc_pad">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
+  <string name="micloud_find_device_guide_desc_phone">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
   <string name="micloud_find_device_guide_content">Pode ser necessário enviar uma SMS para activar este serviço. Quando troca de cartões SIM, uma mensagem vai ser enviada automaticamente para reactivar esta funcionalidade</string>
   <string name="micloud_find_device_guide_fail_reopen">Pode ligar Localizar Dispositivo em Conta Mi - Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
@@ -181,7 +184,6 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
-  <string name="micloud_find_device_guide_title">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>

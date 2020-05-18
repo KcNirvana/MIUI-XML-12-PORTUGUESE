@@ -123,6 +123,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="error_unknown">Erro</string>
   <string name="expand_button_title">Avançado</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
+  <string name="help_and_feedback">Ajuda e comentários</string>
   <string name="hint_restore_cross_space">O layout do ecrã inicial pode ser mostrado incorrectamente se transferir itens entre espaços</string>
   <string name="home_hint_global_launcher">Launcher Poco</string>
   <string name="home_hint_other_launcher">Outro launcher</string>

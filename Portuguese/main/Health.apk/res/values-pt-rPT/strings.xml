@@ -18,8 +18,7 @@
   <string name="add_body_weight_button">Adicionar peso</string>
   <string name="add_body_weight_record_button">Adicionar peso</string>
   <string name="add_data_source">Adicionar origens de dados</string>
-  <string name="add_data_source_description">"Adicionar dados gerados por outros dispositivos no Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.
-Saúde suporta dispositivos adicionados na aplicação Mi Home. Se não conseguir localizar o dispositivo que quer adicionar, verifique se já o adicionou ao Mi Home primeiro"</string>
+  <string name="add_data_source_description">Adicionar dados gerados por outros dispositivos no Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes</string>
   <string name="add_data_source_login_and_open_sync">Iniciar sessão na sua Conta Mi e ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
   <string name="add_data_source_open_sync">Ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
   <string name="add_data_source_support_step">Este dispositivo não gera dados de contagem de passos. Pode trocar para outras origens de dados</string>
@@ -551,6 +550,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="remove">Remover</string>
   <string name="revert_to_default">Restaurar predefinições</string>
   <string name="run">Correr</string>
+  <string name="save">Guardar</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="sedentary_detail_title">Ficar sentado muito tempo é prejudicial</string>
   <string name="sedentary_enhance_remind">Vibrar também</string>
@@ -654,7 +654,7 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_service_background_running">O serviço de registo do sono está a ser executado em segundo plano</string>
   <string name="sleep_setting_title">Definições de sono</string>
   <string name="sleep_snore_audio_auto">Gravar automaticamente o ressonar e falar</string>
-  <string name="sleep_snore_audio_auto_desc">Saúde pode gravar o ressonar e falar automaticamente baseado na sua hora de dormir. As gravações vão parar quando acordar. Para proteger a sua privacidadeGravar as suas falas quando estiver a dormir e guardar o ficheiro no seu telefone para proteger a sua privacidade</string>
+  <string name="sleep_snore_audio_auto_desc">Saúde pode gravar o ressonar e falar automaticamente baseado na sua hora de dormir. As gravações vão parar quando acordar</string>
   <string name="sleep_snore_audio_close_desc">Pode desligar esta funcionalidade nas Definições</string>
   <string name="sleep_snore_audio_enable">Detecção automática ligada</string>
   <string name="sleep_snore_audio_enable_desc">O seu ressonar e falar vai ser gravado automaticamente quando for dormir</string>
@@ -766,7 +766,7 @@ baseados nas suas informações pessoais"</string>
   <string name="sync_status_in_progress">A sincronizar…</string>
   <string name="sync_status_network_failure">Não foi possível sincronizar. Ligue-se à rede e tente novamente</string>
   <string name="sync_status_never_done">Não sincronizado</string>
-  <string name="sync_status_oauth_error">Não foi possível sincronizar</string>
+  <string name="sync_status_oauth_error">Não foi possível sincronizar. Dê as permissões necessárias primeiro</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
   <string name="tb_card_on_using_list">Adicionado</string>
   <string name="tb_click_finish_stand">Ficar de pé não terminado por quase 1 hora. Toque para terminar</string>
@@ -851,6 +851,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_month_dialog_go_today">Seleccionados hoje</string>
   <string name="tb_month_dialog_select_date">Seleccionado %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Seleccionado %1$s. %s</string>
+  <string name="tb_multiple_selecte_all">Seleccionar tudo</string>
   <string name="tb_not_add_list">Não adicionado</string>
   <string name="tb_pause_detection">Pausar</string>
   <string name="tb_picker_day">Dia: %1$d</string>
@@ -880,6 +881,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_stand_day_ring">Pausas para ficar em pé hoje: %1$s. Tem de fazer pelo menos 12 hoje</string>
   <string name="tb_stand_wm_column_chart">Pausas para ficar em pé hoje %1$s e %2$s. Deslize horizontalmente para alterar o intervalo de tempo. Toque para ver detalhes</string>
   <string name="tb_stand_wm_column_click">%1$s. Pausas para ficar em pé: %2$d. %3$s</string>
+  <string name="tb_unmultiple_selecte_all">Desmarcar tudo</string>
   <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
   <string name="tb_user_account_unsigned">Toque para iniciar sessão na Conta Mi</string>
   <string name="tb_user_sleep_card_info">Objectivo diário de sono: %1$s.</string>

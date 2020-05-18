@@ -69,6 +69,12 @@
   <string name="mint_keyboard_oobe_terms">Política de Privacidade do teclado Mint</string>
   <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Utilização em %s</string>
+  <string name="mobile_network">Utilizar dados móveis</string>
+  <string name="move_data_dialog_box_le">Isto permite utilizar a ligação de dados móveis e GPS baseado nos pedidos do utilizador. Sincronizar contas e outros itens podem necessitar de utilizar dados móveis dependendo das especificações do telefone</string>
+  <string name="move_data_dialog_box_title">Utilizar dados móveis pode gerar custos adicionais. Utilizar dados móveis mesmo assim?</string>
+  <string name="move_data_dialog_cancel">Cancelar</string>
+  <string name="move_data_dialog_title">Pode restringir a ligação de dados nas Definições mais tarde</string>
+  <string name="move_data_dialog_use">Utilizar</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
   <string name="navigation_picker_gesture_guide">Guia de gestos</string>

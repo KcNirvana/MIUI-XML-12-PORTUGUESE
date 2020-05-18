@@ -300,6 +300,8 @@
   <string name="operation_show_sys">Mostrar ficheiros ocultos</string>
   <string name="operation_unfavorite">Remover dos favoritos</string>
   <string name="optional_change_wifi">Gerir ficheiros remotamente via Wi-Fi</string>
+  <string name="otg_data_transfer_success">Transferido com sucesso</string>
+  <string name="otg_data_transferring">A transferir ficheiros… Não desligue o armazenamento externo</string>
   <string name="otg_file_security_confirm">Copiar para o telefone</string>
   <string name="otg_file_security_details">Copie para o telefone</string>
   <string name="otg_file_security_note">Segurança OTG</string>

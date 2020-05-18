@@ -1219,6 +1219,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_otg_trackball_out">Trackball desligado</string>
   <string name="notification_otg_unknow_in">Dispositivo OTG ligado</string>
   <string name="notification_otg_unknow_out">Dispositivo OTG desligado</string>
+  <string name="notification_storage_float">Armazenamento externo</string>
   <string name="notification_tap_again">Toque novamente para abrir</string>
   <string name="notification_template_text">" tem uma notificação. Toque para ver"</string>
   <string name="open_camera_hint_text">Arrastar o ícone para abrir a Câmara</string>
@@ -1646,6 +1647,8 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_work">Perfil de trabalho</string>
   <string name="status_bar_style_settings">Notificações</string>
   <string name="status_bar_volte_label">HD</string>
+  <string name="status_unavailable">Indisponível</string>
+  <string name="storage_is_connecting">%1$s está ligado</string>
   <string name="stream_accessibility">Acessibilidade</string>
   <string name="stream_alarm">Alarmes</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>

@@ -785,6 +785,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
+  <string name="pref_module_settings">Modos</string>
   <string name="pref_more_mode_style_title">Modos da câmara</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Apenas pode gravar vídeos HD (720p) com 240fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">Full HD (1080p)</string>

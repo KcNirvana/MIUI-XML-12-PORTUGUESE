@@ -1429,7 +1429,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="color_led_incall_pulse_title">Utilizar para chamadas recebidas</string>
   <string name="color_led_lucky_dialog_message">Esta funcionalidade necessita da utilização do assistente de envelopes vermelhos. Ligar agora?</string>
   <string name="color_led_lucky_dialog_title">Ligar assistente de envelopes vermelhos</string>
-  <string name="color_led_music_mode_summary">Mostrar efeitos de luz rítmicos ao reproduzir músicas. Não funciona no modo Silêncio</string>
+  <string name="color_led_music_mode_summary">Mostrar efeitos de luz rítmicos ao reproduzir músicas. Não funciona no modo silêncio</string>
   <string name="color_led_music_mode_title">Utilizar para música</string>
   <string name="color_led_notification_pulse_title">Ligar para notificações com o ecrã desligado</string>
   <string name="color_led_red_more_feature">Efeitos especiais</string>
@@ -1551,6 +1551,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="content_capture">Conteúdo da aplicação</string>
   <string name="content_capture_summary">Permitir que as aplicações enviem conteúdo para o sistema Android</string>
   <string name="content_description_menu_button">Menu</string>
+  <string name="content_miui_music_mute_by_user">Reproduzir sons no modo silêncio?</string>
   <string name="contextual_card_dismiss_confirm_message">Remover esta sugestão?</string>
   <string name="contextual_card_dismiss_keep">Manter</string>
   <string name="contextual_card_dismiss_remove">Remover</string>
@@ -2368,7 +2369,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="face_intro_error_max">Já adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rosto</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Proteja o seu telefone com uma opção de bloqueio de ecrã para que ninguém o consiga utilizar se for roubado ou se o perder. Também precisa de uma opção de bloqueio de ecrã para configurar o desbloqueio facial. Toque em Cancelar e defina um PIN, um padrão ou uma palavra-passe</string>
-  <string name="face_unlock">Facial</string>
+  <string name="face_unlock">Desbloqueio facial</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto consome mais bateria</string>
   <string name="face_unlock_by_notification_screen_on_title">Permitir o desbloqueio por rosto</string>
@@ -6192,6 +6193,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_layout_current">Tamanho do texto</string>
   <string name="title_layout_current2">Tamanho do texto</string>
   <string name="title_layout_current2_weight">Tamanho do texto</string>
+  <string name="title_miui_music_mute_by_user">Modo silêncio</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="to_close">Desligar</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
@@ -6358,7 +6360,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após ligar</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Segurança fraca</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Desbloqueio facial</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Facial</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivado pelo administrador</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desligar o padrão, PIN ou palavra-passe</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Alterar ecrã de bloqueio</string>

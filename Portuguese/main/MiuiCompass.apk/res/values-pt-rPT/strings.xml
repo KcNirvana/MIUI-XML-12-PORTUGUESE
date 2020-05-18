@@ -24,7 +24,8 @@
   <string name="copy">Copiar</string>
   <string name="cta_agree_desc">Permita que esta aplicação se ligue à Internet e conceda as permissões opcionais listadas acima</string>
   <string name="cta_v2_app_purpose">mostrar direcções, coordenadas, pressão atmosférica e altitude actual</string>
-  <string name="dialog_body_no_network">Não é possível ligar à rede</string>
+  <string name="dialog_body_no_network">Ligue-se ao Wi-Fi ou ligue os dados móveis</string>
+  <string name="dialog_body_no_network_global">Ligue-se ao Wi-Fi ou ligue os dados móveis</string>
   <string name="dialog_calibrat_altitude">A calibrar…</string>
   <string name="dialog_title_no_network">Não foi possível ligar à rede</string>
   <string name="direction_east">E</string>
@@ -56,6 +57,14 @@
   <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Ligar-se à Internet para calibrar a altitude?</string>
   <string name="mobiledata_alert_dialog_title">Aviso de utilização de dados</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Solte para actualizar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="not_set">Não definido</string>
   <string name="open_perm_msg">A Bússola necessita de acesso à localização e câmara. Permitir?</string>
   <string name="open_perm_title">Permissões necessárias</string>

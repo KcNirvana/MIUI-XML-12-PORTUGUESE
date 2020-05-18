@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="agree_description">Permita que esta aplicação se ligue à Internet para utilizar todas as suas funcionalidades</string>
   <string name="alert_message_clear_records">Eliminar as gravações seleccionadas?</string>
   <string name="alert_message_delete_local_record">Eliminar esta gravação?</string>
   <string name="alert_message_delete_record">Eliminar a gravação do seu dispositivo vai também eliminar da Xiaomi Cloud. Eliminar?</string>
