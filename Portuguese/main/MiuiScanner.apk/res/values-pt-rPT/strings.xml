@@ -69,7 +69,7 @@
   <string name="continue_waiting">Continuar a aguardar</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_text_success">Texto copiado</string>
-  <string name="copy_tracknum">Copiar código de rastreio</string>
+  <string name="copy_tracknum">Copiar código de pesquisa</string>
   <string name="crop_cancel_description">Cancelar</string>
   <string name="crop_title_study">Recortar a foto</string>
   <string name="crop_done_description">Concluído</string>
