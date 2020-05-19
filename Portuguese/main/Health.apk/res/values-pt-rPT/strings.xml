@@ -262,15 +262,15 @@ Pode seleccionar uma origem de dados diferente em Mais &gt; Origens de dados"</s
   <string name="exercise_info_tool_bar_title">Actividade</string>
   <string name="exercise_information_label">Forneça as suas informações para tornar as estatísticas mais precisas</string>
   <string name="exercise_intensity">Intensidade</string>
-  <string name="exercise_motor_perception">Rastrear exercícios automaticamente</string>
-  <string name="exercise_motor_perception_description">Leve o seu dispositivo durante o dia para rastrear exercícios automaticamente</string>
+  <string name="exercise_motor_perception">Registar exercícios automaticamente</string>
+  <string name="exercise_motor_perception_description">Leve o seu dispositivo durante o dia para registar exercícios automaticamente</string>
   <string name="exercise_no_question">Porque é que não consegue ver as suas estatísticas?</string>
   <string name="exercise_notification_content">%1$d min(s) de exercício (%2$d cal)</string>
   <string name="exercise_notification_meet_title">Passos de hoje: %d. Objectivo atingido!</string>
   <string name="exercise_notification_no_meet_title">Passos de hoje: %d. Continue para atingir o objectivo</string>
-  <string name="exercise_question_answer_one">"1. Alguns dispositivos não estão equipados com sensores de baixo consumo de bateria. Saúde não rastreia dados de actividade para poupar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+  <string name="exercise_question_answer_one">"1. Alguns dispositivos não estão equipados com sensores de baixo consumo de bateria. Saúde não regista os dados de actividade para poupar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente em Saúde &gt; Menu &gt; Origens de dados &gt; Adicionar origens de dados"</string>
-  <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o telefone e verifique se o rastreio começa a funcionar normalmente</string>
+  <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o telefone e verifique se o registo começa a funcionar normalmente</string>
   <string name="exercise_record">Histórico de exercícios</string>
   <string name="exercise_record_no_data">Sem itens</string>
   <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
@@ -585,32 +585,32 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sleep_deep_light_no_data_improvement">Não foi possível detectar as fases do sono. Estamos a melhorar o nosso algoritmo</string>
   <string name="sleep_detection_enable">Analisar ciclo de sono</string>
   <string name="sleep_detection_feedback">Comentários</string>
-  <string name="sleep_detection_guide_four_description">O rastreio do sono vai consumir cerca de 1% da sua bateria diariamente</string>
-  <string name="sleep_detection_guide_four_high_power_description">Certifique-se que o seu dispositivo está suficientemente carregado antes de ir dormir. A bateria fraca pode interromper o rastreio do sono</string>
+  <string name="sleep_detection_guide_four_description">O registo do sono vai consumir cerca de 1% da sua bateria diariamente</string>
+  <string name="sleep_detection_guide_four_high_power_description">Certifique-se que o seu dispositivo está suficientemente carregado antes de ir dormir. A bateria fraca pode interromper o registo do sono</string>
   <string name="sleep_detection_guide_four_high_power_title">Manter o seu dispositivo carregado</string>
   <string name="sleep_detection_guide_four_title">Baixo consumo de bateria</string>
-  <string name="sleep_detection_guide_one_description">Coloque o seu dispositivo junto a si para rastrear movimentos do corpo e gerar estatísticas do ciclo do sono</string>
-  <string name="sleep_detection_guide_one_title">Rastrear o seu sono</string>
+  <string name="sleep_detection_guide_one_description">Coloque o seu dispositivo junto a si para registar os movimentos do corpo e gerar estatísticas do ciclo do sono</string>
+  <string name="sleep_detection_guide_one_title">Registar o seu sono</string>
   <string name="sleep_detection_guide_schedule_hint_one">"Sem a hora de dormir, as suas estatísticas não ser precisas. "</string>
   <string name="sleep_detection_guide_schedule_hint_two">Defina a sua hora de dormir</string>
   <string name="sleep_detection_guide_schedule_hint_two_details">Defina a sua hora de dormir em Relógio</string>
-  <string name="sleep_detection_guide_three_description">"Quando a sua hora de dormir estiver configurada, o seu sono vai ser rastreado automaticamente. "</string>
+  <string name="sleep_detection_guide_three_description">"Quando a sua hora de dormir estiver configurada, o seu sono vai ser registado automaticamente. "</string>
   <string name="sleep_detection_guide_three_title">Gerar estatísticas automaticamente</string>
   <string name="sleep_detection_guide_two_description">Para obter estatísticas mais precisas, coloque o seu dispositivo ao lado ou em baixo da almofada e certifique-se que não está a mais de 50 cm do seu corpo</string>
   <string name="sleep_detection_guide_two_title">Coloque o dispositivo junto à sua almofada</string>
   <string name="sleep_detection_hint">As estatísticas são fornecidas apenas para referência. Não podem ser utilizadas como fundamento para diagnósticos médicos</string>
   <string name="sleep_detection_question_four_answer">Cada dispositivo está equipado com diferentes sensores. O consumo de bateria pode variar em cada um</string>
-  <string name="sleep_detection_question_four_title">Porque é que dispositivos diferentes consomem diferentes quantidades de bateria para rastrear o sono?</string>
-  <string name="sleep_detection_question_one_answer">"Quando o dispositivo é desligado, reiniciado ou a bateria estiver fraca, o rastreio do sono vai ser interrompido porque os sensores não conseguem obter e analisar dados. Nestes casos, as estatísticas do sono vão aparecer incompletas.
+  <string name="sleep_detection_question_four_title">Porque é que dispositivos diferentes consomem diferentes quantidades de bateria para registar o sono?</string>
+  <string name="sleep_detection_question_one_answer">"Quando o dispositivo é desligado, reiniciado ou a bateria estiver fraca, o registo do sono vai ser interrompido porque os sensores não conseguem obter e analisar dados. Nestes casos, as estatísticas do sono vão aparecer incompletas.
 Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas de desligar ou actualizações nocturnas de sistema"</string>
   <string name="sleep_detection_question_one_answer_1">"As fases do sono profundo e leve são detectadas com base nos dados de movimento do corpo obtidos pelos sensores do seu dispositivo. Motivos pelos quais pode não conseguir ver as estatísticas:
 1. Saúde não conseguiu obter dados. Isto pode acontecer quando o seu dispositivo é desligado quando vai dormir, bateria fraca ou a aplicação não tem permissão de execução em segundo plano. Dê permissão de início automático a Saúde e adicione-a às excepções da poupança de bateriaa para prevenir estas situações
 2. Saúde não conseguiu analisar os dados obtidos. Isto pode acontecer quando o seu é colocado muito longe do seu corpo quando está a dormir ou os movimentos do seu corpo podem ser muito subtis para fazer suposições sobre as alterações no seu ciclo de sono. Estamos constantemente a melhorar os nossos algoritmos para fazer com que Saúde analise melhor seu sono"</string>
   <string name="sleep_detection_question_one_title">Porque é que as minhas estatísticas estão incompletas?</string>
   <string name="sleep_detection_question_one_title_1">Porque é que eu não vejo as minhas estatísticas de ciclo de sono?</string>
-  <string name="sleep_detection_question_three_answer">O seu dispositivo rastreia os movimentos do seu corpo durante o sono utilizando sensores. Para tornar as estatísticas mais precisas, coloque o dispositivo numa superfície macia junto ao seu corpo. Evite colocá-lo em mesas de cabeceira ou muito longe do colchão</string>
+  <string name="sleep_detection_question_three_answer">O seu dispositivo regista os movimentos do seu corpo durante o sono utilizando sensores. Para tornar as estatísticas mais precisas, coloque o dispositivo numa superfície macia junto ao seu corpo. Evite colocá-lo em mesas de cabeceira ou muito longe do colchão</string>
   <string name="sleep_detection_question_three_title">Como posso tornar as minhas estatísticas mais precisas?</string>
-  <string name="sleep_detection_question_two_answer">Os seus ciclos de sono são analisados no dispositivo localmente. O rastreio do sono vai funcionar mesmo quando não estiver ligado à rede ou a ligação for interrompida</string>
+  <string name="sleep_detection_question_two_answer">Os seus ciclos de sono são analisados no dispositivo localmente. O registo do sono vai funcionar mesmo quando não estiver ligado à rede ou a ligação for interrompida</string>
   <string name="sleep_detection_question_two_title">Devo me ligar à Internet para analisar ciclos de sono?</string>
   <string name="sleep_detector_content">Saúde está a registar o seu sono em segundo plano</string>
   <string name="sleep_detector_title">Registo de sono</string>
@@ -677,7 +677,7 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="snore">Ressonar</string>
   <string name="snore_detection_abnormal_notification_button">Retomar</string>
   <string name="snore_detection_abnormal_notification_content">Não é possível utilizar o microfone</string>
-  <string name="snore_detection_abnormal_notification_title">Erro no rastreio do sono</string>
+  <string name="snore_detection_abnormal_notification_title">Erro no registo do sono</string>
   <string name="snore_detection_abnormal_state">A sessão foi interrompida</string>
   <string name="snore_detection_abnormal_state_description">Microfone desligado</string>
   <string name="snore_detection_close_title">Desligar a detecção de ressonar e falar?</string>
@@ -961,8 +961,8 @@ Actualizar agora?"</string>
   <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
-  <string name="welcome_exercise">Rastrear exercícios</string>
-  <string name="welcome_exercise_description">Leve o seu dispositivo consigo para rastrear exercícios automaticamente</string>
+  <string name="welcome_exercise">Registar exercícios</string>
+  <string name="welcome_exercise_description">Leve o seu dispositivo consigo para registar os exercícios automaticamente</string>
   <string name="welcome_sedentary">Manter-se em movimento</string>
   <string name="welcome_sedentary_description">O Saúde pode lembrá-lo para se manter em pé quando estiver sentado muito tempo</string>
   <string name="welcome_sleep">Analisar ciclo de sono</string>

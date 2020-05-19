@@ -2380,7 +2380,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_look_all_permission_status">Todas as permissões</string>
   <string name="privacy_look_all_permission_times">Todas as aplicações</string>
   <string name="privacy_manage_title">Gerir</string>
-  <string name="privacy_mask_summary">Em vez do seu identificador real, a MIUI vai fornecer um ID Virtual (OAID) para aplicações de terceiros. Isto impede que o seu comportamento e preferências sejam rastreados e protege a sua privacidade</string>
+  <string name="privacy_mask_summary">Em vez do seu identificador único, a MIUI vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações registem o seu comportamento e preferências e protege a sua privacidade</string>
   <string name="privacy_mask_title">ID Virtual ligado</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="privacy_more_info_title">Saber mais sobre as funcionalidade de protecção de privacidade</string>

@@ -1939,7 +1939,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_name_input_overlength">Passou o limite de caracteres</string>
   <string name="device_name_usage_point">Outros dispositivos próximos podem ver este nome</string>
   <string name="device_oaid">ID de dispositivo</string>
-  <string name="device_oaid_desc">Em vez do seu identificador único, a MIUI vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações rastreiem o seu comportamento e preferências e protege a sua privacidade</string>
+  <string name="device_oaid_desc">Em vez do seu identificador único, a MIUI vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações registem o seu comportamento e preferências e protege a sua privacidade</string>
   <string name="device_oaid_title">ID virtual</string>
   <string name="device_of_someone">%2$s de %1$s</string>
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
