@@ -4004,7 +4004,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="not_allowed">O seu cartão SIM não permite uma ligação a esta rede</string>
   <string name="not_installed">Não instalado</string>
   <string name="not_set">Não definido</string>
-  <string name="notch_and_status_bar_settings">Monocelha e barra de estado</string>
+  <string name="notch_and_status_bar_settings">Centro de controlo e barra de estado</string>
   <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
   <string name="notch_force_black_title">Ocultar monocelha</string>
   <string name="notch_settings">Monocelha</string>

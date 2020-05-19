@@ -672,6 +672,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incall_error_supp_service_transfer">Não é possível transferir</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
   <string name="incall_error_wfc_only_no_wireless_network">Ligue-se a uma rede sem fios para fazer uma chamada</string>
+  <string name="incall_number_anonymous">Número desconhecido</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
   <string name="international_calls">Apenas internacionais</string>
   <string name="input_password">Introduzir palavra-passe</string>
@@ -854,8 +855,10 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante a chamada</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erro do cartão SIM</string>
   <string name="msim_setting_categery_title">Informações do cartão SIM</string>
-  <string name="msim_setting_default_data">Predefinido para dados</string>
-  <string name="msim_setting_default_voice">Predefinido para chamadas</string>
+  <string name="msim_setting_default_data">Dados</string>
+  <string name="msim_setting_default_data_description">SIM dados %d</string>
+  <string name="msim_setting_default_voice">Chamadas</string>
+  <string name="msim_setting_default_voice_description">SIM %d</string>
   <string name="msim_setting_install_virtual_sim_install">Instalar</string>
   <string name="msim_setting_install_virtual_sim_message">Instalar Serviços de Operadora Mi para comprar cartões SIM e gerir o seu plano</string>
   <string name="msim_setting_install_virtual_sim_tip">Serviços de Operadora Mi</string>

@@ -300,6 +300,8 @@
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar áudio</string>
   <string name="audio_effect_settings">Escolher tipo de auriculares</string>
+  <string name="auto_brightness_off">Brilho automático desligado</string>
+  <string name="auto_brightness_on">Brilho automático ligado</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desactivados. Duplo toque em qualquer botão para os activar</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação activados</string>
   <string name="available_via_passpoint">Disponível através de %1$s</string>
