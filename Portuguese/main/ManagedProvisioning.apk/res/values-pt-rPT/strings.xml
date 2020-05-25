@@ -18,7 +18,7 @@
   <string name="cant_set_up_device">Não é possível configurar dispositivo</string>
   <string name="cant_set_up_profile">Não é possível configurar perfil</string>
   <string name="change_device_launcher">Alterar o launcher</string>
-  <string name="character_counter_content_description">Caracteres introduzidos %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chip_text">Chip texto</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>

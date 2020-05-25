@@ -41,6 +41,10 @@
   <string name="alert_weather_enable_settings_summary">Receber alertas oficiais de tempo</string>
   <string name="alert_weather_enable_settings_title">Alertas de tempo</string>
   <string name="app_name">Tempo</string>
+  <string name="aqi_15_days_desc">Previsão IQA para 15 dias</string>
+  <string name="aqi_24_hours_desc">Previsão IQA horária</string>
+  <string name="aqi_48_hours_desc">Previsão IQA para 48 horas</string>
+  <string name="aqi_5_days_desc">Previsão IQA para 5 dias</string>
   <string name="aqi_data_source">Fornecido por Colorful Clouds</string>
   <string name="aqi_desc">Indíce de qualidade do ar</string>
   <string name="aqi_detail_24_hours">Previsão horária</string>
@@ -120,6 +124,7 @@
   <string name="first_start_network_msg">Esta aplicação necessita de uma ligação à Internet para aceder à sua localização para funcionar normalmente</string>
   <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
+  <string name="global_not_enable_warning">Não é possível utilizar esta aplicação. Não foi instalada de origens oficiais</string>
   <string name="gps_hint">Local actual</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Agora</string>
@@ -311,7 +316,10 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="weather_alert">Alertas de tempo</string>
   <string name="weather_introduce">Sempre consigo, faça chuva ou sol</string>
+  <string name="weather_main_aqi_desc">IQA</string>
+  <string name="weather_main_minute_hour">Precipitação 2hr</string>
   <string name="weather_permission_agree">Aceitar</string>
+  <string name="widget_cta_not_agree">Toque para obter informações do tempo</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>

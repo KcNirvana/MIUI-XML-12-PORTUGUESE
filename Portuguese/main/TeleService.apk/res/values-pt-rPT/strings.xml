@@ -858,7 +858,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_setting_default_data">Dados</string>
   <string name="msim_setting_default_data_description">SIM dados %d</string>
   <string name="msim_setting_default_voice">Chamadas</string>
-  <string name="msim_setting_default_voice_description">SIM %d</string>
+  <string name="msim_setting_default_voice_description">SIM %d para chamadas</string>
   <string name="msim_setting_install_virtual_sim_install">Instalar</string>
   <string name="msim_setting_install_virtual_sim_message">Instalar Serviços de Operadora Mi para comprar cartões SIM e gerir o seu plano</string>
   <string name="msim_setting_install_virtual_sim_tip">Serviços de Operadora Mi</string>

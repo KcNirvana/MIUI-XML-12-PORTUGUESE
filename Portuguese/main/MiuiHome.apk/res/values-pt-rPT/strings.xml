@@ -350,6 +350,8 @@
   <string name="open_personal_assistant_dialog_title">Desligar Assistente</string>
   <string name="open_personal_assistant_title">Assistente</string>
   <string name="out_of_space">Não existe mais espaço neste ecrã inicial</string>
+  <string name="perfect_icons_switch_summary">Renderizar animações em ícones de aplicações de terceiros</string>
+  <string name="perfect_icons_switch_title">Animações de ícones</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos sem a intervenção do utilizador</string>
   <string name="permdesc_install_widget">Permite que uma aplicação adicione widgets sem a intervenção do utilizador</string>
   <string name="permdesc_read_settings">Permite que uma aplicação leia as definições e os atalhos da página inicial</string>

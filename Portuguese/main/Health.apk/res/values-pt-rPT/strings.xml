@@ -17,7 +17,7 @@
   <string name="add_record">Adicionar</string>
   <string name="add_body_weight_button">Adicionar peso</string>
   <string name="add_body_weight_record_button">Adicionar peso</string>
-  <string name="add_data_source">Adicionar dados</string>
+  <string name="add_data_source">Adicionar origens de dados</string>
   <string name="add_data_source_description">Adicionar dados gerados por outros dispositivos no Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes</string>
   <string name="add_data_source_login_and_open_sync">Iniciar sessão na sua Conta Mi e ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
   <string name="add_data_source_open_sync">Ligar a sincronização com a Xiaomi Cloud para adicionar origens de dados</string>
@@ -100,7 +100,7 @@ para adicionar cartões"</string>
   <string name="channel_desc_background">Para fornecer serviços em segundo plano</string>
   <string name="channel_id_background_service">Serviços em segundo plano</string>
   <string name="channel_name_background">Serviços em segundo plano</string>
-  <string name="character_counter_content_description">Caracteres introduzidos %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chart_no_data">Sem dados</string>
   <string name="chip_text">Texto do chip</string>

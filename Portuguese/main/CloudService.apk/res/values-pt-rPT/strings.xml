@@ -155,7 +155,9 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_dspt">"Sincronize os seus contactos, mensagens, registos de chamadas e outros itens em todos os dispositivos.
 Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_dspt_provision">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
+  <string name="micloud_dspt_provision_china">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_dspt_provision_xms">Utilizar a Xiaomi Cloud para sincronizar dados</string>
+  <string name="micloud_dspt_provision_xms_china">Utilizar a Xiaomi Cloud para sincronizar dados</string>
   <string name="micloud_find_device_close_alert_content">Se desligar Localizar Dispositivo, não vai poder localizar o seu dispositivo em caso de o perder</string>
   <string name="micloud_find_device_close_alert_negtive">Desligar mesmo assim</string>
   <string name="micloud_find_device_close_alert_positive">Manter ligado</string>
@@ -169,8 +171,8 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Memorizar a sua palavra-passe</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
-  <string name="micloud_find_device_guide_desc_pad">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
-  <string name="micloud_find_device_guide_desc_phone">"Iniciar sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; para localizar, bloquear ou formatar o seu dispositivo. Isto pode ajudá-lo a encontrar o seu dispositivo se estiver perdido &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Ver ajuda]&lt;/a&gt;"</string>
+  <string name="micloud_find_device_guide_desc_pad">Se o seu dispositivo estiver perdido, inicie sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; noutro dispositivo para localizar, bloquear ou formatar o dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;</string>
+  <string name="micloud_find_device_guide_desc_phone">Se o seu dispositivo estiver perdido, inicie sessão em &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; noutro dispositivo para localizar, bloquear ou formatar o dispositivo perdido. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Ver detalhes&lt;/a&gt;</string>
   <string name="micloud_find_device_guide_content">Pode ser necessário enviar uma SMS para activar este serviço. Quando troca de cartões SIM, uma mensagem vai ser enviada automaticamente para reactivar esta funcionalidade</string>
   <string name="micloud_find_device_guide_fail_reopen">Pode ligar Localizar Dispositivo em Conta Mi - Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
@@ -209,9 +211,6 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_main_sync_mode_title">Sincronização rápida</string>
   <string name="micloud_main_wait_charge">Carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wait_charge_sleep">Desligue o ecrã e carregue o dispositivo totalmente para continuar a sincronização</string>
-  <string name="micloud_main_wait_wlan">A aguardar por Wi-Fi</string>
-  <string name="micloud_main_wait_wlan_charge">Ligue-se ao Wi-Fi e carregue o dispositivo totalmente para continuar a sincronização</string>
-  <string name="micloud_main_wait_wlan_charge_sleep">Ligue-se ao Wi-Fi, desligue o ecrã e carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_manage_space_data">Gerir dados da Xiaomi Cloud</string>
   <string name="micloud_manaul_sync_success_button_text">Ver detalhes</string>
   <string name="micloud_manaul_sync_success_time_prefix">Última sincronização: %s</string>
@@ -251,6 +250,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_notif_content_clipboard_push">Pode colar em qualquer lugar</string>
   <string name="micloud_notif_content_battery_low">A bateria está demasiado fraca</string>
   <string name="micloud_notif_content_depend_wifi">Ligar ao Wi-Fi para sincronizar</string>
+  <string name="micloud_notif_content_depend_wifi_china">Ligar ao Wi-Fi para sincronizar</string>
   <string name="micloud_notif_content_dirty_data">Detalhes</string>
   <string name="micloud_notif_content_master_depend_wifi">Ligue-se ao Wi-Fi ou altere as definições de sincronização</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
@@ -294,6 +294,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_setting_sms_summary">SMS e MMS</string>
   <string name="micloud_setting_sms_summary_for_google_csp">Mensagens de texto</string>
   <string name="micloud_setting_wifi_summary">Definições Wi-Fi</string>
+  <string name="micloud_setting_wifi_summary_china">Definições Wi-Fi</string>
   <string name="micloud_space_applist_detail">Gerir aplicações no ecrã inicial</string>
   <string name="micloud_space_applist_title">Gerir aplicações</string>
   <string name="micloud_space_duokan_detail">Transferir e gerir ebooks com a aplicação Duokan</string>
@@ -325,6 +326,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_sync_result_secure_space_limit">Não sincronize itens do Segundo espaço</string>
   <string name="micloud_sync_result_sim_activated_error">Não foi possível activar o cartão SIM</string>
   <string name="micloud_sync_result_wifi_only">Este item é demasiado grande. Sincronizar apenas quando ligado ao Wi-Fi</string>
+  <string name="micloud_sync_result_wifi_only_china">Este item é demasiado grande. Sincronizar apenas quando ligado ao Wi-Fi</string>
   <string name="micloud_upgrade_member">Obter armazenamento</string>
   <string name="micloud_user_space_title">Espaço de armazenamento</string>
   <string name="micloud_warn_full_sum">Novos itens não vão ser sincronizados com a Xiaomi Cloud</string>
@@ -375,6 +377,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only_china">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="priv_dialog_finddevice_all_purpose_pad">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="priv_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
@@ -478,7 +481,9 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sina_token_invalid_warning">A conta Weibo é inválida. Adicione-a novamente</string>
   <string name="some_sync_item_close">%d estão desligados</string>
   <string name="soundrecorder_sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
+  <string name="soundrecorder_sync_only_in_wifi_china">Utilizar apenas Wi-Fi para sincronizar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não vai utilizar dados móveis para transferir ou enviar gravações</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary_china">O Gravador não vai utilizar dados móveis para transferir ou enviar gravações</string>
   <string name="soundrecorder_sync_records">Sincronizar com a Xiaomi Cloud</string>
   <string name="special_func_title">Funcionalidades especiais</string>
   <string name="starred_contact">Favoritos</string>
@@ -494,6 +499,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sub_alert_notif_title">Sincronizar com a Xiaomi Cloud</string>
   <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens com fotos, áudio ou outro tipo de multimédia quando estiver ligado a uma rede Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
+  <string name="sub_sync_item_sms_title_wifi_only_china">Utilizar apenas Wi-Fi para sincronizar MMS</string>
   <string name="sync_detail_summary_master_sync_off">Sincronização desligada</string>
   <string name="sync_detail_summary_off">Sincronização desligada</string>
   <string name="sync_detail_text">Detalhes da sincronização</string>
@@ -504,6 +510,7 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sync_dspt_entrance_provision_confirm_open">Utilizar a Xiaomi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Não utilizar a Xiaomi Cloud?</string>
   <string name="sync_dspt_entrance_provision_network">Esta aplicação necessita de aceder à Internet para funcionar normalmente</string>
+  <string name="sync_dspt_entrance_provision_network_china">Esta aplicação necessita de aceder à Internet para funcionar normalmente</string>
   <string name="sync_dspt_entrance_provision_skip">Ignorar este passo</string>
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
   <string name="sync_dspt_provision3">". Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições.

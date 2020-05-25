@@ -576,7 +576,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="automatic_brightness">Brilho automático</string>
   <string name="automatic_storage_manager_activation_warning">O seu armazenamento está a ser gerido pelo armazenamento inteligente</string>
   <string name="automatic_storage_manager_days_title">Remover fotos e vídeos</string>
-  <string name="automatic_storage_manager_deactivation_warning">Desligar o rmazenamento inteligente?</string>
+  <string name="automatic_storage_manager_deactivation_warning">Desligar o armazenamento inteligente?</string>
   <string name="automatic_storage_manager_freed_bytes">"Foi disponibilizado um total de %1$s
 
 Última execução: %2$s"</string>
@@ -1343,7 +1343,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="change_wifi_state_title">Controlo do Wi-Fi</string>
   <string name="channel_group_notifications_off_desc">O Android está a bloquear a apresentação deste grupo de notificações neste dispositivo</string>
   <string name="channel_notifications_off_desc">O Android está a bloquear a apresentação desta categoria de notificações neste dispositivo</string>
-  <string name="character_counter_content_description">Caracteres introduzidos %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="charge_length_format">%1$s atrás</string>
   <string name="charging_sounds_title">Som de carregamento</string>
@@ -4004,7 +4004,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="not_allowed">O seu cartão SIM não permite uma ligação a esta rede</string>
   <string name="not_installed">Não instalado</string>
   <string name="not_set">Não definido</string>
-  <string name="notch_and_status_bar_settings">Centro de controlo e barra de estado</string>
+  <string name="notch_and_status_bar_settings">Monocelha e barra de estado</string>
   <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
   <string name="notch_force_black_title">Ocultar monocelha</string>
   <string name="notch_settings">Monocelha</string>
@@ -4616,7 +4616,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_toggle_summary">É necessário palavra-passe sempre que aceder aos itens privados</string>
   <string name="privacy_password_use_finger_dialog_mess">Pode também utilizar a sua impressão digital com a Protecção de Privacidade</string>
   <string name="privacy_password_use_finger_dialog_open">Definições</string>
-  <string name="privacy_password_use_finger_dialog_title">Impressão digital</string>
+  <string name="privacy_password_use_finger_dialog_title">Imp. digital</string>
   <string name="privacy_password_use_finger_success">Ligado</string>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>
@@ -6203,8 +6203,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toggle_auto_speaker_preference_title">Trocar para altifalante automaticamente</string>
   <string name="toggle_collapse_after_clicked_title">Fechar depois de tocar</string>
   <string name="total">Não incomodar</string>
-  <string name="total_info">Silenciar sons e desligar vibração excepto para os alarmes</string>
-  <string name="total_info_no_vibrator">Silenciar sons excepto para os alarmes</string>
+  <string name="total_info">Os sons e vibração vão ser desligados excepto para os alarmes</string>
+  <string name="total_info_no_vibrator">Os sons vão ser desligados excepto para os alarmes</string>
   <string name="total_memory">Memória total</string>
   <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>

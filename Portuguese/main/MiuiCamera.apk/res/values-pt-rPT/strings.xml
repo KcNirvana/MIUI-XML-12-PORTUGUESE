@@ -591,6 +591,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_hdr_entry_off">Deslig.</string>
   <string name="pref_camera_hfr_entry_off">Deslig.</string>
   <string name="pref_camera_heic_image_format_description">As fotos no formato HEIF ocupam menos espaço mas não suportadas por algumas aplicações</string>
+  <string name="pref_camera_heic_image_format_description2">"O formato HEIF poupa espaço de armazenamento mas não é suportado por algumas aplicações. Não pode tirar fotos ao vivo e remover marcas d'água em HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
   <string name="pref_camera_histogram_entry_enable">Ligar</string>

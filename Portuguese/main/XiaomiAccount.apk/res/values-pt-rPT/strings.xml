@@ -80,7 +80,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="cloud_description_closed">Ocupado | Sinc. desligada</string>
   <string name="cloud_description_normal">Ocupado</string>
   <string name="cloud_service">Xiaomi Cloud</string>
-  <string name="collect_diagnosis_log">Gerar registo de diagnóstico</string>
+  <string name="collect_diagnosis_log">Gerar registos de diagnóstico</string>
   <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>

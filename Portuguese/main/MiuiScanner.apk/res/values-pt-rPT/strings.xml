@@ -196,7 +196,11 @@
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">Não foi possível ler o código</string>
   <string name="request_server_failed">Não foi possível ligar ao servidor</string>
-  <string name="refresh">Actualizar</string>
+  <string name="saveDone">Guardado com sucesso</string>
+  <string name="scanHistory">Histórico</string>
+  <string name="scanHistory_close">Desligar</string>
+  <string name="scanHistory_isOpen">Iniciar o registo do histórico de itens digitalizados?</string>
+  <string name="scanHistory_open">Ligar</string>
   <string name="scan_result">Resultados</string>
   <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>
   <string name="search_menu_title">Pesquisa</string>

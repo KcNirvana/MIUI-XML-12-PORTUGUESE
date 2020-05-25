@@ -35,7 +35,7 @@ d 'de' MMMM"</string>
   <string name="below_image">Baixo</string>
   <string name="btn_know">Percebi</string>
   <string name="cancel">Cancelar</string>
-  <string name="character_counter_content_description">Caracteres introduzidos %1$d de %2$d</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="chip_text">Texto do chip</string>
   <string name="choose_aod_style">Seleccionar tema</string>
@@ -49,6 +49,7 @@ d 'de' MMMM"</string>
   <string name="deep_space_planet_des">Este tema reflete as mudanças de luz que acontecem ao seu redor durante o dia. O amanhecer e pôr-do-sol neste tema estão sincronizados com a sua localização</string>
   <string name="delete">Eliminar</string>
   <string name="digital_clock">Digital</string>
+  <string name="disable_aod_in_dark_room">Desligar quando estiver muito tempo no escuro</string>
   <string name="disable_aod_in_power_save_mode">Desligar quando a poupança de bateria estiver ligada</string>
   <string name="disable_aod_in_power_save_mode_summary">Não mostrar itens para poupar bateria</string>
   <string name="error_icon_content_description">Erro</string>

@@ -221,7 +221,7 @@
   <string name="fail_to_view_attachment">O anexo não está disponível</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
-  <string name="failed_to_send">Erro ao enviar</string>
+  <string name="failed_to_send">Não foi possível enviar</string>
   <string name="fake_cell_alert_detect_error">Isto não foi enviado por uma célula falsa</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
   <string name="fake_cell_checking_hint">A verificar segurança…</string>

@@ -7,6 +7,11 @@
   <string name="category_setting">Definições</string>
   <string name="close_panel">Desligar menu flutuante</string>
   <string name="customize_entries">Seleccionar atalhos</string>
+  <string name="edge_distance_pref_summary">Toque nas área de ligar junto às laterais do ecrã para ligar o menu flutuante</string>
+  <string name="edge_distance_pref_title">Áreas de ligar</string>
+  <string name="edge_mode_custom_summary">Ajustar o tamanho das áreas de ligar junto das laterais do ecrã</string>
+  <string name="edge_mode_custom_title">Personalizado</string>
+  <string name="edge_mode_default_title">Predefinido</string>
   <string name="enable_touch_assistant">Ligar menu flutuante</string>
   <string name="function_settings">Definições do atalho</string>
   <string name="handy_mode_default_to_close_whether_open">O Modo Uma Mão está desligado por defeito Ligar Modo Uma Mão?</string>

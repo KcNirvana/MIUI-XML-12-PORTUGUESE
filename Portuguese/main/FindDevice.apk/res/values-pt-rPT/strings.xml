@@ -44,7 +44,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
   <string name="passport_notification_need_unlock_again">Tente desbloquear novamente</string>
   <string name="passport_notification_processing">A processar…</string>
-  <string name="passport_trust_device">Confiar neste dispositivo</string>
+  <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verify">Verificar</string>
   <string name="password">Palavra-passe</string>

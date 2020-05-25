@@ -263,6 +263,8 @@
   <string name="app_behavior_start_from_notification_single">Esta aplicação foi iniciada por uma notificação</string>
   <string name="app_behavior_start_from_recent">%1s foi iniciada de Recentes</string>
   <string name="app_behavior_start_from_recent_single">Esta aplicação foi iniciada de Recentes</string>
+  <string name="app_behavior_start_from_widget">%1s foi iniciada por um widget</string>
+  <string name="app_behavior_start_from_widget_single">Esta aplicação foi iniciada por um widget</string>
   <string name="app_behavior_storage">%1s acedeu ou guardou ficheiros</string>
   <string name="app_behavior_storage_bg">%1s acedeu ou guardou ficheiros em segundo plano</string>
   <string name="app_behavior_storage_bg_single">Esta aplicação acedeu ou guardou ficheiros em segundo plano</string>

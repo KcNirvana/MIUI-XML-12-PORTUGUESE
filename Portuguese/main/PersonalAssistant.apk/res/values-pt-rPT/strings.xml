@@ -612,7 +612,7 @@
   <string name="steps_sport">Mi Fit</string>
   <string name="steps_sport_des">Obter dados precisos da aplicação Mi Fit</string>
   <string name="steps_vip">Passos</string>
-  <string name="steps_vip_des">Conte passos sem instalar aplicações de terceiros</string>
+  <string name="steps_vip_des">Contar passos sem instalar aplicações de terceiros</string>
   <string name="stock_color_schema">Esquema de cores</string>
   <string name="stock_list_empty_text">Não está a seguir nenhuma empresa</string>
   <string name="stock_search_empty">Não foi possível encontrar resultados</string>

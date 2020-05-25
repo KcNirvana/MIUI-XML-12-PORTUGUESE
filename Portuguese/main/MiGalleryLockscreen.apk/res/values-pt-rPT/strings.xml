@@ -226,6 +226,7 @@ Envie este código ao supervisor"</string>
   <string name="history_list_no_data">Sem itens</string>
   <string name="hour_1">A cada hora</string>
   <string name="hour_3">A cada 3 horas</string>
+  <string name="i_know">OK</string>
   <string name="idbct_desc">Personalize o papel de parede dependendo do tipo de rede</string>
   <string name="idbct_opt_auto_select_desc_text">Transferir imagens standard utilizando dados móveis e imagens HD via Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Auto</string>
@@ -532,7 +533,7 @@ Envie este código ao supervisor"</string>
   <string name="uninstall_warning_text_title">A eliminar papéis de parede aleatórios</string>
   <string name="user_ac_click_to_login">Toque para iniciar sessão</string>
   <string name="user_ac_not_login">Not signed in</string>
-  <string name="user_id_hint">Email/Telefone</string>
+  <string name="user_id_hint">Email/Telefone/ID Conta Mi</string>
   <string name="v_code_title">Introduza o código de verificação em 2 passos</string>
   <string name="view_privacy_policy">Política de Privacidade</string>
   <string name="wallpaper">Papéis de parede</string>

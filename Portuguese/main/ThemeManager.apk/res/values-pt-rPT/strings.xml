@@ -784,7 +784,7 @@ Toque aqui para iniciar agora"</string>
   <string name="update_immediately">Actualizar agora</string>
   <string name="using_theme_has_update_tips">Está disponível uma actualização para este tema</string>
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
-  <string name="using_theme_next_automatic_update_summary">Actualizar temas adquiridos por Wi-Fi automaticamente quando o ecrã estiver bloqueado</string>
+  <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente utilizando o Wi-Fi quando o dispositivo estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
   <string name="version_update">Verificar actualizações</string>
   <string name="video_ad_click">Experimentar agora</string>

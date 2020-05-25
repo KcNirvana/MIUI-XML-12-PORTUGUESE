@@ -10,7 +10,6 @@
   <string name="back_up_task_in_process">A fazer cópia…</string>
   <string name="back_up_task_unfinished">Não foi possível copiar</string>
   <string name="backing_up_to_micloud">A fazer cópia…</string>
-  <string name="backup_fail_wifi_needed">Não foi possível fazer cópia. Necessário Wi-Fi</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Sem espaço suficiente na Xiaomi Cloud. Actualize o seu plano ou liberte algum espaço</string>
   <string name="backup_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
   <string name="backup_failed_reason_network_error">Erro de rede. Aguarde um momento e tente novamente</string>
@@ -29,6 +28,7 @@
   <string name="btn_restore_resume">Continuar</string>
   <string name="btn_restore_retry">Tentar novamente</string>
   <string name="btn_restore_wait">Aguardar por Wi-Fi</string>
+  <string name="btn_restore_wait_china">Aguardar por Wi-Fi</string>
   <string name="btn_retry">Verificar novamente</string>
   <string name="btn_skip">Ignorar este passo</string>
   <string name="button_cancel">Cancelar</string>
@@ -52,18 +52,22 @@
   <string name="cloud_app_restore_success">Aplicações restauradas</string>
   <string name="cloud_app_restore_wifi_prompt">Restaurar de uma cópia da Xiaomi Cloud</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Xiaomi Cloud quando o dispositivo estiver ligado ao Wi-Fi: 
+  <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Xiaomi Cloud quando o dispositivo estiver ligado ao Wi-Fi:
 
 * Aplicações, disposição inicial do ecrã e papéis de parede 
 * Alarmes e definições de horas 
 * Definições das notificações 
 * Definições MIUI e do sistema
- 
+Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaomi Cloud"</string>
+  <string name="cloud_back_up_detail_discription_china">"Estes dados vão ser copiados para a Xiaomi Cloud quando o dispositivo estiver ligado ao Wi-Fi:
+* Aplicações, disposição inicial do ecrã e papéis de parede 
+* Alarmes e definições de horas 
+* Definições das notificações 
+* Definições MIUI e do sistema
 Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaomi Cloud"</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todos os dias</string>
-  <string name="cloud_back_up_no_network_warn">Não é possível ligar ao Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Actualizar</string>
@@ -76,6 +80,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
   <string name="cloud_backup_detail_state">Cópias automáticas</string>
   <string name="cloud_backup_detail_state_summary">Criar cópias da Xiaomi Cloud automaticamente quando ligado ao Wi-Fi</string>
+  <string name="cloud_backup_detail_state_summary_china">Criar cópias da Xiaomi Cloud automaticamente quando ligado ao Wi-Fi</string>
   <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
   <string name="cloud_backup_detail_title">Ecrã inicial, aplicações e definições</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Xiaomi Cloud</string>
@@ -110,7 +115,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="dialog_cancel_backup_title">Cancelar a cópia em curso?</string>
   <string name="dialog_msg_overwrite_backup">A cópia local é diferente da que está na Xiaomi Cloud. Se continuar, a cópia actual vai substituir a anterior</string>
   <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
+  <string name="dialog_msg_restore_require_wlan_china">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
   <string name="dialog_title_require_wlan">Ligar ao Wi-Fi</string>
+  <string name="dialog_title_require_wlan_china">Ligar ao Wi-Fi</string>
   <string name="doing_calc_backup_data_size">A calcular tamanho…</string>
   <string name="doing_restore_home">A restaurar ecrã inicial e definições…</string>
   <string name="done_remove">Removido com sucesso</string>
@@ -159,9 +166,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="notification_channel_remind">Lembretes</string>
   <string name="notification_channel_service">Serviços</string>
   <string name="open_backup_switch">Ligue as cópias</string>
-  <string name="open_wifi">Ligue o Wi-Fi agora</string>
-  <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
-  <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="other_device_main_space">Primeiro espaço</string>
   <string name="other_device_second_space">Segundo espaço</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
@@ -190,7 +194,6 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_app_order_search_normal">Aplicações não prioritárias</string>
   <string name="restore_app_order_search_prior">Aplicações prioritárias</string>
   <string name="restore_cloud_backup_to_phone">Restaurar itens da Xiaomi Cloud</string>
-  <string name="restore_data_summary">Esta funcionalidade necessita de uma ligação à Internet</string>
   <string name="restore_data_title">Restaurar dados</string>
   <string name="restore_detail_category_apps">Layout do ecrã inicial e aplicações</string>
   <string name="restore_detail_category_settings">Definições</string>
