@@ -304,8 +304,8 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_local_detail_description">"Nota:
 %1$d. Faça cópias para o seu computador para evitar a perda de dados. %2$s.
 %3$d. As cópias vão ser guardadas em MIUI-Backup-AllBackup"</string>
-  <string name="new_local_tab_backup">Copiar para um dispositivo móvel</string>
-  <string name="new_local_tab_restore">Restaurar de um dispositivo móvel</string>
+  <string name="new_local_tab_backup">Copiar</string>
+  <string name="new_local_tab_restore">Restaurar</string>
   <string name="new_low_storage_title">Sem espaço suficiente</string>
   <string name="new_more_settings_label">Definições adicionais</string>
   <string name="new_pc_backup_content1">%1$d. Abrir \"%2$s\"</string>
@@ -328,8 +328,8 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_select_third">Aplicações e dados de terceiros</string>
   <string name="new_select_third_apk">Aplicações de terceiros</string>
   <string name="new_select_third_data">Dados de aplicações de terceiros</string>
-  <string name="new_tab_pc_backup">Copiar para o computador</string>
-  <string name="new_tab_pc_restore">Restaurar do computador</string>
+  <string name="new_tab_pc_backup">Copiar</string>
+  <string name="new_tab_pc_restore">Restaurar</string>
   <string name="new_task_finished">Concluído</string>
   <string name="new_usb_detail_description">"Notae:
 %1$d. Este método permite fazer cópias de aplicações e dados de aplicações de terceiros
@@ -337,8 +337,8 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_usb_disconnect_dialog_message">Ligue uma drive USB primeiro</string>
   <string name="new_usb_disconnect_dialog_title">Não foi possível encontrar uma drive USB</string>
   <string name="new_usb_select_data_no_space">Apenas está disponível %s na sua drive USB. Liberte algum espaço</string>
-  <string name="new_usb_tab_backup">Copiar para a drive USB</string>
-  <string name="new_usb_tab_restore">Restaurar da drive USB</string>
+  <string name="new_usb_tab_backup">Copiar</string>
+  <string name="new_usb_tab_restore">Restaurar</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="note_title">Notas</string>
