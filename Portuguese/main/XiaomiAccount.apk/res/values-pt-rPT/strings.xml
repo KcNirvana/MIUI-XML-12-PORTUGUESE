@@ -145,6 +145,7 @@ Envie este código ao supervisor"</string>
   <string name="for_diagnosis_usage_only">Utilizado apenas para diagnósticos</string>
   <string name="get_back_pwd">A repor palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
+  <string name="get_identity_auth_url_failed">Não foi possível verificar ID</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="guest_account_label">Conta Mi de convidado</string>

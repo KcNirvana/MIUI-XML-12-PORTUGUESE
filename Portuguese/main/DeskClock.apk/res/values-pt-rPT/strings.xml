@@ -69,6 +69,7 @@
   <string name="cancel">Cancelar</string>
   <string name="channel_name_alarm">Alarme</string>
   <string name="channel_name_sleep">Hora de dormir</string>
+  <string name="channel_name_stopwatch">Cronómetro</string>
   <string name="channel_name_timer">Temporizador</string>
   <string name="check_theme_app_install">Certifique-se que a aplicação Temas está instalada</string>
   <string name="check_voice_assist_app_version">Actualize a Mi IA para a versão mais recente</string>

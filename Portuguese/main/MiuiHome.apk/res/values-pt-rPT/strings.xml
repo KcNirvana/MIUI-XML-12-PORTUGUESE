@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_menu_item_split_disable">A aplicação não suporta o ecrã dividido</string>
-  <string name="accessibility_menu_item_split_enable">A aplicação suporta o ecrã dividido</string>
+  <string name="accessibility_menu_item_smallwindow_disable">Esta aplicação não suporta janelas flutuantes</string>
+  <string name="accessibility_menu_item_smallwindow_enable">Esta aplicação suporta janelas flutuantes</string>
+  <string name="accessibility_menu_item_split_disable">Esta aplicação não suporta o ecrã dividido</string>
+  <string name="accessibility_menu_item_split_enable">Esta aplicação suporta o ecrã dividido</string>
   <string name="accessibility_recent_task_enter">Abriu Recentes</string>
   <string name="accessibility_recent_task_exit">Fechou Recentes</string>
   <string name="accessibility_recent_task_locked_state">Bloqueado</string>
