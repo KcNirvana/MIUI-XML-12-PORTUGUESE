@@ -35,6 +35,8 @@
     <string name="error_send_file_no_enough_space">Não é possível enviar. Sem espaço de armazenamento no outro dispositivo</string>
     <string name="error_send_file_not_found">Não foi possível encontrar o ficheiro. Tente novamente</string>
     <string name="error_send_transfer_error">Não foi possível transferir itens. Tente novamente</string>
+    <string name="error_slave_wifi_in_use">O Mi Share não vai funcionar quando o Wi-Fi duplo estiver ligado. Desligue o Wi-Fi duplo nas Definições e tente novamente</string>
+    <string name="error_slave_wifi_in_use_china">O Mi Share não vai funcionar quando o Wi-Fi duplo estiver ligado. Desligue o Wi-Fi duplo nas Definições e tente novamente</string>
     <string name="error_timeout">Sessão expirada. Aguarde um momento e tente novamente</string>
     <string name="error_user_refuse">Não é possível enviar. Transferência rejeitada</string>
     <string name="file_cannot_print">Não é possível imprimir este item</string>
@@ -51,6 +53,7 @@ Mi Share é compatível com telefones Mi e Redmi.
 OPPO, Vivo, Realme e outras marcas vão ser compatíveis brevemente também. Pode verificar a lista de dispositivos compatíveis no nosso site"</string>
     <string name="mishare_state_protection">Ligar Mi Share automaticamente</string>
     <string name="mishare_state_protection_summary">Ligar o Mi Share novamente quando o Bluetooth ou Wi-Fi estiverem ligados novamente</string>
+    <string name="mishare_state_protection_summary_china">Ligar o Mi Share novamente quando o Bluetooth ou Wi-Fi estiverem ligados novamente</string>
     <string name="no_longer_prompt">Bloquear</string>
     <string name="no_longer_receive">Bloquear este dispositivo? Não vai poder receber ficheiros dele</string>
     <string name="operate_too_fast">Demasiado rápido! Aguarde até as operações em curso estarem concluídas</string>
@@ -96,4 +99,5 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="wait_receive_file">A aguardar para receber…</string>
     <string name="wait_remote_receive_tips">A aguardar…</string>
     <string name="wifi_is_not_enabled">Ligar Wi-Fi primeiro</string>
+    <string name="wifi_is_not_enabled_china">Ligar Wi-Fi primeiro</string>
 </resources>

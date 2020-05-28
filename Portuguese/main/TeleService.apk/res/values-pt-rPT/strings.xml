@@ -623,7 +623,8 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="fire_type_description">Fire</string>
   <string name="fiveg_hosted_mode_summary">Alterar para as melhores redes automaticamente quando a ligação 5G for fraca</string>
   <string name="fiveg_hosted_mode_title">Rede 5G</string>
-  <string name="fiveg_switch_title">Rede 5G</string>
+  <string name="fiveg_network_title">Redes 5G</string>
+  <string name="fiveg_switch_title">Utilizar redes 5G</string>
   <string name="flash_when_ring_summary">Acender luz de flash ao receber chamadas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
@@ -1399,6 +1400,8 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sum_show_caller_id">Mostrar o meu número</string>
   <string name="sum_voicemail_choose_provider">Escolher o serviço de Voice Mail</string>
   <string name="switch_dds_to_sub_alert">Definir este cartão como predefinido de dados</string>
+  <string name="switch_off">Desligado</string>
+  <string name="switch_on">Ligado</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">Entrada de pesquisa T9</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
