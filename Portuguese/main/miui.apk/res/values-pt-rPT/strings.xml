@@ -350,6 +350,7 @@
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_all_description">Desmarcar tudo</string>
   <string name="do_not_restore_temporarily">Agora não</string>
+  <string name="download_right_now">Transferir</string>
   <string name="early_morning">AM</string>
   <string name="earthly_branches_chen">" "</string>
   <string name="earthly_branches_chou">" "</string>
@@ -402,6 +403,8 @@
   <string name="instruction">Informações importantes</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
+  <string name="mobile_data_consume">Os itens transferidos vão necessitar de utilizar %1$sMB de dados móveis. Transferir mesmo assim?</string>
+  <string name="mobile_data_remind">Aviso de utilização de dados</string>
   <string name="monday">Segunda-feira</string>
   <string name="monday_short">Seg</string>
   <string name="monday_shortest">S</string>

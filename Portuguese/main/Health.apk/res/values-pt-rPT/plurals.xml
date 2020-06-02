@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="birthday_format">
+        <item quantity="other">(%1$d anos)</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d vezes</item>
         <item quantity="one">%1$d-%2$d vez</item>

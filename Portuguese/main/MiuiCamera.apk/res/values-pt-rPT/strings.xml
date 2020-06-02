@@ -89,6 +89,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_scene_silky_water">Água sedosa</string>
   <string name="ambilight_scene_star_track">Trilhas de estrelas</string>
   <string name="ambilight_scene_traffic_light">Trilhas de néon</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Utilizar um tripé para caturar uma exposição mais longa</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Utilizar um tripé</string>
   <string name="ambilight_tips_for_using_tripod">Utilizar um tripé</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
   <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se a pelo menos 3 metros para obter melhores resultados</string>

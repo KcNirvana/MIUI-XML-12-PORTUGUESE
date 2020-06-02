@@ -134,7 +134,9 @@
   <string name="usage_app_limit_alter_title">Verificar limite de tempo de ecrã</string>
   <string name="usage_app_limit_prelong">Aumentar tempo</string>
   <string name="usage_app_limit_reach_summay">%s restantes</string>
+  <string name="usage_app_limit_reach_summay_new">Toque para adicionar %d minutos</string>
   <string name="usage_app_limit_reach_title">%s está a chegar ao limite de tempo de ecrã</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">Tempo de ecrã restante para %1s: %2s</string>
   <string name="usage_app_limit_summary">As aplicações seleccionadas não vão estar disponíveis depois de atingir o limite</string>
   <string name="usage_app_limit_title">Limites de tempo de ecrã</string>
   <string name="usage_app_other_settings">Definições adicionais</string>
@@ -199,8 +201,10 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_new_home_dashboard">Dashboard</string>
   <string name="usage_new_home_date_day_title">%s | Duração de utilização</string>
   <string name="usage_new_home_day_category_title">Categorias das aplicações</string>
+  <string name="usage_new_home_day_category_title_new">Tempo de ecrã para categorias das aplicações em %s</string>
   <string name="usage_new_home_day_title">Dia</string>
   <string name="usage_new_home_day_usage_title">Aplicações individuais</string>
+  <string name="usage_new_home_day_usage_title_new">Tempo de ecrã em %s</string>
   <string name="usage_new_home_first_unlock">Primeiro desbloqueio: %s</string>
   <string name="usage_new_home_name">Nome</string>
   <string name="usage_new_home_show_more_data_summary">Pode também limitar o tempo de ecrã das aplicações individualmente</string>
@@ -339,6 +343,8 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_stats_week_day">Fins de semana</string>
   <string name="usage_total_days">Total de dias</string>
   <string name="usage_total_times">Total de sessões</string>
+  <string name="usage_week_avg_usage_title">Média esta semana</string>
+  <string name="usage_week_avg_usage_title2">Média de tempo</string>
   <string name="usage_weekly_report_summary">Saber como passa o tempo no seu dispositivo</string>
   <string name="usage_weekly_report_title">Relatório semanal</string>
   <string name="usagestats_app_category_miui_education">Educação</string>

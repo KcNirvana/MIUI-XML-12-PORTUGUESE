@@ -502,6 +502,11 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
   <string name="dialog_cancel">Cancelar</string>
   <string name="dialog_network_priority_title">Rede prioritária</string>
+  <string name="dialog_ota_change_number_fail">Não foi possível alterar o número de telefone. Se este erro ocorrer novamente, contacte o seu fornecedor</string>
+  <string name="dialog_ota_change_number_lgu">Transferir USIM agora?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">Não é possível alterar números de telefone no exterior</string>
+  <string name="dialog_ota_change_number_processing">A transferir USIM…</string>
+  <string name="dialog_ota_change_number_success">Número de telefone alterado com sucesso</string>
   <string name="dialog_report">Reportar</string>
   <string name="disable">Desligar</string>
   <string name="disable_all_cf">Desactivar todas as funcionalidades de reencaminhamento de chamadas</string>

@@ -6,6 +6,8 @@
   <string name="alert_message_delete_record">Eliminar a gravação do seu dispositivo vai também eliminar da Xiaomi Cloud. Eliminar?</string>
   <string name="alert_message_delete_record_title">Eliminar gravações</string>
   <string name="app_name">Gravador</string>
+  <string name="app_record">Gravações da aplicação</string>
+  <string name="app_record_preference_title">Gravações da aplicação</string>
   <string name="back">Voltar</string>
   <string name="button_queue_for_wifi">Aguardar</string>
   <string name="button_start_now">Transferir</string>
@@ -123,6 +125,7 @@
   <string name="record_downloading_notification_count">%d transferir</string>
   <string name="record_format_preference_title">Formato de gravação</string>
   <string name="record_list">Gravações</string>
+  <string name="record_list_app">Gravações da aplicação</string>
   <string name="record_list_call">Chamadas gravadas</string>
   <string name="record_list_category_title_format">"MMMM 'de' yyyy"</string>
   <string name="record_list_cloud">Gravações sincronizadas</string>

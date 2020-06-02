@@ -26,6 +26,8 @@
 para adicionar cartões"</string>
   <string name="added_data_source">Origens adicionadas</string>
   <string name="all_records">Todos os registos</string>
+  <string name="allergic_drugs">Alergias a medicamentos</string>
+  <string name="allergic_drugs_hint">Introduzir todas as alergias a medicamentos e as suas reacções</string>
   <string name="allow_notice_periods">Permitir lembretes de período</string>
   <string name="altitude">Altitude</string>
   <string name="app_name">Saúde</string>
@@ -33,6 +35,8 @@ para adicionar cartões"</string>
   <string name="auto_start_fail">Não foi possível dar permissão</string>
   <string name="auto_start_success">Permissão dada com sucesso</string>
   <string name="auto_start_tips">Toque em \"Definições\" para abrir as definições de Saúde e dar as seguintes permissões</string>
+  <string name="avatar">Avatar</string>
+  <string name="avatar_upload_failure">Não foi possível enviar. Verifique a ligação de rede e tente novamente</string>
   <string name="audio_permission_dialog_desc">A permissão de gravação de áudio foi fechada. Abra-a</string>
   <string name="audio_permission_dialog_title">Permissão de gravação de áudio</string>
   <string name="audio_record_perm_description">Gravar o seu ressonar e sonhos durante o sono</string>
@@ -70,6 +74,10 @@ para adicionar cartões"</string>
   <string name="bg_control_dialog_go_set">Definições</string>
   <string name="bg_control_dialog_msg">A poupança de bateria vai restringir a actividade em segundo plano de Saúde. Permita que Saúde execute sempre em segundo plano para obter estatísticas precisas</string>
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
+  <string name="birthday">Data de nascimento</string>
+  <string name="blood_type">Tipo de sangue</string>
+  <string name="blood_type_rh">Tipo de Rh</string>
+  <string name="blood_type_select">Tipo %1$s</string>
   <string name="bmi_label">IMC</string>
   <string name="body_bmi_descripe_content">O índice de massa corporal (IMC) é definido como a massa corporal em quilogramas dividida pelo quadrado da altura do corpo em metros. Saber o seu IMC pode ajudá-lo a perceber se o seu peso tem algum impacto negativo na sua saúde</string>
   <string name="body_composition">Composição do corpo</string>
@@ -92,6 +100,7 @@ para adicionar cartões"</string>
   <string name="breaststroke">Bruços</string>
   <string name="butterfly_stroke">Mariposa</string>
   <string name="button_record_menstruation">Registar</string>
+  <string name="camera_permission_desc">Utilizado para definir um avatar pessoal</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_mark_end">O período ainda não acabou</string>
   <string name="cancel_mark_start">Eliminar este registo</string>
@@ -104,6 +113,9 @@ para adicionar cartões"</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chart_no_data">Sem dados</string>
   <string name="chip_text">Texto do chip</string>
+  <string name="choose_from_album">Escolher dum contacto</string>
+  <string name="chronic">Doenças crónicas</string>
+  <string name="chronic_hint">Introduzir doenças crónicas, tais como pressão de sangue alta, asma, etc.</string>
   <string name="clear">Limpar</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
@@ -120,12 +132,18 @@ para adicionar cartões"</string>
   <string name="completed">"Concluído "</string>
   <string name="completed_stand">Concluído</string>
   <string name="confirm_opening">Confirmar abertura</string>
+  <string name="contact_format">%1$s | %2$s</string>
+  <string name="contact_format2">"%1$s
+%2$s| %3$s"</string>
+  <string name="contact_format3">%1$s | %2$s| %3$s</string>
+  <string name="contact_permission_desc">Utilizado para definir contactos de emergência</string>
   <string name="copy">Copiar</string>
   <string name="copy_done">Copiado com sucesso</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. Todos os direitos reservados</string>
   <string name="cross_hiking">Caminhada</string>
   <string name="cumulative_decline">Perda de elevação</string>
   <string name="cumulative_rise">Ganho de elevação</string>
+  <string name="current_phone">Dispositivo</string>
   <string name="cycle">Ciclismo</string>
   <string name="daily_consumption_label">Calorias</string>
   <string name="daily_distance_label">Distância</string>
@@ -172,7 +190,13 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="deep_sleep_duration_increase_description">O seu sono profundo é demasiado longo</string>
   <string name="deep_sleep_duration_normal_description">O seu sono profundo é suficiente</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_aid_file">Eliminar ficheiro</string>
+  <string name="delete_aid_file_desc">Após eliminar, as informações do ficheiro de primeiros socorros vão ser eliminadas do dispositivo e da Xiaomi Cloud e não podem ser restauradas</string>
   <string name="delete_all_data">Eliminar todos os dados</string>
+  <string name="delete_all_data_sources">Eliminar todas as origens de dados</string>
+  <string name="delete_all_data_sources_description">Eliminar todas as origens de dados?</string>
+  <string name="delete_avatar">Eliminar avatar actual</string>
+  <string name="delete_contact">Eliminar contacto</string>
   <string name="delete_menstruation_record_confirm">Eliminar este registo?</string>
   <string name="delete_origin_data_description">Eliminar todos os dados gerados por %1$s?</string>
   <string name="delete_record">Eliminar registo</string>
@@ -196,6 +220,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_body_weight_conflict">Já registou o peso nessa data. Substituir os dados originais?</string>
   <string name="dialog_body_weight_select">Definir peso</string>
   <string name="dialog_cancel">Cancelar</string>
+  <string name="dialog_cancel_edit_record">Rejeitar alterações?</string>
   <string name="dialog_confirm">OK</string>
   <string name="dialog_date_select">Seleccionar data</string>
   <string name="dialog_delete">Eliminar</string>
@@ -233,8 +258,11 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dream_talk_record">Foi gravado enquanto falava durante o sono</string>
   <string name="dream_talk_title">Falar</string>
   <string name="drink_water">Beba um pouco de água e dê um passeio</string>
+  <string name="edit_aid_file">Editar ficheiro</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
+  <string name="edit_immediately">Introduzir agora</string>
   <string name="edit_sleep_record_button">Editar</string>
+  <string name="emergency_contact">Contactos de emergência</string>
   <string name="enable">Ligado</string>
   <string name="enable_go_now">Ligar</string>
   <string name="enable_not_now">Agora não</string>
@@ -247,6 +275,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="exercise_consume">%1$d calorias queimadas</string>
   <string name="exercise_consume_description">De acordo com as Directrizes Dietéticas para Residentes Chineses, a actividade física diária deve consumir mais de 15% do gasto total de energia. A energia gasta nas suas actividades físicas diárias é resumida aqui, mas não inclui o gasto metabólico basal. Se tem problemas de controlo de peso, necessita de se focar na ingestão de energia</string>
   <string name="exercise_consume_exercise_description">A duração do exercício é o tempo gasto em actividades de média e alta intensidade. Segundo as autoridades de saúde chinesas, a duração semanal do exercício deve ser de pelo menos 150 minutos. O tempo gasto em actividades de alta intensidade, como caminhadas rápidas (cadência superior a 100 passos por minuto), corrida e subida de escadas vai ser adicionado à sua duração do exercício</string>
+  <string name="exercise_correct">Correcto</string>
   <string name="exercise_detail_no_consume_hint">"A origem de dados seleccionada (%1$s) não fornece a contagem de calorias.
 Pode seleccionar uma origem de dados diferente em Mais &gt; Origens de dados"</string>
   <string name="exercise_detail_no_exercise_hint">"A origem de dados seleccionada (%1$s) não fornece a duração do exercício.
@@ -271,6 +300,8 @@ Pode seleccionar uma origem de dados diferente em Mais &gt; Origens de dados"</s
   <string name="exercise_question_answer_one">"1. Alguns dispositivos não estão equipados com sensores de baixo consumo de bateria. Saúde não regista os dados de actividade para poupar bateria nos seguintes dispositivos: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente em Saúde &gt; Menu &gt; Origens de dados &gt; Adicionar origens de dados"</string>
   <string name="exercise_question_answer_two">2. Ocasionalmente, os sensores de movimento podem falhar. Reinicie o telefone e verifique se o registo começa a funcionar normalmente</string>
+  <string name="exercise_question_title">Porque não consegue ver as suas estatísticas?</string>
+  <string name="exercise_recog_confirm" formatted="false">entre %1s-%2s é %3s?</string>
   <string name="exercise_record">Histórico de exercícios</string>
   <string name="exercise_record_no_data">Sem itens</string>
   <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
@@ -289,6 +320,7 @@ Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente
   <string name="falling_duration_hard_description">"Adormecer é o período entre o início do seu sono e o adormecer por completo. Se demorar mais do que 30 minutos para adormecer, pode ser um sinal de insónias.
 Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que contribuem para isso. Beber menos café, não estimular demasiado visualmente e emocionalmente o seu sistema nervoso ao assistir a vídeos ou ler antes de ir dormir, manter o seu quarto escuro e silencioso. Se ainda assim não conseguir, consulte o seu médico"</string>
   <string name="falling_duration_normal_description">Adormecer é o período entre o início do seu sono e o adormecer por completo. Saber quanto tempo demora para adormecer é importante para o tratamento de insónias e outros problemas relacionados com o sono</string>
+  <string name="fast">Rápida</string>
   <string name="fat_rate">Gordura</string>
   <string name="fat_rate_descripe_content">A percentagem de gordura corporal refere-se à proporção de gordura no peso total do corpo humano</string>
   <string name="feedback_need_permission_msg">Permitir que Saúde escreva no armazenamento externo para poder gerar registos para enviar comentários</string>
@@ -297,6 +329,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="finish">Terminar</string>
   <string name="finish_stand">Terminar</string>
   <string name="finished_rate">%1$d%% concluído</string>
+  <string name="full_name">Nome</string>
+  <string name="full_name_hint">Editar nome</string>
   <string name="gender_female">Feminino</string>
   <string name="gender_male">Masculino</string>
   <string name="gender_other">Outros</string>
@@ -330,6 +364,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
+  <string name="health_setting">Definições de Saúde</string>
+  <string name="high">Alta</string>
   <string name="high_intensity">Alta</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
@@ -348,6 +384,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="input_body_weight">Introduzir peso para obter conselhos de saúde</string>
   <string name="jump_over">Ignorar</string>
   <string name="just_recently">Agora mesmo</string>
+  <string name="keep_edit">Manter edição</string>
   <string name="label_average_daily_sleep_duration">Duração média de sono</string>
   <string name="label_average_daily_sleep_time">Média de tempo para adormecer</string>
   <string name="label_average_daily_sleep_time2">Média de tempo para adormecer</string>
@@ -378,6 +415,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="label_today_sleep_summary">Sono da última noite</string>
   <string name="label_wake_up">Acordou</string>
   <string name="label_wake_up_time">Acordou</string>
+  <string name="lack_permisson">Permission has been closed. Please go to permission management to open the required permission first</string>
   <string name="last_measure_date">"Última pesagem: "</string>
   <string name="last_measure_hours_minutes">%1$s desde a última pesagem</string>
   <string name="last_sync_time">Última sincronização: %1$s</string>
@@ -388,8 +426,10 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="light_sleep_time_decrease_description">O seu sono leve é demasiado curto</string>
   <string name="light_sleep_time_increase_description">O seu sono leve é demasiado longo</string>
   <string name="light_sleep_time_normal_description">O seu sono leve é suficiente</string>
+  <string name="load_failed">Não foi possível carregar itens. Aguarde um momento e tente novamente</string>
   <string name="login_and_open_sync">Iniciar sessão e ligar sincronização</string>
   <string name="login_and_open_sync2">Iniciar sessão e ligar sincronização</string>
+  <string name="low">Baixa</string>
   <string name="low_intensity">Baixa</string>
   <string name="manage_home">Gerir página inicial</string>
   <string name="manual_add">Adicionar manualmente</string>
@@ -406,6 +446,12 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="maximum">Máximo</string>
   <string name="maximum_pace">Maior ritmo</string>
   <string name="measure_date">Tempo de medição</string>
+  <string name="medical_file_desc1">Informações importantes de emergência</string>
+  <string name="medical_file_desc2">Introduzir informaões no ficheiro de emergência médica pessoal para que, em caso de emergência, possa fornecer informações importantes para o pessoal médico</string>
+  <string name="medical_file_desc3">Suporta serviços de sincronização na Xiaomi Cloud e cópia de dados. Todas as informações pessoais vão ser rigorosamente protegidas</string>
+  <string name="medical_first_aid_files">Ficheiro médico de primeiros socorros</string>
+  <string name="medication_and_treatment">Medicação e tratamento</string>
+  <string name="medication_and_treatment_hint">Descrever medicação e tratamento, tais como asma, pressão alta de sangue e outros cuidados médicos de emergência</string>
   <string name="medium_intensity">Moderada</string>
   <string name="medley">Misturado</string>
   <string name="meet_days">Objectivo atingido</string>
@@ -434,6 +480,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="mi_health">Saúde</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sports">Mi Fit</string>
+  <string name="middle">Meio</string>
   <string name="min_altitude">Altitude mais baixa</string>
   <string name="min_heart_rate">Menor frequência cardíaca</string>
   <string name="min_pace">Menor ritmo</string>
@@ -448,6 +495,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="model_card_setting">Definições dos cartões</string>
   <string name="modify">Editar</string>
+  <string name="modify_contact">Modificar contacto</string>
   <string name="modify_end_date">Alterar data de fim</string>
   <string name="month">Mês</string>
   <string name="more">Demasiado</string>
@@ -459,27 +507,36 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="need_auto_start_permission">Para obter estatísticas mais precisas, permita que Saúde inicie automaticamente</string>
   <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que Saúde execute em segundo plano</string>
   <string name="network_connect_failure">Não foi possível ligar à rede. Verifique as suas definições e tente novamente</string>
+  <string name="network_not_available">Não foi possível ligar à rede. Verifique as suas definições e tente novamente</string>
   <string name="next_step">Seguinte</string>
+  <string name="no">Não</string>
   <string name="no_available_device">Sem dispositivos</string>
   <string name="no_body_weight_record">Sem registos</string>
   <string name="no_data">Sem dados</string>
   <string name="no_records">Sem itens</string>
   <string name="no_snore">Não ressonou ou falou durante o sono</string>
   <string name="no_snore_1">Sem itens</string>
+  <string name="no_sport_delete">Sem desportos. Eliminar registo</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">O objectivo de ficar em pé não foi atingido</string>
   <string name="not_added">Não adicionado</string>
+  <string name="not_edit">Não editar</string>
   <string name="not_open_auto_sync">Sincronização desligada</string>
+  <string name="not_save">Não guardar</string>
+  <string name="not_save_aid_file_desc">Não quer guardar?</string>
   <string name="not_set">Não definido</string>
   <string name="not_standing">Não está de pé</string>
   <string name="not_support_step">O seu dispositivo não consegue contar passos</string>
   <string name="not_up_to_standard">Abaixo do standard</string>
+  <string name="oauth_account_failed">Erro na Conta Mi</string>
+  <string name="oauth_account_failed_desc">Saúde necessita de utilizar a sua Conta Mi para adicionar origens de dados. Para continuar a utilizar, é necessário ir à página da Conta Mi para configurar</string>
   <string name="open">Ligar</string>
   <string name="open_data_sync_description">Ligar sincronização para sincronizar dados de outras origens</string>
   <string name="open_stand_assistant">Toque para abrir o assistente</string>
   <string name="open_swimming">Natação em águas abertas</string>
   <string name="open_sync">Ligar sincronização</string>
   <string name="open_unrestricted_permissions">Para registar o sono com mais precisão, permita que Saúde execute sempre em segundo plano</string>
+  <string name="organ_donation_volunteer">Doação de orgãos</string>
   <string name="origin">Origem</string>
   <string name="outdoor_riding">Ciclismo ao ar livre</string>
   <string name="outdoor_running">Correr</string>
@@ -492,6 +549,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="permission_manage">Gerir permissões</string>
   <string name="permission_tip">Dê a Saúde as seguintes permissões para conseguir registar o seu sono com permissão</string>
   <string name="phone_detection">Detecção de telefone</string>
+  <string name="photograph">Tirar uma foto</string>
   <string name="picker_day">Dia seleccionado: %1$d. Deslize verticalmente para seleccionar</string>
   <string name="picker_month">Mês seleccionado: %1$d. Deslize verticalmente para seleccionar</string>
   <string name="picker_year">Ano seleccionado: %1$d. Deslize verticalmente para seleccionar</string>
@@ -529,13 +587,16 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="recommend_sleep_goal">21:00 às 11:00</string>
   <string name="record_body_weight_button">Registar peso</string>
   <string name="record_detail_page_title">Detalhes</string>
+  <string name="record_more">Registar mais</string>
   <string name="recorded_menstruation">Período registado</string>
   <string name="reference">Materiais de referência</string>
+  <string name="relationship_with_contact">Relação com contactos de emergência</string>
   <string name="rem_Duration_increase_description">O seu sono REM é demasiado longo</string>
   <string name="rem_duration">Duração sono REM</string>
   <string name="rem_duration_decrease_description">O seu sono REM é demasiado curto</string>
   <string name="rem_duration_description" formatted="false">REM refere-se ao movimento rápido dos olhos. O sono pode ser dividido em sono de movimentos rápidos dos olhos (REM) e sono de movimento não rápidos dos olhos (NREM). O sono movimentos rápidos dos olhos representa cerca de 20 a 25% da duração total do sono. Quando as pessoas acordam nesta fase, 74 a 95% dizem que estavam a sonhar e são capazes de se lembrar dos seus sonhos. O cérebro é muito activo e o corpo fica completamente relaxado durante o sono REM, o que torna esta fase do sono essencial para a manutenção das funções cognitivas</string>
   <string name="rem_duration_normal_description">O seu sono REM é suficiente</string>
+  <string name="remarks">Observações</string>
   <string name="remind">Lembretes</string>
   <string name="remind_goto_sleep">Já é tarde. Hora de ir para a cama</string>
   <string name="remind_menstruation_acquired_start">O seu período pode começar em 2 dias</string>
@@ -548,7 +609,10 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="remind_title_menstruation_start">Lembrete para início do período</string>
   <string name="remind_title_record">Lembrete para registar</string>
   <string name="remove">Remover</string>
+  <string name="retry">Tentar novamente</string>
   <string name="revert_to_default">Restaurar predefinições</string>
+  <string name="rh_negative">Negativo</string>
+  <string name="rh_positive">Positivo</string>
   <string name="run">Correr</string>
   <string name="save">Guardar</string>
   <string name="search_menu_title">Pesquisa</string>
@@ -563,11 +627,18 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sedentary_time_is_too_long">Hora de se mover! Beba água e dê um passeio</string>
   <string name="sedentary_title">Lembrete para se mover</string>
   <string name="sedentary_toggle_content">Saúde vai lembrá-lo de se levantar e andar se estiver inactivo durante muito tempo</string>
+  <string name="select_exercise_type">Seleccionar tipo de exercício</string>
   <string name="select_menstruation_end_date">Seleccionar a data de fim deste período</string>
   <string name="select_null">Não seleccionado</string>
+  <string name="select_recog_question">Select Recog Question</string>
   <string name="select_target">Seleccionar objectivo</string>
+  <string name="set_emergency_contact">Definir contacto de emergência</string>
   <string name="setting">Definições</string>
+  <string name="setting_avatar">Definir avatar</string>
+  <string name="setting_birthday">Definir data de nascimento</string>
+  <string name="setting_blood_type">Definir tipo de sangue</string>
   <string name="setting_data_cloud_sync_tip">Utilizar esta funcionalidade para copiar itens deste dispositivo e sincronizar dados de outros dispositivos</string>
+  <string name="setting_gender">Definir género</string>
   <string name="setting_sedentary_off">Desligado</string>
   <string name="setting_sedentary_on">Ligado</string>
   <string name="setting_sedentary_title">Lembrete para se mover</string>
@@ -658,6 +729,10 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_snore_audio_close_desc">Pode desligar esta funcionalidade nas Definições</string>
   <string name="sleep_snore_audio_enable">Detecção automática ligada</string>
   <string name="sleep_snore_audio_enable_desc">O seu ressonar e falar vai ser gravado automaticamente quando for dormir</string>
+  <string name="sleep_snore_audio_file_mamagement_desc">Ligar para manter 100MB das últimas gravações neste dispositivo e eliminar as mais antigas para poupar espaço</string>
+  <string name="sleep_snore_audio_file_mamagement_title">Limpar gravações automaticamente</string>
+  <string name="sleep_snore_audio_file_saved">Gravações armazenadas localmente</string>
+  <string name="sleep_snore_audio_file_saved_desc">É utilizado um algoritmo para detectar o ressonar e falar. Todas as gravações são armazenadas localmente neste dispositivoice sem divulgar as suas informações pessoais</string>
   <string name="sleep_snore_audio_hight_power_desc">Lembre-se que utilizar esta funcionalidade consome bastante bateria. É uma boa ideia manter o carregador ligado enquanto dorme para evitar interrupções</string>
   <string name="sleep_snore_detection">Detectar o ressonar e falar</string>
   <string name="sleep_snore_detection_desc">Detectar o ressonar e falar para saber mais sobre o seu sono</string>
@@ -674,12 +749,14 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_track">Monitorizar sono</string>
   <string name="sleep_turn_over_times_title">Turnos</string>
   <string name="sleep_week">Semana</string>
+  <string name="slow">Lenta</string>
   <string name="snore">Ressonar</string>
   <string name="snore_detection_abnormal_notification_button">Retomar</string>
   <string name="snore_detection_abnormal_notification_content">Não é possível utilizar o microfone</string>
   <string name="snore_detection_abnormal_notification_title">Erro no registo do sono</string>
   <string name="snore_detection_abnormal_state">A sessão foi interrompida</string>
   <string name="snore_detection_abnormal_state_description">Microfone desligado</string>
+  <string name="snore_detection_close_prompt">Ressonar e falar desligado</string>
   <string name="snore_detection_close_title">Desligar a detecção de ressonar e falar?</string>
   <string name="snore_detection_enable">Detectar o ressonar e falar</string>
   <string name="snore_detection_guide_one_description">O som vai ser gravado enquanto dorme. A aprendizagem automática permite que Saúde detecte o ressonar, falar e ruídos altos e guarde as gravações no seu dispositivo</string>
@@ -694,6 +771,7 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="snore_detection_normal_notification_title">Detectar o ressonar e falar</string>
   <string name="snore_detection_notification_content">Microfone ligado. Vai continuar a funcionar em segundo plano</string>
   <string name="snore_detection_notification_title">Teste de sono em curso</string>
+  <string name="snore_detection_open_prompt">O ressonar e falar foi ligado</string>
   <string name="snore_detection_running_state">A detectar…</string>
   <string name="snore_detection_running_state_description">Microfone ligado. Vai continuar a funcionar em segundo plano</string>
   <string name="snore_detection_sotp_opt_1">Parar e eliminar resultados</string>
@@ -943,6 +1021,9 @@ baseados nas suas informações pessoais"</string>
   <string name="unit_min">" m"</string>
   <string name="unit_second">" s"</string>
   <string name="unknown">Desconhecido</string>
+  <string name="unknown_birthday">Data de nascimento desconhecida</string>
+  <string name="unknown_full_name">Nome desconhecido</string>
+  <string name="unknown_gender">Género desconhecido</string>
   <string name="update_notify_dialog_ignore">Mais tarde</string>
   <string name="update_notify_dialog_msg">"Actualização disponível: %1$s.
 O que há de novo:
@@ -954,6 +1035,7 @@ Actualizar agora?"</string>
   <string name="user_age_unit">Anos</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
+  <string name="value_error_correct">Erro de valores</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas</string>
   <string name="walk">Andar</string>

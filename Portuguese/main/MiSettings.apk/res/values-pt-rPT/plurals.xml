@@ -41,6 +41,10 @@
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Desbloqueado %1$d vezes em %2$s</item>
+        <item quantity="one">Desbloqueado %1$d vez em %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Desbloqueado %d vezes</item>
         <item quantity="one">Desbloqueado %d vez</item>

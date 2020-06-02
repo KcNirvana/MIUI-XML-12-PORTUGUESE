@@ -1243,7 +1243,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="overview">Vista geral</string>
   <string name="owner_info_settings_edit_text_hint">P.e. Android do João</string>
   <string name="partial_screenshot_edit">Editar</string>
-  <string name="partial_screenshot_repaint">Começar de novo</string>
+  <string name="partial_screenshot_repaint">Iniciar</string>
   <string name="partial_screenshot_save">Guardar</string>
   <string name="partial_screenshot_save_successful">Guardado com sucesso</string>
   <string name="partial_screenshot_share">Partilhar</string>

@@ -1323,6 +1323,12 @@ cartão de saúde"</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
+  <string name="gb_dialog_game_uninstall_deleting">A desinstalar…</string>
+  <string name="gb_dialog_game_uninstall_loading">A carregar jogos…</string>
+  <string name="gb_dialog_game_uninstall_multi_tips_title">Desinstalar %2$d jogos tais como \"%1$s\"</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Todos os dados do jogo também vão ser eliminados</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Os jogos clonados também vão ser desinstalados</string>
+  <string name="gb_dialog_game_uninstall_tips_title">Desinstalar \"%s\"</string>
   <string name="gb_dialog_record_way_ai">As gravações IA são guardadas na gamebox e armazenadas por 7 dias</string>
   <string name="gb_dialog_record_way_finish">Concluído</string>
   <string name="gb_dialog_record_way_manual">Gravar vídeos até 30 segundos manualmente</string>
@@ -1368,6 +1374,9 @@ cartão de saúde"</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gb_sound_audition">Tentar</string>
+  <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
+  <string name="gb_storage_summary">Armazenar os ícones do jogo no Game Turbo. Os ícones vão deixar de aparecer no ecrã inicial</string>
+  <string name="gb_storage_title">Armazenar ícones de jogos</string>
   <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
   <string name="gb_voice_changer_cartoon">Desenhos animados</string>
   <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
@@ -1442,8 +1451,15 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gs_show_way_horizontal">Horizontal</string>
   <string name="gs_show_way_vertical">Vertical</string>
   <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
+  <string name="gtb_dialog_btn_close">Desligar</string>
+  <string name="gtb_dialog_btn_open">Ligar</string>
+  <string name="gtb_dialog_hint_smart_5g">Pode ligar ou desligar esta funcionalidade em Game Turbo &gt; Definições</string>
+  <string name="gtb_dialog_summary_smart_5g">Quando o Game Turbo detecta uma rede 5G, pode ligar o seu dispositivo à melhor rede disponível para reduzir o atraso da rede. Ligar esta funcionalidade agora?</string>
+  <string name="gtb_dialog_title_smart_5g">Optimização rede 5G</string>
   <string name="gtb_exit_game_to_gtb">Abrir atalhos</string>
   <string name="gtb_exit_game_to_home">Voltar para o ecrã inicial</string>
+  <string name="gtb_setting_item_summary_smart_5g">Quando o Game Turbo detecta uma rede 5G, pode ligar o seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
+  <string name="gtb_setting_item_title_smart_5g">Optimização rede 5G</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
   <string name="guide_operator_text">"A sua operadora actual: "</string>
   <string name="guide_quck_open">Ligar</string>

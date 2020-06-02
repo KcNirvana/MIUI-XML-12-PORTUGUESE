@@ -2323,6 +2323,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="erase_sd_data_description">Formatar vai eliminar todos os ficheiros e dados no cartão SD</string>
   <string name="erase_sure">Obrigatório</string>
   <string name="error_apn_empty">O APN não pode estar vazio</string>
+  <string name="error_apn_restrict_string">O APN não pode conter %1$s</string>
   <string name="error_capturing_system_heap_dump_message">Não foi possível fazer a captura da área dinâmica para dados do sistema</string>
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos</string>
   <string name="error_mnc_not23">Campo MNC deve ter 2 ou 3 dígitos</string>
@@ -4973,7 +4974,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algumas aplicações podem ser mostradas incorrectamente no Modo Escuro. Pode restringir a utilização do Modo Escuro para cada aplicação individualmente aqui</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicações individuais</string>
   <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações podem ser mostradas incorrectamente</string>
-  <string name="screen_dark_mode_smart_dark_title">Modo Escuro global</string>
+  <string name="screen_dark_mode_smart_dark_title">Modo Escuro</string>
   <string name="screen_dark_mode_time_title">Programar</string>
   <string name="screen_effect">Contraste e cores</string>
   <string name="screen_fps_summary_power_save">Utilizar taxas de actualização fixas poupam bateria</string>

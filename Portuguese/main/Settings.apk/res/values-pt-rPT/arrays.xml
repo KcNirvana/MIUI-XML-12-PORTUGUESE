@@ -1354,11 +1354,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Percentagem (no ícone)</item>
         <item>Percentagem (ao lado)</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>Wi-Fi preferencial</item>
-        <item>Móvel preferencial</item>
-        <item>Apenas Wi-Fi</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi preferencial</item>
         <item>Móvel preferencial</item>
@@ -1367,10 +1362,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Móvel</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Wi-Fi preferencial</item>
-        <item>Móvel preferencial</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Ligar automaticamente</item>

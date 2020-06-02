@@ -3,6 +3,7 @@
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="ad_download">Transferir</string>
+  <string name="add_one">(1)</string>
   <string name="add_private">Ocultar ficheiros agora</string>
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="aggree_desc">/Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
@@ -33,7 +34,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">Não é possível enviar tantos ficheiros de uma só vez</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_error">Não foi possível remover, tente novamente</string>
+  <string name="cancel_error">Não foi possível remover. Tente novamente</string>
+  <string name="cancel_msg">Desmarcar tudo?</string>
   <string name="cancel_operation">Cancelar operação</string>
   <string name="cancel_success">Removido com sucesso, todos os ficheiros movidos para %s</string>
   <string name="cancelled_by_user">Operação cancelada</string>
@@ -154,6 +156,7 @@
   <string name="file_info_modified">"Última modificação: "</string>
   <string name="file_info_size">"Tamanho: "</string>
   <string name="file_loading">Aguarde…</string>
+  <string name="file_name_existed">Ficheiro já existente</string>
   <string name="file_name_invalid">"Os nomes de ficheiros não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">O ficheiro não existe</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
@@ -349,9 +352,11 @@
   <string name="rename_alert2">O ficheiro vai ser oculto após alterar a sua extensão</string>
   <string name="rename_failed">Não é possível mudar o nome de %1$s</string>
   <string name="rename_input_null">Introduza novo nome</string>
+  <string name="rename_msg">Já existe um ficheiro com o nome \"%s\"</string>
   <string name="repair_done">Restaurados</string>
   <string name="repair_error">Não foi possível restaurar</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>
+  <string name="replace">Substituir</string>
   <string name="request_document_permission">Para gerir ficheiros no cartão SD, dê ao Ficheiros as permissões necessárias</string>
   <string name="request_document_permission_title">Permissões necessárias</string>
   <string name="request_timeout">Pedido de rede expirou</string>
@@ -392,6 +397,7 @@
   <string name="set_pattern_btn">Definir</string>
   <string name="set_pattern_msg">Defina seu o padrão novamente. O padrão de Protecção de Privacidade também funciona para fotos e mensagens</string>
   <string name="settings">Definições</string>
+  <string name="skip">Ignorar</string>
   <string name="skip_file">Ignorar</string>
   <string name="smb_loading">Aguarde…</string>
   <string name="sort_hint_name">Ordenado por nome</string>
@@ -443,6 +449,7 @@
   <string name="unlock_pattern_title">Novo padrão</string>
   <string name="upload_user_photo">Carregar</string>
   <string name="usb_label">USB</string>
+  <string name="use_to_all">Aplicar a todos</string>
   <string name="used">"Utilizado "</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_not_login">Iniciar sessão primeiro</string>

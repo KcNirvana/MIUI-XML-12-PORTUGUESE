@@ -122,7 +122,7 @@
   <string name="edit_label">Editar nome do alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
   <string name="edit_systemtime_setting_summary">Data, hora e relógio duplo</string>
-  <string name="every_day">Todos os dias</string>
+  <string name="every_day">Diariamente</string>
   <string name="expired_timers_dismissed">Temporizador suspendido</string>
   <string name="force_touch_add_alarm">Adicionar alarme</string>
   <string name="force_touch_enter_stopwatch">Cronómetro</string>

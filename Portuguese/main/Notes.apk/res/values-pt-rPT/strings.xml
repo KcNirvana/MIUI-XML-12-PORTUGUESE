@@ -100,8 +100,11 @@
   <string name="first_enter_custom_folder_hint">Pode mudar o nome ou eliminar pastas aqui</string>
   <string name="float_todo_guide_cancel">Cancelar</string>
   <string name="float_todo_guide_message">O atalho no ecrã inicial permite que deslize desde a lateral do ecrã para ver e criar tarefas. Criar o atalho agora?</string>
+  <string name="float_todo_guide_message_v2">O gesto de atalho permite ver e criar tarefas deslizando desde a lateral do ecrã. Pode ligar ou desligar esta funcionalidade nas Definições</string>
   <string name="float_todo_guide_ok">Criar</string>
+  <string name="float_todo_guide_ok_v2">Ligar</string>
   <string name="float_todo_guide_title">Atalho no ecrã inicial</string>
+  <string name="float_todo_guide_title_v2">Gestos de atalhos</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
   <string name="folder_operation_delete">Eliminar</string>
   <string name="folder_operation_rename">Mudar o nome</string>
@@ -193,7 +196,9 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com dois dedos para eliminar notas sem confirmação</string>
   <string name="pref_desc_todo_float_mode">Deslize a partir da borda do ecrã para abrir as ferramentas</string>
   <string name="pref_remind_type_summary">Tocar sons de lembretes no modo Silêncio</string>
+  <string name="pref_remind_type_summary_new">Ignorar modo Silêncio e continuar a reproduzir sons até que o alarme seja desligado</string>
   <string name="pref_remind_type_title">Ignorar modo Silêncio</string>
+  <string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
   <string name="pref_title_cloud_trash_bin">Eliminar notas na Xiaomi Cloud</string>
   <string name="pref_title_common">Definições adicionais</string>
   <string name="pref_title_font_size">Tamanho do tipo de letra</string>
@@ -301,6 +306,7 @@
   <string name="toast_reach_text_limit_truncate">A nota é muito longa. Algum texto vai ser cortado no fim</string>
   <string name="toast_refuse_to_record_when_in_call">Não é possível utilizar esta função durante as chamadas</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Não é possível utilizar no modo ecrã dividido</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">Não é possível utilizar no modo ecrã dividido ou janelas flutuantes</string>
   <string name="toast_refuse_to_use_contact">"A permissões de contactos estão restringidas.
 Dê permissão a Notas para ler os seus contactos e localizar contas no seu dispositivo"</string>
   <string name="toast_refuse_to_use_external_storage">"A permissões de armazenamento estão restringidas.
