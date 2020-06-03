@@ -34,7 +34,9 @@
   <string name="confirm_delete">Eliminar</string>
   <string name="confirm_save">Manter</string>
   <string name="connect_network">Ligar ao Wi-Fi ou inserir cartão SIM</string>
+  <string name="connect_network_china">Ligar ao Wi-Fi ou inserir cartão SIM</string>
   <string name="connect_wlan">Ligar ao Wi-Fi</string>
+  <string name="connect_wlan_china">Ligar ao Wi-Fi</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de várias aplicações (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta é utilizada também noutro dispositivo. Unir os itens de %s com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de %1$s e %2$s com os itens neste dispositivo?</string>
@@ -253,6 +255,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_notif_content_depend_wifi_china">Ligar ao Wi-Fi para sincronizar</string>
   <string name="micloud_notif_content_dirty_data">Detalhes</string>
   <string name="micloud_notif_content_master_depend_wifi">Ligue-se ao Wi-Fi ou altere as definições de sincronização</string>
+  <string name="micloud_notif_content_master_depend_wifi_china">Ligue-se ao Wi-Fi ou altere as definições de sincronização</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
   <string name="micloud_notif_content_multi_user_error">Iniciou sessão com a mesma conta do Primeiro espaço</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Ver detalhes</string>
@@ -378,10 +381,12 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only_china">Utilizar apenas Wi-Fi para sincronizar fotos</string>
-  <string name="priv_dialog_finddevice_all_purpose_pad">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
-  <string name="priv_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
-  <string name="priv_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
-  <string name="priv_doc_cloudservice">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados.
+  <string name="privacy_and_agreement">Termos e condições</string>
+  <string name="privacy_dialog_finddevice_all_purpose_pad">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
+  <string name="privacy_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
+  <string name="privacy_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
+  <string name="privacy_dialog_sync_all_purpose_china">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
+  <string name="privacy_doc_cloudservice">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados.
 
 É necessário uma mensagem SMS para activar este serviço. Quando troca de cartão SIM, é enviada uma mensagem automaticamente para reactivar esta funcionalidade.
 
@@ -403,7 +408,29 @@ Para guardar itens no seu dispositivo (p.e. imagens, vídeos, música)
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar a Xiaomi Cloud
 "</string>
-  <string name="priv_doc_finddevice_pad">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
+  <string name="privacy_doc_cloudservice_china">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados.
+
+É necessário uma mensagem SMS para activar este serviço. Quando troca de cartão SIM, é enviada uma mensagem automaticamente para reactivar esta funcionalidade.
+
+As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
+
+Para funcionar normalmente, a Xiaomi Cloud necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
+&amp;#8226; Calendário:
+Para sincronizar eventos
+&amp;#8226; Aceder a SMS:
+Para sincronizar mensagens
+&amp;#8226; Aceder a MMS:
+Para sincronizar mensagens
+&amp;#8226; Aceder a contactos:
+For syncing contacts
+&amp;#8226; Editing contacts:
+Para sincronizar contactos
+&amp;#8226; Armazenamento:
+Para guardar itens no seu dispositivo (p.e. imagens, vídeos, música)
+Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
+Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar a Xiaomi Cloud
+"</string>
+  <string name="privacy_doc_finddevice_pad">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
 Para funcionar normalmente, o Localizar Dispositivo necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
@@ -414,7 +441,7 @@ Para localizar o seu dispositivo e alterar para o modo perdido
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
-  <string name="priv_doc_finddevice_phone">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
+  <string name="privacy_doc_finddevice_phone">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
 Para funcionar normalmente, o Localizar Dispositivo necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
@@ -425,7 +452,7 @@ Para localizar o seu dispositivo e alterar para o modo perdido
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
+  <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 Pode ser necessária uma mensagem SMS para activar este serviço. A sua operadora vai cobrá-lo por este serviço. Quando trocar de cartão SIM, uma mensagem vai ser enviada automaticamente para reactivar este serviço.
 
@@ -439,7 +466,7 @@ Para localizar o seu dispositivo e alterar para o modo perdido
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 Pode ser necessária uma mensagem SMS para activar este serviço. A sua operadora vai cobrá-lo por este serviço. Quando trocar de cartão SIM, uma mensagem vai ser enviada automaticamente para reactivar este serviço.
 
@@ -453,7 +480,6 @@ Para localizar o seu dispositivo e alterar para o modo perdido
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
-  <string name="privacy_and_agreement">Termos e condições</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>

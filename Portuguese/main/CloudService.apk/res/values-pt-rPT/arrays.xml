@@ -128,4 +128,10 @@
         <item>Fazer cópia das definições de sistema</item>
         <item>Bloquear o seu dispositivo remotamente se estiver perdido</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sincronizar os seus contactos, mensagens, notas, etc.</item>
+        <item>Fazer cópia das aplicações, layout do ecrã inicial, etc.</item>
+        <item>Fazer cópia das definições de sistema</item>
+        <item>Bloquear o seu dispositivo remotamente se estiver perdido</item>
+    </string-array>
 </resources>
