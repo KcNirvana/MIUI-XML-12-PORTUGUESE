@@ -303,7 +303,7 @@
   <string name="chooser_fragment_mishare_title">Partilhar para</string>
   <string name="cleaner_empty_value_description">Verificação concluída</string>
   <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
-  <string name="cleaner_raw_action">Ver</string>
+  <string name="cleaner_raw_action">Ver detalhes</string>
   <string name="cleaner_raw_description">Libertar espaço ao eliminar imagens RAW</string>
   <string name="cleaner_raw_title">Limpar ficheiros RAW</string>
   <string name="cleaner_scan_description">A optimização de itens liberta espaço no seu dispositivo</string>
@@ -317,7 +317,7 @@
   <string name="cleaner_screen_shot_action">Ver</string>
   <string name="cleaner_screen_shot_description">Eliminar capturas de ecrã que já não precisa</string>
   <string name="cleaner_screen_shot_title">Eliminar capturas de ecrã</string>
-  <string name="cleaner_similar_action">Ver</string>
+  <string name="cleaner_similar_action">Ver detalhes</string>
   <string name="cleaner_similar_description">Eliminar fotos duplicadas</string>
   <string name="cleaner_similar_title">Fotos duplicadas</string>
   <string name="cleaner_slim_action">Iniciar optimização…</string>
@@ -328,7 +328,7 @@
   <string name="cleaner_space_detail_description">Limpar fotos na sua galeria para libertar espaço</string>
   <string name="cleaner_stop_scan">Para verificação</string>
   <string name="cleaner_title">Limpar espaço</string>
-  <string name="cleaner_video_action">Ver</string>
+  <string name="cleaner_video_action">Ver detalhes</string>
   <string name="cleaner_video_description">Eliminar vídeos que ocupam espaço</string>
   <string name="cleaner_video_pick_delete_selected">Eliminar vídeos seleccionados</string>
   <string name="cleaner_video_title">Vídeos</string>
@@ -649,12 +649,15 @@ efeitos de fotos"</string>
   <string name="filter_category_master">Mestres</string>
   <string name="filter_category_movie">Filmes</string>
   <string name="filter_category_sky">Céu</string>
+  <string name="filter_general_blackice">Gelo negro</string>
   <string name="filter_general_blackwhite">Preto e branco</string>
   <string name="filter_general_delicious">Comida</string>
   <string name="filter_general_df">Claridade</string>
   <string name="filter_general_fairytale">Histórias</string>
+  <string name="filter_general_greenorange">Lima</string>
   <string name="filter_general_japanese">Pastel</string>
   <string name="filter_general_lilt">Lilt</string>
+  <string name="filter_general_movie">Filme</string>
   <string name="filter_general_nature">Natureza</string>
   <string name="filter_general_pink">Rosa</string>
   <string name="filter_general_portrait">Retrato</string>
@@ -677,6 +680,7 @@ efeitos de fotos"</string>
   <string name="filter_movie_koizora">Manga</string>
   <string name="filter_movie_lost">Perdidos</string>
   <string name="filter_movie_nordic">Nórdicos</string>
+  <string name="filter_movie_portrait">Foco de cor</string>
   <string name="filter_movie_rome">Roma</string>
   <string name="filter_movie_summer">Verão</string>
   <string name="filter_movie_travel">Viagens</string>
@@ -733,7 +737,7 @@ efeitos de fotos"</string>
   <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
   <string name="gallery_setting">Definições</string>
   <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
-  <string name="generate_story_summary">A MIUI vai analisar as suas fotos e criar memórias. Desligue esta opção para parar de criar memórias</string>
+  <string name="generate_story_summary">Tirar fotos suficientes, ligar carregado e desligar o ecrã para fazer as memórias aparecerem</string>
   <string name="generate_story_title">Memórias</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="gif_tip">GIF</string>
@@ -983,10 +987,15 @@ para personalizar a galeria"</string>
   <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Retrato</string>
   <string name="onekey_scene">Paisagem</string>
+  <string name="online_video_normal_transcoding">Este vídeo está a ser transcodificado. Aguarde um momento e tente novamente</string>
+  <string name="online_video_vip_tip">Tornar-se um membro VIP para fazer streaming de vídeos sem os pré-carregar</string>
+  <string name="online_video_vip_transcoding">"A iniciar o streaming VIP…
+A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="open">Ligar</string>
   <string name="open_public_message">Criar URL para partilhar com os seus amigos</string>
   <string name="open_public_title">Partilhar</string>
   <string name="operate_processing_file_error">Aguarde até as fotos estarem processadas</string>
+  <string name="operate_with_metered_network_msg">O seu dispositivo está ligado a uma rede paga. Continuar mesmo assim?</string>
   <string name="operation_add_album">Adicionar ao álbum</string>
   <string name="operation_add_picture">Adicionar itens</string>
   <string name="operation_add_secret">Ocultar</string>
@@ -1478,6 +1487,7 @@ para personalizar a galeria"</string>
   <string name="sticker_fit">Healthy chicken</string>
   <string name="sticker_girl">Funny girl</string>
   <string name="sticker_girly">Acessórios</string>
+  <string name="sticker_graduation">Graduation</string>
   <string name="sticker_head">Bad hair day</string>
   <string name="sticker_pupil">School girl</string>
   <string name="sticker_rock">Boom!</string>
@@ -1541,7 +1551,11 @@ para personalizar a galeria"</string>
   <string name="text_edit_dialog_style_transparent">Opacidade</string>
   <string name="text_edit_sub_menu_text">Bolhas</string>
   <string name="text_tab_bubble">Bolhas</string>
-  <string name="text_tab_watermark">"Marcas d'água"</string>
+  <string name="text_tab_city">Cidades</string>
+  <string name="text_tab_festival">Férias</string>
+  <string name="text_tab_scene">Cenas</string>
+  <string name="text_tab_spot">Cenários</string>
+  <string name="text_tab_watermark">Texto</string>
   <string name="things_album_empty_title">As fotos podem ser ordenadas pelos objectos nelas contidos</string>
   <string name="throwing_print">Imprimir</string>
   <string name="throwing_screen">Transmitir</string>

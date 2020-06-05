@@ -24,25 +24,25 @@
         <item>B</item>
         <item>AB</item>
         <item>O</item>
-        <item>A(+)</item>
         <item>A(-)</item>
-        <item>B(+)</item>
+        <item>A(+)</item>
         <item>B(-)</item>
-        <item>AB(+)</item>
+        <item>B(+)</item>
         <item>AB(-)</item>
-        <item>O(+)</item>
+        <item>AB(+)</item>
         <item>O(-)</item>
+        <item>O(+)</item>
     </string-array>
     <string-array name="contact_relation_array">
         <item>Não definido</item>
         <item>Pais</item>
-        <item>Irmãs</item>
-        <item>Irmãos</item>
-        <item>Casal</item>
-        <item>Namorados</item>
-        <item>Amigos</item>
-        <item>Colegas</item>
-        <item>Colegas de escola</item>
+        <item>Irmã</item>
+        <item>Irmão</item>
+        <item>Cônjuge</item>
+        <item>Compannheiro</item>
+        <item>Amigo</item>
+        <item>Colega</item>
+        <item>Colega de escola</item>
     </string-array>
     <string-array name="gender_array">
         <item>Não definido</item>
@@ -51,17 +51,10 @@
     </string-array>
     <string-array name="normal_blood_array">
         <item>Não definido</item>
-        <item>Tipo A</item>
-        <item>Tipo B</item>
-        <item>Tipo AB</item>
-        <item>Tipo O</item>
-    </string-array>
-    <string-array name="normal_blood_types">
-        <item>Não definido</item>
-        <item>Tipo A</item>
-        <item>Tipo B</item>
-        <item>Tipo AB</item>
-        <item>Tipo O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Dia</item>

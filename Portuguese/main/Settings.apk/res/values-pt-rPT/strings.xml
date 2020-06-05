@@ -1345,6 +1345,8 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="channel_notifications_off_desc">O Android está a bloquear a apresentação desta categoria de notificações neste dispositivo</string>
   <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="charge_animation_style_summary">Escolher o estilo de animação de carregamento no ecrã de bloqueio</string>
+  <string name="charge_animation_style_title">Animação de carregamento</string>
   <string name="charge_length_format">%1$s atrás</string>
   <string name="charging_sounds_title">Som de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
@@ -3644,7 +3646,7 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_sos_remind_add">Adicionar</string>
   <string name="miui_sos_remind_close">O modo SOS Emergência está ligado. Desligá-lo e todas as funcionalidades relacionadas?</string>
   <string name="miui_sos_remind_close_confirm">Desligar</string>
-  <string name="miui_sos_remind_infocontent">Eu adicionei-o como contacto de emergência. Vai receber uma mensagem com a minha localização no caso de eu necessitar de ajuda. [Mi Emergency SOS]</string>
+  <string name="miui_sos_remind_infocontent">Eu adicionei-o como contacto de emergência. Vai receber uma mensagem com a minha localização no caso de eu necessitar de ajuda [SOS Emergência]</string>
   <string name="miui_sos_remind_open">O SOS Emergência necessita de pelo menos um contacto para funcionar normalmente</string>
   <string name="miui_sos_remind_sendinfo">Não se esqueça de informar as pessoas que agora são os seus contactos de emergência. Os contactos de emergência vão poder ajudá-lo em caso de urgência</string>
   <string name="miui_sos_remind_sendnow">Enviar agora</string>

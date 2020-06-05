@@ -485,7 +485,7 @@ Selecção"</string>
   <string name="tts_status_title">Estado do idioma predefinido</string>
   <string name="unblock_button">Desbloquear</string>
   <string name="unblock_dialog_body">Desbloquear %1$s?</string>
-  <string name="unknown">Desconhecido</string>
+  <string name="unknown">Número privado</string>
   <string name="usb_audio_disable_routing">Desactivar encaminhamento áudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactivar encaminhamento automático para periféricos áudio USB</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>

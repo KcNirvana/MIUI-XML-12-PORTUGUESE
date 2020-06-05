@@ -1119,7 +1119,7 @@ para a conta %s"</string>
   <string name="ringtone_picker_title_alarm">Sons de alarme</string>
   <string name="ringtone_picker_title_notification">Sons de notificação</string>
   <string name="ringtone_silent">Nenhum</string>
-  <string name="ringtone_unknown">Desconhecido</string>
+  <string name="ringtone_unknown">Número privado</string>
   <string name="roamingText0">Indicador de Roaming ligado</string>
   <string name="roamingText1">Indicador de Roaming desligado</string>
   <string name="roamingText10">Roaming - Funcionalidade de Serviço Parcial</string>

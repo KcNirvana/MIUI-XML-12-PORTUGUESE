@@ -1375,7 +1375,7 @@ cartão de saúde"</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gb_sound_audition">Tentar</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
-  <string name="gb_storage_summary">Armazenar os ícones do jogo no Game Turbo. Os ícones vão deixar de aparecer no ecrã inicial</string>
+  <string name="gb_storage_summary">Armazenar os ícones do jogo no Game Turbo e ocultar do ecrã inicial</string>
   <string name="gb_storage_title">Armazenar ícones de jogos</string>
   <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
   <string name="gb_voice_changer_cartoon">Desenhos animados</string>

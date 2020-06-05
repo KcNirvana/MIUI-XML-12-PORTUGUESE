@@ -36,6 +36,17 @@
   <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
   <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>
+  <string name="fmt_date_long_year_month_day">d \'de\' MMMM \'de\' yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd-MM-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">dd MMM</string>
+  <string name="fmt_date_short_year_month">MMMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
   <string name="gamma">Gama</string>
   <string name="healthy_use_phone">Gerir tempo de ecrã</string>
   <string name="high_fps_description">Taxa de actualização do ecrã alta. Maior consumo de bateria</string>
@@ -105,7 +116,7 @@
   <string name="srgb_color_region_summary">Mostrar todo o conteúdo do ecrã na gama de cores RGB</string>
   <string name="start_easymode">Ligar Modo Leve</string>
   <string name="steady_on_screen_notification_title">Pouse o seu telefone e faça uma pausa</string>
-  <string name="steady_on_screen_notify">Notificar acerca de utilização sem interrupções</string>
+  <string name="steady_on_screen_notify">Notificar utilização sem interrupções</string>
   <string name="steady_on_screen_setting">Limite de tempo para sessões sem interrupção</string>
   <string name="steady_on_screen_summary">Limite de tempo para sessões sem interrupção</string>
   <string name="stop_app_timer">Desligar tempo de ecrã</string>
@@ -198,7 +209,7 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_new_home_compare_text2">%.2f menos que o dia anterior</string>
   <string name="usage_new_home_compare_text3">Igual ao dia anterior</string>
   <string name="usage_new_home_current_week">Esta semana</string>
-  <string name="usage_new_home_dashboard">Dashboard</string>
+  <string name="usage_new_home_dashboard">Gráficos</string>
   <string name="usage_new_home_date_day_title">%s | Duração de utilização</string>
   <string name="usage_new_home_day_category_title">Categorias das aplicações</string>
   <string name="usage_new_home_day_category_title_new">Tempo de ecrã para categorias das aplicações em %s</string>
