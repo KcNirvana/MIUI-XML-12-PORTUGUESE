@@ -152,6 +152,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%1$d pessoas estão a jogar</item>
     <item quantity="one">%1$d pessoa está a jogar</item>
   </plurals>
+  <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+    <item quantity="other">Desinstalar %2$d jogos (incluindo %1$s)</item>
+    <item quantity="one">Desinstalar %2$d jogo (incluindo %1$s)</item>
+  </plurals>
+  <plurals name="gb_game_video_ai_record_finish_tips">
+    <item quantity="other">%d gravações IA guardadas no Game Turbo</item>
+    <item quantity="one">%d gravação IA guardada no Game Turbo</item>
+  </plurals>
   <plurals name="gb_record_time_title">
     <item quantity="other">%d segundos</item>
     <item quantity="one">%d segundo</item>
@@ -220,14 +228,18 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d jogos adicionados</item>
     <item quantity="one">%d jogo adicionado</item>
   </plurals>
+  <plurals name="intl_perm_privacy_control_message_count">
+    <item quantity="other">Pode proteger %d itens</item>
+    <item quantity="one">Pode proteger %d item</item>
+  </plurals>
   <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%s horas</item>
-        <item quantity="one">%s hora</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%s minutos</item>
-        <item quantity="one">%s minuto</item>
-    </plurals>
+    <item quantity="other">%s horas</item>
+    <item quantity="one">%s hora</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_drained_min_time_format">
+    <item quantity="other">%s minutos</item>
+    <item quantity="one">%s minuto</item>
+  </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Ligue pelo menos %d pontos</item>
     <item quantity="one">Ligue pelo menos %d ponto</item>

@@ -585,7 +585,7 @@
   <string name="banner_optimizemanage_summary">Libertar memória</string>
   <string name="banner_red_money_assist_button">Ligar</string>
   <string name="banner_red_money_assist_summary">Abrir envelopes mais rapidamente</string>
-  <string name="battery_and_property">Bateria e desempenho</string>
+  <string name="battery_and_property">Bateria</string>
   <string name="battery_can_use_time">%s restantes</string>
   <string name="battery_capacity_title">Capacidade da bateria</string>
   <string name="battery_charge_estimating">A calcular…</string>
@@ -1241,7 +1241,7 @@ cartão de saúde"</string>
   <string name="game_booster_title">Game Turbo</string>
   <string name="game_bootser_tab_settings">Definições do Game Turbo</string>
   <string name="game_else_function">Outros</string>
-  <string name="game_manual_record_setting_setting">Acerca desta funcionalidade</string>
+  <string name="game_manual_record_setting_setting">Definições</string>
   <string name="game_manual_record_setting_title">Momentos chave</string>
   <string name="game_more_improve">Restrinja actividades em segundo plano e velocidade de transferências para poupar bateria e banda para jogar</string>
   <string name="game_setting">Definições de jogos</string>
@@ -1329,7 +1329,7 @@ cartão de saúde"</string>
   <string name="gb_dialog_game_uninstall_tips_message">Todos os dados do jogo também vão ser eliminados</string>
   <string name="gb_dialog_game_uninstall_tips_message_xspace">Os jogos clonados também vão ser desinstalados</string>
   <string name="gb_dialog_game_uninstall_tips_title">Desinstalar \"%s\"</string>
-  <string name="gb_dialog_record_way_ai">As gravações IA são guardadas na gamebox e armazenadas por 7 dias</string>
+  <string name="gb_dialog_record_way_ai">As gravações IA são guardadas no Game Turbo e armazenadas por 7 dias</string>
   <string name="gb_dialog_record_way_finish">Concluído</string>
   <string name="gb_dialog_record_way_manual">Gravar vídeos até 30 segundos manualmente</string>
   <string name="gb_dialog_record_way_setting_tips">Nota: Gravar as suas sessões de jogos necessita de um maior processamento que pode resultar em lagging</string>
@@ -1351,14 +1351,16 @@ cartão de saúde"</string>
   <string name="gb_first_window_summary">Acelerar velocidade e desempenho do sistema</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Revisitar os momentos chave dos seus jogos</string>
-  <string name="gb_game_video_bottom_tips">Ver as gravações dos seus jogos na gamebox. Os vídeos são armazenados por 7 dias</string>
+  <string name="gb_game_video_bottom_tips">Ver as gravações dos seus jogos no Game Turbo. Os vídeos são armazenados por 7 dias</string>
   <string name="gb_game_video_item_tag">Momento chave</string>
   <string name="gb_game_video_page_delete_success">Eliminado com sucesso</string>
   <string name="gb_game_video_page_null">Gravar os momentos chave dos seus jogos</string>
-  <string name="gb_game_video_record_finish_tips">Vídeo guardado com sucesso</string>
+  <string name="gb_game_video_record_finish_tips">Vídeo guardado no Game Turbo</string>
   <string name="gb_game_video_save">Guardar</string>
-  <string name="gb_game_video_type_ai">AI</string>
+  <string name="gb_game_video_type_ai">IA</string>
+  <string name="gb_game_video_type_ai_record">Gravar utilizando a IA</string>
   <string name="gb_game_video_type_manual">Manualmente</string>
+  <string name="gb_game_video_type_manual_record">Gravar manualmente</string>
   <string name="gb_global_settings">Definições gerais</string>
   <string name="gb_manual_record_dialog_del_video_message">Eliminar vídeos seleccionados permanentemente?</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
@@ -1375,8 +1377,8 @@ cartão de saúde"</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gb_sound_audition">Tentar</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
-  <string name="gb_storage_summary">Armazenar os ícones do jogo no Game Turbo e ocultar do ecrã inicial</string>
-  <string name="gb_storage_title">Armazenar ícones de jogos</string>
+  <string name="gb_storage_summary">Não mostrar jogos adicionados ao Game Turbo no ecrã inicial</string>
+  <string name="gb_storage_title">Remover jogos do ecrã inicial</string>
   <string name="gb_voice_change_settinged">Modificador de voz ligado</string>
   <string name="gb_voice_changer_cartoon">Desenhos animados</string>
   <string name="gb_voice_changer_dlg_button_agree">Permitir</string>
@@ -1389,12 +1391,15 @@ cartão de saúde"</string>
   <string name="gb_voice_changer_permission_dlg_msg">O modificador de voz necessita de poder gravar áudio para funcionar correctamente</string>
   <string name="gb_voice_changer_permission_dlg_title">Permissões necessárias</string>
   <string name="gb_voice_changer_robot">Robot</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">"Gravar momentos chave
+das suas sessões de jogo"</string>
   <string name="gb_wonderful_video_cancel">Cancelar</string>
   <string name="gb_wonderful_video_checkall">Seleccionar tudo</string>
   <string name="gb_wonderful_video_date_format">"dd 'de' MMM"</string>
   <string name="gb_wonderful_video_delete">Eliminar</string>
+  <string name="gb_wonderful_video_goto_box">Abrir Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Hoje</string>
-  <string name="gb_wonderful_video_save_suc">Guardado com sucesso</string>
+  <string name="gb_wonderful_video_save_suc">Guardado</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="global_wa_setting_alert_dialog_content">Pode libertar %s</string>
@@ -1523,6 +1528,18 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="intl_perm_notification_title">Proteger a sua privacidade</string>
   <string name="international_Ad">Anúncios</string>
   <string name="international_roaming_setting">Dados em roaming</string>
+  <string name="intl_app_manager_card_permission_title">Privacidade e permissões</string>
+  <string name="intl_perm_privacy_control_calendar">A aplicação pode aceder ou editar o calendário apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_calllog">A aplicação pode aceder ou editar o registo de chamadas apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_camera">A aplicação pode tirar fotos ou gravar vídeos apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_contact">A aplicação pode aceder ou editar contactos apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_data">Controlar a privacidade</string>
+  <string name="intl_perm_privacy_control_message">Controlar os dados pessoais a que as aplicações têm acesso</string>
+  <string name="intl_perm_privacy_control_microphone">A aplicação pode gravar áudio apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_notification_message">Controlar os dados pessoais a que as aplicações têm acesso</string>
+  <string name="intl_perm_privacy_control_notification_title">Proteger a sua privacidade</string>
+  <string name="intl_perm_privacy_control_storage">A aplicação pode aceder ou editar itens do armazenamento interno apenas enquanto a estiver a utilizar</string>
+  <string name="intl_perm_privacy_control_title">Control privacy</string>
   <string name="invalid_charger">Não é possível carregar via USB. Utilize o carregador que veio com o seu dispositivo</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="item_app_permission">Permissões de aplicação</string>
@@ -1740,7 +1757,7 @@ da operadora"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Optimizar velocidade</string>
-  <string name="menu_text_power_manager">Bateria e desempenho</string>
+  <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Remover das excepções</string>
   <string name="menu_white">Adicionar às excepções</string>
@@ -2028,7 +2045,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pc_search_keywords_battery_use">Utilização da bateria</string>
   <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
   <string name="pc_search_keywords_property">Desempenho</string>
-  <string name="pc_settings_title">Definições de bateria e desempenho</string>
+  <string name="pc_settings_title">Bateria</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm restantes</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm desde o último carregamento</string>
   <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
@@ -2157,7 +2174,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_super_save_title_text">Poupança de bateria extrema</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
-  <string name="power_center_title">Bateria e desempenho</string>
+  <string name="power_center_title">Bateria</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_sleep_summary">Desactivar todas as funções de rede (chamadas, mensagens, Wi-Fi e serviços de dados) excepto para o despertador</string>
   <string name="power_consume_other">Outros</string>
@@ -3363,7 +3380,8 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="warningcenter_alert_room">Quarto</string>
   <string name="warningcenter_alert_source">Centro de alertas MIUI | Origem dos dados: %s</string>
   <string name="warningcenter_alert_time">Horas</string>
-  <string name="warningcenter_alert_warning_time">Tempo de alerta: %s</string>
+  <string name="warningcenter_alert_warning_time">Hora recebida: %s</string>
+  <string name="warningcenter_disaster_search_keywords">Alertas de tempo</string>
   <string name="warningcenter_earthquake_info">Alertas rápidos de sismos</string>
   <string name="warningcenter_mijia_alert_close">Fechar</string>
   <string name="warningcenter_mijia_alert_settings">Alterar definições em Segurança &gt; Alertas de dispositivos domésticos inteligentes</string>
@@ -3383,6 +3401,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="warningcenter_mijia_notification_title">Os alertas dos dispositivos domésticos inteligentes estão ligados</string>
   <string name="warningcenter_mijia_open_desc">Vai receber alertas neste telefone e em outros dispositivos partilhados sempre que os alertas forem emitidos pelos dispositivos que adicionou em Mi Home"</string>
   <string name="warningcenter_mijia_open_title">Receber alertas de dispositivos inteligentes</string>
+  <string name="warningcenter_mijia_search_keywords">Alertas Mi Home</string>
   <string name="warningcenter_mijia_page_title">Alertas</string>
   <string name="warningcenter_mijia_title">Alertas de dispositivos domésticos inteligentes</string>
   <string name="warningcenter_smarthome">Mi Home</string>

@@ -925,7 +925,12 @@ e traz as pessoas que estão na frente"</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
-  <string name="title_snap_double_confirm">Confirme novamente</string>
+  <string name="timer_burst">Timer burst</string>
+  <string name="timer_burst_manu_param_interval">Intervalo de tempo (não contém tempo de exposição)</string>
+  <string name="timer_burst_param_interval">Intervalo de tempo</string>
+  <string name="timer_burst_param_total_count">Total de capturas</string>
+  <string name="timer_burst_setting_total_count">Contagem: %1$s</string>
+  <string name="title_snap_double_confirm">Confirmar novamente</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">O Disparo Contínuo não é suportado quando a captura de áudio está ligada</string>
   <string name="toast_saving">A guardar fotos…</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
