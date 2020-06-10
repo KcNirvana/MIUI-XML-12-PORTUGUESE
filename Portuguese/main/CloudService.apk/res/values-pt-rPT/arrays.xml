@@ -6,27 +6,32 @@
     </string-array>
     <string-array name="settings_search_contacts">
         <item>Sincronizar contactos com a Xiaomi Cloud</item>
-        <item>Ligar/configurar sincronização</item>
+        <item>Ligar sincronização</item>
         <item>Contactos;Registos de chamadas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronizar mensagens com a Xiaomi Cloud</item>
-        <item>Ligar/configurar sincronização</item>
+        <item>Ligar sincronização</item>
         <item>Mensagens;SMS;MMS;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
         <item>Sincronizar Galeria com a Xiaomi Cloud</item>
-        <item>Ligar/configurar sincronização</item>
+        <item>Ligar sincronização</item>
         <item>Galeria;Fotos;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
         <item>Sincronizar registo de chamadas com a Xiaomi Cloud</item>
-        <item>Ligar/configurar sincronização</item>
+        <item>Ligar sincronização</item>
         <item>Registo de chamadas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sincronizar respostas rápidas</item>
+        <item>Ligar sincronização</item>
+        <item>Respostas rápidas;Área de transferências;Editor;;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronizar gravações com a Xiaomi Cloud</item>
-        <item>Ligar/configurar sincronização</item>
+        <item>Ligar sincronização</item>
         <item>Gravador;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">

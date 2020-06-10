@@ -253,6 +253,7 @@
   <string name="switch_brand_desc_tv">Serviços de segurança fornecido por Graphite</string>
   <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
   <string name="switching_tv">A trocar…</string>
+  <string name="talk_back_conflict_with_handy_mode">Não é possível utilizar o Modo Uma Mão com o TalkBack ligado</string>
   <string name="talk_back_water_mark_string1">TalkBack ligado</string>
   <string name="talk_back_water_mark_string2">Prima e segure \"Volume+\" e \"Volume-\" por 3 segundos para desligar</string>
   <string name="throwing_print">Imprimir</string>

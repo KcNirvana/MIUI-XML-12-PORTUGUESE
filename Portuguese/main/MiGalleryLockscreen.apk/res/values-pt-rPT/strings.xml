@@ -246,6 +246,7 @@ Envie este código ao supervisor"</string>
   <string name="lks_left_top_notice">Toque para voltar ao topo</string>
   <string name="lks_left_top_notice_refresh">Toque para ver novos items</string>
   <string name="lks_logo_desc2">Papéis de parede novos diariamente</string>
+  <string name="lks_logo_desc_search">Papéis de parede novos diariamente</string>
   <string name="lks_subscription_toast">Papel de parede alterado</string>
   <string name="llks_add_cate">Subscrever %s</string>
   <string name="llks_auto_switch_wp">Subscrever as categorias que gosta</string>

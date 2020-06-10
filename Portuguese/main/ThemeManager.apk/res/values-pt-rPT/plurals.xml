@@ -28,6 +28,10 @@
         <item quantity="other">%d comentários</item>
         <item quantity="one">%d comentário</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="other">%1$d itens transferidos com sucesso</item>
+        <item quantity="one">%1$d item transferido com sucesso</item>
+    </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f pontos</item>
         <item quantity="one">%1$.1f ponto</item>

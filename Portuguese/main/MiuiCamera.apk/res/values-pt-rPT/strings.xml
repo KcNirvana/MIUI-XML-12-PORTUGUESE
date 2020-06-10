@@ -151,6 +151,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="color_effect_entry_berry">Bagas</string>
   <string name="color_effect_entry_blackgold">Rhodium</string>
+  <string name="color_effect_entry_blackice">Gelo negro</string>
   <string name="color_effect_entry_blackwhite">Preto e branco</string>
   <string name="color_effect_entry_classic">Clássico</string>
   <string name="color_effect_entry_cookie">Bolacha</string>
@@ -161,6 +162,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="color_effect_entry_glimmer">Brilho</string>
   <string name="color_effect_entry_koizora">Romance</string>
   <string name="color_effect_entry_latte">Café com leite</string>
+  <string name="color_effect_entry_orange">Lima</string>
   <string name="color_effect_entry_quiet">Calmo</string>
   <string name="color_effect_entry_soda">Sumo</string>
   <string name="color_effect_entry_sibopenk">Cyberpunk</string>
