@@ -1539,7 +1539,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="intl_perm_privacy_control_notification_message">Controlar os dados pessoais a que as aplicações têm acesso</string>
   <string name="intl_perm_privacy_control_notification_title">Proteger a sua privacidade</string>
   <string name="intl_perm_privacy_control_storage">A aplicação pode aceder ou editar itens do armazenamento interno apenas enquanto a estiver a utilizar</string>
-  <string name="intl_perm_privacy_control_title">Control privacy</string>
+  <string name="intl_perm_privacy_control_title">Definições de privacidade</string>
   <string name="invalid_charger">Não é possível carregar via USB. Utilize o carregador que veio com o seu dispositivo</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="item_app_permission">Permissões de aplicação</string>
