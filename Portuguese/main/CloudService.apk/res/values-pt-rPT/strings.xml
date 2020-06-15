@@ -70,6 +70,9 @@
   <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, pode ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_service_title">Localizar Dispositivo</string>
+  <string name="find_device_status_summary">Localizar, bloquear e eliminar o seu dispositivo remotamente</string>
+  <string name="find_device_status_title_pad">Localizar Dispositivo</string>
+  <string name="find_device_status_title_phone">Localizar Dispositivo</string>
   <string name="finddevice_miservice_notification_content">Bloquear o seu dispositivo remotamente se estiver perdido</string>
   <string name="finddevice_miservice_notification_title">Ligar Localizar Dispositivo</string>
   <string name="forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -188,6 +191,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
+  <string name="micloud_find_device_guide_title">Iniciar sessão em &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> com a sua Conta Mi para localizar e bloquear o seu dispositivo, marcá-lo como perdido ou eliminar os dados remotamente. Ver detalhes &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>aqui&lt;/a></string>
   <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
@@ -484,6 +488,8 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>
   <string name="reading_status_failure">Não foi possível carregar estado</string>
+  <string name="send_last_location_summary">Sincronizar a localização enquanto o dispositivo está a ser desligado</string>
+  <string name="send_last_location_title">Localizar antes de desligar</string>
   <string name="share_cancel">Partilha cancelada</string>
   <string name="share_failed">Não foi possível partilhar</string>
   <string name="share_miliao_not_installed">O Mi Talk não está instalado</string>

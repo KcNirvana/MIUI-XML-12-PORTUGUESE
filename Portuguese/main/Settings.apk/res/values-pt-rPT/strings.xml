@@ -1563,6 +1563,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="contextual_card_undo_dismissal_text">Anular</string>
   <string name="continue_reset_factory">Reposição de fábrica</string>
   <string name="contributors_title">Contribuidores</string>
+  <string name="control_center">Centro de Controlo</string>
   <string name="control_panel_switch_side">Trocar o lado do Centro de Controlo</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
@@ -2118,6 +2119,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
   <string name="double_click_power_key">Duplo toque botão no Ligar/Desligar</string>
+  <string name="double_knock">Duplo toque</string>
   <string name="double_tap_power_for_camera_summary">Para abrir rapidamente a câmara, prima duas vezes o botão Ligar/Desligar. Funciona a partir de qualquer ecrã</string>
   <string name="double_tap_power_for_camera_title">Aceder à câmara</string>
   <string name="double_twist_for_camera_mode_title">Virar a câmara</string>
@@ -2859,16 +2861,17 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="input_method_bottom_open">Ligado</string>
   <string name="input_method_clipboard_settings">Definições da área de transferências</string>
   <string name="input_method_cloud_data_title">Área de transferências Xiaomi Cloud</string>
-  <string name="input_method_cloud_paste_mode_bubble_des">Vai ver uma bolha sempre que aparecer novos conteúdos na área de transferências da Xiaomi Cloud. Toque na bolha para utilizar o texto copiado</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">Vai ver uma bolha. Toque na bolha para utilizar o texto copiado</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Bolhas</string>
-  <string name="input_method_cloud_paste_mode_no_des">Não vão aparecer notificações quando aparecerem novos conteúdos na área de transferências da Xiaomi Cloud</string>
+  <string name="input_method_cloud_paste_mode_no_des">Não vão aparecer notificações</string>
   <string name="input_method_cloud_paste_mode_no_title">Nenhum</string>
-  <string name="input_method_cloud_paste_mode_red_point_des">Vai ver um ponto vermelho na parte inferior do teclado sempre que aparecer novos conteúdos na área de transferências da Xiaomi Cloud. Toque no ícone para abrir e utilizar o conteúdo copiado</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">Vai ver um ponto vermelho na parte inferior do teclado. Toque no ícone para abrir e utilizar o conteúdo copiado</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Ponto vermelho</string>
   <string name="input_method_manage">Gestão de teclados</string>
   <string name="input_method_quick_access">Acesso rápido</string>
   <string name="input_method_quick_cloud_mode_title">Notificações sobre novos conteúdos</string>
   <string name="input_method_quick_cloud_summary">Copiar itens em computadores compatíveis e colá-los no seu dispositivo</string>
+  <string name="input_method_quick_cloud_tips">Tipo de notificações</string>
   <string name="input_method_quick_cloud_title">Área de transferências Xiaomi Cloud</string>
   <string name="input_method_quick_paste_summary">Ver itens copiados ao tocar no ícone da área de transferências</string>
   <string name="input_method_quick_paste_title">Colagem rápida</string>
@@ -3058,6 +3061,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
   <string name="lattice_smartcover_title">Capa com frente em malha</string>
+  <string name="launch_ai_shortcut">Atalho Mi IA</string>
   <string name="launch_by_default">Abrir por predefinição</string>
   <string name="launch_camera">Iniciar câmara</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
@@ -6948,9 +6952,10 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_ask_enable">%s quer ligar o Wi-Fi</string>
   <string name="wifi_assist">Assistente Wi-Fi</string>
   <string name="wifi_assistant">Seleccionar as melhores redes automaticamente</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Esta rede Wi-Fi não tem acesso à Internet. O seu dispositivo vai utilizar dados móveis. Pode desligar o assistente de Wi-Fi nas Definições</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Pode desligar esta funcionalidade em Definições > Wi-Fi > Assistente Wi-Fi</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Utilizar dados móveis quando o seu dispositivo não tiver acesso à Internet via Wi-Fi</string>
   <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
-  <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
+  <string name="wifi_assistant_confirm_connection_title">Seleccionar as melhores redes automaticamente</string>
   <string name="wifi_assistant_data_prompt">Mostrar aviso de utilização de dados</string>
   <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de utilização de dados quando o assistente Wi-Fi mudar para dados móveis</string>
   <string name="wifi_assistant_description">"O assistente Wi-Fi funciona assim:

@@ -1690,6 +1690,7 @@ da operadora"</string>
   <string name="memory_check_content">Libertos %s</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tudo parece bem</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Libertou %s. O seu dispositivo está %d%% mais rápido agora</string>
   <string name="memory_clear_unused">Limpeza da cache (%s)</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_add">Adicionar</string>
@@ -1740,6 +1741,8 @@ da operadora"</string>
   <string name="menu_summary_networkassistants_2">Ultrapassou o limite</string>
   <string name="menu_summary_networkassistants_3">Dados restantes suficientes</string>
   <string name="menu_summary_networkassistants_4">A ficar sem dados</string>
+  <string name="menu_summary_optimize_manage">Limpar memória</string>
+  <string name="menu_summary_optimize_manage_1">Tornar o seu dispositivo %d%% mais rápido</string>
   <string name="menu_summary_power_manager">A poupança de bateria dá-lhe mais tempo entre cargas</string>
   <string name="menu_summary_power_manager_1">A bateria está carregada</string>
   <string name="menu_summary_power_manager_2">%s restantes</string>
@@ -1757,6 +1760,7 @@ da operadora"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Optimizar velocidade</string>
+  <string name="menu_text_optimize_manage_1">Optimizar velocidade</string>
   <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Remover das excepções</string>
@@ -1926,6 +1930,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="om_lock_app_unlocked_app">Desbloqueada</string>
   <string name="om_locked_apps_summary">As aplicações bloqueadas vão ser ignoradas pelo acelerador</string>
   <string name="om_not_finish_speedboost">Acelerador de velocidade necessário</string>
+  <string name="om_optimzing_big_button_text">Optimizar velocidade</string>
+  <string name="om_running_app_info_summary">Libertar %s</string>
   <string name="om_running_locked_apps">Aplicações bloqueadas em execução</string>
   <string name="om_running_system_apps">Aplicações de sistema em execução</string>
   <string name="om_running_third_apps">Outras aplicações em execução</string>
@@ -1940,6 +1946,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="om_settings_notify_manage">Notificações</string>
   <string name="om_settings_speed_up_auto">Optimizar automaticamente</string>
   <string name="om_settings_title">Definições da optimização de velocidade</string>
+  <string name="om_shortcut_added_toast_text">Adicionado com sucesso</string>
+  <string name="om_shortcut_dialog_summary">O RAM Jet permite limpar memória e optimizar a velocidade do seu dispositivo com um único toque. Adicionar RAM Jet ao ecrã inicial?</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">A aplicação não foi encontrada</string>
   <string name="open_app">Abrir</string>
@@ -2596,7 +2605,11 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="section_title_clear_acc">Limpar cache</string>
   <string name="section_title_security_defend">Segurança</string>
   <string name="section_title_system">Segurança do sistema</string>
+  <string name="security_bottom_guide_to_pm_text">A abrir ferramentas…</string>
   <string name="security_center_slogan">Mantenha o seu dispositivo rápido e seguro</string>
+  <string name="security_guide_bubble_text">Abrir</string>
+  <string name="security_guide_summary">Um único botão para ferramentas e serviços</string>
+  <string name="security_guide_title">Ferramentas MIUI</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="securityadd_install_fail">Não foi possível actualizar o plugin. Tente novamente</string>
   <string name="securityadd_update_tips_cancle">Agora não</string>

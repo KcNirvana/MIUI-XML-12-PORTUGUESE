@@ -83,13 +83,13 @@
   <string name="warning_tip_content">Não existe ligação ao Wi-Fi. Se utilizar a sua ligação de dados móveis para terminar esta transferência vai aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Aviso de utilização de dados</string>
-  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência vai originar um consumo excessivo de dados móveis, podem surgir despesas adicionais cobradas pela sua operadora, mas depende sempre do plano de dados móveis subscrito. 
+  <string name="wifi_recommended_body">"A partir desta %1$s a transferência vai originar um consumo excessivo de dados móveis, podem surgir despesas adicionais cobradas pela sua operadora, mas depende sempre do plano de dados móveis subscrito. 
 
-Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
+Toque em %2$s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
   <string name="wifi_recommended_title">Aguardar para transferir mais tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Deve utilizar o Wi-Fi para concluir esta %s transferência. 
+  <string name="wifi_required_body">"Deve utilizar o Wi-Fi para concluir esta %1$s transferência. 
 
-Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
+Toque em %2$s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
   <string name="xl_speedup_experience_notify_context">A velocidade das transferências vai ser optimizada se for membro Xunlei</string>
   <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>

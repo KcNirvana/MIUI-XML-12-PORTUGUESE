@@ -147,6 +147,7 @@
   <string name="copy_to_sdcard">Guardar anexo</string>
   <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
+  <string name="copy_verification_code_tip">Copiado com sucesso</string>
   <string name="current_data_version">Versão de Mi Message</string>
   <string name="delete">Eliminar</string>
   <string name="delete_block_conversation">Eliminar esta conversa</string>
@@ -314,6 +315,7 @@
   <string name="menu_make_call">Ligar</string>
   <string name="menu_mark">Marcar</string>
   <string name="menu_more">Mais</string>
+  <string name="menu_multi_select">Seleccionar</string>
   <string name="menu_new_contact">Novo contacto</string>
   <string name="menu_new_manual">Inserir número de telefone</string>
   <string name="menu_pick_from_contact">Seleccionar dos contactos</string>
@@ -460,6 +462,8 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="non_english_subject_limit">13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
   <string name="not_prepare_for_send">Sem mensagens para enviar</string>
+  <string name="not_set">Não definido</string>
+  <string name="not_support_audio_forward">Não é possível reencaminhar mensagens de voz</string>
   <string name="notification_ad_content">Recebeu uma mensagem de promoções de %s</string>
   <string name="notification_channel_msg_description">Notificação de mensagem</string>
   <string name="notification_channel_msg_name">Mensagem</string>
@@ -534,6 +538,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_privacy_authority">Toque nesta opção para autorizar ou revogar a sua autorização</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
+  <string name="pref_summary_voice_report">Ligar para ler as mensagens em voz alta assim que as receber. Prima o botão Volume- ou Ligar/Desligar para parar a reprodução</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
   <string name="pref_system_title">Sistema</string>
@@ -564,6 +569,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_storage_status">Estado do armazenamento de mensagens</string>
   <string name="pref_title_system_mms_priority">Definir como predefinida</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
+  <string name="pref_title_voice_report">Ler mensagens em voz alta</string>
   <string name="pref_title_wake_up_screen">Ligar o ecrã</string>
   <string name="preferences_title">Definições</string>
   <string name="prepare_send">A preparar para enviar…</string>
@@ -821,6 +827,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="too_many_attachments">Existe um limite de %1$s anexos. Apenas o primeiro %2$s vai ser adicionado</string>
   <string name="too_many_recipients">Esta mensagem tem demasiados destinatários (%1$s). Existe um limite de %2$s destinatários</string>
   <string name="too_many_unsent_mms">Não é possível enviar a mensagem agora. Demasiadas mensagens multimédia por enviar</string>
+  <string name="top_conversation">Conversas fixadas</string>
   <string name="try_to_send">Tentar o envio</string>
   <string name="turn_on">Ligar</string>
   <string name="type_attachment">anexo</string>
@@ -854,9 +861,13 @@ Tentativas efectuadas: %s"</string>
   <string name="url_scan_again">Verificar novamente</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Códigos de verificação</string>
+  <string name="verification_code_safety_warning">Não revele estes códigos a outras pessoas</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensagem original</string>
   <string name="view_message_details">Ver detalhes</string>
+  <string name="voice_report_anytime">Sempre</string>
+  <string name="voice_report_off">Desligado</string>
+  <string name="voice_report_wiredon">Com auriculares</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviar em %ds</string>
   <string name="wild_msg_processing">A processar…</string>

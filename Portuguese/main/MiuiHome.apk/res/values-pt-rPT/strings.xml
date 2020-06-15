@@ -291,11 +291,11 @@
   <string name="launcher_global_search_provider_title">Fornecedor da pesquisa</string>
   <string name="launcher_not_exist">Ocorreu um erro. Volte ao início e tente novamente</string>
   <string name="launcher_pull_down_title">Deslizar para baixo no ecrã inicial</string>
-  <string name="launcher_search_bar_provider_title">Fornecedor da pesquisa (barra de pesquisa)</string>
+  <string name="launcher_search_bar_provider_title">Fornecedor da pesquisa</string>
   <string name="launcher_search_bar_title">Barra de pesquisa do ecrã inicial</string>
   <string name="launcher_search_bar_value_disable">Desligada</string>
   <string name="launcher_search_bar_value_enable">Ligada</string>
-  <string name="launcher_slide_up_search_provider_title">Fornecedor da pesquisa (deslizar para cima)</string>
+  <string name="launcher_slide_up_search_provider_title">Fornecedor da pesquisa</string>
   <string name="launcher_slide_up_title">Deslizar para cima no ecrã inicial</string>
   <string name="launcher_sliding_up_gesture">Deslizar para cima para abrir a pesquisa</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>

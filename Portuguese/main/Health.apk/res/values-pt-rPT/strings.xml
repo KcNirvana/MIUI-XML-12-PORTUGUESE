@@ -143,7 +143,7 @@ para adicionar cartões"</string>
   <string name="cross_hiking">Caminhada</string>
   <string name="cumulative_decline">Perda de elevação</string>
   <string name="cumulative_rise">Ganho de elevação</string>
-  <string name="current_phone">Dispositivo</string>
+  <string name="current_phone">Este dispositivo</string>
   <string name="cycle">Ciclismo</string>
   <string name="daily_consumption_label">Calorias</string>
   <string name="daily_distance_label">Distância</string>
@@ -163,6 +163,8 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="data_source_list_description">Saúde obtem os dados destas origens (%1$s). Se os dados estiverem duplicados em várias origens, vai visualizar os dados que aparecem primeiro na lista Saúde</string>
   <string name="data_source_manage">Gestão de origens de dados</string>
   <string name="data_source_not_support_hm_description">%1$s não fornece uma contagem de passos detalhada. Altere para outras origens de dados em Mais &gt; Origens de dados</string>
+  <string name="data_source_not_support_hm_description_consume">A origem seleccionada (%1$s) não fornece informação detalhada sobre as calorias. Pode seleccionar diferentes origens de dados em Mais > Origens de dados</string>
+  <string name="data_source_not_support_hm_description_duration">A origem seleccionada (%1$s) não fornece informação detalhada sobre os exercícios. Pode seleccionar diferentes origens de dados em Mais > Origens de dados</string>
   <string name="date">Data</string>
   <string name="date_format_m_d">dd/MM</string>
   <string name="date_format_m_d_2">dd/MM</string>
@@ -197,6 +199,10 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="delete_all_data_sources_description">Eliminar todas as origens de dados?</string>
   <string name="delete_avatar">Eliminar foto actual</string>
   <string name="delete_contact">Eliminar</string>
+  <string name="delete_data_source">Eliminar origem de dados</string>
+  <string name="delete_dialog_close_sync_msg">Para eliminar %1$s, desligue a sincronização do dispositivo correspondente primeiro</string>
+  <string name="delete_dialog_confirm_msg_cloud">Eliminar %1$s e os dados relacionados neste dispositivo e na Xiaomi Cloud?</string>
+  <string name="delete_dialog_confirm_msg_local">Eliminar %1$s e os dados relacionados?</string>
   <string name="delete_menstruation_record_confirm">Eliminar este registo?</string>
   <string name="delete_origin_data_description">Eliminar todos os dados gerados por %1$s?</string>
   <string name="delete_record">Eliminar registo</string>
@@ -317,6 +323,9 @@ Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente
   <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
   <string name="exercise_reminder_title">Alerta de actividade</string>
   <string name="exercise_reminder_unaccomplished">Ainda não atingiu o seu objectivo</string>
+  <string name="exercise_result_reminder_content">%1$d minuto(s) de exercício (%2$d calorias). Toque para ver detalhes</string>
+  <string name="exercise_result_reminder_title">Passos de hoje: %1$d. Atingiu o objectivo!</string>
+  <string name="exercise_result_reminder_title_unaccomplished">Passos de hoje: %1$d. Ainda pode atingir o objectivo!</string>
   <string name="exercise_setting_label_reach_standard_remind">Alerta de actividade</string>
   <string name="exercise_setting_page_title">Definições de actividade</string>
   <string name="exercise_start">Iniciar</string>
@@ -356,6 +365,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="go_on">Continuar</string>
   <string name="go_open_sleep_detector">Iniciar</string>
   <string name="go_setting">Definições</string>
+  <string name="go_to_close">Definições</string>
   <string name="go_to_open">Ligar</string>
   <string name="goal_daily_exercise">Objectivos de actividade</string>
   <string name="goal_sleep_time">Objectivos de duração de sono</string>
@@ -618,6 +628,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="remind_query_menstruation_end">O seu período já acabou? Não se esqueça de o registar</string>
   <string name="remind_query_menstruation_start">O seu período já comecou? Não se esqueça de o registar</string>
   <string name="remind_sleep_report_complete">As estatísticas de sono estão prontas</string>
+  <string name="remind_sleep_report_content">Dormiu %1$d hora(s) e %2$d minuto(s) na última noite. Toque para ver detalhes</string>
+  <string name="remind_sleep_report_title">As estatísticas de sono estão prontas</string>
   <string name="remind_subtitle_menstruation_start">Receber um lembrete 2 dias antes do próximo período</string>
   <string name="remind_subtitle_record">Receber lembretes quando necessitar de registar a data de início e fim dos seus períodos</string>
   <string name="remind_title_menstruation_start">Lembrete para início do período</string>
@@ -726,11 +738,13 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_no_data_info">Passe por um ciclo completo de sono</string>
   <string name="sleep_no_deep_light_data_tip">Porque é que o sono leve e profundo não está a ser registado?</string>
   <string name="sleep_no_generate_report">Sem dados de sono</string>
+  <string name="sleep_notice">Notificações de sono</string>
   <string name="sleep_record_content">Saúde vai registar automaticamente o seu sono baseado na utilização do seu telefone, estatísticas de actividade, assim como a hora de dormir e acordar que definir</string>
   <string name="sleep_record_go_open">Ligue \"Monitorizar sono\" para iniciar o registo de dados do sono</string>
   <string name="sleep_record_label">Registar sono</string>
   <string name="sleep_remind">Lembrete de sono</string>
   <string name="sleep_report">Estatísticas do sono</string>
+  <string name="sleep_report_notice">Notificações das estatísticas do sono</string>
   <string name="sleep_require_auto_start_permission">Permitir que Saúde inicie automaticamente para registar as suas actividades e sono</string>
   <string name="sleep_schedule">Hora de dormir</string>
   <string name="sleep_service">Serviço de registo do sono</string>
@@ -849,6 +863,7 @@ baseados nas suas informações pessoais"</string>
   <string name="swim">Natação</string>
   <string name="swim_type">Estilo</string>
   <string name="sync_immediately">Sincronizar</string>
+  <string name="sync_is_not_closed">Sincronização ligada</string>
   <string name="sync_is_off">Sincronização desligada</string>
   <string name="sync_set_network">Definições de rede</string>
   <string name="sync_status">Estado</string>

@@ -324,6 +324,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d aplicações bloqueadas</item>
     <item quantity="one">%d aplicação bloqueada</item>
   </plurals>
+  <plurals name="om_running_apps_num">
+    <item quantity="other">%d aplicações</item>
+    <item quantity="one">%d aplicação</item>
+  </plurals>
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
     <item quantity="one">+%d</item>

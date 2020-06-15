@@ -25,12 +25,12 @@
         <item quantity="one">Código PUK incorrecto. Tem %d tentativas restante</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">É necessário introduzir a palavra-passe após %d horas de inactividade</item>
-        <item quantity="one">É necessário introduzir a palavra-passe após %d hora de inactividade</item>
+        <item quantity="other">Introduzir a palavra-passe pelo menos uma vez a cada %d horas</item>
+        <item quantity="one">Introduzir a palavra-passe pelo menos uma vez a cada %d hora</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">É necessário introduzir o padrão após %d horas de inactividade</item>
-        <item quantity="one">É necessário introduzir o padrão após %d hora de inactividade</item>
+        <item quantity="other">Introduzir o padrão pelo menos uma vez a cada %d horas</item>
+        <item quantity="one">Introduzir o padrão pelo menos uma vez a cada %d hora</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">%d horas restantes</item>
