@@ -110,6 +110,8 @@ maravilhoso está para acontecer"</string>
   <string name="summary">Para reduzir o consumo de bateria, os itens não vão ser mostrados quando o dispositivo estiver no escuro por muito tempo</string>
   <string name="super_wallpaper_date">"EEEE
 dd/MM"</string>
+  <string name="super_wallpaper_date_inter">"EEEE
+dd/MM"</string>
   <string name="super_wallpaper_date_lunar">"EEEE
 dd/MM"</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>

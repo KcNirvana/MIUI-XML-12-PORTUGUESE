@@ -28,6 +28,10 @@
         <item quantity="other">%d meses</item>
         <item quantity="one">%d mês</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d anos</item>
+        <item quantity="one">%d ano</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 hora atrás</item>
     </plurals>

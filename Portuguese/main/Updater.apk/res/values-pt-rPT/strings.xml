@@ -14,6 +14,7 @@
   <string name="btn_wrong_md5">MD5 errado. Toque para remover a ROM</string>
   <string name="btn_yes">Sim</string>
   <string name="channel_downloading">Progresso da transferência</string>
+  <string name="channel_service">Serviço em segundo plano</string>
   <string name="channel_update">Nova versão disponível</string>
   <string name="check_new_version">Verificar</string>
   <string name="dialog_3g_desc">Tenha atenção que utilizar dados móveis para transferir ROMs pode consumir todo o seu pacote de dados</string>
@@ -49,6 +50,8 @@ Não estão disponíveis actualizações"</string>
   <string name="notif_install">Instalar</string>
   <string name="notif_new_summary">Toque para obter detalhes</string>
   <string name="notif_new_title">Nova versão disponível</string>
+  <string name="notif_service_summary">Premir e segurar para desligar as notificações de \"Serviço em segundo plano\"</string>
+  <string name="notif_service_title">Execução em segundo plano…</string>
   <string name="notifications_switch">Mostrar notificações</string>
   <string name="permdesc_cache_filesystem">Permite à aplicação escrever ficheiros na cache</string>
   <string name="permdesc_reboot">Permite à aplicação reiniciar o dispositivo</string>

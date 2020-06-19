@@ -127,8 +127,12 @@
   <string name="food_module_thumbs_up">Gostar</string>
   <string name="food_module_tip">Coloque a comida dentro do quadrado</string>
   <string name="food_module_title_food">Calorias</string>
+  <string name="function">Funcionalidades</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
+  <string name="history">Histórico</string>
+  <string name="history_empty">Sem itens</string>
+  <string name="if_open_result">Mostrar resultados quando voltar para a aplicação</string>
   <string name="import_contact">Importar contacto</string>
   <string name="impunity_declaration_content">O Digitalizador necessita de utilizar a sua câmara para processar fotos que tira na aplicação. Não utilize o Digitalizador para tirar fotos aos objectos que contêm informações pessoais. Ao clicar em \"Concordar\", está a concordar com a nossa Política de Privacidade e dar permissão de ligar à Internet</string>
   <string name="impunity_declaration_negative_text">Sair</string>
@@ -149,6 +153,8 @@
   <string name="language_entry_korean">Coreano</string>
   <string name="language_entry_spanish">Espanhol</string>
   <string name="low_version_tip">A versão da MIUI é muito antiga. Actualize a versão para utilizar o Digitalizador</string>
+  <string name="mipayin_dialog_more">Mais</string>
+  <string name="mipayin_dialog_title">Abrir com</string>
   <string name="miracast_connect">Transmitir</string>
   <string name="miracast_connect_fail">Não foi possível transmitir. Tente novamente</string>
   <string name="miracast_connecting">A transmitir…</string>

@@ -1109,11 +1109,13 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Toque no dispositivo Bluetooth para confirmar</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toque no botão do relógio para desbloquear</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmar nos dispositivos</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toque no botão do dispositivo para desbloquear</string>
   <string name="bluetooth_unlock_delete_device">Eliminar este dispositivo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Deseja eliminar este dispositivo?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilizar este dispositivo para desbloquear</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Não foram detectados dispositivos</string>
+  <string name="bluetooth_unlock_reject">O dispositivo remoto rejeitou o pedido de desbloqueio</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
@@ -1125,6 +1127,7 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_title">Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
+  <string name="bluetooth_unlock_unsupport">Versão não suportada</string>
   <string name="bluetooth_unpair_dialog_body">O seu telefone não vai estar mais emparelhado com %1$s</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Esquecer dispositivo</string>
   <string name="bluetooth_unpair_dialog_title">Esquecer dispositivo?</string>

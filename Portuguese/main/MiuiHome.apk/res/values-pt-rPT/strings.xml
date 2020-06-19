@@ -32,10 +32,12 @@
   <string name="all_app_category_knowledge_education">Conhecimento e educação</string>
   <string name="all_app_category_lifestyle">Estilo de vida</string>
   <string name="all_app_category_news_reading">Notícias e leitura</string>
+  <string name="all_app_category_personal">Pessoal</string>
   <string name="all_app_category_personalization">Personalização</string>
   <string name="all_app_category_photography">Fotografia</string>
   <string name="all_app_category_shopping">Compras</string>
   <string name="all_app_category_tools">Ferramentas</string>
+  <string name="all_app_category_work">Trabalho</string>
   <string name="all_apps">Todas as aplicações</string>
   <string name="all_apps_no_search_results">Sem resultados</string>
   <string name="all_apps_search_app">Pesquisar aplicações</string>
@@ -147,10 +149,10 @@
   <string name="choose_wallpaper">Escolher papel de parede</string>
   <string name="chooser_wallpaper">Escolher um novo papel de parede</string>
   <string name="cloud_app_restore_title">Pendente</string>
-  <string name="common_home_search_delete">Eliminar barra de pesquisa</string>
+  <string name="common_home_search_delete">Remover barra de pesquisa</string>
   <string name="common_home_search_delete_cancle">Cancelar</string>
-  <string name="common_home_search_delete_confirm">Eliminar</string>
-  <string name="common_home_search_delete_content">Não vai poder pesquisar itens utilizar a barra de pesquisa se a eliminar. Eliminar mesmo assim?</string>
+  <string name="common_home_search_delete_confirm">Remover</string>
+  <string name="common_home_search_delete_content">Não vai poder utilizar a pesquisa rápida após remover a barra de pesquisa. Remover mesmo assim?</string>
   <string name="configure_wallpaper">Definições</string>
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">As aplicações clonadas vão ser desinstaladas juntamente com estas</string>
@@ -480,7 +482,7 @@
   <string name="start_activity_failed">Não é possível iniciar o launcher</string>
   <string name="starting_preset_app">A iniciar…</string>
   <string name="status_bar_recent_memory_giga">%1$sGB</string>
-  <string name="status_bar_recent_memory_info1">%1$s of %2$s disponíveis</string>
+  <string name="status_bar_recent_memory_info1">%1$s de %2$s disponíveis</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recent_memory_mega">%1$sMB</string>
   <string name="status_downloaded">Transferido</string>
@@ -519,6 +521,8 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta</string>
+  <string name="unstable_dialog_message">This device is enrolled in the Android 11 Developer Preview Program. The program allows Android developers and enthusiasts to try out pre-release versions of Android 11.This pre-release version may contain errors and defects that can affect normal functioning of your device.</string>
+  <string name="unstable_dialog_title">Android Developer Preview Program</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
   <string name="wallpaper_failed_message">Não foi possível definir</string>
@@ -533,4 +537,7 @@
   <string name="widget_global_search">Pesquisar</string>
   <string name="widget_quick_function">Funções rápidas</string>
   <string name="widgets_preview_title">Adicionar widget</string>
+  <string name="work_mode_off_label">As notificações estão desligadas e as aplicações não estão disponíveis</string>
+  <string name="work_mode_on_label">Gerido pela sua organização</string>
+  <string name="work_profile_toggle_label">Perfil de trabalho</string>
 </resources>
