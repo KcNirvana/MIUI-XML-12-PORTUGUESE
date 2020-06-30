@@ -256,6 +256,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="additional_permissions_more">%1$d mais</string>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
+  <string name="adjust_temperature_title">Temperatura da cor</string>
   <string name="admin_device_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a actividade da rede e as informações de localização do dispositivo</string>
   <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
   <string name="admin_more_details">Mais detalhes</string>
@@ -264,6 +265,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="admin_support_more_info">Mais detalhes</string>
   <string name="advanced_apps">Avançadas</string>
   <string name="advanced_battery_title">Utilização de bateria</string>
+  <string name="advanced_screen_paper_mode_title">Modo de Leitura</string>
   <string name="advanced_section_header">Avançadas</string>
   <string name="advanced_security_title">Avançadas</string>
   <string name="advanced_settings">Definições avançadas</string>
@@ -511,6 +513,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="audio_files_title">Ficheiros de áudio</string>
   <string name="audio_profile_settings_title">Perfis de áudio</string>
   <string name="audio_record_proc_title">Redução de ruído</string>
+  <string name="auto_adjst_effect_summary">>Ajustar a temperatura da cor para a luz ambiente automaticamente para manter um óptimo nível de conforto</string>
+  <string name="auto_adjust_effect_title">Ajustar a temperatura da cor automaticamente</string>
   <string name="auto_brightness_default_title">Predefinido</string>
   <string name="auto_brightness_disclaimer">Optimizar o nível de luminosidade em função da luz disponível. Com esta funcionalidade ligada, continua a ser possível ajustar a luminosidade temporariamente</string>
   <string name="auto_brightness_high_title">Alta</string>
@@ -827,6 +831,9 @@ Aplicações:
   <string name="battery_used_by">%1$s utilizado pela aplicação %2$s</string>
   <string name="battery_used_for">Utilizada durante ^1</string>
   <string name="bearer">Portador</string>
+  <string name="beauty_camera">Embelezar para videochamadas</string>
+  <string name="beauty_camera_summary">Utilizar Embelezar para videochamadas WeChat</string>
+  <string name="beauty_camera_switch">Embelezar</string>
   <string name="bind_xiaomi_account_confirm">Adicionar</string>
   <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer o seu padrão, pode utilizar esta conta para fazer a reposição do mesmo. A conta vai ser removida automaticamente se terminar sessão</string>
   <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
@@ -1109,13 +1116,13 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Toque no dispositivo Bluetooth para confirmar</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toque no botão do relógio para desbloquear</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmar nos dispositivos</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Confirmar no dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toque no botão do dispositivo para desbloquear</string>
   <string name="bluetooth_unlock_delete_device">Eliminar este dispositivo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Deseja eliminar este dispositivo?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilizar este dispositivo para desbloquear</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Não foram detectados dispositivos</string>
-  <string name="bluetooth_unlock_reject">O dispositivo remoto rejeitou o pedido de desbloqueio</string>
+  <string name="bluetooth_unlock_reject">O pedido para desbloquear este dispositivo foi rejeitado</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>
@@ -1127,7 +1134,7 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_title">Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
-  <string name="bluetooth_unlock_unsupport">Versão não suportada</string>
+  <string name="bluetooth_unlock_unsupport">Esta versão do dispositivo não é suportada</string>
   <string name="bluetooth_unpair_dialog_body">O seu telefone não vai estar mais emparelhado com %1$s</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Esquecer dispositivo</string>
   <string name="bluetooth_unpair_dialog_title">Esquecer dispositivo?</string>
@@ -1371,6 +1378,8 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="choose_unlock_face_msg">Defina um bloqueio de ecrã antes de gravar os dados do rosto</string>
   <string name="choose_unlock_fingerprint_msg">Defina um bloqueio de ecrã antes de adicionar a impressão digital</string>
   <string name="choose_voice_input_title">Escolher entrada de voz</string>
+  <string name="classic_mode_summary">Alterar para cores mais quentes para reduzir a quantidade de luz azul</string>
+  <string name="classic_mode_title">Clássico</string>
   <string name="cleaner">Limpeza</string>
   <string name="clear_activities">Limpar predefinições</string>
   <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
@@ -2122,7 +2131,6 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
   <string name="double_click_power_key">Duplo toque botão no Ligar/Desligar</string>
-  <string name="double_knock">Duplo toque</string>
   <string name="double_tap_power_for_camera_summary">Para abrir rapidamente a câmara, prima duas vezes o botão Ligar/Desligar. Funciona a partir de qualquer ecrã</string>
   <string name="double_tap_power_for_camera_title">Aceder à câmara</string>
   <string name="double_twist_for_camera_mode_title">Virar a câmara</string>
@@ -2187,6 +2195,7 @@ Pode ver o registo gerado no Explorador"</string>
   <string name="edge_to_edge_navigation_title">Navegação por gestos</string>
   <string name="edit_rule">Editar regras</string>
   <string name="edit_rules">Editar</string>
+  <string name="effect_preview">Pré-visualizar</string>
   <string name="eighthours">8 horas</string>
   <string name="emergency_address_summary">Endereço utilizado pelos serviços de emergência como a sua localização se efectuar uma chamada de emergência através de Wi-Fi</string>
   <string name="emergency_address_title">Actualizar o endereço de emergência</string>
@@ -2778,6 +2787,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
 Pode alterar esta definição mais tarde em Definições > Aplicações e notificações"</string>
   <string name="high_power_prompt_title">Permitir que a aplicação seja sempre executada em segundo plano?</string>
   <string name="high_power_system">Optimização da bateria não disponível</string>
+  <string name="hint_unadjustable_text">Não é possível ajustar manualmente. A temperatura da cor é ajustada automaticamente</string>
   <string name="history_details_title">Detalhes do histórico</string>
   <string name="home">Definições do ecrã inicial</string>
   <string name="home_app">Launcher</string>
@@ -3064,7 +3074,6 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
   <string name="lattice_smartcover_title">Capa com frente em malha</string>
-  <string name="launch_ai_shortcut">Atalho Mi IA</string>
   <string name="launch_by_default">Abrir por predefinição</string>
   <string name="launch_camera">Iniciar câmara</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
@@ -4288,6 +4297,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="page_layout_small_title">Muito pequeno</string>
   <string name="page_tab_title_summary">Todos</string>
   <string name="page_tab_title_support">Suporte</string>
+  <string name="paper_color_title">Cores</string>
   <string name="paper_mode_auto_twilight_summary">Trocar automaticamente para o Modo de Leitura após o pôr do sol</string>
   <string name="paper_mode_auto_twilight_title">Leitura nocturna</string>
   <string name="paper_mode_customize_time_summary">Ligar o Modo de Leitura por um período personalizado</string>
@@ -4297,8 +4307,12 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancelar</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ir para as Definições</string>
   <string name="paper_mode_get_location_dlg_title">Definir localização</string>
+  <string name="paper_mode_reset">Restaurar predefinições</string>
   <string name="paper_mode_side_effect_hint">Uma intensidade mais alta pode afectar a maneira como o conteúdo é mostrado</string>
   <string name="paper_mode_start_time_title">Ligar</string>
+  <string name="paper_mode_summary">Alterar para cores mais quentes e adicionar textura de papel ao fundo para reduzir a tensão ocular</string>
+  <string name="paper_mode_title">Papel</string>
+  <string name="papger_effect_category">Modo</string>
   <string name="partial_connectivity_text">Algumas aplicações e serviços podem não funcionar devido à ligação limitada. Utilizar mesmo assim?</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
@@ -4971,7 +4985,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen">Ecrã</string>
   <string name="screen_cancel">Cancelar</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
-  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
+  <string name="screen_color_and_optimize_disabled">Não é possível ajustar esquema e temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Temperatura da cor</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
@@ -5013,10 +5027,11 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear toques quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
   <string name="screen_optimize">Contraste</string>
-  <string name="screen_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
+  <string name="screen_optimize_disabled">Não é possível ajustar o esquema da cor no Modo de Leitura</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
   <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
+  <string name="screen_paper_mode_description">O Modo de Leitura ajusta as cores e texturas dos itens no seu ecrã permitindo que os seus olhos relaxem</string>
   <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
   <string name="screen_paper_mode_hdr_toast">O Modo de Leitura vai ser desligado enquanto reproduz vídeos HDR. Vai ser ligado automaticamente quando acabar a reprodução</string>
@@ -5038,6 +5053,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar a lista de aplicações que utilizam o Modo de Leitura automaticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automaticamente</string>
+  <string name="screen_paper_texture">Texturas</string>
   <string name="screen_pinning_description">"Quando esta funcionalidade está ligada, pode utilizar a fixação no ecrã para manter o ecrã actual visível até o soltar.
 
 Para utilizar a fixação no ecrã:
@@ -5499,6 +5515,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="services_subtitle">Serviços</string>
   <string name="set_data_limit">Definir limite de dados</string>
   <string name="set_data_warning">Definir aviso de dados</string>
+  <string name="set_screen_paper_mode">Modo de Leitura</string>
   <string name="setting_privacy_password">Definir padrão de Protecção de Privacidade</string>
   <string name="settings_ad_loading">A carregar…</string>
   <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações</string>
@@ -6170,6 +6187,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_settings_title_wifi">Ponto de Acesso Móvel</string>
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="tethering_settings_not_available">Alterar as definições de partilha de ligação no Primeiro espaço</string>
+  <string name="texture_adjust_temperature_title">Temperatura da cor</string>
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desligue esta funcionalidade se detectar problemas</string>
   <string name="tether_use_wifi6_title">Suporte 6ª geração Wi-Fi</string>
@@ -7368,6 +7386,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_type_approval_dialog_title">Informações de Regulamentação</string>
   <string name="wifi_type_approval_title">Tipo de aprovação</string>
   <string name="wifi_unchanged">(não alterado)</string>
+  <string name="wifi_unmetered_label">Não medido</string>
+  <string name="wifi_unsaved_network_linking">Ponte SSID ‑ Ligação automática</string>
+  <string name="wifi_unsaved_network_linking_summary">Activar a ligação automática a novos SSIDs WPA/WPA2‑PSK 5GHz com as credenciais actuais WPA/WPA2‑PSK 2GHz em correspondências parciais de SSIDs e BSSIDs</string>
   <string name="wifi_unspecified">(não especificado)</string>
   <string name="wifi_update">Actualizar estatísticas</string>
   <string name="wifi_verbose_logging">Activar registo extenso do Wi-Fi</string>
@@ -7395,6 +7416,8 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
   <string name="wifi_wapi_certification_dont_exist">A palavra-passe da rede que introduziu está incorrecta</string>
   <string name="wifi_wapi_user_cert">Certificado de Utilizador</string>
+  <string name="wifi_whitelist_roaming">Ponte SSID ‑ Entrega rápida</string>
+  <string name="wifi_whitelist_roaming_summary">Activar roaming entre diferentes APs SSID WPA/WPA2‑PSK APs com o mesmo endereço gateway MAC</string>
   <string name="wifi_wps_available_first_item">WPS disponível</string>
   <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
   <string name="wifi_wps_complete">A instalação WPS foi bem sucedida. A Ligar à rede…</string>

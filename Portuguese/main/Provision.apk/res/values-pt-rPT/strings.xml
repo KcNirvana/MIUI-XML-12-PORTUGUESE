@@ -53,6 +53,9 @@
   <string name="framwork_base_service">Para o fornecer com estes serviços, a framework Serviços Mi (Conta Mi, Mi Push, Estatísticas Mi e MIUI BI) necessita de ligar à Internet, aceder ao seu número de telefone, IMEI e IMSI, e permitir que o seu dispositivo receba notificações push</string>
   <string name="game_introduction">O plugin de jogos permite que inicie sessão, crie encomendas, conclua pagamentos, utilizar cupões e participar em eventos de promoções</string>
   <string name="google_service_introduction">Para funcionar normalmente, o Google Play necessita de ligar à Internet, aceder à localização, poder gravar áudio, efectuar chamadas, aceder a eventos do calendário, registo de chamadas, sensores, armazenamento, informação do dispositivo e contas</string>
+  <string name="home_settings_miui_home">Clássico</string>
+  <string name="home_settings_poco_launcher">Gaveta de aplicações</string>
+  <string name="home_settings_title">Seleccionar launcher predefinido</string>
   <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
   <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s</string>
   <string name="input_method_category">Escolha o teclado predefinido para escrever emails ou notas. Pode instalar teclados de terceiros mais tarde</string>

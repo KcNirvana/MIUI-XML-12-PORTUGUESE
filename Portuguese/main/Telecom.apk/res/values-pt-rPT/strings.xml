@@ -6,7 +6,7 @@
   <string name="accessibility_manual_zen_less_time">Menos tempo</string>
   <string name="accessibility_manual_zen_more_time">Mais tempo</string>
   <string name="accessibility_no_wifi">Desligado do Wi-Fi</string>
-  <string name="accessibility_speakerphone_enabled">Altifalante activado</string>
+  <string name="accessibility_speakerphone_enabled">Altifalante ligado</string>
   <string name="accessibility_wifi_off">Wi-Fi desligado</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi uma barra</string>
   <string name="accessibility_wifi_security_type_none">Redes abertas</string>
@@ -54,7 +54,7 @@
   <string name="blocked_numbers_block_emergency_number_message">Não é possível bloquear números de emergência</string>
   <string name="blocked_numbers_butter_bar_body">Após marcar ou enviar uma mensagem de texto para um número de emergência, o bloqueio é desactivado para garantir que os serviços de emergência o conseguem contactar</string>
   <string name="blocked_numbers_butter_bar_button">Reactivar agora</string>
-  <string name="blocked_numbers_butter_bar_title">Bloqueio temporariamente desactivado</string>
+  <string name="blocked_numbers_butter_bar_title">Lista de bloqueio desligada</string>
   <string name="blocked_numbers_msg">Não vai receber chamadas ou mensagens de texto de números bloqueados</string>
   <string name="blocked_numbers_number_already_blocked_message">%1$s já está bloqueado</string>
   <string name="blocked_numbers_number_blocked_message">%1$s bloqueado</string>
@@ -237,7 +237,7 @@ Selecção"</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_by_admin">Desactivado pelo administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
-  <string name="duplicate_video_call_not_allowed">Não é possível adicionar a chamada neste momento</string>
+  <string name="duplicate_video_call_not_allowed">Não é possível adicionar mais chamadas</string>
   <string name="enable_account_preference_title">Contas de chamadas</string>
   <string name="enable_adb">Depuração USB</string>
   <string name="enable_adb_summary">Modo de depuração quando o USB está ligado</string>
@@ -327,7 +327,7 @@ Selecção"</string>
   <string name="osu_sign_up_complete">Registo concluído. A ligar…</string>
   <string name="osu_sign_up_failed">Não foi possível concluir o registo. Toque para tentar novamente</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Para efectuar uma chamada introduza um número válido</string>
-  <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode efectuar chamadas sem a autorização de Telefone</string>
+  <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode efectuar chamadas sem as permissões necessárias</string>
   <string name="outgoing_call_not_allowed_user_restriction">Apenas são permitidas chamadas de emergência</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="phone_settings_call_blocking_txt">Bloqueio de chamadas</string>
@@ -433,7 +433,7 @@ Selecção"</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
   <string name="tap_to_sign_up">Toque para se registar</string>
-  <string name="telecommAppLabel">Telefone</string>
+  <string name="telecommAppLabel">Gestão de chamadas</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Conta com Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>

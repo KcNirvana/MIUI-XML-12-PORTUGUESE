@@ -137,8 +137,10 @@
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verificar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o Avast, AVL e servidores do Tencent (%s)</string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
+  <string name="antivirus_privacy_dialog_summary_new">Esta funcionalidade utiliza as definições do antivírus fornecidas por Avast, AVL e Tencent. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">Esta funcionalidade utiliza as definições do antivírus fornecidas por AVL e Tencent. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">Esta funcionalidade utiliza as definições do antivírus fornecidas por Avast e AVL. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="antivirus_toast_already_update">Actualizado</string>
@@ -762,6 +764,10 @@
   <string name="choose">Escolher</string>
   <string name="choose_gs_show_way">Seleccionar orientação da página inicial</string>
   <string name="clean_immediately">Limpar</string>
+  <string name="clean_master_icon_recall_button_text">Adicionar</string>
+  <string name="clean_master_icon_recall_summary">Adicionar um atalho ao ecrã inicial para limpar lixo</string>
+  <string name="clean_master_icon_recall_title">Limpar lixo</string>
+  <string name="clean_master_icon_recall_toast_text">Atalho adicionado com sucesso</string>
   <string name="cleaned">Limpo</string>
   <string name="clear_garbage">Limpar lixo para libertar espaço</string>
   <string name="clear_immediately">Limpar agora</string>
@@ -2605,7 +2611,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="section_title_clear_acc">Limpar cache</string>
   <string name="section_title_security_defend">Segurança</string>
   <string name="section_title_system">Segurança do sistema</string>
-  <string name="security_bottom_guide_to_pm_text">A abrir ferramentas…</string>
+  <string name="security_bottom_guide_to_pm_text">Soltar para abrir ferramentas</string>
   <string name="security_center_slogan">Mantenha o seu dispositivo rápido e seguro</string>
   <string name="security_guide_bubble_text">Abrir</string>
   <string name="security_guide_summary">Um único botão para ferramentas e serviços</string>

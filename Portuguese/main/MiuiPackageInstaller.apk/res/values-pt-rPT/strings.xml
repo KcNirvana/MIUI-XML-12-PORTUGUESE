@@ -12,6 +12,7 @@
   <string name="ads_install_button_isInstalling">A instalar</string>
   <string name="ads_install_button_waiting">A aguardar</string>
   <string name="ads_summary">Pessoas que instalaram %1$s também gostaram de</string>
+  <string name="ads_summary_default_value">Pessoas que instalaram esta aplicação também gostaram de</string>
   <string name="allPerms">Todas</string>
   <string name="all_permissions">Todas as permissões</string>
   <string name="anonymous_source_continue">Continuar</string>

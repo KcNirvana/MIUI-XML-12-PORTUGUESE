@@ -35,6 +35,7 @@
   <string name="ew_share_logo_title">Aviso de sismo</string>
   <string name="ew_share_save_tips">Guardado em %s</string>
   <string name="ew_share_title">Partilhar</string>
+  <string name="ew_title_back">Voltar</string>
   <string name="ew_warning_detail">Detalhes do aviso</string>
   <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>
   <string name="fastboot_locked_answer_2">Em caso de perda do dispositivo, o fastboot garante a segurança dos dados guardados nele. Se desbloquear o fastboot, não vai conseguir bloquear o dispositivo remotamente ou eliminar os seus dados utilizando o Localizar Dispositivo. Por isso, não recomendamos o desbloqueio do fastboot no seu dispositivo</string>

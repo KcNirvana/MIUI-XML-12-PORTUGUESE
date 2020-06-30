@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">Não foi possível aceder ao armazenamento USB</string>
+  <string name="accessibility_8k_off">8K IA desligada</string>
+  <string name="accessibility_8k_on">8K IA ligada</string>
   <string name="accessibility_ai_scene_off">Câmara IA desligada</string>
   <string name="accessibility_ai_scene_on">Câmara IA ligada</string>
   <string name="accessibility_audio_shutter_bg">Som do disparo</string>
@@ -130,6 +132,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_facedetection_sub_option_hint">Funcionalidade experimental</string>
+  <string name="camera_fastmotion_title">Vídeos Time Lapse</string>
   <string name="camera_label">Câmara</string>
   <string name="camera_liveshot_off_tip">Disparos Dinâmicos desligado</string>
   <string name="camera_liveshot_on_tip">Disparos Dinâmicos</string>
@@ -384,6 +387,7 @@ no modo Retrato"</string>
   <string name="module_name_portrait">Retrato</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Quadrado</string>
+  <string name="module_name_super_moon">Super Lua</string>
   <string name="module_name_video">Vídeo</string>
   <string name="module_name_vlog">Vlog</string>
   <string name="moive_frame">Quadro do filme</string>
@@ -454,6 +458,7 @@ Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://
   <string name="pic_flaw_blink_one">A pessoa na foto fechou os olhos</string>
   <string name="pic_flaw_cover">A lente está parcialmente coberta</string>
   <string name="popup_tip_3d_beauty_intro_text">Beleza 3D</string>
+  <string name="popup_tips_near_range_mode">Fechar foco</string>
   <string name="portait_effect_entry_blackwhite">Preto e branco</string>
   <string name="portait_effect_entry_cool">Menta</string>
   <string name="portait_effect_entry_dusk">Sombra</string>
@@ -560,6 +565,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes de luz fraca de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames para luz fraca</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Desligado</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -569,6 +576,16 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_face_info_watermark_title">Adicionar idade na foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Ocultar moldura de detecção de rosto automaticamente</string>
   <string name="pref_camera_facedetection_title">Detecção de rosto</string>
+  <string name="pref_camera_fastmotion_duration">Duração</string>
+  <string name="pref_camera_fastmotion_duration_description">A duração duma sessão de fotos é ilimitada por defeito. Pode definir um temporizador que para parar a sessão num determinado tempo</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Ilimitado</string>
+  <string name="pref_camera_fastmotion_speed">Velocidade</string>
+  <string name="pref_camera_fastmotion_speed_150x">Nascer e pôr do sol</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Plantas</string>
+  <string name="pref_camera_fastmotion_speed_30x">Ruas</string>
+  <string name="pref_camera_fastmotion_speed_750x">Escuro</string>
+  <string name="pref_camera_fastmotion_speed_90x">Nuvens</string>
+  <string name="pref_camera_fastmotion_speed_description">Os vídeos Time Lapse gravados a uma velocidade mais rápida são mais pequenos. Os valores de velocidade aconselhados são:</string>
   <string name="pref_camera_first_tag_tips">Marcado com sucesso</string>
   <string name="pref_camera_fisheye_title">Olho-de-Peixe</string>
   <string name="pref_camera_flashmode_entry_auto">Auto.</string>
@@ -672,6 +689,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_proximity_lock_summary">Bloquear toques quando colocado no bolso</string>
   <string name="pref_camera_proximity_lock_title">Modo Bolso</string>
   <string name="pref_camera_quick_settings">Definições rápidas</string>
+  <string name="pref_camera_rec_type_3d_record">Som 3D</string>
+  <string name="pref_camera_rec_type_audio_zoom">Zoom de áudio</string>
+  <string name="pref_camera_rec_type_normal">Normal</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Desligado</string>
   <string name="pref_camera_recordlocation_entry_on">Ligado</string>
@@ -778,6 +798,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_dualcamera_watermark_title">"Marca d'água câmara dupla"</string>
   <string name="pref_face_beauty_title">Embelezar</string>
   <string name="pref_fingerprint_capture_title">Disparo por impressão digital</string>
+  <string name="pref_front_denoise_summary">Reduzir o ruído gerado atrás da câmara frontal</string>
+  <string name="pref_front_denoise_title">Redução de ruído das Selfies</string>
   <string name="pref_front_camera_flashmode_entry_torch">Ligado</string>
   <string name="pref_front_mirror_entry_auto">Quando um rosto é detectado</string>
   <string name="pref_front_mirror_entry_off">Desligado</string>
@@ -787,6 +809,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_google_lens_summary">Aponte a sua câmara para as informações do contacto, URLs e códigos QR para ver as opções disponíveis</string>
   <string name="pref_google_lens_title">Sugestões Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
+  <string name="pref_hdr10_video_mode_description">Suporta vídeos em 4K e 8K videos codificados em H.265</string>
+  <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
@@ -819,6 +843,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_skin_beautify_smooth_title">Suave</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
   <string name="pref_video_captrue_ability_title">Captura de imagens enquanto grava</string>
+  <string name="pref_video_denoise_off">Desligado</string>
+  <string name="pref_video_denoise_on">Ligado</string>
+  <string name="pref_video_denoise_title">Redução de ruído</string>
   <string name="pref_video_encoder_entry_h264">Alta compatibilidade (H.264)</string>
   <string name="pref_video_encoder_entry_h265">Alto desempenho (H.265)</string>
   <string name="pref_video_encoder_title">Codificação de vídeo</string>
@@ -861,6 +888,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_off">Desligada</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
+  <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>
   <string name="pro_color_mode">Cor Pro</string>
@@ -876,6 +904,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
+  <string name="settings_camera_near_range_description">Remover a desfocagem ao focar em superfícies planas muito próximas</string>
+  <string name="settings_camera_near_range_title">Fechar foco</string>
   <string name="setting_top_text">Modos da câmara</string>
   <string name="share">Partilhar</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
@@ -912,6 +942,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="super_eis_disabled_hint">Estabilização digital desligada</string>
   <string name="super_eis_pro">Estabilização digital Pro</string>
   <string name="super_eis_pro_disabled_hint">Estabilização digital Pro desligada</string>
+  <string name="super_macro_mode">Super Macro</string>
+  <string name="super_moon_improve_effect_tips">Colocar a lua no círculo</string>
   <string name="super_night_hint">A optimizar imagem… Mantenha o dispositivo estável</string>
   <string name="super_night_se_tip">Modo Nocturno</string>
   <string name="super_night_toast">Mantenha o seu telefone firme enquanto tira a foto</string>
@@ -927,10 +959,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
-  <string name="timer_burst">Timer burst</string>
-  <string name="timer_burst_manu_param_interval">Intervalo de tempo (não contém tempo de exposição)</string>
-  <string name="timer_burst_param_interval">Intervalo de tempo</string>
-  <string name="timer_burst_param_total_count">Total de capturas</string>
+  <string name="timer_burst">Disparo Temporizado</string>
+  <string name="timer_burst_manu_param_interval">Intervalo sem exposição</string>
+  <string name="timer_burst_param_interval">Intervalo</string>
+  <string name="timer_burst_param_total_count">Número de fotos</string>
   <string name="timer_burst_setting_total_count">Contagem: %1$s</string>
   <string name="title_snap_double_confirm">Confirmar novamente</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">O Disparo Contínuo não é suportado quando a captura de áudio está ligada</string>
@@ -969,6 +1001,11 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_beauty_tip_beautification">Embelezar</string>
   <string name="video_beauty_tip_filter">Filtros</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="video_bokeh_blur">Desfocagem</string>
+  <string name="video_bokeh_color_point">Manchas de cor</string>
+  <string name="video_bokeh_spin">Rodar</string>
+  <string name="video_bokeh_zoom_in">Zoom in</string>
+  <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Máquina de filmar</string>
   <string name="video_effect_entry_blackwhite">Preto e branco</string>
   <string name="video_effect_entry_bygone">Passado</string>
@@ -1001,6 +1038,8 @@ gravar e editar vídeos no momento"</string>
   <string name="watermark_tab_general">Geral</string>
   <string name="watermark_tab_scene">Cenas</string>
   <string name="watermark_tab_spots">Sítios</string>
+  <string name="watermark_tab_super_moon_silhouette">Silhueta</string>
+  <string name="watermark_tab_super_moon_text">Texto</string>
   <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
   <string name="wideselfie_result_image_lossless">Não foi possível guardar o panorama</string>
   <string name="wideselfie_rotate_slowly">Rode o telefone de lado lentamente</string>

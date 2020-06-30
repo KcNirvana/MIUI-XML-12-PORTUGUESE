@@ -46,6 +46,8 @@
   <string name="confirm_cancel_task_files">Cancelar o envio de ficheiros para %1$s?</string>
   <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
   <string name="content_description_dial">Ligar</string>
+  <string name="content_description_next">Seguinte</string>
+  <string name="content_description_previous">Anterior</string>
   <string name="content_description_search">Pesquisar</string>
   <string name="content_description_share">Partilhar</string>
   <string name="content_description_translate">Traduzir</string>

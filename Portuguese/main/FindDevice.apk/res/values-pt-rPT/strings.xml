@@ -47,8 +47,8 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verify">Verificar</string>
-  <string name="password">Palavra-passe</string>
-  <string name="phone_locked">Este dispositivo pode estar associado à sua Conta Mi (%s). Inicie sessão para activar este dispositivo</string>
+  <string name="password">Introduzir palavra-passe</string>
+  <string name="phone_locked">Este dispositivo está associado com a Conta Mi (%s). Introduza a palavra-passe para activar o dispositivo</string>
   <string name="phone_locked_account_email">, email associado: %s</string>
   <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
   <string name="return_to_call">Voltar à chamada</string>
@@ -73,14 +73,14 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
   <string name="unlock_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="unlock_error_wrong_vcode">O código que introduziu é inválido</string>
-  <string name="unlock_help">"Mantenha-se ligado à rede.
-Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi.
+  <string name="unlock_help">"Ligue-se à rede.
+Insira um cartão SIM válido e não se ligar a redes Wi-Fi inválidas.
 
 Esqueceu a palavra-passe?
-Vá a id.mi.com para repor a sua palavra-passe.
+Vá a id.mi.com, seleccione \"Esqueceu a palavra-passe?\" e siga as instruções.
 
-Outros motivos
-Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
+Não consegue activar o dispositivo?
+Vá a i.mi.com/ss e submeta a sua aplicação para desbloquear o dispositivo"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
   <string name="unlock_number">Código de desbloqueio: %s</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>

@@ -1024,6 +1024,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>4K (redimensionado, seguro)</item>
         <item>720p, 1080p (ecrã duplo)</item>
     </string-array>
+    <string-array name="paper_color_values">
+        <item>Todas as cores</item>
+        <item>Cores claras</item>
+        <item>Preto e branco</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Permitir</item>
         <item>Perguntar</item>
