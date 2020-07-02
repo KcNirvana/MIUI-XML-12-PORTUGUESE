@@ -604,6 +604,14 @@ Toque aqui para iniciar agora"</string>
   <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
   <string name="setting_font_online">Tipos de letra online</string>
   <string name="settings">Definições</string>
+  <string name="settings_search_keyword_font_free">Tipos de letra grátis</string>
+  <string name="settings_search_keyword_font_home">Tipos de letra do ecrã inicial</string>
+  <string name="settings_search_keyword_font_input">Tipos de letra do método de entrada</string>
+  <string name="settings_search_keyword_font_keyboard">Tipos de letra do teclado</string>
+  <string name="settings_search_keyword_font_manager">Gerir tipos de letra</string>
+  <string name="settings_search_keyword_font_online">Tipos de letra online</string>
+  <string name="settings_search_keyword_font_style">Formato do tipo de letra</string>
+  <string name="settings_search_keyword_font_wechat">Tipos de letra Wechat</string>
   <string name="shortcut_add">Adicionar</string>
   <string name="shortcut_cancel">Não, obrigado</string>
   <string name="shortcut_message">Adicione um atalho no ecrã inicial</string>

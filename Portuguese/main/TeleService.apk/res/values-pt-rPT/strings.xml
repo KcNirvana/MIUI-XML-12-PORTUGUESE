@@ -1234,9 +1234,9 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_checking_status">A verificar…</string>
   <string name="registration_status_done">Este dispositivo pode receber chamadas</string>
   <string name="registration_status_failed_try_later">Não foi possível registar a conta (%s). Vai ser feita uma nova tentativa mais tarde</string>
-  <string name="registration_status_invalid_credentials">Não foi possível registar a conta (%s). Utilizador ou palavra-passe incorrecto</string>
-  <string name="registration_status_no_data">Não foi possível registar a conta (%s). Este dispositivo não está ligado à Internet</string>
-  <string name="registration_status_no_wifi_data">Não foi possível registar a conta (%s). Este dispositivo não está ligado a uma rede Wi-Fi</string>
+  <string name="registration_status_invalid_credentials">Não foi possível registar a conta. Utilizador ou palavra-passe incorrecto</string>
+  <string name="registration_status_no_data">Não foi possível registar a conta. Este dispositivo não está ligado à Internet</string>
+  <string name="registration_status_no_wifi_data">Não foi possível registar a conta. Este dispositivo não está ligado a uma rede Wi-Fi</string>
   <string name="registration_status_not_receiving">Não é possível receber chamadas</string>
   <string name="registration_status_not_running">Não foi possível registar conta</string>
   <string name="registration_status_registering">A registar…</string>

@@ -159,9 +159,9 @@ Selecção"</string>
   <string name="can_not_dial_while_vt_prompt">Não é possível marcar enquanto uma videochamada estiver em curso</string>
   <string name="cancel">Cancelar</string>
   <string name="cant_call_due_to_no_supported_service">Não é possível efectuar a chamada porque não existem contas de chamadas que suportem chamadas deste tipo</string>
-  <string name="cant_call_due_to_ongoing_call">Não é possível efectuar a chamada devido à sua chamada de %1$s.</string>
+  <string name="cant_call_due_to_ongoing_call">Não é possível efectuar a chamada devido à sua chamada de %1$s</string>
   <string name="cant_call_due_to_ongoing_calls">Não é possível efectuar a chamada devido às suas chamadas de %1$s</string>
-  <string name="cant_call_due_to_ongoing_unknown_call">Não é possível efectuar a chamada devido a uma chamada noutra aplicação</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Não é possível efectuar a chamada. Termine as suas %1$s chamadas primeiro</string>
   <string name="category_personal">Pessoal</string>
   <string name="category_work">Trabalho</string>
   <string name="change_default_call_screening_dialog_affirmative">Predefinir</string>
@@ -339,9 +339,9 @@ Selecção"</string>
   <string name="phone_settings_private_num_txt">Privadas</string>
   <string name="phone_settings_unknown_summary_txt">Bloquear chamadas de números desconhecidos</string>
   <string name="phone_settings_unknown_txt">Desconhecidas</string>
-  <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Bloqueio de chamadas desactivado</string>
+  <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Bloqueio de chamadas desligado</string>
   <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Bloqueio de chamadas</string>
-  <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">O bloqueio de chamadas foi desactivado para permitir a recepção de contactos de resposta a emergências</string>
+  <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">O bloqueio de chamadas foi desligado para permitir a recepção de contactos de resposta a emergências</string>
   <string name="phone_strings_emergency_call_made_dialog_title_txt">Chamada de emergência efectuada</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
@@ -378,7 +378,7 @@ Selecção"</string>
   <string name="respond_via_sms_canned_response_4">Não posso falar agora. Telefona-me mais tarde?</string>
   <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
-  <string name="respond_via_sms_failure_format">Erro ao enviar mensagem para %s</string>
+  <string name="respond_via_sms_failure_format">Não foi possível enviar mensagem para %s</string>
   <string name="respond_via_sms_setting_title">Respostas rápidas</string>
   <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
   <string name="retail_demo_reset_message">Introduzir palavra-passe para fazer uma reposição de fábrica no modo demo</string>
