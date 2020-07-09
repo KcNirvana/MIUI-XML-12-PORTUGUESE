@@ -203,6 +203,10 @@
   <string name="app_behavior_location_bg">%1s acedeu à sua localização em segundo plano</string>
   <string name="app_behavior_location_bg_single">Esta aplicação acedeu à sua localização em segundo plano</string>
   <string name="app_behavior_location_single">Esta aplicação acedeu à sua localização</string>
+  <string name="app_behavior_media_volume">%1s ajustou o volume multimédia</string>
+  <string name="app_behavior_media_volume_bg">%1s ajustou o volume multimédia em segundo plano</string>
+  <string name="app_behavior_media_volume_bg_single">Esta aplicação ajustou o volume multimédia em segundo plano</string>
+  <string name="app_behavior_media_volume_single">Esta aplicação ajustou o volume multimédia</string>
   <string name="app_behavior_menu_about">Acerca do comportamento das aplicações</string>
   <string name="app_behavior_monitor_off">Desligar notificações</string>
   <string name="app_behavior_monitor_off_content">Não vai receber notificações sobre acções sensíveis desta aplicação. Desligar mesmo assim?</string>

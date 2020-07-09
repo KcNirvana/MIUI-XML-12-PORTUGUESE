@@ -7,6 +7,7 @@
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
+  <string name="ad_close_button_text">Promoções</string>
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>

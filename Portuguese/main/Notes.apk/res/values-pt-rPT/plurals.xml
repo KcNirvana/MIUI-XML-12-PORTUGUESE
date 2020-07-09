@@ -56,6 +56,10 @@
         <item quantity="other">Em %1$d dias</item>
         <item quantity="one">Em %1$d dia</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s tarefas</item>
+        <item quantity="one">%1$s tarefa</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d caracteres</item>
         <item quantity="one">%d caracter</item>

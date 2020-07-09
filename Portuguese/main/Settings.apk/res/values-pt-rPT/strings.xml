@@ -3190,6 +3190,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="location_mode_screen_title">Modo de localização</string>
   <string name="location_mode_sensors_only_description">Utilizar o GPS para determinar a sua localização</string>
   <string name="location_mode_sensors_only_title">Apenas no dispositivo</string>
+  <string name="location_modem_summary">As operadoras vão saber a sua localização através das estações base</string>
+  <string name="location_modem_title">Partilhar localização com a operadora</string>
   <string name="location_mode_title">Modo</string>
   <string name="location_neighborhood_level">Permitir que as aplicações dados das redes móveis e Wi-Fi para estimar a sua localização</string>
   <string name="location_neighborhood_level_wifi">Local determinado por Wi-Fi</string>
@@ -4023,7 +4025,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="not_allowed">O seu cartão SIM não permite uma ligação a esta rede</string>
   <string name="not_installed">Não instalado</string>
   <string name="not_set">Não definido</string>
-  <string name="notch_and_status_bar_settings">Monocelha e barra de estado</string>
+  <string name="notch_and_status_bar_settings">Centro de controlo e barra de estado</string>
   <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
   <string name="notch_force_black_title">Ocultar monocelha</string>
   <string name="notch_settings">Monocelha</string>
@@ -4328,6 +4330,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="payment_summary">Predefinido :%1$s</string>
   <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
   <string name="performance_category">Desempenho</string>
+  <string name="permission_action_prompt">Perguntar</string>
   <string name="permission_bar_chart_details">Ver tudo no painel de controlo</string>
   <string name="permission_bar_chart_empty_text">0 aplicações utilizaram permissões</string>
   <string name="permission_bar_chart_title">Utilização das permissões nas últimas 24 horas</string>
@@ -5839,7 +5842,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_show_lte_for_4g">Mostrar LTE em vez de 4G</string>
   <string name="status_bar_settings_show_weather">Mostrar tempo na área de notificações</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
-  <string name="status_bar_title">Barra de estado</string>
+  <string name="status_bar_title">Centro de controlo e barra de estado</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
   <string name="status_data_network_type">Tipo de rede de dados móveis</string>
   <string name="status_data_state">Estado da rede móvel</string>

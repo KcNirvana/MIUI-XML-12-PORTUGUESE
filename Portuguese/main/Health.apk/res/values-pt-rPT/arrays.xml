@@ -61,6 +61,20 @@
         <item>Semana</item>
         <item>Mês</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Seg, Qua, Sex</item>
+        <item>Ter, Qui, Sáb</item>
+        <item>Qua, Sex, Dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Todas as Segundas</item>
+        <item>Todas as Terças</item>
+        <item>Todas as Quartas</item>
+        <item>Todas as Quintas</item>
+        <item>Todas as Sextas</item>
+        <item>Todas os Sábados</item>
+        <item>Todas os Domingos</item>
+    </string-array>
     <string-array name="rh_blood_array">
         <item>Não definido</item>
         <item>Negativo</item>

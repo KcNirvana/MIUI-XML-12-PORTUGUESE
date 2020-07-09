@@ -122,6 +122,10 @@
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>
   <string name="ok">OK</string>
+  <string name="perm_action_allow">Permitir</string>
+  <string name="perm_action_deny">Nunca permitir</string>
+  <string name="perm_modem_location">Aceder à sua localização</string>
+  <string name="perm_modem_location_desc">a sua operadora está a tentar aceder à sua localização. Partilhar a sua localização com a operadora?</string>
   <string name="permdesc_camera">Tirar fotos e gravar vídeos</string>
   <string name="permdesc_in_calls">Monitorizar chamadas recebidas</string>
   <string name="permdesc_location">Aceder à informação da localização</string>

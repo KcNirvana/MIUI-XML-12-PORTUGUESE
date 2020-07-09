@@ -30,6 +30,7 @@
   <string name="alarmclock_silent_hint">O alarme está no modo silêncio</string>
   <string name="alert">Toque</string>
   <string name="alert_ringtone">Toque do alarme</string>
+  <string name="alert_vibrate_enable_summary">Vibrar quando o alarme desligar</string>
   <string name="alert_volume">Volume do toque</string>
   <string name="alert_volume_summary">Definir volume do toque para alarmes e temporizadores</string>
   <string name="already_exist">Este temporizador já existe</string>
@@ -259,6 +260,7 @@
   <string name="ringtone_digital_timer">Temporizador</string>
   <string name="ringtone_dream">Devaneios</string>
   <string name="ringtone_firefly">Pirilampos</string>
+  <string name="ringtone_more">Outros</string>
   <string name="ringtone_other">Mais toques</string>
   <string name="ringtone_weather">Alarme do tempo</string>
   <string name="ringtone_week">Alarme semanal</string>

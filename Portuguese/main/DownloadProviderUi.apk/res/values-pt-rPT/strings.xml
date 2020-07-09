@@ -168,6 +168,7 @@
   <string name="info_flow_only_load_wifi">Carregar anúncios quando ligado ao Wi-Fi</string>
   <string name="info_flow_setting">Definições</string>
   <string name="info_flow_show">Anúncios</string>
+  <string name="info_rank_show">Recomendações</string>
   <string name="input_valid_address">Introduzir um caminho de ficheiro</string>
   <string name="install">Instalar</string>
   <string name="install_failed">Não foi possível instalar %1$s</string>

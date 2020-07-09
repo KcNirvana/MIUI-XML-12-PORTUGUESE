@@ -1551,6 +1551,7 @@ O dispositivo troca automaticamente para uma rede móvel(2G/3G) para fazer uma c
 
 As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="vowifi_emergency_warning_title">Chamadas ECC via chamadas Wi-Fi</string>
+  <string name="vowifi_welcome_notification_channel">Canal de notificações chamadas Wi-Fi</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="wfcmode_mobile_preferred">Dados móveis</string>

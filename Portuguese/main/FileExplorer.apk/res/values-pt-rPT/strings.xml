@@ -119,7 +119,6 @@
   <string name="disk_total">"Total: "</string>
   <string name="doc_all">Tudo</string>
   <string name="downloading">A transferir…</string>
-  <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
@@ -263,7 +262,6 @@
   <string name="no_new_content_tip">Todos os itens estão actualizados</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
-  <string name="not_installed_documentsui">Ficheiros não instalado</string>
   <string name="not_support_documentui">Ficheiros não é suportado neste dispositivo</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
@@ -431,7 +429,6 @@
   <string name="text_select_nothing">Desmarcar tudo</string>
   <string name="tip">Atenção</string>
   <string name="title_app_tags">Aplicações</string>
-  <string name="title_enable_documentsui">Ligar Ficheiros</string>
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_select_volume">Escolher pasta</string>

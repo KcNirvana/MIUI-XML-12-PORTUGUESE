@@ -351,6 +351,9 @@
   <string name="miui_screen_config_title">Definições do ecrã inicial</string>
   <string name="mtzgadget_missing_text">Widget não disponível</string>
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, arraste o seu ícone e largue aqui</string>
+  <string name="navigation_type_full_screen">Gestos</string>
+  <string name="navigation_type_title">Navegação do sistema</string>
+  <string name="navigation_type_virtual_key">Botões</string>
   <string name="no_detail_page">Sem página de detalhes</string>
   <string name="no_space_toast">Sem espaço</string>
   <string name="no_space_toast_when_click_widget">Sem espaço nesta página. Tente uma página diferente</string>

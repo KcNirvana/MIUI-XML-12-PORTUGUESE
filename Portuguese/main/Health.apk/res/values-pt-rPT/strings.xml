@@ -47,6 +47,8 @@ para adicionar cartões"</string>
   <string name="avg_day">Média</string>
   <string name="avg_finish_stand">Média diária em pé</string>
   <string name="avg_heart_rate">Frequência cardíaca média</string>
+  <string name="avg_high_pressure">Média sistólica (alto)</string>
+  <string name="avg_low_pressure">Média diastólica (baixo)</string>
   <string name="avg_steps">Passos diários</string>
   <string name="awake_count">Acordares</string>
   <string name="awake_count_abnormal_description">Acordou muito durante a noite</string>
@@ -75,6 +77,18 @@ para adicionar cartões"</string>
   <string name="bg_control_dialog_msg">A poupança de bateria vai restringir a actividade em segundo plano de Saúde. Permita que Saúde execute sempre em segundo plano para obter estatísticas precisas</string>
   <string name="bg_control_dialog_title">Restrições de segundo plano</string>
   <string name="birthday">Data de nascimento</string>
+  <string name="blood_pressure">Pressão arterial</string>
+  <string name="blood_pressure_format">%1$d-%2$d mmHg</string>
+  <string name="blood_pressure_high_tip">Pressão arterial alta: %1$s mmHg sistólica | %2$s mmHg diastólica</string>
+  <string name="blood_pressure_low_tip">Pressão arterial baixa: %1$s mmHg sistólica | %2$s mmHg diastólica</string>
+  <string name="blood_pressure_measure_remind">Lembretes de medição</string>
+  <string name="blood_pressure_measure_remind_tip">Receber lembretes para medir a pressão arterial e registar os resultados</string>
+  <string name="blood_pressure_noraml_tip">Pressão arterial normal: %1$s mmHg sistólica | %2$s mmHg diastólica</string>
+  <string name="blood_pressure_notice_subtitle1">Não esquecer de registar esta medição</string>
+  <string name="blood_pressure_notice_subtitle2">Não esquecer de registar esta medição</string>
+  <string name="blood_pressure_notice_title1">Tempo de medir a pressão arterial</string>
+  <string name="blood_pressure_notice_title2">Medir a sua pressão arterial</string>
+  <string name="blood_pressure_unit">Milímetros de mercúrio</string>
   <string name="blood_type">Tipo de sangue</string>
   <string name="blood_type_rh">Factor Rh</string>
   <string name="bmi_label">IMC</string>
@@ -83,6 +97,7 @@ para adicionar cartões"</string>
   <string name="body_water">Água</string>
   <string name="body_water_descripe_content">A percentagem de água no corpo refere-se à proporção de água no peso total do corpo humano. Geralmente, o tecido muscular contém mais água que as outras partes do corpo</string>
   <string name="body_weight">Peso</string>
+  <string name="body_weight_2fkg">%1$.2f kg</string>
   <string name="body_weight_descripe_content">O índice de massa corporal (IMC) é a massa corporal dividida pelo quadrado da altura do corpo (kg/m²)</string>
   <string name="body_weight_extremely_obesity">Obesidade mórbida</string>
   <string name="body_weight_fkg">%1$.1f kg</string>
@@ -134,7 +149,7 @@ para adicionar cartões"</string>
   <string name="confirm_opening">Confirmar abertura</string>
   <string name="contact_format">%1$s | %2$s</string>
   <string name="contact_format2">"%1$s
-%2$s| %3$s"</string>
+%2$s | %3$s"</string>
   <string name="contact_format3">%1$s | %2$s | %3$s</string>
   <string name="contact_permission_desc">Para definir contactos de emergência</string>
   <string name="copy">Copiar</string>
@@ -144,9 +159,12 @@ para adicionar cartões"</string>
   <string name="cumulative_decline">Perda de elevação</string>
   <string name="cumulative_rise">Ganho de elevação</string>
   <string name="current_phone">Este dispositivo</string>
+  <string name="custom_scheme">Personalizar</string>
+  <string name="custom_scheme_tip">Definir hora e frequência personalizadas</string>
   <string name="cycle">Ciclismo</string>
   <string name="daily_consumption_label">Calorias</string>
   <string name="daily_distance_label">Distância</string>
+  <string name="daily_reminders">Lembretes diários</string>
   <string name="daily_steps">Passos</string>
   <string name="daily_time_label">Actividade</string>
   <string name="data">Dados</string>
@@ -265,12 +283,16 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_sure">OK</string>
   <string name="dialog_user_agreement_purpose">Bem-vindo a Saúde! Pode utilizar esta aplicação para contar passos, registar o seu sono, períodos e peso</string>
   <string name="dialog_user_agreement_purpose2">Bem-vindo a Saúde! Pode utilizar esta aplicação para contar passos, registar o seu sono, períodos e peso</string>
+  <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desligado</string>
   <string name="drag_sort">Ordenar</string>
   <string name="dream_talk">A falar %1$s</string>
   <string name="dream_talk_record">Foi gravado enquanto falava durante o sono</string>
   <string name="dream_talk_title">Falar</string>
   <string name="drink_water">Beba um pouco de água e dê um passeio</string>
+  <string name="each_week_day_format1">Todas as %1$s</string>
+  <string name="each_week_day_format2">Todas as %1$s, %2$s e %3$s</string>
+  <string name="each_week_day_format3">Todas as %1$s até %2$s</string>
   <string name="edit_aid_file">Editar</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
   <string name="edit_immediately">Introduzir</string>
@@ -283,6 +305,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="enough">Suficiente</string>
   <string name="enter_mi_health">Abrir Saúde</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
+  <string name="every_day">Todos os dias</string>
   <string name="excessive">Demasiado</string>
   <string name="exercise">Actividade</string>
   <string name="exercise_consume">%1$d calorias queimadas</string>
@@ -388,8 +411,10 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
   <string name="health_setting">Definições de Saúde</string>
   <string name="high">Alta</string>
+  <string name="high2">Alta</string>
   <string name="high_intensity">Alta</string>
   <string name="high_intensity_description">Frequência respiratória rápida que permite que termine frases curtas</string>
+  <string name="high_pressure">Sistólica (Alto)</string>
   <string name="history_statistics">Estatísticas</string>
   <string name="home_page_card_setting">Cartões da página inicial</string>
   <string name="home_tip_open_data_sync">Ligar sincronização</string>
@@ -455,6 +480,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="low">Baixa</string>
   <string name="low_intensity">Baixa</string>
   <string name="low_intensity_description">Frequência respiratória normal que permite que mantenha uma conversa</string>
+  <string name="low_pressure">Diastólica (baixo)</string>
   <string name="manage_home">Gerir página inicial</string>
   <string name="manual_add">Adicionar manualmente</string>
   <string name="manual_adjust">Ajustar</string>
@@ -467,9 +493,12 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="mark_start">Iniciar</string>
   <string name="max_altitude">Altitude mais alta</string>
   <string name="max_heart_rate">Maior frequência cardíaca</string>
+  <string name="max_high_pressure">Máximo sistólica (alto)</string>
+  <string name="max_low_pressure">Máximo diastólica (baixo)</string>
   <string name="maximum">Máximo</string>
   <string name="maximum_pace">Maior ritmo</string>
   <string name="measure_date">Tempo de medição</string>
+  <string name="measure_time">Tempo de medição</string>
   <string name="medical_file_desc1">Informações médicas importantes em caso de emergência</string>
   <string name="medical_file_desc2">Introduzir informações sobre a sua saúde para poder mostrar aos prestadores de cuidados de saúde em caso de emergência</string>
   <string name="medical_file_desc3">Saúde respeita a sua privacidade e vai armazenar todas as informações localmente</string>
@@ -506,8 +535,12 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="mi_sports">Mi Fit</string>
   <string name="middle">Média</string>
   <string name="middle_intensity_description">Frequência respiratória mais rápida que permite que conclua as frases</string>
+  <string name="mild_abnormal">Fase 1 da hipertensão</string>
+  <string name="mild_abnormal_tip">3 dias por semana após acordar e antes de ir dormir</string>
   <string name="min_altitude">Altitude mais baixa</string>
   <string name="min_heart_rate">Menor frequência cardíaca</string>
+  <string name="min_high_pressure">Mínimo sistólica (alto)</string>
+  <string name="min_low_pressure">Mínimo diastólica (baixo)</string>
   <string name="min_pace">Menor ritmo</string>
   <string name="minimum">Mínimo</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
@@ -519,6 +552,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="model_card_setting">Definições dos cartões</string>
+  <string name="moderately_abnormal">Fase 2 da hipertensão</string>
+  <string name="moderately_abnormal_tip">Todos os dias após acordar e antes de ir dormir</string>
   <string name="modify">Editar</string>
   <string name="modify_contact">Editar</string>
   <string name="modify_end_date">Alterar data de fim</string>
@@ -542,6 +577,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="no_snore_1">Sem itens</string>
   <string name="no_sport_delete">Eliminar registo incorrecto</string>
   <string name="normal">Normal</string>
+  <string name="normal2">Normal</string>
   <string name="not_achieve_stand_goals">O objectivo de ficar em pé não foi atingido</string>
   <string name="not_added">Não adicionado</string>
   <string name="not_edit">Não definido</string>
@@ -609,6 +645,9 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="reach_standard">Corresponde ao standard</string>
   <string name="recommand_body_weight_msg">Peso recomendado: %1$.1f kg. Atinja o IMC %2$.1f para reduzir os riscos cardiovasculares e doenças do fígado</string>
   <string name="recommend_sleep_goal">21:00 às 11:00</string>
+  <string name="record_blood_pressure">Registar medições</string>
+  <string name="record_blood_pressure_exception1">Não foi possível guardar. A pressão sistólica não pode ser menor que a pressão diastólica</string>
+  <string name="record_blood_pressure_exception2">Não foi possível guardar. Parâmetros incorrectos</string>
   <string name="record_body_weight_button">Registar peso</string>
   <string name="record_detail_page_title">Detalhes</string>
   <string name="record_more">Registar mais</string>
@@ -632,9 +671,14 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="remind_sleep_report_title">As estatísticas de sono estão prontas</string>
   <string name="remind_subtitle_menstruation_start">Receber um lembrete 2 dias antes do próximo período</string>
   <string name="remind_subtitle_record">Receber lembretes quando necessitar de registar a data de início e fim dos seus períodos</string>
+  <string name="remind_time">Lembrar às</string>
+  <string name="remind_time_index">Lembrar às (%1$d)</string>
   <string name="remind_title_menstruation_start">Lembrete para início do período</string>
   <string name="remind_title_record">Lembrete para registar</string>
+  <string name="remind_weight_content">Verificar as mudanças de peso</string>
+  <string name="remind_weight_title">Pesagem</string>
   <string name="remove">Remover</string>
+  <string name="repeat_mode">Repetir</string>
   <string name="retry">Tentar novamente</string>
   <string name="revert_to_default">Restaurar predefinições</string>
   <string name="run">Correr</string>
@@ -651,10 +695,12 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sedentary_time_is_too_long">Hora de se mover! Beba água e dê um passeio</string>
   <string name="sedentary_title">Lembrete para se mover</string>
   <string name="sedentary_toggle_content">Saúde vai lembrá-lo de se levantar e andar se estiver inactivo durante muito tempo</string>
+  <string name="select_exercise_intensity">Seleccionar intensidade</string>
   <string name="select_exercise_type">Seleccionar tipo de exercício</string>
   <string name="select_menstruation_end_date">Seleccionar a data de fim deste período</string>
   <string name="select_null">Não seleccionado</string>
   <string name="select_recog_question">Seleccionar acção</string>
+  <string name="select_swim_posture">Seleccionar estilo</string>
   <string name="select_target">Seleccionar objectivo</string>
   <string name="set_emergency_contact">Contacto de emergência</string>
   <string name="setting">Definições</string>
@@ -666,6 +712,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="setting_sedentary_off">Desligado</string>
   <string name="setting_sedentary_on">Ligado</string>
   <string name="setting_sedentary_title">Lembrete para se mover</string>
+  <string name="severe_abnormal">Crises de hipertensão</string>
+  <string name="severe_abnormal_tip">Todos os dias após acordar, depois do almoço e antes de ir dormir</string>
   <string name="skip">Ignorar</string>
   <string name="sleep">Sono</string>
   <string name="sleep_and_get_up_time">Hora de dormir</string>
@@ -776,6 +824,7 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_turn_over_times_title">Turnos</string>
   <string name="sleep_week">Semana</string>
   <string name="slow">Lenta</string>
+  <string name="slow2">Baixa</string>
   <string name="snore">Ressonar</string>
   <string name="snore_detection_abnormal_notification_button">Retomar</string>
   <string name="snore_detection_abnormal_notification_content">Não é possível utilizar o microfone</string>
@@ -872,6 +921,7 @@ baseados nas suas informações pessoais"</string>
   <string name="sync_status_network_failure">Não foi possível sincronizar. Ligue-se à rede e tente novamente</string>
   <string name="sync_status_never_done">Não sincronizado</string>
   <string name="sync_status_oauth_error">Não foi possível sincronizar. Dê as permissões necessárias primeiro</string>
+  <string name="systolic_pressure">Sistólica</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
   <string name="tb_card_on_using_list">Adicionado</string>
   <string name="tb_click_finish_stand">Ficar de pé não terminado por quase 1 hora. Toque para terminar</string>
@@ -930,6 +980,8 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_go_next_a_day">Dia anterior</string>
   <string name="tb_go_on_detection">Retomar</string>
   <string name="tb_has_snore_dream_talk">Ressonar e falar detectado</string>
+  <string name="tb_home_blood_pressure_card">Pressão arterial: Sistólica: %1$d | Diastólica: %2$d | Registada: %3$s | Estado: %4$s</string>
+  <string name="tb_home_blood_pressure_card_no_data">Pressão arterial: Sem dados</string>
   <string name="tb_home_exercise_card_finish">Exercício. %1$s. Concluído: %2$s. Objectivo: %3$s. Concluído: %4$s</string>
   <string name="tb_home_exercise_card_not_set_goal">Exercício. %1$s. Concluído: %2$s. Objectivo em aberto</string>
   <string name="tb_home_exercise_card_not_supported_step">Exercício. Este dispositivo não conta passos</string>
@@ -1068,6 +1120,9 @@ Actualizar agora?"</string>
   <string name="walk">Andar</string>
   <string name="weight_height_weight_bmi">Índice de massa corporal</string>
   <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>
+  <string name="weight_notice">Notificações de pesagens</string>
+  <string name="weight_remind">Lembretes de pesagens</string>
+  <string name="weight_setting">Definições de pesagens</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
   <string name="welcome_exercise">Registar exercícios</string>
