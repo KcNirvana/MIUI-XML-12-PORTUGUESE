@@ -115,6 +115,10 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_setting_item_control_timeout_title">Limite de tempo para acções (Acessibilidade)</string>
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_summary">Leitores de ecrã, controlos de interacção, ecrãs</string>
+  <string name="accessibility_settings_tabs_general">Geral</string>
+  <string name="accessibility_settings_tabs_hearing">Audição</string>
+  <string name="accessibility_settings_tabs_physical">Físico</string>
+  <string name="accessibility_settings_tabs_visual">Visão</string>
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
   <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode premir os dois botões de volume por 3 segundos para iniciar uma função de acessibilidade</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir do ecrã de bloqueio</string>
@@ -277,6 +281,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="ai_button_title">Botão Mi IA</string>
   <string name="ai_button_title_global">Botão IA</string>
+  <string name="ai_call_assistant">Chamadas IA</string>
   <string name="ai_key">Botão IA</string>
   <string name="ai_key_double_click">Duplo toque</string>
   <string name="ai_key_long_press">Premir e segurar</string>
@@ -2175,7 +2180,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dual_wifi_switching_summary">O Wi-Fi duplo necessita de diferentes bandas e se quiser alterar a banda do Wi-Fi primário o Wi-Fi secundário vai ser desligado</string>
   <string name="dump_log">Obter registos de problemas</string>
   <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
-Pode ver o registo gerado no Explorador"</string>
+Pode ver o registo gerado no Ficheiros"</string>
   <string name="dump_log_title">Acerca desta funcionalidade</string>
   <string name="easymode_hint">Toque para desligar o Modo Leve</string>
   <string name="edge_mode_back">Voltar</string>
@@ -2766,6 +2771,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
+  <string name="hearing_aids_category">Ferramentas de assistência auditiva</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
   <string name="help_and_feedback_title">Ajuda e comentários</string>
   <string name="help_label">Ajuda</string>
@@ -2869,6 +2875,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="information_dialog_button_text">Percebi</string>
   <string name="information_label">Informações</string>
   <string name="input_assistance">Ferramentas</string>
+  <string name="input_device_category">Dispositivo de entrada</string>
   <string name="input_method">Teclado</string>
   <string name="input_method_bottom_close">Desligado</string>
   <string name="input_method_bottom_open">Ligado</string>
@@ -3293,7 +3300,7 @@ que o PIN do Primeiro espaço"</string>
   <string name="lockpassword_choose_your_pin_header_for_fingerprint">Para utilizar a impressão digital, defina um PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
 para o Segundo espaço"</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Introduza entre %d a %d dígitos</string>
+  <string name="lockpassword_choose_your_pin_title">Introduza entre %1$d a %2$d dígitos</string>
   <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do Segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
@@ -3917,7 +3924,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos próximos, tais como terminais de pagamento, leitores de acesso e anúncios ou etiquetas interactivas</string>
   <string name="nfc_disclaimer_title">Ligar NFC</string>
   <string name="nfc_how_it_works_content">Configure uma aplicação de pagamento. Basta aproximar a parte de trás do telefone a um terminal com o símbolo sem fios</string>
-  <string name="nfc_how_it_works_got_it">Entendi</string>
+  <string name="nfc_how_it_works_got_it">Percebi</string>
   <string name="nfc_how_it_works_title">Pagamento num terminal</string>
   <string name="nfc_more_title">Mais…</string>
   <string name="nfc_payment_default">Pagamento predefinido</string>
@@ -5394,7 +5401,11 @@ Para utilizar a fixação no ecrã:
   <string name="security_encryption_progress_dialog_open">A encriptar…</string>
   <string name="security_encryption_title">Encriptar dispositivo</string>
   <string name="security_input">Teclado seguro</string>
+  <string name="security_input_enable">Teclado seguro</string>
   <string name="security_input_hint">Utilizar teclado seguro quando introduzir palavras-passe</string>
+  <string name="security_input_num_order">Fixo</string>
+  <string name="security_input_num_random_order">Aleatório</string>
+  <string name="security_input_num_setting_title">Teclado numérico</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de segurança</string>
   <string name="security_passwords_title">Privacidade</string>
@@ -6412,7 +6423,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
   <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
-  <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
+  <string name="unlock_set_unlock_pin_summary">Introduza entre %1$d a %2$d dígitos</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
   <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
@@ -6766,6 +6777,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vision_settings_description">Pode personalizar este dispositivo para as suas necessidades.Estas funcionalidades de acessibilidade pode ser alteradas mais tarde em Definições</string>
   <string name="vision_settings_suggestion_title">Alterar tamanho do tipo de letra</string>
   <string name="vision_settings_title">Definições de visão</string>
+  <string name="voice_access">Controlos de voz</string>
   <string name="voice_category">Voz</string>
   <string name="voice_helper_title">Assistente de voz</string>
   <string name="voice_input_output_settings">Entrada e saída de voz</string>

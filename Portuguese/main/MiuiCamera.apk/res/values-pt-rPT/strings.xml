@@ -84,6 +84,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_intro_silky_water_part1">Utilizar este modo quando fotografar nuvens em movimento. Vai dar ao céu um efeito de \"pintura a óleo\"</string>
   <string name="ambilight_intro_silky_water_part2">Este modo faz com que a água em movimento (rios, quedas de água e lagos) pareçam cetim</string>
   <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
+  <string name="ambilight_intro_star_track_2">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
   <string name="ambilight_intro_traffic_light">À noite, pode capturar a trajetória de luzes brilhantes em movimento (p.e. em carros e navios). Este modo permite pré-visualizar o resultado final no seu ecrã em tempo real</string>
   <string name="ambilight_scene_crowd_moving">Multidão em movimento</string>
   <string name="ambilight_scene_light_track">Pintura leve</string>
@@ -204,6 +205,11 @@ e ajustar as preferências automaticamente"</string>
   <string name="confirm_reset_manually_parameter_message">Repor todos os parâmetros para os valores predefinidos?</string>
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
+  <string name="cta_msg">Bem-vindo a Câmara! Pode utilizar esta aplicação para tirar fotos e gravar vídeos. Esta aplicação necessita de ligar à Internet e das seguintes permissões opcionais:</string>
+  <string name="cta_perm_dec">Para adicionar a localização a fotos e vídeos</string>
+  <string name="cta_perm_loc">Localização</string>
+  <string name="cta_perm_type">Permissões opcionais (Utilizadas para funcionalidades adicionais)</string>
+  <string name="cta_user_tips">Para compreender os seus direitos como utilizador e as maneiras como utilizamos os seus dados, leia e concorde com os nossos &amp;lt;a href =%1$s&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt;</string>
   <string name="custom_sound_art">Retro</string>
   <string name="custom_sound_default">Predefinido</string>
   <string name="custom_sound_modern">Moderno</string>
@@ -212,6 +218,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="custom_tint_color_select">Personalizar cores</string>
   <string name="custom_watermark_contains_senstive_words">"A marca d'água não pode conter termos restringidos (%1$s)"</string>
   <string name="custom_watermark_tips">"Este texto vai aparecer na segunda linha da sua marca d'água. Apenas pode conter 18 caracteres"</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">Até %d caracteres chineses ou %d letras</string>
   <string name="custom_watermark_too_many_words">O texto que introduziu é demasiado longo</string>
   <string name="custom_watermark_words">"Marca d'água personalizada"</string>
   <string name="custom_watermark_words_input_hint">Introduzir texto</string>
@@ -509,6 +516,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Definições da câmara</string>
   <string name="pref_camera_ai_scene_title">Câmara IA</string>
+  <string name="pref_camera_ai_shutter_description">Seleccionar o melhor momento automaticamente quando premir o botão de disparo</string>
+  <string name="pref_camera_ai_shutter_title">Botão de disparo IA</string>
   <string name="pref_camera_antibanding_entry_0">Desligado</string>
   <string name="pref_camera_antibanding_entry_3">Automático</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
@@ -816,6 +825,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_module_settings">Modos</string>
   <string name="pref_more_mode_style_title">Modos da câmara</string>
+  <string name="pref_multi_camera_dual_video_front">Câmara frontal</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Apenas pode gravar vídeos HD (720p) com 240fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">Full HD (1080p)</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD (720p)</string>
@@ -990,11 +1000,14 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="ultra_wide_recommend_tip_hint">Experimente o Ultra grande-angular</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Troque para o modo Ultra grande-angular 0.6X</string>
   <string name="unknow_error">Erro desconhecido</string>
+  <string name="unsupported_microphones_3d_record_tips">O som 3D não suporta microfones externos</string>
+  <string name="unsupported_microphones_audio_zoom_tips">O zoom de áudio não suporta microfones externos</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_define_watermark_cancel">Cancelar</string>
   <string name="user_define_watermark_save">Guardar</string>
+  <string name="user_disagree">Não concordar</string>
   <string name="user_notice_identify_summary_format">Antes de utilizar Câmara, tem de concordar com os nossos &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Política de Privacidade&lt;/a&gt;. Concorda?</string>
   <string name="user_notice_title">Termos e condições</string>
   <string name="video_beauty_tip">Embelezar para vídeos</string>

@@ -119,7 +119,7 @@ para adicionar cartões"</string>
   <string name="cancel_edit">Rejeitar alterações</string>
   <string name="cancel_mark_end">O período ainda não acabou</string>
   <string name="cancel_mark_start">Eliminar este registo</string>
-  <string name="card_on_using">A utilizar</string>
+  <string name="card_on_using">Adicionados</string>
   <string name="certain">OK</string>
   <string name="channel_desc_background">Para fornecer serviços em segundo plano</string>
   <string name="channel_id_background_service">Serviços em segundo plano</string>
@@ -211,7 +211,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="deep_sleep_duration_normal_description">O seu sono profundo é suficiente</string>
   <string name="delete">Eliminar</string>
   <string name="delete_aid_file">Eliminar</string>
-  <string name="delete_aid_file_desc">O seu ID de emergência médica vai ser eliminado deste dispositivo permanentemente se continuar</string>
+  <string name="delete_aid_file_desc">As suas informações de emergência médica vai ser eliminado deste dispositivo permanentemente se continuar</string>
   <string name="delete_all_data">Eliminar todos os dados</string>
   <string name="delete_all_data_sources">Eliminar todas as origens de dados</string>
   <string name="delete_all_data_sources_description">Eliminar todas as origens de dados?</string>
@@ -320,6 +320,7 @@ Pode seleccionar uma origem de dados diferente em Mais &gt; Origens de dados"</s
 Pode seleccionar uma origem de dados diferente em Mais &gt; Origens de dados"</string>
   <string name="exercise_duration">Duração do exercício</string>
   <string name="exercise_duration_consume">Duração: %1$s | Queimado: %2$s</string>
+  <string name="exercise_fast_description">%1$s (%2$s)</string>
   <string name="exercise_goal">Objectivo de actividade</string>
   <string name="exercise_goal_accomplished">Objectivo atingido</string>
   <string name="exercise_goal_lack_exercise">Sem actividade suficiente</string>
@@ -364,7 +365,7 @@ Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente
   <string name="falling_duration_hard_description">"Adormecer é o período entre o início do seu sono e o adormecer por completo. Se demorar mais do que 30 minutos para adormecer, pode ser um sinal de insónias.
 Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que contribuem para isso. Beber menos café, não estimular demasiado visualmente e emocionalmente o seu sistema nervoso ao assistir a vídeos ou ler antes de ir dormir, manter o seu quarto escuro e silencioso. Se ainda assim não conseguir, consulte o seu médico"</string>
   <string name="falling_duration_normal_description">Adormecer é o período entre o início do seu sono e o adormecer por completo. Saber quanto tempo demora para adormecer é importante para o tratamento de insónias e outros problemas relacionados com o sono</string>
-  <string name="fast">Rápida</string>
+  <string name="fast">rápido</string>
   <string name="fat_rate">Gordura</string>
   <string name="fat_rate_descripe_content">A percentagem de gordura corporal refere-se à proporção de gordura no peso total do corpo humano</string>
   <string name="feedback_need_permission_msg">Permitir que Saúde escreva no armazenamento externo para poder gerar registos para enviar comentários</string>
@@ -481,7 +482,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="low_intensity">Baixa</string>
   <string name="low_intensity_description">Frequência respiratória normal que permite que mantenha uma conversa</string>
   <string name="low_pressure">Diastólica (baixo)</string>
-  <string name="manage_home">Gerir página inicial</string>
+  <string name="manage_home">Página inicial</string>
   <string name="manual_add">Adicionar manualmente</string>
   <string name="manual_adjust">Ajustar</string>
   <string name="manual_input">Introduzidos manualmente</string>
@@ -502,7 +503,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="medical_file_desc1">Informações médicas importantes em caso de emergência</string>
   <string name="medical_file_desc2">Introduzir informações sobre a sua saúde para poder mostrar aos prestadores de cuidados de saúde em caso de emergência</string>
   <string name="medical_file_desc3">Saúde respeita a sua privacidade e vai armazenar todas as informações localmente</string>
-  <string name="medical_first_aid_files">ID de emergência médica</string>
+  <string name="medical_first_aid_files">Emergência médica</string>
   <string name="medication_and_treatment">Medicação e tratamento contínuo</string>
   <string name="medication_and_treatment_hint">Introduzir os medicamentos que toma ou pode precisar em caso de emergência, além de próteses, aparelhos dentários e cirurgias</string>
   <string name="medium_intensity">Moderada</string>
@@ -579,7 +580,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="normal">Normal</string>
   <string name="normal2">Normal</string>
   <string name="not_achieve_stand_goals">O objectivo de ficar em pé não foi atingido</string>
-  <string name="not_added">Não adicionado</string>
+  <string name="not_added">Não adicionados</string>
   <string name="not_edit">Não definido</string>
   <string name="not_open_auto_sync">Sincronização desligada</string>
   <string name="not_save">Rejeitar alterações</string>
@@ -823,7 +824,7 @@ Se este problema ocorrer frequentemente, verifique o seu dispositivo por tarefas
   <string name="sleep_track">Monitorizar sono</string>
   <string name="sleep_turn_over_times_title">Turnos</string>
   <string name="sleep_week">Semana</string>
-  <string name="slow">Lenta</string>
+  <string name="slow">lento</string>
   <string name="slow2">Baixa</string>
   <string name="snore">Ressonar</string>
   <string name="snore_detection_abnormal_notification_button">Retomar</string>
@@ -1009,7 +1010,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_month_dialog_select_date">Seleccionado %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Seleccionado %1$s. %s</string>
   <string name="tb_multiple_selecte_all">Seleccionar tudo</string>
-  <string name="tb_not_add_list">Não adicionado</string>
+  <string name="tb_not_add_list">Não adicionados</string>
   <string name="tb_pause_detection">Pausar</string>
   <string name="tb_picker_day">Dia: %1$d</string>
   <string name="tb_picker_exercise_goal">Objectivo de actividade: %1$s</string>

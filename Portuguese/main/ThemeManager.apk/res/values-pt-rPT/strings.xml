@@ -133,6 +133,7 @@
   <string name="dev_options_summary">Recursos web</string>
   <string name="desc_more_online_wallpaper">Mais papéis de parede online</string>
   <string name="dialog_show_never">Não mostrar novamente</string>
+  <string name="display">Ecrã</string>
   <string name="download_failed">Não foi possível transferir</string>
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
   <string name="download_success">Transferência concluída</string>

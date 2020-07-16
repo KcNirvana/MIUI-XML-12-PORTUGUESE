@@ -102,7 +102,7 @@
   <string name="operation_upload">Carregar</string>
   <string name="paused">Em pausa</string>
   <string name="petabyteShort">PB</string>
-  <string name="pick_from_fileexplor_failed">Actualize o Explorador primeiro</string>
+  <string name="pick_from_fileexplor_failed">Actualize o Ficheiros primeiro</string>
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>

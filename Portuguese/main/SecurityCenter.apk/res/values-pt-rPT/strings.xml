@@ -769,6 +769,11 @@
   <string name="choose_gs_show_way">Seleccionar orientação da página inicial</string>
   <string name="clean_immediately">Limpar</string>
   <string name="clean_master_icon_recall_button_text">Adicionar</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
+  <string name="clean_master_icon_recall_dialog_summary">Adicionar um atalho ao ecrã inicial para limpar o lixo sempre que precisar</string>
+  <string name="clean_master_icon_recall_dialog_title">Limpar lixo mais rapidamente</string>
+  <string name="clean_master_icon_recall_hint">Adicionar um atalho ao ecrã inicial</string>
   <string name="clean_master_icon_recall_summary">Adicionar um atalho ao ecrã inicial para limpar lixo</string>
   <string name="clean_master_icon_recall_title">Limpar lixo</string>
   <string name="clean_master_icon_recall_toast_text">Atalho adicionado com sucesso</string>
@@ -1202,6 +1207,13 @@ cartão de saúde"</string>
   <string name="first_aid_scanning_item4">A verificar bateria…</string>
   <string name="first_aid_scanning_item5">A verificar outros problemas…</string>
   <string name="first_aid_stop_scan">Parar verificação</string>
+  <string name="first_settings_default_camera_title">Partilhar sem metadados por defeito</string>
+  <string name="first_settings_default_location_subtitle">Remover a localização das fotos partilhadas</string>
+  <string name="first_settings_default_location_title">Partilhar sem localização por defeito</string>
+  <string name="first_settings_share_enable">Adicionar emblema \"Partilha segura\"</string>
+  <string name="first_settings_share_enable_subtitle">Os itens que partilhar no WeChat vão aparecer com um emblema MIUI</string>
+  <string name="first_settings_subtitle">Opções de partilha segura disponíveis:</string>
+  <string name="first_settings_title">Proteger a sua privacidade</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
   <string name="fod_authentication_shift_button">Cancelar</string>
   <string name="fod_button_finger">Utilizar impressão digital</string>
@@ -1372,6 +1384,10 @@ cartão de saúde"</string>
   <string name="gb_game_video_type_manual">Manualmente</string>
   <string name="gb_game_video_type_manual_record">Gravar manualmente</string>
   <string name="gb_global_settings">Definições gerais</string>
+  <string name="gb_gpu_driver_btn_update">Verificar actualizações</string>
+  <string name="gb_gpu_driver_update">Actualizações de GPU</string>
+  <string name="gb_gpu_driver_update_app">Actualizar</string>
+  <string name="gb_gpu_driver_update_app_tips">A versão actual está actualizada</string>
   <string name="gb_manual_record_dialog_del_video_message">Eliminar vídeos seleccionados permanentemente?</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
   <string name="gb_msg_completely_shielded_summary">Ocultar</string>
@@ -1574,6 +1590,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="list_empty_text">Vazio</string>
   <string name="load_only_under_wlan">Carregar apenas quando ligado ao Wi-Fi</string>
   <string name="loading">Aguarde…</string>
+  <string name="loading_text_format" formatted="false">A remover informações privadas das fotos (%d/%d)…</string>
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para reportar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo</string>
   <string name="lock_all_title">Bloquear todas as aplicações</string>
   <string name="lock_mode_title">Definições de bloqueio</string>
@@ -1896,6 +1913,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
+  <string name="notification_garbage_clean_botton_text">Limpar</string>
+  <string name="notification_garbage_clean_hint">Limpar armazenamento</string>
+  <string name="notification_garbage_clean_size">Libertar %s</string>
   <string name="notification_garbage_cleanup_summary">Limpar lixo (%s) para acelerar o seu dispositivo</string>
   <string name="notification_garbage_cleanup_title">Limpar lixo</string>
   <string name="notification_low_battery_action_btn">Ligar</string>
@@ -1907,6 +1927,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_masked_item">Como ocultar o conteúdo das notificações?</string>
   <string name="notification_masked_subtitle">Utilizar o Bloqueio de aplicações para ocultar o conteúdo das notificações para as aplicações seleccionadas</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
+  <string name="notification_whatsapp_clean_button_text">Limpar</string>
+  <string name="notification_whatsapp_clean_size">A cache do WhatsApp atingiu %s</string>
   <string name="notify_channel_mipush">Mensagens push de segurança</string>
   <string name="notify_channel_name_behavior">Histórico de comportamento</string>
   <string name="notify_channel_name_security">Segurança do sistema</string>
@@ -1959,6 +1981,10 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="om_shortcut_added_toast_text">Adicionado com sucesso</string>
   <string name="om_shortcut_dialog_summary">O RAM Jet permite limpar memória e optimizar a velocidade do seu dispositivo com um único toque. Adicionar RAM Jet ao ecrã inicial?</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="once_settings_camera_ttile">Partilhar sem metadados</string>
+  <string name="once_settings_location_title">Partilhar sem localização</string>
+  <string name="once_settings_subtitle">Como gostaria de partilhar os itens seleccionados?</string>
+  <string name="once_settings_title">Protecção de Privacidade</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">A aplicação não foi encontrada</string>
   <string name="open_app">Abrir</string>
@@ -2638,10 +2664,18 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="settings">Definições de utilização de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificações de descarregamento de bateria</string>
+  <string name="settings_camera_subtitle_no">Sem metadados</string>
   <string name="settings_category_other">Outras definições</string>
   <string name="settings_category_overheat">Aquecimento</string>
   <string name="settings_choice_no_notification">Desligado</string>
+  <string name="settings_image_camera_summary">Modelo, metadados, etc.</string>
+  <string name="settings_location_subtitle_no">Sem localização</string>
   <string name="settings_power_save_ontime_title">Programar</string>
+  <string name="settings_share_enable_summary">Os itens que partilhar no WeChat vão aparecer com um emblema MIUI</string>
+  <string name="settings_share_info">Opções de partilha segura disponíveis para os itens partilhados da Galeria e Ficheiros:</string>
+  <string name="settings_show_detail">Ver detalhes</string>
+  <string name="settings_tip">Vá a Galeria &gt; Definições para ver mais opções</string>
+  <string name="settings_title">Partilha segura</string>
   <string name="shield_keyboard_detail">Duplo toque nos botões para voltar a ligar</string>
   <string name="shield_keyboard_summary">Restringir botões e gestos durante jogos</string>
   <string name="shield_keyboard_title">Restringir botões e gestos</string>
@@ -3000,7 +3034,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="superpower_settins_other">Definições adicionais</string>
   <string name="superpower_settins_switch_summary">Restringir as funcionalidades que consomem mais bateria para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível</string>
   <string name="support_game_booster_tips">Aumente a velocidade e melhore a experiência de jogo</string>
-  <string name="sys_app_prot_cracked_confirm">Entendi</string>
+  <string name="sys_app_prot_cracked_confirm">Percebi</string>
   <string name="sys_cpu_title">Utilização da CPU</string>
   <string name="sys_freememory_title">Disponível</string>
   <string name="sys_title_gamebooster_unit_gb">GB</string>
@@ -3128,7 +3162,9 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="tether_over_limit_dialog_title">Aviso de utilização de dados</string>
   <string name="tether_over_limit_warning_notify_message">Desligue o PA Móvel</string>
   <string name="tether_over_limit_warning_notify_title">Chegou ao limite de dados do PA Móvel</string>
-  <string name="text_button">Entendi</string>
+  <string name="text_button">Percebi</string>
+  <string name="text_done">OK</string>
+  <string name="text_security">Privacidade</string>
   <string name="thermal_tips_message">Jogar no modo desempenho pode levar a sobreaquecimento</string>
   <string name="thermal_tips_title">Atenção</string>
   <string name="third_application">Aplicações instaladas</string>
@@ -3352,6 +3388,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="vb_advanced_settings_after_open">Depois</string>
   <string name="vb_advanced_settings_before_open">Antes</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Torne os objectos em movimento mais nítidos, melhorando as animações. Esta funcionalidade consome mais bateria</string>
+  <string name="vb_quick_func_auto_bgm">Reconhecer música de fundo</string>
   <string name="vb_quick_func_hangup_listening">Reproduzir som do vídeo com o ecrã desligado</string>
   <string name="vb_quick_func_screen_capture">Captura de ecrã</string>
   <string name="vb_quick_func_screen_record">Gravar</string>
@@ -3395,6 +3432,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="vtb_func_frc_title">Suavização de movimentos</string>
   <string name="vtb_func_vpp_desc4">Esta funcionalidade não funciona com resoluções maiores que 4K</string>
   <string name="vtb_func_vpp_title">Contornos melhorados</string>
+  <string name="vtb_function_video_translation">Tradução em tempo real</string>
   <string name="vtb_other_milink_connect">Não é possível transmitir agora. A transmitir outros itens…</string>
   <string name="vtb_stop_milink_connect">Transmissão de vídeo parada</string>
   <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>

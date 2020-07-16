@@ -245,6 +245,10 @@
   <string name="burst_save_choice_title" formatted="false">Seleccionados %d de %d</string>
   <string name="burst_save_error_msg">Não foi possível guardar</string>
   <string name="burst_save_processing">A processar…</string>
+  <string name="burst_save_video">Guardar como vídeo</string>
+  <string name="burst_save_video_fail">Não foi possível guardar</string>
+  <string name="burst_save_video_progerss">A criar vídeo…</string>
+  <string name="burst_save_video_title">Resolução do vídeo</string>
   <string name="buy_member_tip">Tornar-se membro</string>
   <string name="by_email">Email</string>
   <string name="by_others">Outro</string>
@@ -648,9 +652,12 @@ efeitos de fotos"</string>
   <string name="file_cannot_print">Não é possível imprimir este item</string>
   <string name="file_cannot_screen_throw">Não é possível transmitir este item</string>
   <string name="file_sending">A transferir ficheiros…</string>
+  <string name="filter_category_classic">Clássico</string>
   <string name="filter_category_general">Geral</string>
   <string name="filter_category_master">Mestres</string>
   <string name="filter_category_movie">Filmes</string>
+  <string name="filter_category_popular">Popular</string>
+  <string name="filter_category_portrait">Retrato</string>
   <string name="filter_category_sky">Céu</string>
   <string name="filter_general_blackice">Gelo negro</string>
   <string name="filter_general_blackwhite">Preto e branco</string>
@@ -689,7 +696,13 @@ efeitos de fotos"</string>
   <string name="filter_movie_travel">Viagens</string>
   <string name="filter_movie_wonderful">Maravilhas</string>
   <string name="filter_original">Nenhum</string>
+  <string name="filter_popular_humanity">Documentário</string>
+  <string name="filter_popular_lnk">Tinta</string>
+  <string name="filter_popular_purple">Roxo</string>
+  <string name="filter_portrait_greyish">Cinza</string>
   <string name="filter_portrait_hint">Foco de cor</string>
+  <string name="filter_portrait_mist">Nevoeiro</string>
+  <string name="filter_portrait_painting">Pintura</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_bikong">Azul</string>
   <string name="filter_sky_clear_sky">Céu limpo</string>
@@ -831,6 +844,7 @@ efeitos de fotos"</string>
   <string name="loading_image_thumbnail">A transferir miniaturas…</string>
   <string name="loading_members">A carregar membros…</string>
   <string name="loading_suspend">Transferência em pausa. Vai ser retomada quando o Wi-Fi estiver disponível</string>
+  <string name="loading_text_format" formatted="false">A remover informações privadas das fotos (%d/%d)…</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_compress_lib">A transferir plugin…</string>
   <string name="loading_video_fail_sync_without_network">Ligue-se à rede para transferir os metadados</string>
@@ -994,7 +1008,9 @@ para personalizar a galeria"</string>
   <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Retrato</string>
   <string name="onekey_scene">Paisagem</string>
-  <string name="online_video_normal_transcoding">Este vídeo está a ser transcodificado. Aguarde um momento e tente novamente</string>
+  <string name="online_video_error_unknown">Erro no leitor online. O item foi transferido</string>
+  <string name="online_video_error_unsupported_type">O leitor online não suporta este formato. O item foi transferido</string>
+  <string name="online_video_normal_transcoding">O leitor online ainda não está pronto. Transfira o item</string>
   <string name="online_video_vip_tip">Tornar-se um membro VIP para fazer streaming de vídeos sem os pré-carregar</string>
   <string name="online_video_vip_transcoding">"A iniciar o streaming VIP…
 A transcodificação pode demorar algum tempo na primeira vez"</string>
@@ -1321,12 +1337,19 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="screen_doodle_talkback_size">Largura da linha</string>
   <string name="screen_editor_btn_delete">Eliminar</string>
   <string name="screen_editor_btn_save">Guardar</string>
+  <string name="screen_editor_btn_shell_off">Remover moldura</string>
+  <string name="screen_editor_btn_shell_on">Adicionar moldura</string>
   <string name="screen_editor_crop">Cortar</string>
+  <string name="screen_editor_crop_disallowed_with_shell">Não é possível cortar capturas de ecrã com molduras</string>
   <string name="screen_editor_delete_dialog_msg">Eliminar esta captura de ecrã?</string>
   <string name="screen_editor_doodle">Rabiscar</string>
   <string name="screen_editor_finish">Concluído</string>
   <string name="screen_editor_mosaic">Mosaico</string>
   <string name="screen_editor_send">Enviar</string>
+  <string name="screen_editor_shell_disallowed_with_crop">Não é possível adicionar molduras a capturas de ecrã cortadas</string>
+  <string name="screen_editor_shell_net_error">Ligue-se à rede para transferir a moldura</string>
+  <string name="screen_editor_shell_res_downloading">A transferir a moldura…</string>
+  <string name="screen_editor_shell_storage_insufficient">Não é possível transferir a moldura devido a espaço insuficiente</string>
   <string name="screen_editor_text">Texto</string>
   <string name="screen_save_dialog_btn_cancel">Cancelar</string>
   <string name="screen_save_dialog_btn_delete">Eliminar captura de ecrã</string>
@@ -1573,6 +1596,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="throwing_screen">Transmitir</string>
   <string name="thumbnail_build_error">Não foi possível transferir miniatura</string>
   <string name="thumbnail_error_log_cleared">Limpo com sucesso</string>
+  <string name="time_burst_photo_enter">Disparo Temporizado</string>
+  <string name="time_burst_preview_title">Disparo Temporizado</string>
   <string name="tip_capture_location">Localização:</string>
   <string name="tip_capture_params">Dados EXIF:</string>
   <string name="tip_capture_time">Tirada em:</string>

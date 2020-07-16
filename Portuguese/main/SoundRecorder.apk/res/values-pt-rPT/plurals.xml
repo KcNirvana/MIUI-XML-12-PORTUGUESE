@@ -28,6 +28,10 @@
         <item quantity="other">%d gravações transferidas</item>
         <item quantity="one">%d gravação transferida</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">Não foi possível restaurar %d itens</item>
+        <item quantity="one">Não foi possível restaurar %d item</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Pesquisar entre %d gravações</item>
         <item quantity="one">Pesquisar entre %d gravação</item>
@@ -43,6 +47,18 @@
     <plurals name="search_result">
         <item quantity="other">Encontrou %d gravações</item>
         <item quantity="one">Encontrou %d gravação</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Eliminar %d gravações seleccionadas?</item>
+        <item quantity="one">Eliminar %d gravação seleccionada?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Itens eliminados são armazenados no lixo por %d dias</item>
+        <item quantity="one">Itens eliminados são armazenados no lixo por %d dia</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d não sincronizados</item>

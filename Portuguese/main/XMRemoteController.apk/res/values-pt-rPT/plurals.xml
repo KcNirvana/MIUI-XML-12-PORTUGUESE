@@ -24,4 +24,8 @@
         <item quantity="other">%1$d minutos atrás</item>
         <item quantity="one">%1$d minuto atrás</item>
     </plurals>
+    <plurals name="receive_share_titel_no">
+        <item quantity="other">Recebidos controlos remotos partilhados</item>
+        <item quantity="one">Recebido controlo remoto partilhado</item>
+    </plurals>
 </resources>

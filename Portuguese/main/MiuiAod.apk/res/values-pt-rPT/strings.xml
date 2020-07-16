@@ -8,6 +8,7 @@
   <string name="always_style">Sempre</string>
   <string name="animation_clock_panel">Visualização em onda</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser combinada com a inversão de cores. Desligue a inversão de cores primeiro</string>
+  <string name="aod_component">Itens mostrados</string>
   <string name="aod_lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="aod_lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="aod_lock_screen_date_12_signature">dd/MM</string>
@@ -44,6 +45,12 @@ d 'de' MMMM"</string>
   <string name="clock_panel_icon">Cara do relógio</string>
   <string name="color_change_with_time_description">Alterar a cor do texto automaticamente ao longo do tempo</string>
   <string name="color_change_with_time_title">Alterar cor automaticamente</string>
+  <string name="component_battery">Bateria</string>
+  <string name="component_date_time">Data e hora</string>
+  <string name="component_lunar">Calendário chinês</string>
+  <string name="component_notification">Notificações</string>
+  <string name="component_step">Passos</string>
+  <string name="continue_to_use">Continuar</string>
   <string name="custom_image">Imagem personalizada</string>
   <string name="deep_space_planet">Outer space</string>
   <string name="deep_space_planet_des">Este tema reflete as mudanças de luz que acontecem ao seu redor durante o dia. O amanhecer e pôr-do-sol neste tema estão sincronizados com a sua localização</string>
@@ -107,6 +114,9 @@ d 'de' MMMM"</string>
 maravilhoso está para acontecer"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standard</string>
+  <string name="step_component_info_active_tip">A contagem de passos é fornecida por Saúde. Concorde com os termos e condições de Saúde para continuar</string>
+  <string name="step_component_info_desc">A contagem de passos vai-se transformar num troféu quando o seu objectivo for alcançado. A contagem de passos é fornecida por Saúde</string>
+  <string name="step_component_info_tip">A contagem de passos é fornecida por Saúde. Instale ou actualize Saúde e concorde com os termos e condições para continuar</string>
   <string name="summary">Para reduzir o consumo de bateria, os itens não vão ser mostrados quando o dispositivo estiver no escuro por muito tempo</string>
   <string name="super_wallpaper_date">"EEEE
 dd/MM"</string>

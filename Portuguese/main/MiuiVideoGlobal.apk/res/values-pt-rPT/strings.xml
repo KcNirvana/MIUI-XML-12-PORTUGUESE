@@ -3,6 +3,8 @@
   <string name="This_week">Esta semana</string>
   <string name="Today">Hoje</string>
   <string name="Yesterday">Ontem</string>
+  <string name="agree">Concordar</string>
+  <string name="agree_and_continue">Concordar</string>
   <string name="app_name">Vídeos</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_choose">Desmarcar</string>
@@ -16,6 +18,7 @@
   <string name="cast_expanded_controller_ad_image_description">Imagem mostrada enquanto o transmissor estiver a reproduzir anúncios</string>
   <string name="cast_expanded_controller_ad_in_progress">Anúncio em curso…</string>
   <string name="cast_expanded_controller_background_image">Capa do álbum</string>
+  <string name="cast_expanded_controller_live_head_description">Current position is at the head of the live stream</string>
   <string name="cast_expanded_controller_live_stream_indicator">Ao vivo</string>
   <string name="cast_expanded_controller_loading">A carregar…</string>
   <string name="cast_expanded_controller_skip_ad_label">Ignorar anúncio</string>
@@ -23,6 +26,7 @@
   <string name="cast_forward">Avanços</string>
   <string name="cast_forward_10">Avançar dez segundos</string>
   <string name="cast_forward_30">Avançar trinta segundos</string>
+  <string name="cast_live_label">Ao vivo</string>
   <string name="cast_mute">Silenciar</string>
   <string name="cast_notification_connected_message">Ligado a %1$s</string>
   <string name="cast_notification_connecting_message">A ligar a %1$s</string>
@@ -56,14 +60,17 @@
   <string name="com_permission_desc">O Vídeos não consegue aceder a vídeos no seu dispositivo. Permita o acesso nas Definições</string>
   <string name="com_permission_title">Permissões necessárias</string>
   <string name="common_cancel">Cancelar</string>
+  <string name="continue_play">Retomar</string>
   <string name="data_empty">Sem itens</string>
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
+  <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
   <string name="dialog_privacy_title">Autorizações</string>
   <string name="dialog_revoke_privacy_info_new2">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogar autorização</string>
   <string name="exit">Sair</string>
   <string name="explore_on_mi_video">Veja mais em Vídeos</string>
   <string name="failed_to_fetch_data">Não foi possível carregar informação</string>
+  <string name="file_cant_rename">Já existe um ficheiro com o nome %1$s</string>
   <string name="finish">Concluído</string>
   <string name="for_you">Para si</string>
   <string name="friday">Sexta-feira</string>
@@ -71,6 +78,7 @@
   <string name="fw_reload_sub_title">Toque no ecrã para tentar novamente</string>
   <string name="fw_reload_title">Não foi possível ligar à rede</string>
   <string name="grant_write_settings_permission">Conceda esta permissão para controlar o brilho</string>
+  <string name="got_it">Percebi</string>
   <string name="login">Iniciar sessão</string>
   <string name="lp_base_folder">Cartão SD</string>
   <string name="lp_speed_title">Velocidade de reprodução</string>
@@ -222,6 +230,8 @@
   <string name="next">Seguinte</string>
   <string name="no_recommend_data">Sem vídeos recomendados</string>
   <string name="not_show">Não mostrar novamente</string>
+  <string name="notification_bar_player_subtitle">Mostrar leitor minimizado na área de notificações</string>
+  <string name="notification_bar_player_title">Minimizar leitor</string>
   <string name="notify_apk_installed">Transferido com sucesso</string>
   <string name="off">[desligado]</string>
   <string name="ok">OK</string>
@@ -275,6 +285,8 @@
   <string name="ovp_navigation_home">Início</string>
   <string name="ovp_navigation_localvideo">Dispositivo</string>
   <string name="ovp_navigation_setting">Definições</string>
+  <string name="ovp_player_cached_error_btn">Vídeos online</string>
+  <string name="ovp_player_cached_error_hint_info">Não é possível reproduzir vídeos locais agora</string>
   <string name="ovp_plugin_install_failure">Não foi possível instalar o plugin</string>
   <string name="ovp_search_key_not_null">Introduzir palavras-chave para pesquisar</string>
   <string name="ovp_select_ci">Seleccionar episódio</string>
@@ -285,6 +297,7 @@
   <string name="ovp_setting_privacy_policy_title">Política de Privacidade</string>
   <string name="ovp_setting_privacy_switch_tips">Algumas funcionalidade não vão estar disponíveis se revogar a autorização</string>
   <string name="ovp_setting_privacy_switch_title">Autorizações</string>
+  <string name="ovp_setting_user_agreement_title">Termos de Utilização</string>
   <string name="ovp_setting_version_info_title">Versão</string>
   <string name="ovp_start_error_msg">Não é possível reproduzir este vídeo</string>
   <string name="ovp_video_bad_network_condition">Não é possível ligar à rede</string>
@@ -307,6 +320,7 @@ Aumentar a segurança da sua conta"</string>
   <string name="permission_storage">Armazenamento</string>
   <string name="permission_storage_desc">Para aceder a itens, guardar ficheiros, mostrar e reproduzir vídeos locais</string>
   <string name="permission_title">Permissões necessárias</string>
+  <string name="pip">Ecrã no ecrã</string>
   <string name="player_replay_btn_text">Repetir</string>
   <string name="plus_add_shortcut">Criar atalho no ecrã inicial</string>
   <string name="plus_change_poster">Alterar capa do álbum</string>
@@ -559,6 +573,7 @@ Tente ver outros vídeos!"</string>
   <string name="v_set_password">Definir palavra-passe</string>
   <string name="v_txt_login">Iniciar sessão para sincronizar os seus favoritos</string>
   <string name="v_update">Actualizar</string>
+  <string name="view">Ver</string>
   <string name="wednesday">Quarta-feira</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Não foi possível iniciar a transferência. Verifique o estado do gestor de transferências</string>
   <string name="xiaomi_update_sdk_dialog_message">"Nova versão %1$s

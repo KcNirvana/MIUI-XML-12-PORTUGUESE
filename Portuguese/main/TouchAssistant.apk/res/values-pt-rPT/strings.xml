@@ -49,6 +49,7 @@
   <string name="name_trans_cards">Cartões de transporte</string>
   <string name="name_wechat_payment_code">Pagamento WeChat</string>
   <string name="name_wechat_scan">Digitalizador WeChat</string>
+  <string name="name_xiao_ai">Mi IA</string>
   <string name="nfc_all_mipay_card_not_in_use">Mi Pay não está activado</string>
   <string name="nfc_trans_card_not_in_use">Os cartões de transporte não estão activados</string>
   <string name="not_working">%s (Não funciona)</string>

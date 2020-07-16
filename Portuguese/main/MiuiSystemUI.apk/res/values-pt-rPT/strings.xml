@@ -577,7 +577,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="ext_media_badremoval_notification_title">O armazenamento USB foi removido inesperadamente</string>
   <string name="ext_media_checking_notification_message">A verificar erros</string>
   <string name="ext_media_checking_notification_title">A preparar o armazenamento USB</string>
-  <string name="ext_media_mountable_notification_message">Toque para abrir o Explorador</string>
+  <string name="ext_media_mountable_notification_message">Toque para abrir o Ficheiros</string>
   <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB ligado</string>
   <string name="ext_media_nofs_notification_message">O armazenamento USB está vazio ou tem um sistema de ficheiros não suportado</string>
   <string name="ext_media_nofs_notification_title">Armazenamento USB vazio</string>
@@ -1000,10 +1000,10 @@ d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">"Introduziu incorrectamente a sua palavra-passe %1$d vezes. Após mais %2$d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Introduziu incorrectamente a sua palavra-passe %1$d vezes. Após mais %2$d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
-Tente novamente dentro de %d segundos"</string>
+Tente novamente dentro de %3$d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_none">Nenhum</string>
   <string name="lockscreen_shortcut_left">Atalho esquerdo</string>
@@ -1543,7 +1543,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="screen_pinning_description">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
   <string name="screen_pinning_description_accessible">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
   <string name="screen_pinning_negative">Não obrigado</string>
-  <string name="screen_pinning_positive">Entendi</string>
+  <string name="screen_pinning_positive">Percebi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
   <string name="screenshot_delete">Eliminar</string>
   <string name="screenshot_delete_dlg_msg">Eliminar esta captura de ecrã?</string>

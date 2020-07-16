@@ -91,6 +91,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado com a Conta Mi %2$s. Não vai mais ser necessário associar com a Conta Mi %3$s se continuar. Continuar?</string>
   <string name="continue_action">Continuar</string>
   <string name="copy">Copiar</string>
+  <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
   <string name="delete_action">Eliminar</string>
   <string name="delete_bank_card_message">Devido a motivos de segurança o seu cartão bancário vai ser eliminado após terminar sessão</string>
   <string name="delete_bank_card_title">Atenção</string>

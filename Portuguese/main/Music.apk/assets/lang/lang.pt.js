@@ -507,7 +507,7 @@
   "no_artist_info": "Sem informação do artista",
   "no_enough_info": "Não existe informação suficiente da música",
   "no_favorites_songs": "Vazio",
-  "no_file_picker_find": "O Explorador de ficheiros não está instalado no dispositivo",
+  "no_file_picker_find": "O Ficheiros de ficheiros não está instalado no dispositivo",
   "no_introduction": "Não há resumo",
   "no_local_songs": "Vazio",
   "no_local_songs_selected": "Não é possível enviar músicas, que não tenham sido transferidas",

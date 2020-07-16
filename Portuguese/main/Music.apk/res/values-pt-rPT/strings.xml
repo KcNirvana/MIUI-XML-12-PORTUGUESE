@@ -378,7 +378,7 @@
   <string name="no_artist_info">Sem informação do artista</string>
   <string name="no_downloads">Sem transferências</string>
   <string name="no_favorites_songs">Vazio</string>
-  <string name="no_file_picker_find">O Explorador não está instalado no dispositivo</string>
+  <string name="no_file_picker_find">O Ficheiros não está instalado no dispositivo</string>
   <string name="no_local_songs">Vazio</string>
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
   <string name="no_local_source_find">Não é possível localizar a música</string>
@@ -456,6 +456,10 @@
   <string name="preset_music_playlist">Lista de reprodução Mi Música</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Guardar músicas automaticamente para o cartão SD</string>
+  <string name="privacy_authorize_network_error">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
+  <string name="privacy_authorize_revoke_failed">Não foi possível revogar autorização</string>
+  <string name="privacy_authorize_revoke_success">Autorização revogada com sucesso</string>
+  <string name="privacy_authorize_revoking">A revogar autorização…</string>
   <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="project_device">Telefone Mi</string>
@@ -463,10 +467,13 @@
   <string name="ready_to_play">A seguir</string>
   <string name="recently_played">Recentes</string>
   <string name="recently_played_songs">Recentes</string>
+  <string name="recommend_artist_title">Artistas recomendados</string>
   <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
   <string name="recommended_no_file_size_download_in_mobile">Utilizar ligação de dados móveis para transferir este ficheiro?</string>
   <string name="remove">Remover</string>
   <string name="remove_download">Remover</string>
+  <string name="remove_user_privacy_dialog_message">Após revogar autorização, Música vai parar de obter dados e todos os dados vão ser eliminados dos servidores. Revogar autorização agora?</string>
+  <string name="remove_user_privacy_dialog_title">Revogar autorização</string>
   <string name="repeat_all_notif">A repetir todas as músicas</string>
   <string name="repeat_current_notif">A repetir a música actual</string>
   <string name="request_overlay_permission_desc">Permitir que Música mostre janelas flutuantes para utilizar esta funcionalidade</string>
@@ -642,6 +649,11 @@
   <string name="user_agreement">Termos de Utilização</string>
   <string name="v7_preference_off">Desligado</string>
   <string name="v7_preference_on">Ligado</string>
+  <string name="user_privacy_dialog_negative_text">Cancelar</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Revogar (%ss)</string>
+  <string name="user_privacy_dialog_positive_text">Revogar</string>
+  <string name="user_privacy_setting_group_title">Autorização</string>
+  <string name="user_privacy_setting_title">Conceder ou revogar a sua autorização</string>
   <string name="version_info">Versão</string>
   <string name="vip_after_tomorrow_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente na noite depois de amanhã. Certifique-se que tem Mi Credits suficientes na sua conta para concluir o pagamento</string>
   <string name="vip_after_tomorrow_renew_message">Não vai poder fazer stream em alta qualidade mas algumas músicas vão estar disponíveis na qualidade normal</string>
