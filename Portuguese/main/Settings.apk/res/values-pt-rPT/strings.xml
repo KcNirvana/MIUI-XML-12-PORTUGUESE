@@ -411,7 +411,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_floating_window_dlg_disable">Desligar definições de janela flutuante de %1$s requer que a aplicação reinicie</string>
   <string name="app_floating_window_dlg_enable">Ligar definições de janela flutuante de %1$s requer que a aplicação reinicie</string>
-  <string name="app_forward_locked">A aplicação é protegida contra cópia</string>
+  <string name="app_forward_locked">A aplicação está protegida contra cópia</string>
+  <string name="app_function">Funcionalidades da aplicação</string>
   <string name="app_info_storage_title">Espaço utilizado</string>
   <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações</string>
   <string name="app_install_location_title">Local de instalação preferido</string>
@@ -1834,7 +1835,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="day_of_week">Dia da semana</string>
   <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afectada quando o modo Anti-oscilação estiver ligado. Ligar mesmo assim?</string>
   <string name="dc_light_summary">Aplicar DC dimming para reduzir a fadiga ocular</string>
-  <string name="dc_light_summary_new">O DC dimming reduz a fadiga ocular em condições de pouca luz. No entanto, a qualidade de imagem pode ser afectada quando o modo Anti-oscilação estiver ligado</string>
+  <string name="dc_light_summary_new">Evitar tremulações extensas e reduzir a fadiga ocular em condições de pouca luz</string>
   <string name="dc_light_title">Modo Anti-oscilação</string>
   <string name="debug_app">Seleccionar aplicação de depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação de depuração definida</string>
@@ -2583,6 +2584,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget">Esquecer</string>
   <string name="forget_passpoint_dialog_message">Pode perder o acesso a qualquer hora ou dados restantes. Consulte o seu fornecedor antes de remover</string>
+  <string name="forget_passpoint_wifi_message">O seu telefone vai parar de se ligar a esta rede automaticamente</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
   <string name="forget_password_dialog_button_text">Voltar</string>
   <string name="forget_password_dialog_content_four">2. Seleccione &amp;lt;font color=#e6e6e6&amp;gt;[Formatar dados]&amp;lt;/font&amp;gt; e aguarde até o dispositivo reiniciar</string>
@@ -2887,6 +2889,10 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="input_method_cloud_paste_mode_no_title">Nenhum</string>
   <string name="input_method_cloud_paste_mode_red_point_des">Vai ver um ponto vermelho na parte inferior do teclado. Toque no ícone para abrir e utilizar o conteúdo copiado</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Ponto vermelho</string>
+  <string name="input_method_function_switch_keyboard_language">Trocar idiomas</string>
+  <string name="input_method_function_switch_keyboard_language_des">Toque para trocar entre idiomas</string>
+  <string name="input_method_function_switch_keyboard_type">Trocar teclados</string>
+  <string name="input_method_function_switch_keyboard_type_des">Toque para trocar entre diferentes teclados</string>
   <string name="input_method_manage">Gestão de teclados</string>
   <string name="input_method_quick_access">Acesso rápido</string>
   <string name="input_method_quick_cloud_mode_title">Notificações sobre novos conteúdos</string>
@@ -4325,6 +4331,13 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="partial_connectivity_text">Algumas aplicações e serviços podem não funcionar devido à ligação limitada. Utilizar mesmo assim?</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
+  <string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de ligação Wi-Fi segura, automática e de confiança fornecida pela Wi-Fi Alliance. Configura automaticamente as contas para obter uma ligação perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis.
+
+Esta funcionalidade apenas obtem o seu endereço MAC para o registo da conta. Nós vamos processar os seus dados de acordo com a nossa %s. Leia e concorde para continuar"</string>
+  <string name="passpoint_r1_privacy_dialog_no">Cancelar</string>
+  <string name="passpoint_r1_privacy_dialog_title">Atenção</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Concordar e continuar</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
   <string name="password_and_security">Segurança</string>
   <string name="password_entrance_title">Bloqueio de ecrã</string>

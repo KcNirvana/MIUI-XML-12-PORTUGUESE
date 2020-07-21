@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Terra</item>
+        <item>Papéis de parede/Super papéis de parede/Terra</item>
+        <item>Terra;Super papéis de parede;Edição Terra;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Planeta Vermelho</item>
+        <item>Wallpaper/Super wallpapers/Planeta Vermelho</item>
+        <item>Marte;Edição Marte;Super papéis de parede;Papel de parede</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super papéis de parede</item>
+        <item>Papéis de parede/Super papéis de parede</item>
+        <item>Super papéis de parede;Papel de parede;Papel de parede dinâmico;Papel de parede 3D</item>
+    </string-array>
+</resources>

@@ -411,6 +411,7 @@
   <string name="storage_cloned_app">Armazenamento para aplicações clonadas</string>
   <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
+  <string name="storage_maintenance_mode">Armazenamento para o modo manutenção</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>

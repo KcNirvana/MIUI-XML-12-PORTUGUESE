@@ -98,6 +98,7 @@
   <string name="miui_guide_item_complete">Concluído</string>
   <string name="miui_guide_item_new">Novo</string>
   <string name="miui_guide_item_progress">Concluído %1$d/%2$d</string>
+  <string name="miui_guide_menu_privacy">Política de Privacidade</string>
   <string name="miui_guide_top_bar_sub_title">Saiba o que a MIUI pode fazer</string>
   <string name="miui_guide_top_bar_title">Guia de principiante</string>
   <string name="miui_main_bottom_bar_feedback">Comentários</string>

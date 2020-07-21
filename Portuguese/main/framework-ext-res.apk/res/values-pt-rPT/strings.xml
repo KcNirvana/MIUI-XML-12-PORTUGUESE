@@ -6,6 +6,11 @@
   <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) ou (%2$s internacionais)</string>
   <string name="always">Sempre</string>
   <string name="alwaysUsePrompt">Memorizar preferência</string>
+  <string name="application_cannot_open_alipay_payment_code">Não foi possível abrir o código de pagamento Alipay</string>
+  <string name="application_cannot_open_alipay_scanner">Não foi possível abrir o Digitalizador Alipay</string>
+  <string name="application_cannot_open_weixin_payment_code">Não foi possível abrir o código de pagamento WeChat</string>
+  <string name="application_cannot_open_weixin_scanner">Não foi possível abrir o Digitalizador WeChat</string>
+  <string name="application_not_install_content">A aplicação para executar esta acção não está instalada no seu dispositivo. Pode instalar esta aplicação ou atribuir uma acção diferente para este gesto</string>
   <string name="apply_password_action">OK</string>
   <string name="apply_password_confirm_dlg_msg">Utilizar a sua palavra-passe de ecrã de bloqueio actual para aceder às definições para %s</string>
   <string name="apply_password_confirm_dlg_title">Palavra-passe %s</string>

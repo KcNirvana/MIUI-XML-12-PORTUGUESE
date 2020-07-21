@@ -46,7 +46,7 @@
     <string name="file_transfer_progress">Progresso: %1$d%%</string>
     <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
     <string name="hide">Ocultar</string>
-    <string name="location_enabled">Foram ligados os serviços de localização para procurar dispositivos próximos</string>
+    <string name="location_enabled">O Mi Share ligou os serviços de localização para procurar dispositivos próximos</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mishare_settings_summary_international">"Pode utilizar o Mi Share para enviar itens para dispositivos próximos.
 Mi Share é compatível com telefones Mi e Redmi.

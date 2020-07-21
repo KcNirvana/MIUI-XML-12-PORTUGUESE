@@ -1717,7 +1717,8 @@ da operadora"</string>
   <string name="memory_check_content">Libertos %s</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tudo parece bem</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Libertou %s. O seu dispositivo está %d%% mais rápido agora</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">"Libertou %s. 
+O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="memory_clear_unused">Limpeza da cache (%s)</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_add">Adicionar</string>
@@ -2798,9 +2799,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="st_call_other_group">Outros</string>
   <string name="st_call_settings">Lista de bloqueio de chamadas</string>
   <string name="st_call_stranger_group">Bloquear chamadas de desconhecidos</string>
-  <string name="st_confirm_dialog_btn_open">Abrir</string>
+  <string name="st_confirm_dialog_btn_open">Bloquear</string>
   <string name="st_confirm_dialog_summary_contact_call">Todas as chamadas de contactos vão ser bloqueadas</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Ligar para bloquear todas as chamadas recebidas do estrangeiro</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Todas as chamadas de números estrangeiros vão ser bloqueadas</string>
   <string name="st_confirm_dialog_summary_stranger_call">Todas as chamadas de desconhecidos bloqueadas</string>
   <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave vão ser bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">(Utilize uma vírgula para separar múltiplas palavras)</string>

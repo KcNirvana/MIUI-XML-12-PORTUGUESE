@@ -1369,6 +1369,8 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_system_decide">Automático</string>
   <string name="smart_divert_title">Smart-Divert</string>
   <string name="smart_dual_sim_prompt">O seu dispositivo vai ligar a uma rede móvel utilizando o SIM secundário quando a ligação for fraca. Isto pode gerar custos adicionais</string>
+  <string name="smart_dual_sim_prompt_ok">Definições</string>
+  <string name="smart_dual_sim_prompt_title">Aviso de utilização de dados (SIM %s)</string>
   <string name="smart_dual_sim_summary">Trocar para o SIM secundário e utilizar os dados móveis automaticamente quando a ligação for fraca. Quando a ligação melhorar, trocar para o SIM original</string>
   <string name="smart_dual_sim_title">Dual SIM inteligente</string>
   <string name="sms_messages_title">SMS</string>

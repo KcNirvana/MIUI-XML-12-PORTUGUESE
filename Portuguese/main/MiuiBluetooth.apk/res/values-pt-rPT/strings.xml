@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Miui Bluetooth</string>
+  <string name="audio_relay_default_device_name">Altifalantes XiaoAi</string>
   <string name="band_24G">" (2.4GHz)"</string>
   <string name="band_5G">" (5GHz)"</string>
   <string name="battery_info_status_charging">A carregar</string>
@@ -51,6 +52,13 @@
   <string name="fast_connect_wbs_reset">Segure o botão por %1$s segundos enquanto desliga</string>
   <string name="goto_package">Abrir %1$s</string>
   <string name="install_package">Instalar %1$s para mais funcionalidades</string>
+  <string name="media_category">Multimédia</string>
+  <string name="media_transfer_this_device_name">Este dispositivo</string>
+  <string name="mi_audio_relay_cancel">OK</string>
+  <string name="mi_audio_relay_connect_failed">Erro</string>
+  <string name="mi_audio_relay_localphone">Telefone</string>
+  <string name="mi_audio_relay_phone_name">Telefone Xiaomi</string>
+  <string name="mi_audio_relay_title">Seleccionar dispositivos</string>
   <string name="mi_band_vibrate_alarm">Vibrar quando o alarme tocar</string>
   <string name="mi_band_vibrate_incall">Vibrar ao receber chamadas</string>
   <string name="mi_band_vibrate_incall_in_contacts">Chamadas de contactos</string>

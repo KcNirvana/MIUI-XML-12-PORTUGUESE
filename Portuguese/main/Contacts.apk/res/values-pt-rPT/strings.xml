@@ -1171,6 +1171,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por João Moutinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
+  <string name="theme_dialog_confirm_button">Percebi</string>
+  <string name="theme_dialog_confirm_content">Esta versão dos Contactos não suporta o tema actualmente aplicado</string>
+  <string name="theme_dialog_confirm_title">Não é possível aplicar tema</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>
   <string name="title_other_devices">Outros dispositivos disponíveis</string>
   <string name="title_paired_devices">Dispositivos emparelhados</string>

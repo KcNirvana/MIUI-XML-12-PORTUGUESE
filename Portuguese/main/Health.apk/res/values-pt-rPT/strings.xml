@@ -30,7 +30,9 @@ para adicionar cartões"</string>
   <string name="allergic_drugs_hint">Introduzir os medicamentos e as suas reacções</string>
   <string name="allow_notice_periods">Permitir lembretes de período</string>
   <string name="altitude">Altitude</string>
+  <string name="altitude_range">Altitude</string>
   <string name="app_name">Saúde</string>
+  <string name="app_setting">Aplicações</string>
   <string name="auth_description">Permitir que %1$s sincronize dados dos seguintes dispositivos</string>
   <string name="auto_start_fail">Não foi possível dar permissão</string>
   <string name="auto_start_success">Permissão dada com sucesso</string>
@@ -408,6 +410,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="health_cloud_service">Serviços Xiaomi Cloud</string>
   <string name="health_data_cloud_sync_subtitle">Sincronizar os seus dados com a Xiaomi Cloud e aceder de qualquer dispositivo</string>
   <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
+  <string name="health_data_sync">Sincronizar dados</string>
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
   <string name="health_setting">Definições de Saúde</string>
@@ -912,6 +915,7 @@ baseados nas suas informações pessoais"</string>
   <string name="sustain_title">"Já não se move há "</string>
   <string name="swim">Natação</string>
   <string name="swim_type">Estilo</string>
+  <string name="sync_health_data">Sincronizar dados</string>
   <string name="sync_immediately">Sincronizar</string>
   <string name="sync_is_not_closed">Sincronização ligada</string>
   <string name="sync_is_off">Sincronização desligada</string>
@@ -922,8 +926,12 @@ baseados nas suas informações pessoais"</string>
   <string name="sync_status_network_failure">Não foi possível sincronizar. Ligue-se à rede e tente novamente</string>
   <string name="sync_status_never_done">Não sincronizado</string>
   <string name="sync_status_oauth_error">Não foi possível sincronizar. Dê as permissões necessárias primeiro</string>
+  <string name="system_app_setting">Definições das aplicações de sistema</string>
   <string name="systolic_pressure">Sistólica</string>
   <string name="tb_audio_progress_bar">Barra de reprodução de áudio</string>
+  <string name="tb_blood_pressure_day_chart">%1$s. Pressão sistólica mais alta: %2$d mmHg | Pressão diastólica mais baixa: %3$d mmHg</string>
+  <string name="tb_blood_pressure_item">%1$s. Pressão sistólica: %2$d mmHg | Pressão diastólica: %3$d mmHg</string>
+  <string name="tb_blood_pressure_wm_card">Pressão sistólica média: %1$d mmHg | Pressão diastólica média: %2$d mmHg | Pressão sistólica mais alta: %3$d mmHg | Pressão diastólica mais alta: %4$d mmHg | Pressão sistólica mais baixa: %5$d mmHg | Pressão diastólica mais baixa: %6$d mmHg</string>
   <string name="tb_card_on_using_list">Adicionado</string>
   <string name="tb_click_finish_stand">Ficar de pé não terminado por quase 1 hora. Toque para terminar</string>
   <string name="tb_current_select">%1$s seleccionado</string>
