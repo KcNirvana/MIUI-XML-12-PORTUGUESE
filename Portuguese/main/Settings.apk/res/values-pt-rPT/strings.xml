@@ -2584,7 +2584,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget">Esquecer</string>
   <string name="forget_passpoint_dialog_message">Pode perder o acesso a qualquer hora ou dados restantes. Consulte o seu fornecedor antes de remover</string>
-  <string name="forget_passpoint_wifi_message">O seu telefone vai parar de se ligar a esta rede automaticamente</string>
+  <string name="forget_passpoint_wifi_message">O seu dispositivo vai parar de se ligar a esta rede automaticamente</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
   <string name="forget_password_dialog_button_text">Voltar</string>
   <string name="forget_password_dialog_content_four">2. Seleccione &amp;lt;font color=#e6e6e6&amp;gt;[Formatar dados]&amp;lt;/font&amp;gt; e aguarde até o dispositivo reiniciar</string>
@@ -4331,13 +4331,13 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="partial_connectivity_text">Algumas aplicações e serviços podem não funcionar devido à ligação limitada. Utilizar mesmo assim?</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
-  <string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de ligação Wi-Fi segura, automática e de confiança fornecida pela Wi-Fi Alliance. Configura automaticamente as contas para obter uma ligação perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis.
+  <string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de ligação Wi-Fi segura fornecida pela Wi-Fi Alliance. Configura automaticamente as contas para obter uma ligação perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis.
 
-Esta funcionalidade apenas obtem o seu endereço MAC para o registo da conta. Nós vamos processar os seus dados de acordo com a nossa %s. Leia e concorde para continuar"</string>
+Esta funcionalidade obtém o seu endereço MAC apenas para o registo da conta. Nós vamos processar os seus dados de acordo com a nossa %s. Leia e concorde com a nossa Política de Privacidade para continuar"</string>
   <string name="passpoint_r1_privacy_dialog_no">Cancelar</string>
   <string name="passpoint_r1_privacy_dialog_title">Atenção</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade</string>
-  <string name="passpoint_r1_privacy_dialog_yes">Concordar e continuar</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
   <string name="password_and_security">Segurança</string>
   <string name="password_entrance_title">Bloqueio de ecrã</string>

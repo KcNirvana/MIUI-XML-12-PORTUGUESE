@@ -126,6 +126,10 @@
   <string name="install">Instalar</string>
   <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
   <string name="interest_rate_hint">Introduza a taxa de juro</string>
+  <string name="investment_invalid_duration">A duração do investimento tem de ser maior que zero</string>
+  <string name="investment_type_once">Uma vez</string>
+  <string name="investment_type_recurring">Periódicos</string>
+  <string name="item_page_title_investment">Investimentos</string>
   <string name="item_title_aa_payment">Dividir a conta</string>
   <string name="item_title_age">Idade</string>
   <string name="item_title_area_conversion">Área</string>
@@ -137,6 +141,7 @@
   <string name="item_title_dress_size">Tamanho de roupa</string>
   <string name="item_title_emi">Calculadora de empréstimos</string>
   <string name="item_title_gst">TBS</string>
+  <string name="item_title_investment">Investimentos</string>
   <string name="item_title_length_conversion">Comprimento</string>
   <string name="item_title_loan">Empréstimos</string>
   <string name="item_title_mortgage">Crédito habitação</string>
@@ -162,6 +167,7 @@
   <string name="label_from_date">De</string>
   <string name="label_history">Histórico</string>
   <string name="label_interest">Juros (%)</string>
+  <string name="label_investment_duration">Duração</string>
   <string name="label_loan_tenure">Posse do empréstimo</string>
   <string name="label_months">Meses</string>
   <string name="label_no_history">Sem itens</string>
@@ -171,8 +177,10 @@
   <string name="label_statistics">Estatistícas</string>
   <string name="label_to_date">Para</string>
   <string name="label_total_interest">Total de juros</string>
+  <string name="label_total_investment">Total do investimento</string>
   <string name="label_total_payment">Total do pagamento</string>
   <string name="label_total_principal">Total principal</string>
+  <string name="label_total_value">Valor total</string>
   <string name="label_years">Anos</string>
   <string name="leftParenDesc">Parêntese esquerdo</string>
   <string name="lgDesc">Logaritmo</string>
@@ -425,6 +433,9 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="tuesday">Terça-feira</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">T</string>
+  <string name="tv_recurrence_monthly">Mensalmente</string>
+  <string name="tv_recurrence_quaterly">Trimestalmente</string>
+  <string name="tv_recurrence_yearly">Anualmente</string>
   <string name="unKnow_error">Erro desconhecido</string>
   <string name="unit_cm">Centímetros</string>
   <string name="unit_data_default_currency_0">EUR</string>
