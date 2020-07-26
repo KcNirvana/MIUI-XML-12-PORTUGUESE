@@ -152,7 +152,7 @@
   <string name="indices_title">Actividades recomendadas</string>
   <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
-  <string name="indices_title_feel">Sens. térmica</string>
+  <string name="indices_title_feel">Sensação térmica</string>
   <string name="indices_title_humidity">Humidade</string>
   <string name="indices_title_pressure">Pressão</string>
   <string name="indices_title_restriction">Espaço da estrada</string>
@@ -165,7 +165,7 @@
   <string name="install">Instalar</string>
   <string name="international_details_humidity_title">Humidade</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">Sens. térmica</string>
+  <string name="international_details_real_feel_title">Sensação térmica</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_title">Vento</string>
@@ -236,6 +236,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="precipitation_degree_three">Moderada</string>
   <string name="precipitation_degree_two">Leve</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="pressure_content">%1$s %2$s</string>
   <string name="privacy_grant_failed">Não foi possível conceder autorização. Tente novamente mais tarde</string>
   <string name="privacy_grant_or_revoke_settings">Concessão e revogação de autorizações</string>
   <string name="privacy_grant_success">Autorização concedida com sucesso</string>

@@ -433,9 +433,9 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="tuesday">Terça-feira</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">T</string>
-  <string name="tv_recurrence_monthly">Mensalmente</string>
-  <string name="tv_recurrence_quaterly">Trimestalmente</string>
-  <string name="tv_recurrence_yearly">Anualmente</string>
+  <string name="tv_recurrence_monthly">Mensal</string>
+  <string name="tv_recurrence_quaterly">Trimestal</string>
+  <string name="tv_recurrence_yearly">Anual</string>
   <string name="unKnow_error">Erro desconhecido</string>
   <string name="unit_cm">Centímetros</string>
   <string name="unit_data_default_currency_0">EUR</string>
