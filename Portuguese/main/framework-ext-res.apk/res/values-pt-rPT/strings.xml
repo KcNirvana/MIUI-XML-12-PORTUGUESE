@@ -31,10 +31,12 @@
   <string name="autofill_save_sub_message">Vai poder gerir palavras-passe guardadas em Definições &gt; Segurança &gt; %s"</string>
   <string name="autofill_save_title">Guardar palavras-passe automaticamente</string>
   <string name="autofill_service_name">Gestão de palavras-passe</string>
+  <string name="bluetooth_close">Este aplicação desligou o Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s desligou o Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth desligado</string>
   <string name="bluetooth_enable_notification_content">%s ligou o Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth ligado</string>
+  <string name="bluetooth_open">Esta aplicação ligou o Bluetooth</string>
   <string name="btn_cancel">Cancelar</string>
   <string name="btn_sure">OK</string>
   <string name="button_text_cancel">Cancelar</string>

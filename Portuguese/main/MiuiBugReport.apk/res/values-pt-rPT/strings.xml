@@ -58,7 +58,7 @@
   <string name="change_password">Alterar palavra-passe</string>
   <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="choose_to_signin">Sim</string>
-  <string name="choose_to_signup">>Não. Vou criar um</string>
+  <string name="choose_to_signup">Não. Vou criar um</string>
   <string name="close_feedback_main">Ocultar</string>
   <string name="collect_diagnosis_log">Gerar registos de diagnóstico</string>
   <string name="confirm_activate_email">Verificado</string>

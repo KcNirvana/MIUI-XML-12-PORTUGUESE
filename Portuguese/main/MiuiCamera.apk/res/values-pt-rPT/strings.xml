@@ -81,6 +81,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_intro_crowd_moving_part2">Também pode tirar fotos de tráfego intenso e multidões em movimento. A exposição longa vai manter os edifícios nítidos mas todos os objetos em movimento vão ficar desfocados</string>
   <string name="ambilight_intro_light_track">Utilizar uma fonte de luz para \"pintar\" sobre uma cena escura para reunir todas as peças iluminadas numa imagem</string>
   <string name="ambilight_intro_magic_star">Utilizar este modo em locais com pouca poluição luminosa. A exposição vai ser configurada para %d segundos, por isso, é recomendável utilizar um tripé</string>
+  <string name="ambilight_intro_magic_star_ae">Utilizar este modo com luz fraca. A exposição pode ser configurada até %d segundos, por isso utilizar um tripé é uma brilhante ideia</string>
   <string name="ambilight_intro_silky_water_part1">Utilizar este modo quando fotografar nuvens em movimento. Vai dar ao céu um efeito de \"pintura a óleo\"</string>
   <string name="ambilight_intro_silky_water_part2">Este modo faz com que a água em movimento (rios, quedas de água e lagos) pareçam cetim</string>
   <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
@@ -218,7 +219,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="custom_tint_color_select">Personalizar cores</string>
   <string name="custom_watermark_contains_senstive_words">"A marca d'água não pode conter termos restringidos (%1$s)"</string>
   <string name="custom_watermark_tips">"Este texto vai aparecer na segunda linha da sua marca d'água. Apenas pode conter 18 caracteres"</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">Até %d caracteres chineses ou %d letras</string>
+  <string name="custom_watermark_tips_gen2">Até %1$d caracteres chineses ou %2$d letras</string>
   <string name="custom_watermark_too_many_words">O texto que introduziu é demasiado longo</string>
   <string name="custom_watermark_words">"Marca d'água personalizada"</string>
   <string name="custom_watermark_words_input_hint">Introduzir texto</string>
@@ -312,12 +313,20 @@ Imprima a cópia em papel A4"</string>
 Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lens_dirty_detected_title_back">A lente da câmara traseira está suja</string>
   <string name="lens_dirty_detected_title_front">A lente da câmara frontal está suja</string>
+  <string name="lighting_bright_red">Scarlet</string>
+  <string name="lighting_dazzling">Feixes</string>
+  <string name="lighting_dreamland">Dreamland</string>
+  <string name="lighting_gorgeous">Motley</string>
   <string name="lighting_hint_needed">Coloque o seu objecto na luz</string>
   <string name="lighting_hint_title">Iluminação de estúdio</string>
   <string name="lighting_hint_too_close">Mova a câmara para longe</string>
   <string name="lighting_hint_too_far">Mova a câmara para perto</string>
   <string name="lighting_hint_usage">"Pode utilizar os efeitos de iluminação
 no modo Retrato"</string>
+  <string name="lighting_lanshan">Decadência</string>
+  <string name="lighting_movie_light_effect_title">Efeitos de cinema</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgia</string>
   <string name="lighting_pattern_dot">Pontos</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Folhas</string>
@@ -326,6 +335,8 @@ no modo Retrato"</string>
   <string name="lighting_pattern_rainbow">Arco-íris</string>
   <string name="lighting_pattern_shutter">Cortinas</string>
   <string name="lighting_pattern_stage">Estúdio</string>
+  <string name="lighting_phantom">Fantasmas</string>
+  <string name="lighting_rainbow">Arco-íris</string>
   <string name="live_edit_exit_confirm">Parar</string>
   <string name="live_edit_exit_message">Parar agora?</string>
   <string name="live_edit_share_title">Partilhar</string>
@@ -507,6 +518,7 @@ Mantenha a pessoa nítida ao desfocar o fundo"</string>
 e traz as pessoas que estão na frente"</string>
   <string name="pref_960_watermark_title">"Marca d'água 960fps"</string>
   <string name="pref_ai_detect">Detecção IA</string>
+  <string name="pref_audio_denoise_title">Redução de ruído</string>
   <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -823,6 +835,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">%s IA</string>
   <string name="pref_module_settings">Modos</string>
   <string name="pref_more_mode_style_title">Modos da câmara</string>
   <string name="pref_multi_camera_dual_video_front">Câmara frontal</string>
@@ -980,6 +993,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
+  <string name="ultra_ai_pixel_photography_close_tip">%s Ultra HD IA desligada</string>
+  <string name="ultra_ai_pixel_photography_open_tip">%s Ultra HD IA</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD desligado</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD ligado</string>
   <string name="ultra_pixel_portrait_hint">Retrato em luz fraca</string>

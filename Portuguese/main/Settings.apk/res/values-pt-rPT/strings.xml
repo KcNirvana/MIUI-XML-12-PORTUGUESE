@@ -406,6 +406,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_disable_dlg_text">Se desactivar esta aplicação outras aplicações podem não funcionar como pretendido. Não pode eliminar esta aplicação por ter sido pré-instalada no dispositivo. Ao desactivá-la, vai ocultá-la no dispositivo</string>
   <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
+  <string name="app_enable_bluetooth_record">Aplicações que ligaram o Bluetooth</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
   <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação vão ser desinstaladas</string>
   <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
@@ -519,7 +520,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="audio_files_title">Ficheiros de áudio</string>
   <string name="audio_profile_settings_title">Perfis de áudio</string>
   <string name="audio_record_proc_title">Redução de ruído</string>
-  <string name="auto_adjst_effect_summary">>Ajustar a temperatura da cor para a luz ambiente automaticamente para manter um óptimo nível de conforto</string>
+  <string name="auto_adjst_effect_summary">Ajustar a temperatura da cor para a luz ambiente automaticamente</string>
   <string name="auto_adjust_effect_title">Ajustar a temperatura da cor automaticamente</string>
   <string name="auto_brightness_default_title">Predefinido</string>
   <string name="auto_brightness_disclaimer">Optimizar o nível de luminosidade em função da luz disponível. Com esta funcionalidade ligada, continua a ser possível ajustar a luminosidade temporariamente</string>
@@ -603,10 +604,13 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="avoid_ui">Bloqueio de toque</string>
   <string name="awake">Tempo activo do dispositivo</string>
   <string name="back_button">Voltar</string>
+  <string name="back_double_tap">Duplo toque na traseira</string>
   <string name="back_key">Voltar</string>
   <string name="back_sensitivity_dialog_message">"
 Sensibilidades mais elevadas podem entrar em conflito com quaisquer gestos de aplicações ao longo das extremidades do ecrã"</string>
   <string name="back_sensitivity_dialog_title">Sensibilidade do botão Voltar</string>
+  <string name="back_tap">Toque na traseira</string>
+  <string name="back_triple_tap">Triplo toque na traseira</string>
   <string name="background_activity_summary">Permitir que a aplicação seja executada em segundo plano</string>
   <string name="background_activity_summary_disabled">Aplicação sem permissão para ser executada em segundo plano</string>
   <string name="background_activity_summary_off">A actividade em segundo plano da aplicação está limitada quando esta não está a ser utilizada</string>
@@ -1208,6 +1212,19 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
   <string name="brightness_title">Brilho</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bt_aac_dialog_summary">"O dispositivo actual suporta o codec AAC. No entanto, o AAC pode falhar devido a problemas de compatibilidade. O dispositivo trocou para o codec SBC automaticamente.
+Pode alterar isto nas Definições"</string>
+  <string name="bt_aac_dialog_title">Ligação Bluetooth</string>
+  <string name="bt_aac_open_dialog_summary">"O AAC pode falhar devido a problemas de compatibilidade.
+Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emparelhados"</string>
+  <string name="bt_aac_open_dialog_title">A trocar para codec AAC</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter níveis de volume anormais que pode ser resolvido desligando esta funcionalidade</string>
+  <string name="bt_absVolume_open_dialog_title">Atenção</string>
+  <string name="bt_absVolume_pre_title">Volume absoluto</string>
+  <string name="bt_absVolume_summary">Manter o volume dos dispositivos Bluetooth consistente</string>
+  <string name="bt_dialog_remember_choice">Memorizar preferência</string>
+  <string name="bt_dialog_settings">Definições</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
   <string name="bt_ldac_declaration">Quando um dispositivo Bluetooth suporta LDAC, vai ser ligado por defeito. O LDAC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
@@ -1222,7 +1239,7 @@ Se já fez alguma das coisas acima, adicione a sua Conta Mi outra vez senão nã
   <string name="bt_ldac_settings">Definições</string>
   <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, vai ser ligado por defeito. O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
   <string name="bt_lhdc_dialog_summary">O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Esta funcionalidade pode ser desligada nas Definições</string>
-  <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
+  <string name="bt_lhdc_dialog_title">O dispositivo actual suporta LHDC, que foi ligado por defeito em:</string>
   <string name="bt_lhdc_open_dialog_summary">O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria. Podem ocorrer problemas devido a limitações do hardware Bluetooth</string>
   <string name="bt_lhdc_open_dialog_title">Ligar LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
@@ -1676,6 +1693,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="current_zone">(actual)</string>
   <string name="custom_carrier_title">Editar nome da operadora</string>
   <string name="custom_color">Personalizado</string>
+  <string name="custom_gesture_title">Gestos personalizados</string>
   <string name="custom_wifi_name_title">Editar nome do Wi-Fi</string>
   <string name="cutout_mode_always">Mostrar sempre a monocelha</string>
   <string name="cutout_mode_default">Automático</string>
@@ -1833,10 +1851,10 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="date_time_set_timezone_title">Fuso horário</string>
   <string name="date_time_settings">Data e hora</string>
   <string name="day_of_week">Dia da semana</string>
-  <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afectada quando o modo Anti-oscilação estiver ligado. Ligar mesmo assim?</string>
-  <string name="dc_light_summary">Aplicar DC dimming para reduzir a fadiga ocular</string>
+  <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afectada quando o modo Anti-Oscilação estiver ligado. Ligar mesmo assim?</string>
+  <string name="dc_light_summary">Aplicar DC Dimming para reduzir a fadiga ocular</string>
   <string name="dc_light_summary_new">Evitar tremulações extensas e reduzir a fadiga ocular em condições de pouca luz</string>
-  <string name="dc_light_title">Modo Anti-oscilação</string>
+  <string name="dc_light_title">Modo Anti-Oscilação</string>
   <string name="debug_app">Seleccionar aplicação de depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação de depuração definida</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
@@ -1963,6 +1981,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_oaid_desc">Em vez do seu identificador único, a MIUI vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações registem o seu comportamento e preferências e protege a sua privacidade</string>
   <string name="device_oaid_title">ID virtual</string>
   <string name="device_of_someone">%2$s de %1$s</string>
+  <string name="device_opcust_version">Versão personalizado</string>
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
   <string name="device_rear_camera">Câmara traseira</string>
   <string name="device_screen_resolution">Resolução do ecrã</string>
@@ -3087,13 +3106,23 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
   <string name="lattice_smartcover_title">Capa com frente em malha</string>
+  <string name="launch_ai_shortcut">Atalho Mi IA</string>
+  <string name="launch_alipay_payment_code">Código de pagamento Alipay</string>
+  <string name="launch_alipay_scanner">Digitalizador Alipay</string>
   <string name="launch_by_default">Abrir por predefinição</string>
+  <string name="launch_calculator">Calculadora</string>
   <string name="launch_camera">Iniciar câmara</string>
+  <string name="launch_control_center">Centro de controlo</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
   <string name="launch_google_search">Iniciar Assistente Google</string>
+  <string name="launch_instant_app">Abrir</string>
+  <string name="launch_mdp_app_text">Ver plano</string>
+  <string name="launch_notification_center">Área de notificações</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+  <string name="launch_wechat_payment_code">Código pagamento WeChat</string>
+  <string name="launch_wechat_scanner">Digitalizador WeChat</string>
   <string name="launcher_icon">Ícones</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
@@ -3823,6 +3852,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
   <string name="multifunction_keyboard">Multifunctional</string>
   <string name="music_equalizer">Equalizador</string>
+  <string name="musicfx_title">Efeitos de música</string>
+  <string name="mute">Modo silêncio</string>
   <string name="mute_music_stream">Silenciar a transmissão de música</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
