@@ -41,6 +41,7 @@
   <string name="app_setting_add_header_bg">Imagem de capa</string>
   <string name="app_setting_datetime">Mostrar data</string>
   <string name="app_setting_dialog_cancel">Cancelar</string>
+  <string name="app_setting_fail">Erro</string>
   <string name="app_setting_has_not_setted">Não definida</string>
   <string name="app_setting_has_setted">Definida</string>
   <string name="app_setting_more_setting">Adicionais</string>
@@ -481,6 +482,7 @@
   <string name="req_no_data">Sem dados</string>
   <string name="req_no_sdata">Sem resultados</string>
   <string name="retry">Tente novamente</string>
+  <string name="save_to_note">Guardar em Notas</string>
   <string name="scan">Digitalizar</string>
   <string name="scan_app">Digitalizador</string>
   <string name="scan_card">Cartões</string>

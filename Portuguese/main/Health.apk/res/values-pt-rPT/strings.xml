@@ -141,7 +141,6 @@ para adicionar cartões"</string>
   <string name="climbing">Escalada</string>
   <string name="close">Desligar</string>
   <string name="close_once">Desligar uma vez</string>
-  <string name="close_stand_detection_tip">O lembrete para ficar em pé foi desligado. Não se esqueça de ficar em pé e registar após ligar</string>
   <string name="close_stand_notice_and_detection_tip">A detecção de actividades e lembretes de ficar em pé estão desligadas</string>
   <string name="close_stand_notice_tip">A detecção de actividades em pé foi desligada. A detecção automática após abertura é mais imprecisa</string>
   <string name="collapse">Ocultar</string>
@@ -672,6 +671,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="remind_query_menstruation_start">O seu período já comecou? Não se esqueça de o registar</string>
   <string name="remind_sleep_report_complete">As estatísticas de sono estão prontas</string>
   <string name="remind_sleep_report_content">Dormiu %1$d hora(s) e %2$d minuto(s) na última noite. Toque para ver detalhes</string>
+  <string name="remind_sleep_report_content_1">Dormiu %1$d hora(s) na última noite. Toque para ver detalhes</string>
   <string name="remind_sleep_report_title">As estatísticas de sono estão prontas</string>
   <string name="remind_subtitle_menstruation_start">Receber um lembrete 2 dias antes do próximo período</string>
   <string name="remind_subtitle_record">Receber lembretes quando necessitar de registar a data de início e fim dos seus períodos</string>
@@ -888,7 +888,9 @@ baseados nas suas informações pessoais"</string>
   <string name="stand_notice_title4">Levante-se e estique-se</string>
   <string name="stand_notice_title5">Não foi detectado que tenha ficado em pé por quase 1 hora</string>
   <string name="stand_notice_title6">Houve alguma actividade em pé na última hora?</string>
-  <string name="stand_setting">Definições de ficar em pé</string>
+  <string name="stand_remind_setting_desc">Quando nenhuma actividade em pé é detectada numa hora, enviar uma notificação para o lembrar de ficar em pé</string>
+  <string name="stand_setting">Definições</string>
+  <string name="stand_stop_reminding">Para de receber lembretes de ficar em pé</string>
   <string name="standard_format">(standard: %1s)</string>
   <string name="standing_already">Já está em pé</string>
   <string name="state_agree">Concordar</string>

@@ -1133,6 +1133,7 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_device_matched_text">Utilizar este dispositivo para desbloquear</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Não foram detectados dispositivos</string>
   <string name="bluetooth_unlock_reject">O pedido para desbloquear este dispositivo foi rejeitado</string>
+  <string name="bluetooth_unlock_settings_devices_prompt">Apenas os dispositivos seleccionados são suportados (p.e. bandas de fitness bands e smartwatches)</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplicar a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloquear dispositivo</string>

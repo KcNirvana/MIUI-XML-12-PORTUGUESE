@@ -9,7 +9,7 @@
   <string name="application_package_introduction">Esta aplicação permite instalar aplicações de terceiros, analisá-las antes da instalação e dar recomendações após</string>
   <string name="application_permissions">Permissões da aplicação</string>
   <string name="back">Voltar</string>
-  <string name="backup_introduction">Pode utilizar esta aplicação copiar e restaurar itens no seu dispositivo</string>
+  <string name="backup_introduction">Pode utilizar esta aplicação para copiar e restaurar itens no seu dispositivo</string>
   <string name="calculator_introduction">Pode utilizar esta aplicação para cálculos, conversão de unidades e divisas e empréstimos</string>
   <string name="camera_introduction">Pode utilizar esta aplicação para tirar fotos e gravar vídeos</string>
   <string name="carrier_introduction">Para o fornecermos com melhores serviços, o seu dispositivo pode enviar-nos periodicamente informações sobre a sua versão, dados de identificação (incluindo IMEI/IMSI/MSISDN/MAC,MEID/ICCID) e localização</string>
@@ -32,7 +32,7 @@
   <string name="disageement_abnormal_download">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço</string>
   <string name="disagree">Cancelar</string>
   <string name="disagreement_abnormal_running">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação ou restringir permissões em Segurança</string>
-  <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões nas Definições nestes casos</string>
+  <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões e desligar esta funcionalidade nas Definições nestes casos</string>
   <string name="disagreement_donnot_use_application">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação</string>
   <string name="disagreement_donnot_use_product">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este produto. Pode escolher não utilizar este produto</string>
   <string name="disagreement_donnot_use_service">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço. Pode escolher não utilizar este serviço</string>
@@ -46,7 +46,7 @@
   <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="fast_application_introduction">A framework Aplicações rápidas permite criar e fornecer serviços em aplicações rápidas</string>
-  <string name="fast_pairing_introduction">O Mi Link permite que o seu dispositivo se ligue a dispositivos Bluetooth próximos. Para poder localizar dispositivos, dê permissão ao Mi Link para ligar à Internet</string>
+  <string name="fast_pairing_introduction">O Mi Link permite que o seu dispositivo se ligue a dispositivos Bluetooth próximos utilizando o serviço MIUI Bluetooth. Para poder localizar dispositivos, dê permissão ao serviço MIUI Bluetooth para ligar à Internet</string>
   <string name="font_hint_large">Tamanho do texto predefinido</string>
   <string name="font_hint_normal">Aumentar tamanho do texto</string>
   <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Mi, Mi Push, Estatísticas Mi e MIUI BI</string>
@@ -66,7 +66,9 @@
   <string name="language_picker_other_languages_title">Mais idiomas</string>
   <string name="language_settings">Escolher idioma</string>
   <string name="locale_picker_title">Escolher a sua região</string>
+  <string name="location_content">In accordance with the law, mobile carriers can obtain the location information of mobile devices to comply with the requirements of emergency rescue agencies (fire departments and the police) which pursue security and emergency rescue purposes.</string>
   <string name="location_introduction">Serviços baseados em localização localizam produtos e serviços perto de si</string>
+  <string name="location_location">Os serviços de emergência podem obter a sua localização actual mediante pedido</string>
   <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
   <string name="mint_keyboard_oobe_checkbox">Eu li e concordei com a Política de Privacidade do teclado Mint</string>
   <string name="mint_keyboard_oobe_terms">Política de Privacidade do teclado Mint</string>
@@ -150,6 +152,8 @@ Desligar os anúncios personalizados mesmo assim?"</string>
   <string name="permission_xunlei_introduction">Para iniciar sessão e gerir contas de sistema para fornecer serviços Xunlei</string>
   <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Termos de Utilização do POCO Launcher</string>
+  <string name="position_header">A partilhar localização</string>
+  <string name="position_subheading">Localização</string>
   <string name="pref_title_data_slot">Cartão SIM de dados preferido</string>
   <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
   <string name="privacy_policy">Política de Privacidade</string>

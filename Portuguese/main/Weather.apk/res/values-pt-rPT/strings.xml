@@ -81,7 +81,7 @@
   <string name="button_sure_abandon">Rejeitar alterações?</string>
   <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
   <string name="china_version_first_start_network_msg">É necessário concordar com %1$s e %2$s da Xiaomi. O Tempo necessita de ligar à Internet e aceder à sua localização para funcionar normalmente. Concorda?</string>
-  <string name="city_exceeded_warning">Pode adicionar até 10 cidades</string>
+  <string name="city_exceeded_warning">Não é possível adicionar mais cidades</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
   <string name="connect_fail">Não foi possível ligar à rede. Tente novamente</string>
