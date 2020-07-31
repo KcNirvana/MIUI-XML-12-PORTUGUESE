@@ -92,7 +92,7 @@
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
   <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome de utilizador ou a palavra-passe e tente novamente</string>
-  <string name="account_setup_failed_dlg_auth_message">Utilizador ou palavra-passe incorrecto</string>
+  <string name="account_setup_failed_dlg_auth_message">O utilizador ou palavra-passe que introduziu não está correcto</string>
   <string name="account_setup_failed_dlg_bar_title">Dicas para iniciar sessão em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
@@ -164,7 +164,8 @@
   <string name="account_sync_off">A sincronização da conta está desactivada</string>
   <string name="account_sync_settings_settings">Sincronizar contactos e calendário</string>
   <string name="account_sync_settingstip_description">Sincronização</string>
-  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>  
+  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>
+  <string name="actionbar_more_option">Mais opções</string>
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
   <string name="ad_merge">Anúncios e notificações</string>
@@ -224,6 +225,7 @@
   <string name="attachment_unknown">Ficheiro %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Anexos</string>
+  <string name="attendee_needed">Adicione pelo menos um convidado</string>
   <string name="auto_advance_help_title">Avançar para…</string>
   <string name="auto_advance_label">Avanço automático</string>
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
@@ -253,6 +255,7 @@
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Lembretes</string>
   <string name="calendar_remind_gridview_pick_date">Escolher data</string>
+  <string name="calendar_skip_no_account_alert">Conta não encontrada</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_pop3_attchemt_downloading">Não é possível cancelar a transferência de anexos em contas do tipo POP3</string>
@@ -270,7 +273,7 @@
   <string name="certificate_password_tips_w">A palavra-passe introduzida é inválida</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar definições de sincronização</string>
-  <string name="changepw_dialog_auth_tips">Reintroduzir o código de autorização para %s</string>
+  <string name="changepw_dialog_auth_tips">Introduzir o código para %s novamente</string>
   <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
   <string name="changepw_dialog_tips_please_clikc_btn">Veja o código de verificação em %s e inicie sessão novamente</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
@@ -286,14 +289,16 @@
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
+  <string name="compose_event">Convites</string>
   <string name="compose_paste_address_oob">Demasiados caracteres</string>
-  <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens inline na mensagem</string>
+  <string name="compose_picturesexceedlimits">Pode adicionar mais imagens como anexos</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Email enviado</string>
   <string name="config">Número de telefone da caixa de entrada configurado</string>
   <string name="config_cancel">Cancelar</string>
   <string name="config_retry">Repetir</string>
   <string name="confirm">OK</string>
+  <string name="confirm_add_to_calendar">A adicionar ao calendário…</string>
   <string name="confirm_age">Confirmar idade</string>
   <string name="confirm_before_delete">Confirmar antes de eliminar</string>
   <string name="confirm_before_delete_keywords">Confirmar antes de eliminar;eliminar confirmação</string>
@@ -367,11 +372,11 @@
   <string name="copy_number">Copiar número de telefone</string>
   <string name="create_action">Novo</string>
   <string name="custom_from_account_label">Enviar como:</string>
-  <string name="database_exception">Erro nos dados. Inicie sessão novamente</string>
+  <string name="database_exception">Ocorreu um erro. Inicie sessão novamente</string>
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoje, %1$s</string>
-  <string name="db_error">Existe uma excepção nos dados da mensagem de email. Inicie sessão novamente</string>
+  <string name="db_error">Ocorreu um erro. Inicie sessão novamente</string>
   <string name="debug_mode_preferencecategory">Defina o modo de registo</string>
   <string name="debug_mode_settings">Definições do modo depuração</string>
   <string name="default_">Predefinidas</string>
@@ -382,6 +387,7 @@
   <string name="del_account_questionnair_hint">Pode-nos dizer porque está a remover esta conta?</string>
   <string name="delete">Eliminar</string>
   <string name="delete_contact_content">Eliminar este contacto agora?</string>
+  <string name="delete_message_event">Eliminar este convite?</string>
   <string name="delete_message_flow">Eliminar fluxo de mensagens</string>
   <string name="delete_message_flow_keywords">Eliminar fluxo de mensagens;eliminar redireccionamento</string>
   <string name="deleted">Eliminada</string>
@@ -428,8 +434,11 @@
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir área de navegação</string>
+  <string name="dtend">Termina</string>
+  <string name="dtstart">Inicia</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="edit_signature">Editar assinatura</string>
+  <string name="editor_max_length_limit_hint">A mensagem que introduziu é demasiado longa</string>
   <string name="email_netease">Email NetEase</string>
   <string name="email_qq">Email QQ</string>
   <string name="email_setting">Email</string>
@@ -451,6 +460,7 @@
   <string name="exchange_name">Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Expandir detalhes do destinatário</string>
+  <string name="expand_slide">Mostrar menu lateral</string>
   <string name="fail_get_email_message">Erro na obtenção da mensagem</string>
   <string name="failed">Não foi possível carregar a imagem</string>
   <string name="failed_parse_eml_file">Não foi possível abrir o ficheiro EML. Tente novamente</string>
@@ -542,6 +552,7 @@
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+  <string name="general_preference_load_picture">Carregar imagens online</string>
   <string name="general_preference_str_auto_translation">Tradução rápida</string>
   <string name="general_preference_str_auto_translation_prompt">Copiar texto para ver a tradução</string>
   <string name="general_preference_text_zoom_dialog_title">Tamanho do texto da mensagem</string>
@@ -595,9 +606,24 @@
   <string name="loading_conversations">A carregar…</string>
   <string name="loading_from_remote">A carregar…</string>
   <string name="local_search">Pesquisa local</string>
+  <string name="location_hint">Localização</string>
   <string name="log_save_path">Localização dos ficheiros de registo</string>
   <string name="login">Iniciar sessão</string>
   <string name="login139">Iniciar sessão com China Mobile</string>
+  <string name="login_des_126">Iniciar sessão em 126 Mail</string>
+  <string name="login_des_139">Iniciar sessão em 139 Mail</string>
+  <string name="login_des_163">Iniciar sessão em 163 Mail</string>
+  <string name="login_des_exchange">Iniciar sessão em Exchange</string>
+  <string name="login_des_gmail">Iniciar sessão em Gmail</string>
+  <string name="login_des_hotmail">Iniciar sessão em Hotmail</string>
+  <string name="login_des_mail_ru">Iniciar sessão em Mail.ru</string>
+  <string name="login_des_office365">Iniciar sessão em Office 365</string>
+  <string name="login_des_others">Iniciar sessão em outro serviço de emails</string>
+  <string name="login_des_outlook">Iniciar sessão em Outlook</string>
+  <string name="login_des_qq">Iniciar sessão em QQ Mail</string>
+  <string name="login_des_rediff">Iniciar sessão em Rediffmail</string>
+  <string name="login_des_yahoo">Iniciar sessão em Yahoo Mail</string>
+  <string name="login_des_yangdex">Iniciar sessão em Yandex Mail</string>
   <string name="login_err_message">Utilizar códigos autorizados para iniciar sessão em %1$s. Vá a https://email.163.com/ para repor a sua palavra-passe</string>
   <string name="login_err_sina_message">Utilizar códigos autorizados para iniciar sessão em %1$s. Vá a https://mail.sina.com.cn/ para repor a sua palavra-passe</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
@@ -692,6 +718,11 @@
   <string name="message_invite_accept">Sim</string>
   <string name="message_invite_calendar_view">Ver no calendário</string>
   <string name="message_invite_decline">Não</string>
+  <string name="message_invite_end_time">Fim</string>
+  <string name="message_invite_start_time">Início</string>
+  <string name="message_invite_state_accpt">Aceite</string>
+  <string name="message_invite_state_decline">Rejeitado</string>
+  <string name="message_invite_state_tentative">A aguardar</string>
   <string name="message_invite_tentative">Talvez</string>
   <string name="message_invite_title">Convite do calendário</string>
   <string name="message_saved">Mensagem guardada como rascunho</string>
@@ -704,6 +735,7 @@
   <string name="mibill_privacy_policy_description">Permitir que a Mi Wallet analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactiva por defeito para endereços de email empresariais</string>
   <string name="mibill_privacy_policy_link">Ao utilizar esta funcionalidade, está a concordar com os nossos <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
+  <string name="modify_contact_address">Editar email do contacto</string>
   <string name="more_context">Mais</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
@@ -728,6 +760,8 @@
   <string name="no_content_in_body">[Sem conteúdo]</string>
   <string name="no_conversations">Sem mensagens</string>
   <string name="no_filtrable_email_account">Sem contas</string>
+  <string name="no_img_application_found">Não é possível encontrar aplicações para abrir esta imagem</string>
+  <string name="no_img_application_found_title">Não é possível abrir esta imagem</string>
   <string name="no_mails">Sem emails</string>
   <string name="no_matched_attachment">Sem resultados</string>
   <string name="no_more_mail">Sem mais mensagens</string>
@@ -958,11 +992,14 @@
   <string name="refreshing_done">Concluída</string>
   <string name="release_to_refresh">Largue para actualizar</string>
   <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
+  <string name="reminder">Lembretes</string>
+  <string name="reminder_picker_title">Lembretes</string>
   <string name="remote_search_body_too_large_prompt">"O email é demasiado longo.
 Aguarde até estar totalmente sincronizado"</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
   <string name="remove_star">Remover estrela</string>
+  <string name="replay_max_length_limit_hint">Este email é demasiado longo. Não é possível editar o email original</string>
   <string name="reply">Responder</string>
   <string name="reply_add_bodycontent">Adicionar a resposta ao corpo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>
@@ -1018,18 +1055,18 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="sent_folder_selection_title">Seleccionar pasta de itens enviados do servidor para %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Não foi possível validar o certificado do servidor
 \u0009 (Verifique se a hora está em sincronização automática)"</string>
-  <string name="ser_resp_err_map_landing_more_failure">Demasiadas tentativas de início de sessão falhadas</string>
-  <string name="ser_resp_err_map_landing_too_frequently">Demasiadas tentativas de início de sessão</string>
-  <string name="ser_resp_err_map_mailbox_locked">A conta de email está protegida por palavra-passe</string>
-  <string name="ser_resp_err_map_mailbox_not_open">Sem contas de email</string>
-  <string name="ser_resp_err_map_max_connections">Demasiadas tentativas de ligação</string>
-  <string name="ser_resp_err_map_nouser">O utilizador não existe</string>
+  <string name="ser_resp_err_map_landing_more_failure">Demasiadas tentativas de início de sessão falhadas. Aguarde um momento e tente novamente</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Demasiadas tentativas de início de sessão. Aguarde um momento e tente novamente</string>
+  <string name="ser_resp_err_map_mailbox_locked">Esta conta de email está bloqueada. Contacte o fornecedor de serviços de email para a desbloquear primeiro</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Esta conta de email não está activada. Contacte o fornecedor de serviços de email para a activar primeiro</string>
+  <string name="ser_resp_err_map_max_connections">Esta conta foi acedida de demasiados dispositivos. Remova este conta de um dos dispositivos para conseguir aceder</string>
+  <string name="ser_resp_err_map_nouser">Não foi possível encontrar uma conta válida. Verifique a informação introduzida e tente novamente</string>
   <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
-  <string name="ser_resp_err_map_pserr">Utilizador ou palavra-passe incorrecto</string>
-  <string name="ser_resp_err_map_serclosed">%s servidor fechado</string>
-  <string name="ser_resp_err_map_serclosed_info">%s servidor fechado</string>
-  <string name="ser_resp_err_map_ssl">"Escolher 'SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
-  <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do WPS Mail"</u></string>
+  <string name="ser_resp_err_map_pserr">Palavra-passe incorrecta</string>
+  <string name="ser_resp_err_map_serclosed">Ligar %s no webmail primeiro</string>
+  <string name="ser_resp_err_map_serclosed_info">%s desligado</string>
+  <string name="ser_resp_err_map_ssl">"Escolher SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
+  <string name="service_protocol_discribe"><u>"Eu li e concordei com os Termos de Serviço do \"WPS Mail\""</u></string>
   <string name="service_protocol_title">Termos de Serviço</string>
   <string name="set_network">Definir rede</string>
   <string name="setting_kids_subtitle">Idade confirmada</string>
@@ -1038,8 +1075,10 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="share_choose">Escolher ficheiro para partilhar</string>
   <string name="sharing">Partilhar</string>
   <string name="shortcut_name_title">Nome do atalho da pasta</string>
+  <string name="show_contact_address">Mostrar email do contacto</string>
   <string name="show_elided">▶ Mostrar citação</string>
   <string name="show_images">Transferir e mostrar imagens</string>
+  <string name="show_images_all">Carregar e mostrar todas as imagens</string>
   <string name="show_password">Mostrar palavra-passe</string>
   <string name="signature">"
 
@@ -1067,6 +1106,8 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="sync_error">Não foi possível sincronizar</string>
   <string name="sync_error_message">O dispositivo não tem espaço de armazenamento suficiente para sincronizar</string>
   <string name="sync_failed_mi_authority_view_detail">Ver detalhes</string>
+  <string name="sync_question_feed">Reportar problemas de sincronização</string>
+  <string name="sync_upload_question">Comentários</string>
   <string name="syncing_wait_restart">Tente novamente</string>
   <string name="syncing_wait_restart_title">A ligação ao servidor expirou</string>
   <string name="system_account_create_failed">Não foi possível criar a conta. Tente novamente</string>
@@ -1105,9 +1146,9 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="too_large_to_attach_additional">O tamanho do ficheiro não pode exceder %1$s</string>
   <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. O tamanho não pode exceder %1$s</string>
   <string name="too_large_to_attach_single">Não é possível anexar ficheiros maiores que %1$s</string>
-  <string name="toolbar_add_image">Adicionar imagens</string>
+  <string name="toolbar_add_image">Adicionar imagem</string>
   <string name="toolbar_part_num">Número de parágrafo</string>
-  <string name="toolbar_part_symbol">Simbolo de parágrafo</string>
+  <string name="toolbar_part_symbol">Marca de parágrafo</string>
   <string name="topic_merge">Definições de visualização</string>
   <string name="topic_merge_summary">Agrupar por assunto</string>
   <string name="translation_loading">Aguarde…</string>
@@ -1119,6 +1160,10 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="translation_query_failure">Não foi possível encontrar resultados</string>
   <string name="translation_technology_support">Suporte técnico por iciba.com</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
+  <string name="trigger_before_day">%d dia antes</string>
+  <string name="trigger_before_hour">%d hora antes</string>
+  <string name="trigger_before_minute">%d minutos antes</string>
+  <string name="trigger_before_week">%d semana antes</string>
   <string name="try_exchange_login">Iniciar sessão com EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, vão ser sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>

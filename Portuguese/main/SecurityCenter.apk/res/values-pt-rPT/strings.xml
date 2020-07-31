@@ -2420,7 +2420,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_apps_shield_message_summary">Não mostrar notificações para aplicações protegidas</string>
   <string name="privacy_apps_shield_message_title">Não mostrar notificações</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_dlg_title">Como localizar aplicações ocultas</string>
+  <string name="privacy_apps_tutorial_dlg_title">Como encontrar aplicações ocultas</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Esta funcionalidade permite ocultar ícones das aplicações para que não apareçam no ecrã inicial</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicações ocultas vai aparecer</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos no ecrã para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicações</string>
