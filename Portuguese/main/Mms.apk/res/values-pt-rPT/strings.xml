@@ -796,7 +796,7 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="system_permission_declare_privacy_declare_new">Esta aplicação necessita de ligar à Internet e das seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições de Mensagens</string>
   <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de utilizar esta funcionalidade</string>
-  <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com os nossos %1s, %2s, e %3s antes de utilizar estas funcionalidades</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com os nossos %1s, %2s e %3s antes de utilizar estas funcionalidades</string>
   <string name="system_permission_declare_use_network">Ligar à rede</string>
   <string name="system_permission_perm_answer_call">Efectuar chamadas</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
