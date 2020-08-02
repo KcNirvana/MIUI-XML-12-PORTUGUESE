@@ -5,9 +5,9 @@
   <string name="earth_title">O nosso planeta</string>
   <string name="game_view_content_description">Vista de jogo</string>
   <string name="install_failed">Não foi possível instalar</string>
-  <string name="mars_position_content_0">Esta região contém falésias, mesas e vales que se acredita terem sido causados por geleiras cobertas de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na busca por evidências de vida em Marte antigo</string>
-  <string name="mars_position_content_1">Tirada quando o rover Curiosity de Marte estava a explorar as colinas Pahrump na cratera Gale. A região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água e as áreas escuras são areia</string>
-  <string name="mars_position_content_2">Mawrth Vallis é um antigo canal de saída de água com rochas ricas em argila de cor clara. Os minerais de argila preservam facilmente a vida microscópica na Terra, então talvez traços da vida antiga possam ser encontrados em Mawrth</string>
+  <string name="mars_position_content_0">Esta região contém falésias, declives e vales que se acredita terem sido causados por glaciares cobertos de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na pesquisa por evidência de vida em Marte</string>
+  <string name="mars_position_content_1">Estas imagens foram tiradas durante a exploração do rover Curiosity a Marte nas colinas de Pahrump na cratera de Gale. Esta região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água. As áreas escuras são areia</string>
+  <string name="mars_position_content_2">Mawrth Vallis é um antigo canal de saída de água com rochas ricas em argila de cor clara. Os minerais de argila preservam facilmente a vida microscópica na Terra, provavelmente vestigios de vida possam ser encontrados em Mawrth</string>
   <string name="mars_position_title_0">"Região
 Nilosyrtis Mensae"</string>
   <string name="mars_position_title_1">Cratera Gale</string>
