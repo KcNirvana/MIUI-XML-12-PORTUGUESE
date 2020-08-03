@@ -3807,7 +3807,7 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
   <string name="mqs_privacy_automatically_upload">Enviar automaticamente da próxima vez</string>
   <string name="mqs_privacy_dialog_cancel">Cancelar</string>
   <string name="mqs_privacy_dialog_confirm">Enviar</string>
-  <string name="mqs_privacy_dialog_content">Enviar registos para nos ajudar a encontrar e a resolver este problema? Os registos podem conter informações pessoais</string>
+  <string name="mqs_privacy_dialog_content">Enviar registos para nos ajudar a encontrar e resolver este problema? Os registos podem conter informações pessoais</string>
   <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
   <string name="msd_driver_download">Transferir driver</string>
   <string name="msd_driver_download_mac">OSX: Transferir o driver e instalar o AndroidFileTransfer.dmg</string>
@@ -6486,7 +6486,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="update_new_version">Actualização disponível</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
   <string name="upload_audio_log">A iniciar registo de áudio</string>
-  <string name="upload_debug_log_summary">As estatísticas de utilização que nos ajudam a encontrar e a resolver problemas podem conter informações pessoais</string>
+  <string name="upload_debug_log_summary">As estatísticas de utilização que nos ajudam a encontrar e resolver problemas podem conter informações pessoais</string>
   <string name="upload_debug_log_title">Programa de Experiência do Utilizador</string>
   <string name="upload_gps_log">A iniciar registo de GPS</string>
   <string name="upload_modem_log">A iniciar registo de modem</string>
