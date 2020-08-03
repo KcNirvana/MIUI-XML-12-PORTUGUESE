@@ -381,7 +381,7 @@
   <string name="no_file_picker_find">O Ficheiros não está instalado no dispositivo</string>
   <string name="no_local_songs">Vazio</string>
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
-  <string name="no_local_source_find">Não é possível localizar a música</string>
+  <string name="no_local_source_find">Não é possível encontrar a música</string>
   <string name="no_online_song_selected">Não foi seleccionada nenhuma música</string>
   <string name="no_results_return">Sem resultados</string>
   <string name="no_scanned_songs">Vazio</string>

@@ -511,7 +511,7 @@
   "no_introduction": "Não há resumo",
   "no_local_songs": "Vazio",
   "no_local_songs_selected": "Não é possível enviar músicas, que não tenham sido transferidas",
-  "no_local_source_find": "Não é possível localizar a música",
+  "no_local_source_find": "Não é possível encontrar a música",
   "no_online_song_selected": "Não foi seleccionada nenhuma música",
   "no_results_return": "Sem resultados de pesquisa",
   "no_song": "Sem músicas",

@@ -319,7 +319,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="setting_close_debug">Desligou o modo Depuração</string>
   <string name="setting_debug_fail">"Não foi possível entrar no modo Depuração"</string>
   <string name="setting_open_debug">Modo de depuração ligado. Toque aqui 6 vezes para desligar o modo de depuração</string>
-  <string name="shortcut_dialog_content">Adicionar atalho no ecrã inicial para localizar fontes mais rapidamente</string>
+  <string name="shortcut_dialog_content">Adicionar atalho no ecrã inicial para encontrar fontes mais rapidamente</string>
   <string name="shortcut_dialog_create">Criar</string>
   <string name="shortcut_dialog_title">Criar atalho no ecrã inicial?</string>
   <string name="show_more">Mostrar mais %s</string>

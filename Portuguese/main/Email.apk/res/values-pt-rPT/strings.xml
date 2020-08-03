@@ -920,7 +920,7 @@
   <string name="previous_action">Voltar</string>
   <string name="print">Imprimir</string>
   <string name="print_scheduler_title">Imprimir tudo</string>
-  <string name="privacy_des">Os registos contém informações sobre o email e o seu dispositivo. Esta informação é utilizada para localizar problemas rapidamente. Ao clicar \"%1$s\", está a concordar com os nossos \"%2$s\"</string>
+  <string name="privacy_des">Os registos contém informações sobre o email e o seu dispositivo. Esta informação é utilizada para encontrar problemas rapidamente. Ao clicar \"%1$s\", está a concordar com os nossos \"%2$s\"</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_setting_agree">Concordar</string>
   <string name="prompt_title">Perguntar</string>

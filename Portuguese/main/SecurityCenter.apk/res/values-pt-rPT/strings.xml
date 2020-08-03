@@ -2535,7 +2535,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
   <string name="quick_optimize_no_issue">Sem problemas de bateria</string>
   <string name="quick_optimize_no_issue_subtitle">Verificação concluída</string>
-  <string name="quick_optimize_no_issue_title">Não foi possível localizar problemas de bateria</string>
+  <string name="quick_optimize_no_issue_title">Não foi possível econtrar problemas de bateria</string>
   <string name="quick_optimize_sub_battery_text">Cerca de %s restante</string>
   <string name="quick_optimize_sub_summary_text">Adicionado %s à vida da bateria</string>
   <string name="quick_optimize_sub_summary_with_battery_text">Adicionado %1$s. Cerca de %2$s restante</string>

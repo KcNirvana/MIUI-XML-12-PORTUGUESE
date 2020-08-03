@@ -151,7 +151,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="err_low_storage">Sem espaço suficiente</string>
   <string name="err_no_gms">Aplicação incompatível. Instale esta aplicação separadamente</string>
   <string name="err_not_allow">Não suportado</string>
-  <string name="err_pkg_not_exist">Não foi possível localizar a aplicação</string>
+  <string name="err_pkg_not_exist">Não foi possível encontrar a aplicação</string>
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>
@@ -431,7 +431,7 @@ Liberte pelo menos %s"</string>
   <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Mi</string>
   <string name="sc_request_timeout">O tempo pedido terminou</string>
   <string name="sc_service_unavailable">Xiaomi Cloud indisponível</string>
-  <string name="sc_unaccess_password_file">Não é possível localizar a palavra-passe de rede</string>
+  <string name="sc_unaccess_password_file">Não é possível encontrar a palavra-passe da rede</string>
   <string name="sc_unauthorized">Inicie sessão novamente</string>
   <string name="scan_soft_ap">A procurar pelo novo dispositivo…</string>
   <string name="scan_soft_ap_label">Ligar ao dispositivo antigo</string>

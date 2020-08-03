@@ -28,11 +28,11 @@
   <string name="continue_to_enable_accessibility">Mantenha premido dois dedos para activar a acessibilidade</string>
   <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de Mi Pay ou para iniciar sessão em aplicações e serviços</string>
   <string name="desc_international_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo ou para iniciar sessão em aplicações e serviços</string>
-  <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas de sistema e melhorar a experiência de utilizador. Estes dados podem incluir informações pessoais (p.e. IP, localização, etc.)</string>
+  <string name="diagnose_report">Enviar dados de diagnóstico para encontrar e analisar problemas de sistema e melhorar a experiência de utilizador. Estes dados podem incluir informações pessoais (p.e. IP, localização, etc.)</string>
   <string name="disageement_abnormal_download">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço</string>
   <string name="disagree">Cancelar</string>
   <string name="disagreement_abnormal_running">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação ou restringir permissões em Segurança</string>
-  <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões e desligar esta funcionalidade nas Definições nestes casos</string>
+  <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões e desligar esta funcionalidade nas Definições</string>
   <string name="disagreement_donnot_use_application">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação</string>
   <string name="disagreement_donnot_use_product">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este produto. Pode escolher não utilizar este produto</string>
   <string name="disagreement_donnot_use_service">Se não concordar em conceder essas permissões ou partilhar as suas informações pessoais, não vai poder utilizar este serviço. Pode escolher não utilizar este serviço</string>
@@ -66,7 +66,7 @@
   <string name="language_picker_other_languages_title">Mais idiomas</string>
   <string name="language_settings">Escolher idioma</string>
   <string name="locale_picker_title">Escolher a sua região</string>
-  <string name="location_content">In accordance with the law, mobile carriers can obtain the location information of mobile devices to comply with the requirements of emergency rescue agencies (fire departments and the police) which pursue security and emergency rescue purposes.</string>
+  <string name="location_content">De acordo com a lei, as operadoras móveis podem obter informações de localização dos dispositivos para que os serviços de emergência (bombeiros e polícia) possam garantir e prestar serviços de emergência e auxilio</string>
   <string name="location_introduction">Serviços baseados em localização localizam produtos e serviços perto de si</string>
   <string name="location_location">Os serviços de emergência podem obter a sua localização actual mediante pedido</string>
   <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
@@ -102,7 +102,7 @@ Desligar os anúncios personalizados mesmo assim?"</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Utilizador</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
-  <string name="other_settings_upload_debug_log_summary">As estatísticas de utilização que nos ajudam a localizar e resolver problemas podem conter informações pessoais</string>
+  <string name="other_settings_upload_debug_log_summary">As estatísticas de utilização que nos ajudam a encontrar e a resolver problemas podem conter informações pessoais</string>
   <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
   <string name="other_settings_user_experience_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>

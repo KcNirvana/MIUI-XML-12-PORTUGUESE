@@ -237,7 +237,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta tarefa?</string>
     <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou removê-lo das transferências pendentes?</string>
     <string name="dialog_file_already_exists">Já transferiu este ficheiro</string>
-    <string name="dialog_file_missing_body">Não foi possível localizar o ficheiro. Moveu-o ou eliminou-o?</string>
+    <string name="dialog_file_missing_body">Não foi possível encontrar o ficheiro. Moveu-o ou eliminou-o?</string>
     <string name="dialog_file_missing_title">Não foi possível abrir ficheiro</string>
     <string name="dialog_insufficient_space_on_cache">Não foi possível transferir</string>
     <string name="dialog_insufficient_space_on_external">Não existe espaço suficiente no armazenamento amovível</string>
@@ -281,7 +281,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_memory_info_avai">" disponível %s|"</string>
     <string name="download_memory_info_total">" total ​%s"</string>
-    <string name="download_no_application_title">Não foi possível localizar o ficheiro. Moveu-o ou eliminou-o?</string>
+    <string name="download_no_application_title">Não foi possível encontrar o ficheiro. Moveu-o ou eliminou-o?</string>
     <string name="download_no_sdcard_dlg_msg">É necessário um cartão SD para transferir %s</string>
     <string name="download_no_sdcard_dlg_title">Sem Cartão SD</string>
     <string name="download_pending">A iniciar transferência…</string>
@@ -397,7 +397,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="media_error_format">O formato do vídeo não é suportado</string>
     <string name="media_error_network_unreachable">Não foi possível ligar-se à rede</string>
     <string name="media_error_nomemory">Sem memória suficiente</string>
-    <string name="media_error_source">Não foi possível localizar fontes</string>
+    <string name="media_error_source">Não foi possível encontrar fontes</string>
     <string name="media_error_timeout">A ligação de rede expirou</string>
     <string name="media_error_video_not_exist">O vídeo não existe</string>
     <string name="menu_addtodesk">Adicionar ao Ecrã inicial</string>

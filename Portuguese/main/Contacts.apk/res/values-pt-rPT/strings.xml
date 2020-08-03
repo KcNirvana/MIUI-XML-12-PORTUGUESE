@@ -1235,7 +1235,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail">Voice Mail</string>
   <string name="voicemail_buffering">A carregar…</string>
   <string name="voicemail_fetching_content">A procurar mensagem de voz…</string>
-  <string name="voicemail_fetching_timout">Não foi possível localizar a mensagem de voz</string>
+  <string name="voicemail_fetching_timout">Não foi possível encontrar a mensagem de voz</string>
   <string name="voicemail_playback_error">Não foi possível reproduzir a mensagem de voz</string>
   <string name="voicemail_speed_faster">Velocidade rápida</string>
   <string name="voicemail_speed_fastest">Velocidade máxima</string>
