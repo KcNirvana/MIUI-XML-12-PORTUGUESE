@@ -135,12 +135,10 @@
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Não está ligado ao Wi-Fi. Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verificar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e eliminar vírus eficazmente, vamos enviar o nome e propriedades dos pacotes das aplicações</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
+  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade é fornecida por um antivírus de terceiros. Para saber mais, leia os &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Licença&amp;lt;/a&amp;gt; fornecidos pela aplicação</string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
-  <string name="antivirus_privacy_dialog_summary_new">Esta funcionalidade utiliza as definições do antivírus fornecidas por Avast, AVL e Tencent. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">Esta funcionalidade utiliza as definições do antivírus fornecidas por AVL e Tencent. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">Esta funcionalidade utiliza as definições do antivírus fornecidas por Avast e AVL. Leia os &amp;lt;a href=\"%1$s\"&amp;gt; termos de licença&amp;lt;/a&amp;gt; para saber mais</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="antivirus_toast_already_update">Actualizado</string>

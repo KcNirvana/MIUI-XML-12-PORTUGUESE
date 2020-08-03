@@ -119,6 +119,7 @@
   <string name="disk_total">"Total: "</string>
   <string name="doc_all">Tudo</string>
   <string name="downloading">A transferir…</string>
+  <string name="drag_not_support_with_dir">Não é possível ordenar ou enviar pastas</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
@@ -364,6 +365,7 @@
   <string name="rlv_pull_to_refresh">Puxe para actualizar</string>
   <string name="rlv_refreshing">A actualizar…</string>
   <string name="rlv_release_to_refresh">Largue para actualizar</string>
+  <string name="save_file_to_mishare">Guardado na pasta do Mi Share</string>
   <string name="search_app">Aplicações e pastas</string>
   <string name="search_app_more">Mais</string>
   <string name="search_description">Ficheiros no dispositivo</string>

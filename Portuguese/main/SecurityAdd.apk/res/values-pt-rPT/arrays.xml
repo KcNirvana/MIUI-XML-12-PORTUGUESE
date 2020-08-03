@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="gb_gpu_custom_texture_value">
+    <item>Rápido</item>
+    <item>Equilibrado</item>
+    <item>Predefinido</item>
+  </string-array>
+</resources>

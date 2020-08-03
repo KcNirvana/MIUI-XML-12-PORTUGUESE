@@ -293,6 +293,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="ai_settings_long_click_title">Premir e segurar</string>
   <string name="ai_settings_single_press_des">Prima o botão IA para falar com o assistente Google. Solte para obter a resposta</string>
   <string name="airplane_mode">Modo Avião</string>
+  <string name="airplane_mode_summary">Desactivar chamadas, mensagens e dados móveis</string>
   <string name="alarm_ringtone_title">Som de alarme predefinido</string>
   <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
   <string name="alarm_sound_title">Alarme</string>
@@ -1287,6 +1288,9 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
   <string name="call_manager_enable_title">Activar Gestor de chamadas</string>
   <string name="call_manager_title">Gestor de chamadas</string>
+  <string name="call_records_summary_1">9:35 | 26 segundos</string>
+  <string name="call_records_summary_2">16 Ago | 1 min 16 seg</string>
+  <string name="call_records_summary_3">16 Ago | 2 min 24 seg</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Definições de chamadas</string>
@@ -2489,6 +2493,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="find_my_device">Localizar Dispositivo</string>
   <string name="find_my_device_disable">Desligado</string>
   <string name="find_my_device_enable">Ligado</string>
+  <string name="find_my_device_summary">Tem de ter sessão iniciada na Conta Mi</string>
   <string name="fingerprint_add_max">Pode adicionar até %d impressões digitais</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
@@ -2968,6 +2973,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="internal_storage_sentence">armazenamento interno</string>
   <string name="invalid_size_value">Não é possível calcular o tamanho do pacote</string>
   <string name="ipaddr_label">IPaddr:</string>
+  <string name="ipv4_congertion_control">Seleccionar controlo de gestão TCP</string>
+  <string name="ipv4_congertion_xontrol_chose">Algoritmo de controlo de gestão TCP</string>
   <string name="item_system_app">Aplicações de sistema</string>
   <string name="join_two_items">%1$s e %2$s</string>
   <string name="keep_legacy_fingerprint">Manter</string>

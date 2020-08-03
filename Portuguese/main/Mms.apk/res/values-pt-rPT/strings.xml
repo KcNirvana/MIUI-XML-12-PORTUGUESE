@@ -87,6 +87,7 @@
   <string name="cannot_send_message_reason">A mensagem não tem destinatários válidos</string>
   <string name="card_insert_to_contact">Importar contacto</string>
   <string name="change_duration_activity">Alterar duração</string>
+  <string name="chatbot_list_title">Mensagens 5G</string>
   <string name="check_all">Seleccionar todas</string>
   <string name="class_0_message_activity">Mensagem de classe 0</string>
   <string name="classifing">A agrupar mensagens…</string>
