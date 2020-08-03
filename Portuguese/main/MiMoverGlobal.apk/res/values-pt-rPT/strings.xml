@@ -73,7 +73,7 @@ As suas informações pessoais ficam protegidas de acordo com as leis regulament
   <string name="err_low_storage">Sem espaço sufuciente</string>
   <string name="err_no_gms">Versão da aplicação incompatível. Instale a aplicação separadamente</string>
   <string name="err_not_allow">Não suportado</string>
-  <string name="err_pkg_not_exist">Não foi possível localizar a aplicação</string>
+  <string name="err_pkg_not_exist">Não foi possível encontrar a aplicação</string>
   <string name="err_unknown">Erro desconhecido</string>
   <string name="err_user_abort">Cancelado pelo utilizador</string>
   <string name="err_version_too_old">O ficheiro da cópia é muito antigo</string>

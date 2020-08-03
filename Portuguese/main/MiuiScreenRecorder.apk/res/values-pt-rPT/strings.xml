@@ -21,7 +21,7 @@
   <string name="description_content">O gravador de ecrã fornece capacidades de gravação ao nível do sistema. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="description_title">Acerca de Gravador de Ecrã</string>
   <string name="deselect_all">Desmarcar tudo</string>
-  <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
+  <string name="error_open_file_failed_no_app_found">Não foi possível encontrar uma aplicação para abrir este ficheiro</string>
   <string name="expand_button_title">Avançado</string>
   <string name="first_using_mic_dialog_message">O Gravador de Ecrã necessita de acesso ao microfone para gravar áudio. Permitir?</string>
   <string name="first_using_mic_dialog_title">Permissões necessárias</string>

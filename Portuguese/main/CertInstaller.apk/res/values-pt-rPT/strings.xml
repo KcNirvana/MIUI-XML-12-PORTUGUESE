@@ -4,7 +4,7 @@
   <string name="action_missing_user_cert">Necessário certificado para instalar a chave privada</string>
   <string name="app_name">Instalador de certificados</string>
   <string name="cert_is_added">O %s está instalado</string>
-  <string name="cert_missing_error">Não foi possível instalar, porque não foi possível localizar o ficheiro do certificado</string>
+  <string name="cert_missing_error">Não foi possível instalar, porque não foi possível encontrar o ficheiro do certificado</string>
   <string name="cert_not_saved">O certificado não está instalado</string>
   <string name="cert_read_error">Não foi possível instalar, porque não foi possível ler o ficheiro do certificado</string>
   <string name="cert_too_large_error">Não foi possível instalar porque o tamanho do certificado é demasiado grande</string>

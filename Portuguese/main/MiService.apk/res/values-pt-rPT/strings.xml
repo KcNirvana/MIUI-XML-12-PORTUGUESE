@@ -23,7 +23,7 @@
   <string name="miui_feedback_answer_detail_title">Detalhes</string>
   <string name="miui_feedback_edit_action_submit">Enviar</string>
   <string name="miui_feedback_edit_add_original_images">Adicionar foto</string>
-  <string name="miui_feedback_edit_add_original_images_dialog_content">Se o problema que estiver a reportar estiver relacionado com a qualidade de imagem da câmara, adicione uma foto original para nos ajudar a localizar o problema. Adicionar foto agora?</string>
+  <string name="miui_feedback_edit_add_original_images_dialog_content">Se o problema que estiver a reportar estiver relacionado com a qualidade de imagem da câmara, adicione uma foto original para nos ajudar a encontrar o problema. Adicionar foto agora?</string>
   <string name="miui_feedback_edit_choose_module">Seleccionar item</string>
   <string name="miui_feedback_edit_choose_module_hint">Necessário</string>
   <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
@@ -44,7 +44,7 @@
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Enviar</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">Está ligado a uma rede paga. Enviar registos pode gerar custos adicionais</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso de utilização de dados</string>
-  <string name="miui_feedback_edit_need_phone_state_permission">Permitir que a aplicação possa aceder à informação do dispositivo para ler o IMEI, que nos vais ajudar a localizar problemas. Toque em \"OK\" para abrir as Definições</string>
+  <string name="miui_feedback_edit_need_phone_state_permission">Permitir que a aplicação possa aceder à informação do dispositivo para ler o IMEI, que nos vais ajudar a encontrar problemas. Toque em \"OK\" para abrir as Definições</string>
   <string name="miui_feedback_edit_need_storage_permission">Permitir que a aplicação possa aceder ao armazenamento do dispositivo para conseguir anexar imagens e vídeos ao seu comentário. Toque em \"OK\" para abrir as Definições</string>
   <string name="miui_feedback_edit_permission_denied_title">Permissões restringidas: %1$s</string>
   <string name="miui_feedback_edit_phone_state_permission_name">Aceder à informação do dispositivo</string>

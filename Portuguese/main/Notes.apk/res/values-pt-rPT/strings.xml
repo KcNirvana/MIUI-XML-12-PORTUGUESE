@@ -314,7 +314,7 @@
   <string name="toast_refuse_to_record_when_in_multi_window">Não é possível utilizar no modo ecrã dividido</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">Não é possível utilizar no modo ecrã dividido ou janelas flutuantes</string>
   <string name="toast_refuse_to_use_contact">"A permissões de contactos estão restringidas.
-Dê permissão a Notas para ler os seus contactos e localizar contas no seu dispositivo"</string>
+Dê permissão a Notas para ler os seus contactos e encontrar contas no seu dispositivo"</string>
   <string name="toast_refuse_to_use_external_storage">"A permissões de armazenamento estão restringidas.
 Dê permissão a Notas para ler o conteúdo do seu cartão SD"</string>
   <string name="toast_refuse_to_use_phone_state">"A permissões de telefone estão restringidas.

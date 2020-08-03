@@ -43,7 +43,7 @@
   <string name="ai_album_open_switch_button_title">Análise de fotos</string>
   <string name="ai_album_requesting_title">A IA ainda está a processar as suas fotos. Volte novamente mais tarde</string>
   <string name="ai_album_setting_key_word">Procurar fotos</string>
-  <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir localizar mais rápido</string>
+  <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir encontrar mais rapidamente</string>
   <string name="ai_album_setting_title">Identificação de objectos nas fotos</string>
   <string name="album_ai_description">Pessoas, lugares, objectos</string>
   <string name="album_ai_international_description">Pessoas</string>
@@ -795,7 +795,7 @@ efeitos de fotos"</string>
   <string name="image_decode_failed">Não foi possível decifrar imagem</string>
   <string name="image_download_item_title">Transferir ficheiro original (%s)</string>
   <string name="image_invalid_path">Caminho inválido</string>
-  <string name="image_not_found">Não foi possível localizar imagem</string>
+  <string name="image_not_found">Não foi possível encontrar imagem</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
   <string name="image_selection_summary">A MIUI vai analisar as suas fotos e marcar as melhores. Desligue esta funcionalidade para remover as marcas das fotos</string>
   <string name="image_selection_title">Seleccionar a melhor foto</string>

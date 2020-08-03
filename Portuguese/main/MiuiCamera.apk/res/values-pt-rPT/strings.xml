@@ -210,7 +210,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="cta_perm_dec">Para adicionar a localização a fotos e vídeos</string>
   <string name="cta_perm_loc">Localização</string>
   <string name="cta_perm_type">Permissões opcionais (Utilizadas para funcionalidades adicionais)</string>
-  <string name="cta_user_tips">"Para compreender os seus direitos como utilizador e a maneira como utilizamos os seus dados, leia e concorde com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href ='%2$s'>Política de Privacidade</a>"</string>
+  <string name="cta_user_tips">"Para compreender os seus direitos de utilizador e como fazemos a gestão dos seus dados, leia e concorde com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href ='%2$s'>Política de Privacidade</a>"</string>
   <string name="custom_sound_art">Retro</string>
   <string name="custom_sound_default">Predefinido</string>
   <string name="custom_sound_modern">Moderno</string>

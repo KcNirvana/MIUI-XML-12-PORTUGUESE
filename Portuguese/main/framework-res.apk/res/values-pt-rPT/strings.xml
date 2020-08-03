@@ -409,9 +409,9 @@ utilizando %s"</string>
   <string name="httpErrorConnect">Não foi possível ligar ao servidor</string>
   <string name="httpErrorFailedSslHandshake">Não foi possível estabelecer uma ligação segura</string>
   <string name="httpErrorFile">Não foi possível aceder ao ficheiro</string>
-  <string name="httpErrorFileNotFound">Não foi possível localizar o ficheiro solicitado</string>
+  <string name="httpErrorFileNotFound">Não foi possível encontrar o ficheiro solicitado</string>
   <string name="httpErrorIO">Não foi possível comunicar com o servidor. Tente novamente mais tarde</string>
-  <string name="httpErrorLookup">Não foi possível localizar URL</string>
+  <string name="httpErrorLookup">Não foi possível encontrar URL</string>
   <string name="httpErrorOk">OK</string>
   <string name="httpErrorProxyAuth">A autenticação através do servidor proxy falhou</string>
   <string name="httpErrorRedirectLoop">A página contém demasiados redireccionamentos do servidor</string>

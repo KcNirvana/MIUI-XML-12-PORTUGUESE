@@ -276,7 +276,7 @@
   <string name="total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>
   <string name="translation_more">Mais</string>
-  <string name="translation_query_error">Não foi possível localizar resultados</string>
+  <string name="translation_query_error">Não foi possível encontrar resultados</string>
   <string name="translation_query_error_network">Não foi possível obter informações. Verifique a ligação à rede e tente novamente</string>
   <string name="turn_off">Desligar</string>
   <string name="twohours">1 hora</string>

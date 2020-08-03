@@ -137,7 +137,7 @@
   <string name="cw_added_fav_no_pic">Sem itens</string>
   <string name="cw_added_toast">Este item já foi adicionado</string>
   <string name="cw_adding">A adicionar (%1$d)</string>
-  <string name="cw_album_no_pic">Não foi possível localizar imagens no dispositivo</string>
+  <string name="cw_album_no_pic">Não foi possível encontrar imagens no dispositivo</string>
   <string name="cw_album_no_right">Permitir que os papéis de parede aleatórios possam aceder à Galeria</string>
   <string name="cw_all_folder">Imagens recentes</string>
   <string name="cw_batch_all_added_tip">Não é possível adicionar itens já existentes</string>
