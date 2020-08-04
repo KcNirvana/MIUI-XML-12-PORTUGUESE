@@ -397,7 +397,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="media_error_format">O formato do vídeo não é suportado</string>
     <string name="media_error_network_unreachable">Não foi possível ligar-se à rede</string>
     <string name="media_error_nomemory">Sem memória suficiente</string>
-    <string name="media_error_source">Não foi possível encontrar fontes</string>
+    <string name="media_error_source">Não foi possível localizar fontes</string>
     <string name="media_error_timeout">A ligação de rede expirou</string>
     <string name="media_error_video_not_exist">O vídeo não existe</string>
     <string name="menu_addtodesk">Adicionar ao Ecrã inicial</string>
@@ -612,7 +612,7 @@ Sair desta página agora?"</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Recarregue depois de se ligar à Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacte o administrador do sistema</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">Verifique o endereço que introduziu e tente novamente utilizando o URL correcto</string>
-    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregar a página depois de permitir que o Navegador acesse a Internet</string>
+    <string name="mw_miuichromium_error_page_suggestion_grant_permission">Recarregar a página depois de permitir que o Navegador aceda à Internet</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Tente o seguinte:</string>
     <string name="mw_miuichromium_error_page_title">Ocorreu um erro</string>
     <string name="mw_miuichromium_error_page_unknown_error">Ops, algo correu mal</string>

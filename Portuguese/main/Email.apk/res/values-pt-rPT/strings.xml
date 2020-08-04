@@ -33,7 +33,7 @@
   <string name="account_settings_enforced_label">Políticas</string>
   <string name="account_settings_enforced_summary">Nenhuma</string>
   <string name="account_settings_incoming_summary">Utilizador, palavra-passe e outras definições do servidor</string>
-  <string name="account_settings_login_dialog_content_fmt">"O utilizador ou a palavra-passe de %s estão incorrectos.
+  <string name="account_settings_login_dialog_content_fmt">"O utilizador ou a palavra-passe de %s não está correcto.
  Deseja actualizá-los agora?"</string>
   <string name="account_settings_login_dialog_reason_fmt">Não foi possível iniciar sessão em %1$s. O servidor diz: %2$s</string>
   <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
@@ -810,7 +810,7 @@
   <string name="outbox_alert_description_auth_error">Erro do servidor durante sincronização da caixa de saída</string>
   <string name="outbox_alert_description_cannot_authenticate">Não foi possível autenticar %s</string>
   <string name="outbox_alert_description_email_size_error">O tamanho máximo do Email foi atingido</string>
-  <string name="outbox_alert_description_fail_authentication">Utilizador ou palavra-passe incorrecto</string>
+  <string name="outbox_alert_description_fail_authentication">O utilizador ou palavra-passe que introduziu não está correcto</string>
   <string name="outbox_alert_description_fail_network">Não foi possível ligar à rede</string>
   <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espaço de armazenamento insuficiente no servidor</string>
@@ -1062,7 +1062,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="ser_resp_err_map_max_connections">Esta conta foi acedida de demasiados dispositivos. Remova este conta de um dos dispositivos para conseguir aceder</string>
   <string name="ser_resp_err_map_nouser">Não foi possível encontrar uma conta válida. Verifique a informação introduzida e tente novamente</string>
   <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
-  <string name="ser_resp_err_map_pserr">Palavra-passe incorrecta</string>
+  <string name="ser_resp_err_map_pserr">A palavra-passe que introduziu não está correcta</string>
   <string name="ser_resp_err_map_serclosed">Ligar %s no webmail primeiro</string>
   <string name="ser_resp_err_map_serclosed_info">%s desligado</string>
   <string name="ser_resp_err_map_ssl">"Escolher SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>

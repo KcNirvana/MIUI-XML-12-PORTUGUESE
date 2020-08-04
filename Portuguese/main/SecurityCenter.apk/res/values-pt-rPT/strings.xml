@@ -1011,7 +1011,7 @@ cartão de saúde"</string>
   <string name="ew_arrive_text_tips">Onda sísmica chegou: %s</string>
   <string name="ew_button_confirm">Concordar</string>
   <string name="ew_button_exit">Não concordar</string>
-  <string name="ew_china_version_first_start_network_msg">&lt;Nota:&gt;"Este serviço oferece a funcionalidade de aviso de sismos. Serão enviadas notificações sobre os próximos sismos e emitidos sons de aviso. Poderá encontrar um abrigo mais próximo, ligar para um dos seus contactos de emergência e se necessário apresentar o seu cartão de saúde. &amp;lt;br&amp;gt; As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. &amp;lt;br&amp;gt;Para funcionar normalmente, é necessário ligar à Internet e das seguintes permissões para obter as suas informações pessoais: &amp;lt;br&amp;gt;&amp;#8226; Localização: &amp;lt;br&amp;gt;Para aceder à sua localização e fornecer avisos precisos sobre sismos. &amp;lt;br&amp;gt;Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar este serviço. Pode optar por desligar esta funcionalidade ou não activá-la nesses casos. &amp;lt;br&amp;gt;tem de ler e concordar com os nossos &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade."&lt;/Nota&gt;</string>
+  <string name="ew_china_version_first_start_network_msg">"Este serviço oferece a funcionalidade de aviso de sismos. Serão enviadas notificações sobre os próximos sismos e emitidos sons de aviso. Poderá encontrar um abrigo mais próximo, ligar para um dos seus contactos de emergência e se necessário apresentar o seu cartão de saúde. &amp;lt;br&amp;gt; As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. &amp;lt;br&amp;gt;Para funcionar normalmente, é necessário ligar à Internet e das seguintes permissões para obter as suas informações pessoais: &amp;lt;br&amp;gt;&amp;#8226; Localização: &amp;lt;br&amp;gt;Para aceder à sua localização e fornecer avisos precisos sobre sismos. &amp;lt;br&amp;gt;Se não concordar com as permissões ou a partilha e envio de informações pessoais, não vai poder utilizar este serviço. Pode optar por desligar esta funcionalidade ou não activá-la nesses casos. &amp;lt;br&amp;gt;tem de ler e concordar com os nossos &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade"</string>
   <string name="ew_close">Desligar alertas</string>
   <string name="ew_emergency_allergy">Alergias</string>
   <string name="ew_emergency_basic_info">Informação básica</string>
@@ -1320,7 +1320,7 @@ cartão de saúde"</string>
   <string name="gb_advance_settings_edge_gear3">Média</string>
   <string name="gb_advance_settings_edge_gear4">Grande</string>
   <string name="gb_advance_settings_edge_suppression">Área de toque resistente</string>
-  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque perto das laterais para evitar activar o toque nos controlos laterais. Segure o seu dispositivo nas áreas marcadas para manter o altifalante descoberto</string>
+  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximo das laterais para evitar a activação dos controlos de toque. Segure o seu dispositivo nas áreas destacadas para manter os altifalantes destapados</string>
   <string name="gb_advance_settings_finger_up">Sensibilidade para toques repetidos</string>
   <string name="gb_advance_settings_follow_up">Resposta do toque</string>
   <string name="gb_advance_settings_reset">Restaurar as definições predefinidas</string>
@@ -2040,7 +2040,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
-  <string name="passwordIncorrect">Utilizador ou palavra-passe incorrecto</string>
+  <string name="passwordIncorrect">O utilizador ou palavra-passe que introduziu não está correcto</string>
   <string name="password_forget_pattern_confirm">Percebi</string>
   <string name="password_forget_pattern_message">Devido a motivos de segurança, apenas pode repor a sua palavra-passe após uma reposição de fábrica. Toque para repor</string>
   <string name="password_forget_pattern_message_none">As aplicações não estão bloqueadas. Pode repor a sua palavra-passe</string>
@@ -3051,9 +3051,9 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="system_permission_declare_no_say_no">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
   <string name="system_permission_declare_no_say_no_analytics">Se não quiser conceder as permissões necessárias, pode sair do programa em Definições &gt; Definições adicionais &gt; Privacidade &gt; Programa de Experiência do Utilizador</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
-  <string name="system_permission_declare_privacy_declare">As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade. Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:</string>
+  <string name="system_permission_declare_privacy_declare">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade. Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:</string>
   <string name="system_permission_declare_privacy_no_network">Esta aplicação necessita das seguintes permissões para funcionar normalmente:</string>
-  <string name="system_permission_declare_privacy_no_permission">Nota: esta aplicação necessita de ligar à Internet e obter as suas informações pessoais necessárias para lhe fornecer serviços. As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade</string>
+  <string name="system_permission_declare_privacy_no_permission">Nota: esta aplicação necessita de ligar à Internet e obter as suas informações pessoais necessárias para lhe fornecer serviços. As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
   <string name="system_permission_declare_privacy_policy">Leia e concorde com a nossa Política de Privacidade antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_revoke_system">Pode sair desta aplicação</string>
   <string name="system_permission_declare_revoke_uninstallable">Pode desinstalar esta aplicação ou gerir as suas permissões e autorizações em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Outras permissões</string>

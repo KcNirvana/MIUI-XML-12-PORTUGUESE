@@ -60,7 +60,7 @@
   <string name="gb_advance_settings_edge_gear3">Médio</string>
   <string name="gb_advance_settings_edge_gear4">Grande</string>
   <string name="gb_advance_settings_edge_suppression">Área resistente ao toque</string>
-  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximos das laterais para evitar a activação de controlos de toque. Segure o seu dispositivo nas áreas destacadas para manter os altifalantes destapados</string>
+  <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximo das laterais para evitar a activação dos controlos de toque. Segure o seu dispositivo nas áreas destacadas para manter os altifalantes destapados</string>
   <string name="gb_advance_settings_finger_up">Sensibilidade a toques repetidos</string>
   <string name="gb_advance_settings_follow_up">Resposta do toque</string>
   <string name="gb_advance_settings_reset">Restaurar definições predefinidas</string>
@@ -100,7 +100,7 @@
   <string name="gb_gpu_tips_anisotropic">Dar clareza às texturas de superfície distantes que são vistas num ângulo</string>
   <string name="gb_gpu_tips_anti">A maior taxa de anti-aliasing é definida pelo jogo</string>
   <string name="gb_gpu_tips_fps">A maior taxa de frames disponível é definida pelo jogo</string>
-  <string name="gb_gpu_tips_graph">Optimizar gráficos para optimizar o desempenho da GPU e poupar bateria. Esta funcionalidade é suportada pelos jogos seleccionados</string>
+  <string name="gb_gpu_tips_graph">Optimizar gráficos para melhorar o desempenho da GPU e poupar bateria. Esta funcionalidade é suportada pelos jogos seleccionados</string>
   <string name="gb_gpu_tips_resolution">A resolução foi definida pelo jogo. Alguns jogos não permitem ajustar a resolução</string>
   <string name="gb_gpu_tips_texture">Dar prioridade ao desempenho ou qualidade de imagem</string>
   <string name="gb_pannel_control_mode_balance">Equilibrado</string>

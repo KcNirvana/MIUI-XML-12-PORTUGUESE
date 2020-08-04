@@ -430,10 +430,10 @@ Envie este código ao supervisor"</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_verifying_activator_phone">A verificar a segurança do telefone…</string>
   <string name="passport_wait_for_sms_prompt">Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a serem entregues quando o telefone está dentro do alcance da rede da sua operadora</string>
-  <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
+  <string name="passport_wrong_captcha">O código que introduziu não está correcto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
-  <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
-  <string name="passport_wrong_voice">O código que introduziu está incorrecto</string>
+  <string name="passport_wrong_vcode">O código que introduziu não está correcto</string>
+  <string name="passport_wrong_voice">O código que introduziu não está correcto</string>
   <string name="passport_wx_bind_account_limit">Não é possível criar conta agora. Tente outro método</string>
   <string name="passport_yes">Sim</string>
   <string name="permission_group_contacts">Contactos</string>

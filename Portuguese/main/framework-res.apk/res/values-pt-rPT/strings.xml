@@ -144,8 +144,8 @@
   <string name="autofill_this_form">Preenchimento Automático</string>
   <string name="autofill_zip_code">Código postal</string>
   <string name="back_button_label">Voltar</string>
-  <string name="badPin">O PIN antigo que introduziu está incorrecto</string>
-  <string name="badPuk">O código PUK que introduziu está incorrecto</string>
+  <string name="badPin">O PIN antigo que introduziu não está correcto</string>
+  <string name="badPuk">O código PUK que introduziu não está correcto</string>
   <string name="battery_saver_description">"Para ajudar a melhorar a autonomia da bateria, a poupança de bateria reduz o desempenho do seu dispositivo e limita a vibração, os serviços de localização e a maioria dos dados em segundo plano. O email, as mensagens e outras aplicações que dependem da sincronização não podem ser actualizados excepto se os abrir.
 
 A poupança de bateria desliga-se automaticamente quando o dispositivo está a carregar"</string>
@@ -411,7 +411,7 @@ utilizando %s"</string>
   <string name="httpErrorFile">Não foi possível aceder ao ficheiro</string>
   <string name="httpErrorFileNotFound">Não foi possível encontrar o ficheiro solicitado</string>
   <string name="httpErrorIO">Não foi possível comunicar com o servidor. Tente novamente mais tarde</string>
-  <string name="httpErrorLookup">Não foi possível encontrar URL</string>
+  <string name="httpErrorLookup">Não foi possível localizar URL</string>
   <string name="httpErrorOk">OK</string>
   <string name="httpErrorProxyAuth">A autenticação através do servidor proxy falhou</string>
   <string name="httpErrorRedirectLoop">A página contém demasiados redireccionamentos do servidor</string>

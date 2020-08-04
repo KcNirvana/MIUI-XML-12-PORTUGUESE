@@ -1021,7 +1021,7 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_pairing_dialog_title">Emparelhar com este dispositivo?</string>
   <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
   <string name="bluetooth_pairing_key_msg">Código de emparelhamento Bluetooth</string>
-  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave estão incorrectos</string>
+  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave não está correcto</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_request">Emparelhar com %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permitir o acesso aos contactos e registo de chamadas</string>
@@ -5820,7 +5820,7 @@ Se não concordar em conceder estas permissões, não vai poder utilizar as func
   <string name="sos_phone_log_privacy_dialog_message">"Esta aplicação necessita de aceder ao seu registo de chamadas para poder partilhá-lo com os seus contactos de emergência.
 Se não concordar em conceder estas permissões, não vai poder utilizar as funcionalidades desta aplicação. Pode sempre escolher desligar esta funcionalidade"</string>
   <string name="sos_privacy_dialog_message_new_version">"O SOS Emergência permite partilhar a sua localização em tempo real e enviar mensagens de texto para os seus contatos de emergência.
-As suas informações pessoais ficam protegidas de acordo com as leis regulamentadas e com a nossa política de privacidade.
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
 Nota: Esta aplicação necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
 • Aceder ao armazenamento
 Para guardar contactos de emergência
