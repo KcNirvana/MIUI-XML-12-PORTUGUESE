@@ -115,7 +115,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="ent_download_install_dialog_content">Tem de instalar aplicações empresariais para activar o modo empresarial. Instalar agora?</string>
   <string name="ent_download_install_dialog_title">Transferir aplicações empresariais</string>
   <string name="ent_downloading_message">A transferir %d%%</string>
-  <string name="ent_error_dialog_content">Pelo menos um código de licença estava incorrecto. Verifique os códigos de licença e corporativos e introduza-os novamente</string>
+  <string name="ent_error_dialog_content">Pelo menos um código de licença não estava correcto. Verifique os códigos de licença e corporativos e introduza-os novamente</string>
   <string name="ent_get_code_hint">Pode obter códigos de licença e corporativos com o seu supervisor</string>
   <string name="ent_install_dialog_content">Instalar aplicações e reiniciar o dispositivo?</string>
   <string name="ent_installing">A instalar…</string>

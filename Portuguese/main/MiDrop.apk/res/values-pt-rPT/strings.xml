@@ -52,7 +52,7 @@
   <string name="receiver_transfer_interrupt">Transferência interrompida. Não desligue o Ponto de Acesso durante a transferência</string>
   <string name="request_permission_msg">O Mi Drop necessita das permissões: %s. Permitir?</string>
   <string name="request_permission_title">Permissões necessárias</string>
-  <string name="runtime_permission_ungranted">Mi Drop necessita de permissões de forma a poder trabalhar normalmente</string>
+  <string name="runtime_permission_ungranted">Mi Drop necessita de permissões para funcionar normalmente</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">Não enviar</string>

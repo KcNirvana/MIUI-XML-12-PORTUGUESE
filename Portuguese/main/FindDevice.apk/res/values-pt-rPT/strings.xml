@@ -83,7 +83,7 @@ Não consegue activar o dispositivo?
 Vá a i.mi.com/ss e submeta a sua aplicação para desbloquear o dispositivo"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
   <string name="unlock_number">Código de desbloqueio: %s</string>
-  <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>
+  <string name="unlock_wrong_captcha">O código que introduziu não está correcto</string>
   <string name="unlocking">A activar…</string>
   <string name="verifing_account">A verificar palavra-passe…</string>
   <string name="verify_password_failed">Não foi possível verificar a Conta Mi (%s)</string>

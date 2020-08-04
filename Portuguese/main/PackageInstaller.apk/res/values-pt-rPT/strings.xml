@@ -68,7 +68,7 @@
   <string name="bluetooth_pairing_decline">Cancelar</string>
   <string name="bluetooth_pairing_device_down_error_message">Não é possível comunicar com %1$s</string>
   <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
-  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s porque o PIN ou a palavra-chave estão incorrectos</string>
+  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave não está correcto</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_will_share_phonebook">Emparelhar concede acesso aos contactos e registo de chamadas quando ligado</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">A partilhar a ligação à Internet com o dispositivo</string>
