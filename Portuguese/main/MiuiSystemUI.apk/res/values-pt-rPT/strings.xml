@@ -452,7 +452,7 @@ Taxa de amostragem"</string>
   <string name="camera_key_action_toggle_title">Selecção de atalhos</string>
   <string name="camera_label">Abrir Câmara</string>
   <string name="cancel">Cancelar</string>
-  <string name="car_lockscreen_disclaimer_text">Tenha atenção ao modo como conduz e obedeça sempre ao código da estrada. As direcções podem ser imprecisas, incompletas, perigosas ou proíbidas. Os dados não são em tempo-real e a precisão da localização não é garantida. Não conduza ao mesmo tempo que utiliza o telemóvel</string>
+  <string name="car_lockscreen_disclaimer_text">Tenha atenção ao modo como conduz e obedeça sempre ao código da estrada. As direcções podem ser imprecisas, incompletas, perigosas ou proíbidas. Os dados não são em tempo-real e a precisão da localização não é garantida. Não conduza ao mesmo tempo que utiliza o telefone</string>
   <string name="car_lockscreen_disclaimer_title">Conduza em segurança</string>
   <string name="change_theme_reboot">Para alterar o tema necessita de reiniciar</string>
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
