@@ -554,7 +554,7 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta</string>
-  <string name="unstable_dialog_message">Este dispositivo está registado no programa de pré-lançamento do Android 11. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 11. Esta versão de pré-lançamento pode conter erros e problemas que podem afectar o funcionamento normal do seu dispositivo</string>
+  <string name="unstable_dialog_message">Este dispositivo está registado no programa de pré-lançamento do Android 11. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 11. Esta versão de pré-lançamento pode conter erros ou problemas que podem afectar o funcionamento normal do seu dispositivo</string>
   <string name="unstable_dialog_title">Programa pré-lançamento Android</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
