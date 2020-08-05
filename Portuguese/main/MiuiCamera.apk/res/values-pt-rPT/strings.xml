@@ -586,8 +586,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes mais escuros de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
-  <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames em ambientes mais escuros</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes de luz fraca de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames para luz fraca</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Desligado</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
