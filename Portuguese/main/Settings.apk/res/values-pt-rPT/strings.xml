@@ -1406,7 +1406,7 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="choose_unlock_face_msg">Defina um bloqueio de ecrã antes de gravar os dados do rosto</string>
   <string name="choose_unlock_fingerprint_msg">Defina um bloqueio de ecrã antes de adicionar a impressão digital</string>
   <string name="choose_voice_input_title">Escolher entrada de voz</string>
-  <string name="classic_mode_summary">Alterar para cores mais quentes para reduzir a quantidade de luz azul</string>
+  <string name="classic_mode_summary">Alterar para cores mais quentes para reduzir o nível de luz azul</string>
   <string name="classic_mode_title">Clássico</string>
   <string name="cleaner">Limpeza</string>
   <string name="clear_activities">Limpar predefinições</string>
@@ -3268,7 +3268,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_failed_attempts_before_wipe">Tente novamente. Tentativa %1$d de %2$d</string>
   <string name="lock_failed_attempts_now_wiping_device">Demasiadas tentativas incorrectas. Os dados deste dispositivo vão eliminados</string>
   <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Ignorar</string>
-  <string name="lock_failed_attempts_now_wiping_profile">Demasiadas tentativas incorretas. Este perfil de trabalho e os respectivos dados vão ser eliminados</string>
+  <string name="lock_failed_attempts_now_wiping_profile">Demasiadas tentativas incorrectas. Este perfil de trabalho e os respectivos dados vão ser eliminados</string>
   <string name="lock_failed_attempts_now_wiping_user">Demasiadas tentativas incorrectas. Este utilizador vai ser eliminado</string>
   <string name="lock_immediately_summary_with_exception">Imediatamente após a suspensão, excepto quando mantido bloqueado por %1$s</string>
   <string name="lock_last_attempt_before_wipe_warning_title">Os seus dados vão ser eliminados</string>
@@ -3281,11 +3281,11 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_last_pin_attempt_before_wipe_device">Se introduzir um PIN incorrecto na tentativa seguinte, os dados deste dispositivo vão ser eliminados</string>
   <string name="lock_last_pin_attempt_before_wipe_profile">Se introduzir um PIN incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser eliminados</string>
   <string name="lock_last_pin_attempt_before_wipe_user">Se introduzir um PIN incorrecto na tentativa seguinte, este utilizador vai ser eliminado</string>
-  <string name="lock_profile_wipe_warning_content_password">Se introduzir uma palavra-passe incorrecta na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão removidos deste dispositivo</string>
+  <string name="lock_profile_wipe_warning_content_password">Se introduzir uma palavra-passe incorrecta na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pattern">Se introduzir um padrão incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pin">Se introduzir um PIN incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_screen_display_category_name">Ecrã de bloqueio</string>
-  <string name="lock_screen_intro_skip_dialog_text">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda ou de roubo</string>
+  <string name="lock_screen_intro_skip_dialog_text">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda ou roubo</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda, roubo ou reposição</string>
   <string name="lock_screen_intro_skip_title">Ignorar bloqueio de ecrã?</string>
   <string name="lock_screen_notifications_interstitial_message">Como pretende que o ecrã de bloqueio seja apresentado?</string>

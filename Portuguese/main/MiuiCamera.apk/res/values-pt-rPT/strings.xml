@@ -84,8 +84,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_intro_magic_star_ae">Utilizar este modo com luz fraca. A exposição pode ser configurada até %d segundos, por isso utilizar um tripé é uma brilhante ideia</string>
   <string name="ambilight_intro_silky_water_part1">Utilizar este modo quando fotografar nuvens em movimento. Vai dar ao céu um efeito de \"pintura a óleo\"</string>
   <string name="ambilight_intro_silky_water_part2">Este modo faz com que a água em movimento (rios, quedas de água e lagos) pareçam cetim</string>
-  <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
-  <string name="ambilight_intro_star_track_2">Fotografar o céu estrelado por um longo tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
+  <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo periodo de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
+  <string name="ambilight_intro_star_track_2">Fotografar o céu estrelado por um longo periodo de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
   <string name="ambilight_intro_traffic_light">À noite, pode capturar a trajetória de luzes brilhantes em movimento (p.e. em carros e navios). Este modo permite pré-visualizar o resultado final no seu ecrã em tempo real</string>
   <string name="ambilight_scene_crowd_moving">Multidão em movimento</string>
   <string name="ambilight_scene_light_track">Pintura leve</string>
@@ -93,11 +93,11 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_scene_silky_water">Pinturas a óleo</string>
   <string name="ambilight_scene_star_track">Trilhas de estrelas</string>
   <string name="ambilight_scene_traffic_light">Trilhas de néon</string>
-  <string name="ambilight_tips_for_longtime_using_tripod">Utilizar um tripé para caturar uma exposição mais longa</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Utilizar um tripé para capturar uma exposição mais longa</string>
   <string name="ambilight_tips_for_suggest_using_tripod">Utilizar um tripé</string>
   <string name="ambilight_tips_for_using_tripod">Utilizar um tripé</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
-  <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se a pelo menos 3 metros para obter melhores resultados</string>
+  <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se à distância de 3 metros para obter melhores resultados</string>
   <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
   <string name="autozoom_hint">Procurar objectos em movimento</string>
   <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
@@ -586,8 +586,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes de luz fraca de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
-  <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames para luz fraca</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes mais escuros de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames em ambientes mais escuros</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Desligado</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -606,7 +606,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_fastmotion_speed_30x">Ruas</string>
   <string name="pref_camera_fastmotion_speed_750x">Escuro</string>
   <string name="pref_camera_fastmotion_speed_90x">Nuvens</string>
-  <string name="pref_camera_fastmotion_speed_description">Os vídeos Time Lapse gravados a uma velocidade mais rápida são mais pequenos. Os valores de velocidade aconselhados são:</string>
+  <string name="pref_camera_fastmotion_speed_description">Os vídeos Time Lapse gravados a uma velocidade mais rápida são mais curtos. Os valores de velocidade aconselhados são:</string>
   <string name="pref_camera_first_tag_tips">Marcado com sucesso</string>
   <string name="pref_camera_fisheye_title">Olho-de-Peixe</string>
   <string name="pref_camera_flashmode_entry_auto">Auto.</string>

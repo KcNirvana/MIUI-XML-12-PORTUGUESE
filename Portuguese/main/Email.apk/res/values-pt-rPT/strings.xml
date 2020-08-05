@@ -1222,7 +1222,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
   <string name="wipe_account_fail_description_remind">Devido a restrições de utilização de dados, pode haver dados residuais no Calendário e Contactos após eliminar a conta, elimine-a manualmente</string>
   <string name="wps_title">Email WPS</string>
-  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
+  <string name="wrong_password">A palavra-passe que introduziu não está correcta</string>
   <string name="xiaomi_auth_toastbar">Iniciar sessão para autorizar o seu dispositivo</string>
   <string name="xiaomi_email">Email</string>
   <string name="xiaomi_under_certification">A autorizar…</string>
