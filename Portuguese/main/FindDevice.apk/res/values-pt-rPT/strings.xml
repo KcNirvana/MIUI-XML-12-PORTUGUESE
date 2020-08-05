@@ -48,7 +48,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verify">Verificar</string>
   <string name="password">Introduzir palavra-passe</string>
-  <string name="phone_locked">Este dispositivo está associado com a Conta Mi (%s). Introduza a palavra-passe para activar o dispositivo</string>
+  <string name="phone_locked">Este dispositivo está associado à Conta Mi (%s). Introduza a palavra-passe para activar o dispositivo</string>
   <string name="phone_locked_account_email">, email associado: %s</string>
   <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
   <string name="return_to_call">Voltar à chamada</string>

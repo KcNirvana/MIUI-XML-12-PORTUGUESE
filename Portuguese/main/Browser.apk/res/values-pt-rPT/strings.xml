@@ -624,7 +624,7 @@ Sair desta página agora?"</string>
           &lt;li>Cookies e dados do site
           &lt;li>Informações introduzidas em formulários
         &lt;/ul>"</string>
-    <string name="mw_new_tab_otr_subtitle">Agora pode navegar com privacidade, e outras pessoas que utilizam este dispositivo não verão a sua actividade. Entretanto, transferências e favoritos ainda serão guardados</string>
+    <string name="mw_new_tab_otr_subtitle">Agora pode navegar com privacidade. Outras pessoas que utilizam este dispositivo não vão ver a sua actividade. As transferências e favoritos ainda serão guardados</string>
     <string name="mw_new_tab_otr_title">Está anónimo</string>
     <string name="mw_new_tab_otr_visible">"A sua actividade &lt;em>pode ainda ser visível&lt;/em> para:
         &lt;ul>
@@ -1069,7 +1069,7 @@ Sair desta página agora?"</string>
     <string name="soft_toast_see_view">Ver</string>
     <string name="source_dislike">Não gosto</string>
     <string name="ssl_bad_clock_date_settings">Definir data</string>
-    <string name="ssl_bad_clock_warning" formatted="false">Uma ligação privada para %s1 não pode ser estabelecida porque a data e hora do seu dispositivo (%s2) estão incorretas</string>
+    <string name="ssl_bad_clock_warning" formatted="false">Uma ligação privada para %s1 não pode ser estabelecida porque a data e hora do seu dispositivo (%s2) não estão correctas</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido</string>
     <string name="ssl_continue">Continuar</string>

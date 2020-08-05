@@ -149,8 +149,8 @@ na sua Conta Mi para reactivar a Xiaomi Cloud"</string>
   <string name="micloud_confusion_ok">OK</string>
   <string name="micloud_confusion_setting_notify_text">Desligar a sincronização para outros dispositivos associados à sua conta</string>
   <string name="micloud_confusion_setting_notify_title">Proteger a sua conta</string>
-  <string name="micloud_confusion_setting_password_error">A palavra-passe que introduziu está incorrecta</string>
-  <string name="micloud_confusion_setting_question">Desligar a sincronização para outros dispositivos associados com a sua conta</string>
+  <string name="micloud_confusion_setting_password_error">A palavra-passe que introduziu não está correcta</string>
+  <string name="micloud_confusion_setting_question">Desligar a sincronização para outros dispositivos associados à sua conta</string>
   <string name="micloud_confusion_setting_title">Demasiados dispositivos</string>
   <string name="micloud_confusion_toast_confirm">Dispositivo confirmado</string>
   <string name="micloud_confusion_toast_deny">Iniciar sessão na sua Conta Mi</string>
@@ -170,7 +170,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_close_fail">Não foi possível desligar Localizar Dispositivo</string>
   <string name="micloud_find_device_close_progress">A desligar Localizar Dispositivo…</string>
   <string name="micloud_find_device_finish">Concluído</string>
-  <string name="micloud_find_device_guide_alert_content">O Localizar Dispositivo está associado com a sua Conta Mi. É necessário definir uma palavra-passe ou introduzir a palavra-passe definida. Certifique-se que memoriza sempre o seu ID Conta Mi e palavra-passe</string>
+  <string name="micloud_find_device_guide_alert_content">O Localizar Dispositivo está associado à sua Conta Mi. É necessário definir uma palavra-passe ou introduzir a palavra-passe definida. Certifique-se que memoriza sempre o seu ID Conta Mi e palavra-passe</string>
   <string name="micloud_find_device_guide_alert_negtive">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>

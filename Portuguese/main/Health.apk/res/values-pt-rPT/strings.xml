@@ -236,8 +236,8 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="detection_wait_generate_report_detail">Volte mais tarde</string>
   <string name="device_data_manage">Gerir dispositivos</string>
   <string name="device_data_sync">Sincronizar dados</string>
-  <string name="device_description">Este dispositivo está associado com a Conta Mi %s. Se não conseguir localizar o dispositivo que necessita, adicione-o no Mi Fit ou Xiaomi Wear primeiro</string>
-  <string name="device_list_origin_description">Estes dispositivos estão associados com a Conta Mi %1$s. Se não conseguir localizar o dispositivo que necessita, certifique-se que já o adicionou na aplicação correspondente</string>
+  <string name="device_description">Este dispositivo está associado à Conta Mi %s. Se não conseguir localizar o dispositivo que necessita, adicione-o no Mi Fit ou Xiaomi Wear primeiro</string>
+  <string name="device_list_origin_description">Estes dispositivos estão associados à Conta Mi %1$s. Se não conseguir localizar o dispositivo que necessita, certifique-se que já o adicionou na aplicação correspondente</string>
   <string name="device_off_sync_description">Os dados gerados neste dispositivo não vão ser sincronizados com Saúde</string>
   <string name="dialog_abandon">Rejeitar</string>
   <string name="dialog_abandon_sleep_edit">Rejeitar alterações?</string>

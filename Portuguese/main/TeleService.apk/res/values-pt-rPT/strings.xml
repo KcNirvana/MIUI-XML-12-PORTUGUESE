@@ -1234,7 +1234,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="registration_status_checking_status">A verificar…</string>
   <string name="registration_status_done">Este dispositivo pode receber chamadas</string>
   <string name="registration_status_failed_try_later">Não foi possível registar a conta (%s). Vai ser feita uma nova tentativa mais tarde</string>
-  <string name="registration_status_invalid_credentials">Não foi possível registar a conta. Utilizador ou palavra-passe incorrecto</string>
+  <string name="registration_status_invalid_credentials">Não foi possível registar a conta. O utilizador ou palavra-passe que introduziu não está correcto</string>
   <string name="registration_status_no_data">Não foi possível registar a conta. Este dispositivo não está ligado à Internet</string>
   <string name="registration_status_no_wifi_data">Não foi possível registar a conta. Este dispositivo não está ligado a uma rede Wi-Fi</string>
   <string name="registration_status_not_receiving">Não é possível receber chamadas</string>
@@ -1367,7 +1367,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_save_register_error">Não foi possível guardar e registar um novo perfil SIP</string>
   <string name="sip_settings">Definições SIP</string>
   <string name="sip_system_decide">Automático</string>
-  <string name="smart_divert_title">Smart-Divert</string>
+  <string name="smart_divert_title">Desvio inteligente</string>
   <string name="smart_dual_sim_prompt">O seu dispositivo vai ligar a uma rede móvel utilizando o SIM secundário quando a ligação for fraca. Isto pode gerar custos adicionais</string>
   <string name="smart_dual_sim_prompt_ok">Definições</string>
   <string name="smart_dual_sim_prompt_title">Aviso de utilização de dados (SIM %s)</string>
@@ -1434,8 +1434,8 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="telocation_country_code_enabled_message">Adicionar códigos de país automaticamente para marcar mais facilmente</string>
   <string name="telocation_country_code_enabled_title">Adicionar códigos de país ao marcar</string>
   <string name="telocation_countrycode_alert_message">Introduzir número de telefone sem o código do país</string>
-  <string name="telocation_countrycode_alert_message_warning">O código do país que introduziu pode estar incorrecto</string>
-  <string name="telocation_countrycode_alert_message_wrong">O código do país que introduziu está incorrecto</string>
+  <string name="telocation_countrycode_alert_message_warning">O código do país que introduziu pode não estar correcto</string>
+  <string name="telocation_countrycode_alert_message_wrong">O código do país que introduziu não está correcto</string>
   <string name="telocation_countrycode_alert_title">Alerta</string>
   <string name="telocation_custom_empty">Adicionar um número tocando no botão (+)</string>
   <string name="telocation_custom_location_summary">Gerir códigos de área guardados e números de grupo</string>
@@ -1598,7 +1598,7 @@ Se seleccionar preferência pelas redes móveis, vão ser utilizadas por defeito
   <string name="wificall_switch_summary">Utilize o Wi-Fi para efectuar chamadas sempre que possível</string>
   <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
-  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
+  <string name="wrong_password">A palavra-passe que introduziu não está correcta</string>
   <string name="zen_alarm_warning">Não vai ouvir o próximo alarme à(s) %1$s</string>
   <string name="zen_alarm_warning_indef">Só vai ouvir o próximo alarme %1$s se desligar esta funcionalidade antes dessa hora</string>
   <string name="zen_interruption_level_priority">Apenas prioridade</string>

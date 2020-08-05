@@ -563,7 +563,7 @@ para transferir e instalar o Mi Mover"</string>
   <string name="trans_intro_desc_4_market">O Mi Mover utiliza o Wi-Fi para transferir ficheiros. É por esse motivo que não consegue ligar à Internet utilizando o Wi-Fi em qualquer um dos dispositivos durante a transferência</string>
   <string name="trans_intro_desc_5">O espaço de armazenamento nos dispositivos antigos é utilizado para criar pacotes de transferência. Certifique-se que tem pelo menos 500 MB - 1 GB de espaço disponível no seu telefone antigo antes de iniciar a transferência</string>
   <string name="trans_intro_desc_6">Existem vários motivos para isso ter acontecido: problemas de compatibilidade de versões de sistema e aplicação, problemas de rede, etc.</string>
-  <string name="trans_intro_desc_7">Alguns perfis de aplicações (e-banking, finanças, etc.) estão associados com um dispositivo específico devido a motivos de segurança. Tente limpar os dados da aplicação ou reinstalá-la num novo dispositivo</string>
+  <string name="trans_intro_desc_7">Alguns perfis de aplicações (e-banking, finanças, etc.) estão associados a um dispositivo específico por motivos de segurança. Tente limpar os dados da aplicação ou reinstalá-la num novo dispositivo</string>
   <string name="trans_intro_desc_8">Os dados e histórico da aplicação WeChat podem não ser totalmente transferidos utilizando o Mi Mover. Vá às definições do WeChat e termine a sessão para ter maiores chances de uma transferência com sucesso</string>
   <string name="trans_intro_desc_9_method_1_dec">Vá a ecrã inicial &gt; Ferramentas &gt; Comentários</string>
   <string name="trans_intro_desc_9_method_1_title">1. Partilhe os seus comentários utilizando a aplicação \"Comentários\"</string>

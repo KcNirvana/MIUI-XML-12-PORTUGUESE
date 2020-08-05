@@ -39,9 +39,9 @@
   <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado.
-Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
+Introduza o número de telefone associado ao o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.
-Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
+Introduza o número de telefone associado ao o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_error_device_id">Marcar *#06# para verificar IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">O número que introduziu é inválido</string>
   <string name="activate_popup_desc_failed_query_info">Não é possível localizar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado</string>

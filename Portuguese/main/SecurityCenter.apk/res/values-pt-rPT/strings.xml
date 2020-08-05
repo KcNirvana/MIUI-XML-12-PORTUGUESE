@@ -2575,7 +2575,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="report_warning_title">Atenção</string>
   <string name="required_permissions">Permissões obrigatórias</string>
   <string name="required_permissions_desc">Estas permissões são necessárias para a aplicação funcionar normalmente</string>
-  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
+  <string name="reset_data_dialog_message">Este dispositivo não está associado à sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
   <string name="reset_data_dialog_ok">Reposição de fábrica</string>
   <string name="reset_data_title">Não é possível restaurar palavra-passe</string>
   <string name="result_autoscan_header">Monitorização de pagamentos</string>
