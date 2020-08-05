@@ -68,7 +68,7 @@
   <string name="not_set">Não definido</string>
   <string name="open_perm_msg">A Bússola necessita de acesso à localização e câmara. Permitir?</string>
   <string name="open_perm_title">Permissões necessárias</string>
-  <string name="permission_camera_desc">Utilizar o nível de espírito</string>
+  <string name="permission_camera_desc">Mostrar a bússola na pré-visualização</string>
   <string name="permission_location_desc">Mostrar coordenadas e pressão atmosférica</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="preference_other">Outros</string>

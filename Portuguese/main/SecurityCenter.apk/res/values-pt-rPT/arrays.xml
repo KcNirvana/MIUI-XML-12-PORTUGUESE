@@ -118,7 +118,7 @@
     <item>Aceder às definições de idioma e operadora assim como outros detalhes</item>
   </string-array>
   <string-array name="perm_intercept_unknown_source">
-    <item>Aplicações de terceiros que não são verificadas pelo GetApps podem causar vários problemas</item>
+    <item>Aplicações de terceiros que não são verificadas podem causar vários problemas</item>
     <item>Algumas aplicações de terceiros podem conter malware</item>
   </string-array>
   <string-array name="priority_storage_entries">

@@ -152,9 +152,11 @@
   <string name="indices_title">Actividades recomendadas</string>
   <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
+  <string name="indices_title_chance_of_rain">Previsão de chuva</string>
   <string name="indices_title_feel">Sensação térmica</string>
   <string name="indices_title_humidity">Humidade</string>
   <string name="indices_title_pressure">Pressão</string>
+  <string name="indices_title_wind_speed">Velocidade do vento</string>
   <string name="indices_title_restriction">Espaço da estrada</string>
   <string name="indices_title_sport">Desportos</string>
   <string name="indices_title_uv">Indíce UV</string>

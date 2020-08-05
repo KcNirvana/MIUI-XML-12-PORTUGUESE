@@ -1275,7 +1275,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="pip_play">Reproduzir</string>
   <string name="pip_skip_to_next">Ir para o seguinte</string>
   <string name="pip_skip_to_prev">Ir para o anterior</string>
-  <string name="please_slide_agian">Deslize novamente</string>
+  <string name="please_slide_agian">Deslizar novamente</string>
   <string name="plugins">Plugins</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Sobreposição do ecrã a mostrar os dados de toque atuais</string>

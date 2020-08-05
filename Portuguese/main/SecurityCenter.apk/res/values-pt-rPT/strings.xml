@@ -1673,6 +1673,7 @@ da operadora"</string>
   <string name="main_tobe_added_desc">Dados móveis desde ¥0.03/MB</string>
   <string name="main_today_used">Utilizados hoje</string>
   <string name="main_toolbar_firewall">Restringir utilização de dados</string>
+  <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="main_traffic_detail">Utilização de dados</string>
@@ -1762,7 +1763,8 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_summary_antivirus">Procurar por vírus no dispositivo</string>
   <string name="menu_summary_app_manager">Actualizar e desinstalar aplicações</string>
   <string name="menu_summary_garbage_cleanup">Sem lixo</string>
-  <string name="menu_summary_garbage_cleanup_ex">Limpar %s de lixo</string>
+  <string name="menu_summary_garbage_cleanup_ex">Limpar %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% de armazenamento</string>
   <string name="menu_summary_networkassistants">Gerir o seu plano de dados</string>
   <string name="menu_summary_networkassistants_2">Ultrapassou o limite</string>
   <string name="menu_summary_networkassistants_3">Dados restantes suficientes</string>

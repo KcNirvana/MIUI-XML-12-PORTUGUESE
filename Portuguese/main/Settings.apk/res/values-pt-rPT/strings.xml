@@ -4370,12 +4370,12 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="partial_connectivity_text">Algumas aplicações e serviços podem não funcionar devido à ligação limitada. Utilizar mesmo assim?</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
-  <string name="passpoint_r1_privacy_dialog_message">"O Passpoint é uma tecnologia de ligação Wi-Fi segura fornecida pela Wi-Fi Alliance. Configura automaticamente as contas para obter uma ligação perfeita entre a rede configurada por Wi-Fi e os dispositivos móveis.
+  <string name="passpoint_r1_privacy_dialog_message">"Este serviço Wi-Fi é fornecido por Exands. Permite que se ligue a PA Móveis próximos automaticamente
 
-Esta funcionalidade obtém o seu endereço MAC apenas para o registo da conta. Nós vamos processar os seus dados de acordo com a nossa %s. Leia e concorde com a nossa Política de Privacidade para continuar"</string>
-  <string name="passpoint_r1_privacy_dialog_no">Cancelar</string>
+Leia e concorde com %s antes de utilizar este serviço"</string>
+  <string name="passpoint_r1_privacy_dialog_no">Sair</string>
   <string name="passpoint_r1_privacy_dialog_title">Atenção</string>
-  <string name="passpoint_r1_privacy_dialog_url_text">Política de Privacidade</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">\"Política de Privacidade da Exands\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Concordar</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
   <string name="password_and_security">Segurança</string>
