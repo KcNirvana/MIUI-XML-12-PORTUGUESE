@@ -1367,7 +1367,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_save_register_error">Não foi possível guardar e registar um novo perfil SIP</string>
   <string name="sip_settings">Definições SIP</string>
   <string name="sip_system_decide">Automático</string>
-  <string name="smart_divert_title">Smart-Divert</string>
+  <string name="smart_divert_title">Desvio inteligente</string>
   <string name="smart_dual_sim_prompt">O seu dispositivo vai ligar a uma rede móvel utilizando o SIM secundário quando a ligação for fraca. Isto pode gerar custos adicionais</string>
   <string name="smart_dual_sim_prompt_ok">Definições</string>
   <string name="smart_dual_sim_prompt_title">Aviso de utilização de dados (SIM %s)</string>
