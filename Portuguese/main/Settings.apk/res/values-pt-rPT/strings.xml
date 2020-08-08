@@ -1065,7 +1065,7 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_rename_button">Mudar o nome</string>
   <string name="bluetooth_rename_device">Mudar o nome deste dispositivo</string>
   <string name="bluetooth_right_name">Direita</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Ao conceder acesso ao cartão SIM, desliga a conectividade de dados no seu dispositivo durante a ligação. Dar acesso a %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Conceder acesso ao cartão SIM, vai desligar a ligação de dados no seu dispositivo durante o acesso. Dar acesso a %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Ligado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_sap_request">Pedido de acesso ao SIM</string>
@@ -1346,9 +1346,9 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="capture_system_heap_dump_title">Fazer a captura da área dinâmica para dados do sistema</string>
   <string name="capturing_system_heap_dump_message">A fazer a captura da área dinâmica para dados do sistema…</string>
   <string name="carrier">Operadora</string>
-  <string name="carrier_enabled">Ligar/desligar APN</string>
-  <string name="carrier_enabled_summaryOff">APN desligado</string>
-  <string name="carrier_enabled_summaryOn">APN ligado</string>
+  <string name="carrier_enabled">Activar/desactivar APN</string>
+  <string name="carrier_enabled_summaryOff">APN desactivado</string>
+  <string name="carrier_enabled_summaryOn">APN activado</string>
   <string name="carrier_provisioning">Informações de fornecimento da operadora</string>
   <string name="carrier_show_in_lock_screen">Apenas no ecrã de bloqueio</string>
   <string name="carrier_show_none">Nunca mostrar nome da operadora</string>
