@@ -157,7 +157,7 @@
   "miui_music": "Mi Música",
   "mobile_recommended_title": "Utilização de dados móveis",
   "no_downloads": "Sem transferências",
-  "notif_text_engine_off": "O optimizador de transferências Xunlei está desactivado",
+  "notif_text_engine_off": "O optimizador de transferências Xunlei está desligado",
   "notif_text_engine_on": "A optimizar…",
   "notif_title_file_size": "Tamanho total %1$d",
   "notif_title_multiple_downloading": "A transferir %1$d ficheiros",

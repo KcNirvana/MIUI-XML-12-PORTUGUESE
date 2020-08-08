@@ -307,8 +307,8 @@
   <string name="audio_effect_settings">Escolher tipo de auriculares</string>
   <string name="auto_brightness_off">Brilho automático desligado</string>
   <string name="auto_brightness_on">Brilho automático ligado</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desactivados. Duplo toque em qualquer botão para os activar</string>
-  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação activados</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desligados. Duplo toque em qualquer botão para os ligar</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação ligados</string>
   <string name="available_via_passpoint">Disponível através de %1$s</string>
   <string name="back">Voltar</string>
   <string name="band_24G">(2.4G)</string>
@@ -1048,7 +1048,7 @@ uma captura de ecrã extensa"</string>
   <string name="miui_ringer_standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="miui_ringer_total">Não incomodar</string>
   <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
-  <string name="miui_screen_rotation_freeze_message">Rotação auto. desactivada</string>
+  <string name="miui_screen_rotation_freeze_message">Rotação auto. desligada</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons e vibração voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Os toques voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
@@ -1432,8 +1432,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_more_settings">Mais definições</string>
   <string name="quick_settings_mute_label">Silêncio</string>
   <string name="quick_settings_nfc_label">NFC</string>
-  <string name="quick_settings_nfc_off">NFC desactivado</string>
-  <string name="quick_settings_nfc_on">NFC activado</string>
+  <string name="quick_settings_nfc_off">NFC desligado</string>
+  <string name="quick_settings_nfc_on">NFC ligado</string>
   <string name="quick_settings_night_display_label">Luz nocturna</string>
   <string name="quick_settings_night_secondary_label_on_at">Ligado às %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Ligado ao pôr do sol</string>
@@ -1539,7 +1539,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="save">Guardar</string>
   <string name="saved_network">Guardada por %1$s</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
-  <string name="screen_button_notification_title">Os botões de navegação foram desactivados</string>
+  <string name="screen_button_notification_title">Os botões de navegação foram desligados</string>
   <string name="screen_pinning_description">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
   <string name="screen_pinning_description_accessible">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
   <string name="screen_pinning_negative">Não obrigado</string>

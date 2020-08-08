@@ -161,7 +161,7 @@
   <string name="account_smime_encrypt">Encriptação S/MIME</string>
   <string name="account_smime_install_cert">Adicionar certificado</string>
   <string name="account_smime_sign">Assinatura S/MIME</string>
-  <string name="account_sync_off">A sincronização da conta está desactivada</string>
+  <string name="account_sync_off">A sincronização da conta está desligada</string>
   <string name="account_sync_settings_settings">Sincronizar contactos e calendário</string>
   <string name="account_sync_settingstip_description">Sincronização</string>
   <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>

@@ -61,7 +61,7 @@
   <string name="activity_resolver_work_profiles_support">%1$s não suporta o perfil de trabalho</string>
   <string name="activitychooserview_choose_application">Escolher uma aplicação</string>
   <string name="activitychooserview_choose_application_error">Não foi possível iniciar %s</string>
-  <string name="adb_active_notification_message">Toque para desactivar a depuração USB</string>
+  <string name="adb_active_notification_message">Toque para desligar a depuração USB</string>
   <string name="adb_active_notification_title">Depuração USB ligada</string>
   <string name="adb_debugging_notification_channel_tv">Depuração USB</string>
   <string name="addToDictionary">Adicionar ao dicionário</string>
@@ -346,7 +346,7 @@ utilizando %s"</string>
   <string name="fingerprint_error_canceled">Operação de impressão digital cancelada</string>
   <string name="fingerprint_error_hw_not_available">Hardware de impressão digital não disponível</string>
   <string name="fingerprint_error_lockout">Demasiadas tentativas. Tente novamente mais tarde</string>
-  <string name="fingerprint_error_lockout_permanent">Demasiadas tentativas. Sensor de impressões digitais desactivado.</string>
+  <string name="fingerprint_error_lockout_permanent">Demasiadas tentativas. Sensor de impressões digitais desligado</string>
   <string name="fingerprint_error_no_space">Não é possível guardar a impressão digital. Remova uma impressão digital existente</string>
   <string name="fingerprint_error_timeout">Foi atingido o limite de tempo da impressão digital. Tente novamente</string>
   <string name="fingerprint_error_unable_to_process">Tente novamente</string>
@@ -789,7 +789,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_connection_manager">Permite que a aplicação faça a gestão das ligações de telecomunicação</string>
   <string name="permdesc_control_incall_experience">Permite que a aplicação proporcione uma experiência de utilizador em chamada</string>
   <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet. Esta permissão não é necessária para enviar dados para a Internet</string>
-  <string name="permdesc_disableKeyguard">Permite que a aplicação desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada</string>
+  <string name="permdesc_disableKeyguard">Permite que a aplicação desligue o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desliga o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada</string>
   <string name="permdesc_enableCarMode">Permite que a aplicação active o Modo Condução</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado</string>
   <string name="permdesc_flashlight">Permite à aplicação controlar a lanterna</string>
@@ -844,7 +844,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_setWallpaper">Permite à aplicação definir o papel de parede do sistema</string>
   <string name="permdesc_setWallpaperHints">Permite que a aplicação defina as sugestões de tamanho do papel de parede do sistema</string>
   <string name="permdesc_sim_communication">Permite que a aplicação envie comandos para o SIM. Esta acção é muito perigosa</string>
-  <string name="permdesc_statusBar">Permite à aplicação desactivar a barra de estado ou adicionar e remover ícones do sistema</string>
+  <string name="permdesc_statusBar">Permite à aplicação desligar a barra de estado ou adicionar e remover ícones do sistema</string>
   <string name="permdesc_statusBarService">Permite que a aplicação seja apresentada na barra de estado</string>
   <string name="permdesc_subscribedFeedsRead">Permite à aplicação obter detalhes acerca dos feeds actualmente sincronizados</string>
   <string name="permdesc_systemAlertWindow">Permite que a aplicação se sobreponha a outras aplicações ou partes do ecrã. Pode interferir com a utilização normal das aplicações e alterar a forma como as outras aplicações aparecem</string>
@@ -936,8 +936,8 @@ para a conta %s"</string>
   <string name="permlab_connection_manager">gerir ligações de telecomunicação</string>
   <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
   <string name="permlab_createNetworkSockets">ter acesso total à rede</string>
-  <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
-  <string name="permlab_enableCarMode">activar Modo Condução</string>
+  <string name="permlab_disableKeyguard">desligar o bloqueio de ecrã</string>
+  <string name="permlab_enableCarMode">ligar Modo Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
   <string name="permlab_flashlight">controlar lanterna</string>
   <string name="permlab_getAccounts">pesquisar contas no dispositivo</string>
@@ -992,7 +992,7 @@ para a conta %s"</string>
   <string name="permlab_setWallpaper">definir papel de parede</string>
   <string name="permlab_setWallpaperHints">ajustar o tamanho do papel de parede</string>
   <string name="permlab_sim_communication">enviar comandos para o SIM</string>
-  <string name="permlab_statusBar">desactivar ou modificar barra de estado</string>
+  <string name="permlab_statusBar">desligar ou modificar barra de estado</string>
   <string name="permlab_statusBarService">ser apresentada na barra de estado</string>
   <string name="permlab_subscribedFeedsRead">ler feeds subscritos</string>
   <string name="permlab_systemAlertWindow">sobrepor sobre outras aplicações</string>
@@ -1072,7 +1072,7 @@ para a conta %s"</string>
   <string name="print_service_installed_title">Serviço %s instalado</string>
   <string name="progress_erasing">A eliminar armazenamento USB…</string>
   <string name="quick_contacts_not_available">Sem aplicações para ver este contacto</string>
-  <string name="reason_service_unavailable">Serviço de impressão não activado</string>
+  <string name="reason_service_unavailable">Serviço de impressão desligado</string>
   <string name="reason_unknown">desconhecido</string>
   <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto vai desactivar todas as aplicações de terceiros instaladas. Estas vão ser restauradas quando reiniciar novamente</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>

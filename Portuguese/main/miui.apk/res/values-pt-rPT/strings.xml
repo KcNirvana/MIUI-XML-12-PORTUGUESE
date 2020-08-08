@@ -370,7 +370,7 @@
   <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi</string>
   <string name="error_not_acceptable">A sincronização foi desligada</string>
   <string name="error_title">Não foi possível sincronizar</string>
-  <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início de sessão</string>
+  <string name="error_unauthorized">A sincronização foi desligada devido a demasiadas tentativas de início de sessão</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date">" "</string>
   <string name="fmt_date_long_month">MMMM</string>

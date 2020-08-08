@@ -120,7 +120,7 @@
   <string name="doc_all">Tudo</string>
   <string name="downloading">A transferir…</string>
   <string name="drag_not_support_with_dir">Não é possível ordenar ou enviar pastas</string>
-  <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>
+  <string name="enable_sd_card">Insira o cartão SD ou desligue o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
   <string name="encrypt_prefix">Ocultos</string>

@@ -165,9 +165,9 @@
     <string name="comment_description">Comentar</string>
     <string name="comment_hint">Comentar</string>
     <string name="comment_menu">Comentar</string>
-    <string name="common_google_play_services_enable_button">Activar</string>
-    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não activar os serviços do Google Play</string>
-    <string name="common_google_play_services_enable_title">Activar serviços do Google Play</string>
+    <string name="common_google_play_services_enable_button">Ligar</string>
+    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ligar os serviços do Google Play</string>
+    <string name="common_google_play_services_enable_title">Ligar serviços do Google Play</string>
     <string name="common_google_play_services_install_button">Instalar</string>
     <string name="common_google_play_services_install_text">O %1$s não é executado sem os Serviços do Google Play, os quais estão em falta no seu dispositivo</string>
     <string name="common_google_play_services_install_title">Obter serviços do Google Play</string>
@@ -309,7 +309,7 @@ As páginas que visitar não vão aparecer no histórico."</string>
     <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi</string>
     <string name="error_not_acceptable">Sincronização desligada</string>
     <string name="error_title">Não foi possível sincronizar</string>
-    <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início da sessão</string>
+    <string name="error_unauthorized">A sincronização foi desligada devido a demasiadas tentativas de início de sessão</string>
     <string name="exit">Sair</string>
     <string name="exit_browser_warning">Sair do Navegador agora?</string>
     <string name="exit_fullscreen">Sair do Ecrã inteiro</string>

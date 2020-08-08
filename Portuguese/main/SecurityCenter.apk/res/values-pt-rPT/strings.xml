@@ -379,7 +379,7 @@
   <string name="app_manager_reset_app_preferences_desc">"Isto vai repor todas as preferências para:
 
  "&lt;li&gt;Aplicações desactivadas&lt;/li&gt;"
- "&lt;li&gt;Notificações desactivadas da aplicação&lt;/li&gt;"
+ "&lt;li&gt;Notificações desligadas da aplicação&lt;/li&gt;"
  "&lt;li&gt;Aplicações predefinidas&lt;/li&gt;"
  "&lt;li&gt;Restrições em segundo plano das aplicações&lt;/li&gt;"
 
@@ -1175,8 +1175,8 @@ cartão de saúde"</string>
   <string name="first_aid_card_kadun_button2">Restringir</string>
   <string name="first_aid_card_kadun_button3">Desligar</string>
   <string name="first_aid_card_kadun_summary1">Liberte espaço de armazenamento para que o dispositivo funcione normalmente</string>
-  <string name="first_aid_card_kadun_summary2">Algumas aplicações têm permissões de administrador. Isto pode desacelerar seu dispositivo</string>
-  <string name="first_aid_card_kadun_summary3">Estão ligadas demasiadas funções de acessibilidade. Isto pode desacelerar seu dispositivo</string>
+  <string name="first_aid_card_kadun_summary2">Algumas aplicações têm permissões de administrador. Isto pode desacelerar o seu dispositivo</string>
+  <string name="first_aid_card_kadun_summary3">Estão ligadas demasiadas funções de acessibilidade. Isto pode desacelerar o seu dispositivo</string>
   <string name="first_aid_card_kadun_title">Dispositivo lento</string>
   <string name="first_aid_card_system_root_button">Restringir</string>
   <string name="first_aid_card_system_root_summary">Restrinja o acesso root para prevenir riscos de segurança</string>
@@ -3217,8 +3217,8 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="title_mifi_insurance">Garantia extendida</string>
   <string name="title_miui_update">Actualização disponível</string>
   <string name="title_miui_update_latest">A MIUI está actualizada</string>
-  <string name="title_mms_no">Filtro de mensagens desactivado</string>
-  <string name="title_mms_yes">Filtro de mensagens activado</string>
+  <string name="title_mms_no">Filtro de mensagens desligado</string>
+  <string name="title_mms_yes">Filtro de mensagens ligado</string>
   <string name="title_network_switch">Ligação de rede</string>
   <string name="title_of_app_manage">Aplicações</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>

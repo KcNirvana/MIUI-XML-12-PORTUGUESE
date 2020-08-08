@@ -76,16 +76,16 @@
   <string name="cancel_restore">Parar</string>
   <string name="click_soft_ap_to_link">Seleccione um PA Móvel para ligar</string>
   <string name="click_to_view">Toque para ver</string>
-  <string name="close_twice_auth_btn">Desactivar autenticação em 2 passos</string>
+  <string name="close_twice_auth_btn">Desligar autenticação em 2 passos</string>
   <string name="close_twice_auth_note">"Nota:
-Após criar uma nova pergunta de segurança e confirmar a sua data de nascimento, a autenticação em 2 passos vai ser desactivada. Se não vir a opção para desactivar na página da conta ID Apple, não a pode desactivar"</string>
+Após criar uma nova pergunta de segurança e confirmar a sua data de nascimento, a autenticação em 2 passos vai ser desligada. Se não vir a opção para desligar na página da conta ID Apple, não a vai poder desligar"</string>
   <string name="close_twice_auth_operation">"Acesso via computador:
-https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
+https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
   <string name="close_twice_auth_step_1">1. Inicie sessão na página da conta ID Apple</string>
   <string name="close_twice_auth_step_2">2. Na secção "Segurança", toque em "Editar"</string>
-  <string name="close_twice_auth_step_3">3. Toque em "Desactivar autenticação em 2 passos". Toque outra vez para confirmar</string>
-  <string name="close_twice_auth_steps">Para desactivar a autenticação em 2 passos:</string>
-  <string name="close_twice_auth_tutor">Desactivar autenticação em 2 passos do ID Apple</string>
+  <string name="close_twice_auth_step_3">3. Toque em "Desligar autenticação em 2 passos". Toque outra vez para confirmar</string>
+  <string name="close_twice_auth_steps">Para desligar a autenticação em 2 passos:</string>
+  <string name="close_twice_auth_tutor">Desligar autenticação em 2 passos do ID Apple</string>
   <string name="cloud_app_name">Cópias da Xiaomi Cloud</string>
   <string name="cloud_backup_hint">Para aceder às suas cópias, inicie sessão</string>
   <string name="cloud_backup_login">Iniciar sessão na sua Conta Mi</string>
@@ -196,15 +196,15 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="hsa_sending">A enviar…</string>
   <string name="hsa_tip_message">"1.Se não conseguir receber o código de verificação, certifique-se que já iniciou sessão na iCloud no seu dispositivo Apple.
 2.Se introduzir o código de verificação não ajudar, desligue a autenticação em 2 passos"</string>
-  <string name="hsa_tip_message_shutdown_hsa">Como desactivar a autenticação em 2 passos</string>
+  <string name="hsa_tip_message_shutdown_hsa">Como desligar a autenticação em 2 passos</string>
   <string name="hsa_tip_message_with_device">"1.A mensagem que contém o código de verificação vai ser enviada para o telefone %s associado à iCloud
 2.Desactive a autenticação em 2 passos se não conseguir verificar"</string>
   <string name="hsa_tip_title">Dicas:</string>
   <string name="hsa_title">Autenticação em 2 passos</string>
   <string name="hsa_verify_failed">Erro na autenticação em 2 passos</string>
-  <string name="hsa_verify_failed_message">Erro na autenticação em 2 passos. Pode tentar novamente ou desactivar a autenticação em 2 passos</string>
+  <string name="hsa_verify_failed_message">Erro na autenticação em 2 passos. Tente novamente ou desligue a autenticação em 2 passos</string>
   <string name="hsa_verify_retry">Repetir</string>
-  <string name="hsa_verify_shutdown">Desactivar</string>
+  <string name="hsa_verify_shutdown">Desligar</string>
   <string name="iCloud_ID_verification_tip">Toque \"Permitir\" no seu dispositivo Apple para fazer aparecer o código de verificação. Introduza o código de verificação aqui</string>
   <string name="icloud_backup_tip">Iniciar sessão na iCloud do dispositivo Apple antigo</string>
   <string name="icloud_how_to_backup_tip_steps">"1.Vá às Definições no seu dispositivo iOS e escolha iCloud.
