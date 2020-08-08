@@ -290,9 +290,9 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="screen_overlay_title">Detectado sobreposição de ecrã</string>
   <string name="security_settings_desc">Permitir que esta aplicação:</string>
   <string name="settings">Definições</string>
-  <string name="settings_warning_dialog_detail">Vai ser perguntado nos seguintes casos:
- <li>Quando uma aplicação contém vírus</li>
- <li>O pacote de instalação vem duma origem desconhecida</li></string>
+  <string name="settings_warning_dialog_detail">"Vai ser perguntado nos seguintes casos:
+ "&lt;li&gt;Quando uma aplicação contém vírus&lt;/li&gt;"
+ "&lt;li&gt;O pacote de instalação vem duma origem desconhecida&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não vai ser questionado para instalar versões seguras de aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="system_warning">Se negar esta permissão, as funcionalidades básicas podem não funcionar correctamente</string>
