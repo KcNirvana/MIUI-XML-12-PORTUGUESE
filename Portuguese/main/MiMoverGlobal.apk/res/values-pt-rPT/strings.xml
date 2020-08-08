@@ -23,7 +23,7 @@
   <string name="clear_old_task_failed">Não foi possível remover as transferências antigas</string>
   <string name="close_twice_auth_btn">Desligar a autenticação em dois passos</string>
   <string name="close_twice_auth_note">"Nota:
-Após criar uma nova pergunta de segurança e confirmar a sua data de nascimento, a autenticação em dois passos vai ser desligada. Se não conseguir ver a opção para desligar a autenticação em dois passos na página da ID Apple, não a pode desligar"</string>
+Após criar uma nova pergunta de segurança e confirmar a sua data de nascimento, a autenticação em dois passos vai ser desligada. Se não conseguir ver a opção para desligar a autenticação em dois passos na página da ID Apple, não a vai poder desligar"</string>
   <string name="close_twice_auth_operation">"URL:
 Visitar https://appleid.apple.com/#!&amp;page=signin para desligar"</string>
   <string name="close_twice_auth_step_1">1. Abrir um navegador num computador e ir a appleid.apple.com</string>

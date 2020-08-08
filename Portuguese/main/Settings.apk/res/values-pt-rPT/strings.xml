@@ -1065,7 +1065,7 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_rename_button">Mudar o nome</string>
   <string name="bluetooth_rename_device">Mudar o nome deste dispositivo</string>
   <string name="bluetooth_right_name">Direita</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Ao conceder acesso ao cartão SIM, desactiva a conectividade de dados no seu dispositivo durante a ligação. Dar acesso a %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Conceder acesso ao cartão SIM, vai desligar a ligação de dados no seu dispositivo durante o acesso. Dar acesso a %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Ligado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_sap_request">Pedido de acesso ao SIM</string>
@@ -1786,7 +1786,7 @@ Algumas contas também podem copiar automaticamente para a web qualquer alteraç
   <string name="data_usage_forground_label">Primeiro plano:</string>
   <string name="data_usage_label_background">Segundo plano</string>
   <string name="data_usage_label_foreground">Primeiro plano</string>
-  <string name="data_usage_limit_dialog_mobile">"A ligação de dados vai ser desactivada quando o limite definido for atingido.
+  <string name="data_usage_limit_dialog_mobile">"A ligação de dados vai ser desligada quando o limite definido for atingido.
 
 Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora pode reportar valores diferentes, considere utilizar um limite restrito"</string>
   <string name="data_usage_limit_dialog_title">Limitar utilização de dados</string>
@@ -2053,7 +2053,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="disabled_by_policy_title_suspend_packages">Não é possível abrir esta aplicação</string>
   <string name="disabled_dependent_setting_summary">Esta definição depende de outra</string>
   <string name="disabled_feature">Funcionalidade não disponível</string>
-  <string name="disabled_feature_reason_slow_down_phone">Esta funcionalidade foi desactivada porque torna o seu telefone lento</string>
+  <string name="disabled_feature_reason_slow_down_phone">Esta funcionalidade foi desligada porque torna o seu telefone mais lento</string>
   <string name="disabled_for_user_setting_summary">Esta definição não pode ser alterada pelo utilizador actual</string>
   <string name="disabled_low_ram_device">Esta funcionalidade não está disponível neste dispositivo</string>
   <string name="disallow_lock_screen_summary">Permitir notificações em \"Notificações das aplicações\" primeiro</string>
@@ -2504,7 +2504,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_enroll_button_next">Seguinte</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de ecrã de bloqueio primeiro)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do ecrã de bloqueio primeiro)</string>
-  <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desactivadas pelas definições de segurança</string>
+  <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desligadas pelas definições de segurança</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
@@ -2784,8 +2784,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="hdmi_3d_display_enable_title">Ecrã 3D</string>
   <string name="hdmi_3d_help_title">Sobre o suporte HDMI 3D estereoscópico</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
-  <string name="hdmi_3dplay_control_disable_subtext">Saída 3D estereoscópico para visualização em 3D externa desactivada</string>
-  <string name="hdmi_3dplay_control_enable_subtext">Saída 3D estereoscópico para visualização em 3D externa activada</string>
+  <string name="hdmi_3dplay_control_disable_subtext">Saída 3D estereoscópico para visualização em 3D externa desligada</string>
+  <string name="hdmi_3dplay_control_enable_subtext">Saída 3D estereoscópico para visualização em 3D externa ligada</string>
   <string name="hdmi_3dplay_control_text">Saída 3D</string>
   <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Nativo</string>
@@ -4143,7 +4143,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="notification_importance_unspecified">Deixar a aplicação decidir</string>
   <string name="notification_listener_disable_warning_cancel">Cancelar</string>
   <string name="notification_listener_disable_warning_confirm">Desligar</string>
-  <string name="notification_listener_disable_warning_summary">Se desactivar o acesso às notificações para %1$s, é possível que o acesso ao modo Não incomodar seja igualmente desactivado</string>
+  <string name="notification_listener_disable_warning_summary">Se desligar o acesso às notificações para %1$s, é possível que o acesso ao modo Não incomodar seja igualmente desligado</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles</string>
   <string name="notification_listener_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
   <string name="notification_log_details_actions">acções</string>
@@ -4623,7 +4623,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="print_search_box_hidden_utterance">Caixa de pesquisa oculta</string>
   <string name="print_search_box_shown_utterance">Caixa de pesquisa visível</string>
   <string name="print_searching_for_printers">A pesquisar impressoras</string>
-  <string name="print_service_disabled">Serviço desactivado</string>
+  <string name="print_service_disabled">Serviço desligado</string>
   <string name="print_service_security_warning_summary">O documento pode passar por um ou mais servidores no seu caminho para a impressora</string>
   <string name="print_service_security_warning_title">Utilizar %1$s?</string>
   <string name="print_settings">Impressão</string>
@@ -5512,7 +5512,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Para além de desbloquear o telefone, também pode utilizar a sua impressão digital para autorizar compras e o acesso de aplicações. <annotation id="url">Saber mais</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de ecrã desactivada. Ainda pode utilizar a sua impressão digital para autorizar compras e o acesso de aplicações. <annotation id="url">Saber mais</annotation></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de ecrã desligada. Ainda pode utilizar a sua impressão digital para autorizar compras e o acesso de aplicações. <annotation id="url">Saber mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Concluído</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustração com o dispositivo e a localização do sensor de impressões digitais</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor de impressões digitais na parte de trás do seu telefone</string>
@@ -5521,8 +5521,8 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="security_settings_fingerprint_enroll_finish_title">Impressão digital adicionada</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancelar</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continuar</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Basta tocar no sensor de impressões digitais para desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações. Quaisquer impressões digitais adicionadas podem executar estas acções, pelo que deve ter cuidado com as impressões digitais que adiciona</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Nota: a impressão digital pode ser menos segura do um padrão ou um PIN fortes</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Basta tocar no sensor de impressões digitais para desbloquear o telefone, autorizar compras ou iniciar sessão em aplicações. Quaisquer impressões digitais adicionadas podem executar estas acções, pelo que deve ter atenção às impressões digitais que adiciona</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Nota: a impressão digital pode ser menos segura do que um padrão ou PIN fortes</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Saber mais</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desbloquear com impressão digital</string>
   <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utilizar a sua impressão digital</string>
@@ -6389,7 +6389,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_off_keyguard_password_title">Desligar bloqueio de ecrã</string>
   <string name="turn_off_keyguard_password_wait_dialog">A desligar palavra-passe</string>
   <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua palavra-passe de ecrã de bloqueio, os dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Não vai poder utilizar as impressões digitais após desactivar o padrão</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Não vai poder utilizar as impressões digitais após desligar o padrão</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de ecrã de bloqueio, as impressões digitais e dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
   <string name="turn_off_radio">Desligar rádio</string>
   <string name="turn_off_security_lock">Desligar bloqueio de ecrã</string>
@@ -6908,9 +6908,9 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vpn_on">Ligado</string>
   <string name="vpn_password">Palavra-passe</string>
   <string name="vpn_replace">Substituir</string>
-  <string name="vpn_replace_always_on_vpn_disable_message">Já está ligado a uma VPN sempre ligada. Se ligar a outra, a VPN existente será substituída e o modo sempre ligado será desactivado</string>
-  <string name="vpn_replace_always_on_vpn_enable_message">A sua VPN existente será substituída e não terá uma ligação à Internet até a VPN estabelecer ligação com sucesso</string>
-  <string name="vpn_replace_vpn_message">Já está ligado a uma VPN. Se ligar a outra, a VPN existente será substituída</string>
+  <string name="vpn_replace_always_on_vpn_disable_message">Já está ligado a uma VPN sempre ligada. Se estabelecer outra ligação, a VPN existente será substituída e o modo sempre ligado será desligado</string>
+  <string name="vpn_replace_always_on_vpn_enable_message">A VPN existente será substituída e não terá uma ligação à Internet até a VPN estabelecer ligação com sucesso</string>
+  <string name="vpn_replace_vpn_message">Já está ligado a uma VPN. Se estabelecer outra ligação, a VPN existente será substituída</string>
   <string name="vpn_replace_vpn_title">Substituir a VPN existente?</string>
   <string name="vpn_require_connection">Bloquear ligações sem VPN</string>
   <string name="vpn_require_connection_title">Exigir uma ligação VPN?</string>
@@ -6974,7 +6974,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="web_action_enable_summary">Abrir links nas aplicações, mesmo que não estejam instaladas</string>
   <string name="web_action_enable_title">Aplicações instantâneas</string>
   <string name="web_action_section_title">Aplicações instantâneas</string>
-  <string name="webview_disabled_for_user">(desactivado para o utilizador %s)</string>
+  <string name="webview_disabled_for_user">(desligado para o utilizador %s)</string>
   <string name="webview_license_title">Licença WebView do sistema</string>
   <string name="webview_uninstalled_for_user">(desinstalado para o utilizador %s)</string>
   <string name="wechat">WeChat</string>
@@ -7219,7 +7219,7 @@ Esta opção pode criar um risco de segurança, pois o seu telefone vai transmit
 Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_hide_password">Ocultar palavra-passe</string>
   <string name="wifi_hotspot_ap_band_title">Banda AP</string>
-  <string name="wifi_hotspot_auto_off_summary">A zona Wi-Fi vai ser desactivada se não forem ligados quaisquer dispositivos</string>
+  <string name="wifi_hotspot_auto_off_summary">A zona Wi-Fi vai ser desligada se não forem ligados quaisquer dispositivos</string>
   <string name="wifi_hotspot_auto_off_title">Desligar a zona Wi-Fi automaticamente</string>
   <string name="wifi_hotspot_checkbox_text">Zona Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilizar ligação móvel para fornecer rede Wi-Fi</string>
@@ -7237,7 +7237,7 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido</string>
   <string name="wifi_ip_settings_invalid_gateway">Introduza um endereço de gateway válido</string>
   <string name="wifi_ip_settings_invalid_ip_address">Introduza um endereço IP válido</string>
-  <string name="wifi_ip_settings_invalid_network_prefix_length">Introduza um prefixo de rede de comprimento entre 0 e 32</string>
+  <string name="wifi_ip_settings_invalid_network_prefix_length">Introduza um prefixo de rede entre 0 e 32</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar bateria utilizada por Wi-Fi</string>

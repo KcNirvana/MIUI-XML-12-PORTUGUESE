@@ -247,13 +247,13 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_tool_bluetooth_le_tx_ch19">Teste de frequência Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_bluetooth_le_tx_h">Teste de frequência Bluetooth LE 2.480GHz</string>
   <string name="cit_tool_bluetooth_le_tx_l">Teste de frequência Bluetooth LE 2.402GHz</string>
-  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está activado</string>
-  <string name="cit_tool_bluetooth_off">Desactivar Bluetooth</string>
-  <string name="cit_tool_bluetooth_on">Activar Bluetooth</string>
+  <string name="cit_tool_bluetooth_not_on">O Bluetooth não está ligado</string>
+  <string name="cit_tool_bluetooth_off">Desligar Bluetooth</string>
+  <string name="cit_tool_bluetooth_on">Ligar Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Teste de frequência Bluetooth BR/EDR 2.480GHz</string>
   <string name="cit_tool_bluetooth_tx_l">Teste de frequência Bluetooth BR/EDR 2.402GHz</string>
   <string name="cit_tool_cal_camera">Ferramenta de calibração da Câmara</string>
-  <string name="cit_tool_enable_3A_log">Activar o comando de registo 3A</string>
+  <string name="cit_tool_enable_3A_log">Ligar o comando de registo 3A</string>
   <string name="cit_tool_log">Obter registos</string>
   <string name="cit_tool_log_bugreport">Relatório de erros</string>
   <string name="cit_tool_log_dmesg">DMESG</string>

@@ -555,7 +555,7 @@
   <string name="error_external_sdcard_write_action">Trocar armazenamento</string>
   <string name="error_external_sdcard_write_msg">Vá a Definições &gt; Armazenamento, troque de armazenamento e tente novamente</string>
   <string name="error_external_sdcard_write_tip">Não é possível guardar no cartão SD</string>
-  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi</string>
+  <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi</string>
   <string name="error_install_connect_fail">Não foi possível carregar o plugin. Verifique a sua ligação à rede</string>
   <string name="error_install_sdcard_not_available">Não foi possível carregar o plugin devido a um erro no cartão SD</string>
   <string name="error_install_storage_not_enough">Liberte algum espaço para carregar o plugin</string>
@@ -576,7 +576,7 @@
   <string name="error_no_wifi_action">Utilizar dados móveis</string>
   <string name="error_no_wifi_msg">O seu dispositivo não está ligado ao Wi-Fi. Utilizar dados móveis podem gerar custos adicionais</string>
   <string name="error_no_wifi_tip">Não foi possível ligar ao Wi-Fi</string>
-  <string name="error_not_acceptable">A sincronização foi desactivada</string>
+  <string name="error_not_acceptable">A sincronização foi desligada</string>
   <string name="error_not_synced_action">Sincronizar agora</string>
   <string name="error_not_synced_msg">A informação não está sincronizada. Aguarde um minuto e tente novamente</string>
   <string name="error_not_synced_tip">A informação não está sincronizada</string>
@@ -595,7 +595,7 @@
   <string name="error_sync_off_msg">Certifique-se que ligou a sincronização com a Xiaomi Cloud</string>
   <string name="error_sync_off_tip">A sincronização está desligada</string>
   <string name="error_title">Não é possível sincronizar</string>
-  <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão</string>
+  <string name="error_unauthorized">A sincronização foi desligada devido a demasiadas tentativas de início de sessão</string>
   <string name="error_unknown_action">Comentários</string>
   <string name="error_unknown_host">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
   <string name="error_unknown_msg">Ocorreu um erro. Envie-nos o seu comentário</string>

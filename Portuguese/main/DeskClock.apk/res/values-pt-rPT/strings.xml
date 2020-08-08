@@ -371,7 +371,7 @@
   <string name="timer_item_picker_minute">M</string>
   <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Adicionar temporizador</string>
-  <string name="timer_notify_text">Suspender ou desactivar temporizador</string>
+  <string name="timer_notify_text">Suspender ou desligar temporizador</string>
   <string name="timer_pause_timer">Pausar temporizador</string>
   <string name="timer_ringtone">Toque do temporizador</string>
   <string name="timer_running">O temporizador está a andar</string>

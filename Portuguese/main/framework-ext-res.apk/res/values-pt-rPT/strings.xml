@@ -14,9 +14,9 @@
   <string name="apply_password_action">OK</string>
   <string name="apply_password_confirm_dlg_msg">Utilizar a sua palavra-passe de ecrã de bloqueio actual para aceder às definições para %s</string>
   <string name="apply_password_confirm_dlg_title">Palavra-passe %s</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desactivados. Duplo toque em qualquer botão para os activar</string>
-  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação activados</string>
-  <string name="auto_disable_screenbuttons_float_text">Toque para desactivar os botões de navegação</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de navegação desligados. Duplo toque em qualquer botão para os ligar</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de navegação desligados</string>
+  <string name="auto_disable_screenbuttons_float_text">Toque para desligar os botões de navegação</string>
   <string name="auto_disable_screenbuttons_prompts_message">Duplo toque em qualquer botão para activar os botões de navegação</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Não mostrar novamente</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>

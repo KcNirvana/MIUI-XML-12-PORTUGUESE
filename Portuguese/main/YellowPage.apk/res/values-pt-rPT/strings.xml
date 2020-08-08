@@ -283,7 +283,7 @@ Total: %3$s EUR"</string>
   <string name="turn_on_smart_antispam_summary">Identificar e enviar os números de telefone desconhecidos do registo de chamadas e mensagens de texto</string>
   <string name="turn_on_smart_antispam_title">Identificação de chamadas</string>
   <string name="turn_on_yellowpage_service_title">Utilizar a identificação de chamadas</string>
-  <string name="uploads_disabled">O envio de ficheiros está desactivado</string>
+  <string name="uploads_disabled">O envio de ficheiros está desligado</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
