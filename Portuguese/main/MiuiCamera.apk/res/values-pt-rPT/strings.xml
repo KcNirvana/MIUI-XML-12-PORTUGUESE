@@ -84,8 +84,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_intro_magic_star_ae">Utilizar este modo com luz fraca. A exposição pode ser configurada até %d segundos, por isso utilizar um tripé é uma brilhante ideia</string>
   <string name="ambilight_intro_silky_water_part1">Utilizar este modo quando fotografar nuvens em movimento. Vai dar ao céu um efeito de \"pintura a óleo\"</string>
   <string name="ambilight_intro_silky_water_part2">Este modo faz com que a água em movimento (rios, quedas de água e lagos) pareçam cetim</string>
-  <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo periodo de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
-  <string name="ambilight_intro_star_track_2">Fotografar o céu estrelado por um longo periodo de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
+  <string name="ambilight_intro_star_track">Fotografar o céu estrelado por um longo período de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
+  <string name="ambilight_intro_star_track_2">Fotografar o céu estrelado por um longo período de tempo pode capturar as trajetórias das estrelas. Não se esqueça de utilizar um tripé e fotografar continuamente pelo menos %d minutos</string>
   <string name="ambilight_intro_traffic_light">À noite, pode capturar a trajetória de luzes brilhantes em movimento (p.e. em carros e navios). Este modo permite pré-visualizar o resultado final no seu ecrã em tempo real</string>
   <string name="ambilight_scene_crowd_moving">Multidão em movimento</string>
   <string name="ambilight_scene_light_track">Pintura leve</string>

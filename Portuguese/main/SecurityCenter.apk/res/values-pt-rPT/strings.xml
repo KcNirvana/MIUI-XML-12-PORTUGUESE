@@ -1446,8 +1446,6 @@ das suas sessões de jogo"</string>
   <string name="gs_app_back_self_start">Poupança de bateria</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
   <string name="gs_auto_clean_memory_detail">Limpar cache automaticamente para optimizar os jogos</string>
-  <string name="gs_autobooster">Aumentar automaticamente</string>
-  <string name="gs_autobooster_detail">Aumentar velocidade automaticamente para os jogos seleccionados</string>
   <string name="gs_call_handsfree">Mãos livres</string>
   <string name="gs_call_handsfree_mute">Modo silêncio</string>
   <string name="gs_dialog_confirm_close_msg">O atalho vai ser removido do ecrã inicial. Vá a Segurança &gt; Definições para o restaurar</string>
@@ -1472,7 +1470,6 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gs_gamebox_detail">Mostrar painel de atalhos</string>
   <string name="gs_gamebox_slip">Puxar para abrir</string>
   <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
-  <string name="gs_open_game_booster">Optimizar velocidade</string>
   <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
   <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Optimizar o desempenho do sistema para jogos</string>
