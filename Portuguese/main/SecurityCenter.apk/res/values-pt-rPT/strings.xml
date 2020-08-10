@@ -68,6 +68,7 @@
   <string name="activity_title_permission_manager">Permissões</string>
   <string name="activity_title_permissions_manager">Permissões</string>
   <string name="activity_title_power_manager">Optimização de bateria</string>
+  <string name="activity_title_risk_app_install_manager">Aplicações inseguras</string>
   <string name="activity_title_root_acquired">Permitir acesso root</string>
   <string name="activity_title_root_note">Acerca do acesso root</string>
   <string name="activity_title_root_manager">Acesso root</string>
@@ -1670,7 +1671,6 @@ da operadora"</string>
   <string name="main_tobe_added_desc">Dados móveis desde ¥0.03/MB</string>
   <string name="main_today_used">Utilizados hoje</string>
   <string name="main_toolbar_firewall">Restringir utilização de dados</string>
-  <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="main_traffic_detail">Utilização de dados</string>
@@ -2582,7 +2582,16 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="result_sms_info_auth">Restringir o acesso de aplicações de terceiros a códigos de verificação</string>
   <string name="result_sms_title_antispam">Ameaçado por URLs maliciosos de SMS</string>
   <string name="result_sms_title_auth">Detectados riscos de SMS financeiros</string>
-  <string name="result_wifi_header">Detectados riscos Wi-Fi</string>
+  <string name="result_wifi_header">Detectados riscos em Wi-Fi</string>
+  <string name="risk_app_install_agree_button">Confiar nesta aplicação</string>
+  <string name="risk_app_install_agree_checkbox">Estou disposto a correr todos os riscos</string>
+  <string name="risk_app_install_agree_message">Esta aplicação foi desenvolvida por terceiros e pode violar as leis e regulamentos locais. A Xiaomi não garante a segurança do conteúdo e os serviços por esta aplicação. Quaisquer perdas pela utilização desta aplicação são da sua responsabilidade</string>
+  <string name="risk_app_install_agree_title">Aviso legal</string>
+  <string name="risk_app_install_auth_result">Autorizou a instalação de %1$s. Pode continuar assim que o pacote for detectado</string>
+  <string name="risk_app_install_empty_text">Sem itens</string>
+  <string name="risk_app_install_history">Histórico de autorizações</string>
+  <string name="risk_app_install_item_des">Versão: %1$s</string>
+  <string name="risk_app_install_manager">Aplicações inseguras</string>
   <string name="risk_count_suffix"/>
   <string name="roaming_allow_network_dialog_title">Permitir dados móveis em roaming</string>
   <string name="roaming_limit_dialog_message">Atingiu o limite diário de dados em roaming</string>

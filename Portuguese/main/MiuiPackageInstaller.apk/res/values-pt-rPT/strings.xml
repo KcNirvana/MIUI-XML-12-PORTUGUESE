@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Houve um problema com o pacote</string>
+  <string name="action_bar_report_link_des">Alerta da aplicação</string>
   <string name="adb_install_no_network">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
   <string name="adb_install_open">A abrir…</string>
   <string name="adb_install_open_error">Não foi possível abrir. Verifique as definições de rede e tente novamente</string>
@@ -68,6 +69,7 @@ Todos os dados vão ser guardados"</string>
 
 Todos os dados anteriores vão ser guardados"</string>
   <string name="done">Concluído</string>
+  <string name="exit_install_button">Não instalar</string>
   <string name="external_sources_settings">Definições</string>
   <string name="external_sources_settings_negative">Restringir</string>
   <string name="external_sources_settings_positive">Permitir uma vez</string>
@@ -92,18 +94,26 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="increment_preparing">A preparar…</string>
   <string name="install">Instalar</string>
   <string name="install_app_progress_clear_apk">Eliminar APK</string>
+  <string name="install_confirm_dialog_message">Esta aplicação é da Google. Deve instalar os serviços Google Play para poder utilizar. Instalar agora?</string>
+  <string name="install_confirm_dialog_negative_button">Cancelar</string>
+  <string name="install_confirm_dialog_positive_button">Instalar</string>
+  <string name="install_confirm_dialog_title">Atenção</string>
   <string name="install_confirm_question">Instalar esta aplicação? Vai ter acesso a:</string>
+  <string name="install_confirm_question_des_10">Se estiver disposto a correr os riscos e quiser prosseguir com a instalação, autorize a instalação em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Aplicações inseguras</string>
   <string name="install_confirm_question_no_perms">Instalar esta aplicação? Não necessita de permissões especiais</string>
   <string name="install_confirm_question_update">Instalar uma actualização para esta aplicação existente? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
   <string name="install_confirm_question_update_no_perms">Instalar uma actualização para esta aplicação existente? Os dados existentes não vão ser perdidos. Não necessita de permissões especiais</string>
   <string name="install_confirm_question_update_system">Instalar uma actualização para esta aplicação de sistema? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
   <string name="install_confirm_question_update_system_no_perms">Instalar uma actualização para esta aplicação de sistema? Os dados existentes não vão ser perdidos. Não necessita de permissões especiais</string>
+  <string name="install_confirm_text_gms">Esta aplicação é da Google. Deve instalar os serviços Google Play para poder utilizar. Sem os serviços Google, a aplicação pode não funcionar correctamente</string>
   <string name="install_control_cancel_install">Não instalar</string>
+  <string name="install_control_cancel_vip_account_install">Sair</string>
   <string name="install_control_continue_install">Instalar mesmo assim</string>
   <string name="install_control_lite_mode_explain_des">Esta aplicação vem de uma origem desconhecida e pode não funcionar no modo Leve</string>
   <string name="install_control_lite_mode_solution_des">"Pode escolher instalar esta aplicação mesmo assim.
 Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="install_control_normal_mode_explain_des">Não é possível instalar esta aplicação devido a restrições legais</string>
+  <string name="install_control_vip_account_install">Aplicar para Beta</string>
   <string name="install_done">Aplicação instalada</string>
   <string name="install_failed">Não foi possível instalar esta aplicação</string>
   <string name="install_failed_blocked">O pacote foi impedido de ser instalado</string>
@@ -115,7 +125,12 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="install_finished_notification_summary">Toque para libertar espaço</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso. Pode libertar %2$s</string>
   <string name="install_from_appstore_hint">"Nós recomendamos que instale a aplicação da <u><font color='#91c727'>Mi App Store</font></u>"</string>
+  <string name="install_vip_account_mode_explain_des">Esta é uma versão Beta. Aplicar para Beta antes de instalar</string>
+  <string name="install_vip_account_mode_solution_des">Aplicar para Beta</string>
   <string name="installing">A instalar…</string>
+  <string name="intercept_confirm_dialog_message">%1$s está a tentar instalar %2$s. Verifique a sua identidade para continuar</string>
+  <string name="intercept_confirm_dialog_positive">Verificar</string>
+  <string name="intercept_confirm_dialog_title">Atenção</string>
   <string name="intercept_install">Instalar</string>
   <string name="launch">Abrir</string>
   <string name="lift_ban">Permitir</string>
@@ -295,6 +310,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
  "&lt;li&gt;O pacote de instalação vem duma origem desconhecida&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não vai ser questionado para instalar versões seguras de aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="settings_warning_dialog_title">Atenção</string>
+  <string name="spannable_continue_text">Eu percebo os riscos. Instalar mesmo assim</string>
   <string name="system_warning">Se negar esta permissão, as funcionalidades básicas podem não funcionar correctamente</string>
   <string name="toast_network_eror">Não é possível ligar à rede</string>
   <string name="trust_switch_dialog_msg">Não vai pedir permissão quando aceder aos seus contactos, mensagens, palavras-passe ou outras partes do sistema</string>

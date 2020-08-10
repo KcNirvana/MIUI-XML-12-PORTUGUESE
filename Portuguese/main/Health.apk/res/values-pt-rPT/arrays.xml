@@ -101,8 +101,8 @@
         <item>Toque Continuar para abrir o assistente</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>O assistente grava registos automaticamente quando estiver em pé pelo estado de utilização do telefone. Ligue o lembrete de ficar em pé para o lembrar quando não estiver de pé em 1 hora:</item>
-        <item>Confirmar a activação vai simultaneamente ligar a detecção e o envio de notificações de ficar em pé</item>
+        <item>Saúde detecta e regista quando está de pé. Pode também receber lembretes para ficar em pé após uma hora de inactividade</item>
+        <item>Esta funcionalidade regista os seus movimentos e envia lembretes baseados nos resultados</item>
     </string-array>
     <string-array name="week">
         <item>Domingo</item>

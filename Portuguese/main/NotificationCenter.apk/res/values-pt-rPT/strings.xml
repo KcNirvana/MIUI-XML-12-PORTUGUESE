@@ -22,6 +22,7 @@
   <string name="feedback_tip_msg">Para agrupar as notificações com mais precisão, necessitamos de obter o nome, título, descrição e hora de envio das notificações. Submeter o seu comentário?</string>
   <string name="feedback_tip_title">Comentários nas categorias</string>
   <string name="float_notifications">Flutuantes</string>
+  <string name="float_notifications_short">Flutuantes</string>
   <string name="function_description">Acerda desta funcionalidade</string>
   <string name="hint_search_all">Pesquisar aplicações</string>
   <string name="hint_search_in_disabled_apps">Pesquisar aplicações que não podem mostrar notificações</string>
@@ -32,6 +33,7 @@
   <string name="lock_screen_display_rules">Formato</string>
   <string name="lock_screen_tip_toast">Permitir notificações no ecrã de bloqueio em \"Formato\"</string>
   <string name="lockscreen_notifications">Ecrã de bloqueio</string>
+  <string name="lockscreen_notifications_short">Ecrã de bloqueio</string>
   <string name="menu_setting_recommend_to_minus">Mostrar menos notificações</string>
   <string name="menu_setting_recommend_to_normal">Não reduzir notificações</string>
   <string name="menu_setting_show_in_home">Não agrupar</string>
@@ -69,6 +71,7 @@ Reportar este erro &gt;"</string>
   <string name="on">Ligado</string>
   <string name="settings_guide_title">Necessita de outras definições?</string>
   <string name="show_badge_notifications">Emblemas</string>
+  <string name="show_badge_notifications_short">Emblemas</string>
   <string name="status_bar_setting">Barra de estado</string>
   <string name="summary_disable_float_notification">Notificações não permitidas</string>
   <string name="summary_disable_lockscreen_notification">Notificações não permitidas</string>

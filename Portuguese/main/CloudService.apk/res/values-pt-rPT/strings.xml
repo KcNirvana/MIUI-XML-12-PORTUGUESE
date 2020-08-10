@@ -345,6 +345,15 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_wipe_data_confirm_title">Alguns itens das seguintes aplicações estão sincronizados com a Xiaomi Cloud. Pode eliminá-los deste dispositivo</string>
   <string name="micloud_wipe_data_remove">Remover</string>
   <string name="micloud_wipe_data_retain">Manter</string>
+  <string name="midrive_guide1_desc">Copiar itens para a Xiaomi Cloud para libertar espaço no seu dispositivo</string>
+  <string name="midrive_guide1_title">Cópias seguras</string>
+  <string name="midrive_guide2_desc">Transferir itens a uma rápida velocidade</string>
+  <string name="midrive_guide2_title">Transferências rápidas</string>
+  <string name="midrive_guide3_desc">Utilizar o Mi Drive em dispositivos móveis, computadores e navegadores</string>
+  <string name="midrive_guide3_title">Funciona em todo o lado</string>
+  <string name="midrive_guide_btn_install">Instalar Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Abrir Mi Drive</string>
+  <string name="midrive_guide_btn_installing">A instalar…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

@@ -269,6 +269,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="admin_support_more_info">Mais detalhes</string>
   <string name="advanced_apps">Avançadas</string>
   <string name="advanced_battery_title">Utilização de bateria</string>
+  <string name="advanced_gesture">Gestos personalizados</string>
   <string name="advanced_screen_paper_mode_title">Modo de Leitura</string>
   <string name="advanced_section_header">Avançadas</string>
   <string name="advanced_security_title">Avançadas</string>
@@ -294,6 +295,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="ai_settings_single_press_des">Prima o botão IA para falar com o assistente Google. Solte para obter a resposta</string>
   <string name="airplane_mode">Modo Avião</string>
   <string name="airplane_mode_summary">Desactivar chamadas, mensagens e dados móveis</string>
+  <string name="airplane_mode_summary">Ligar para desligar o seu dispositivo das redes móveis. Não vai poder efectuar chamadas, enviar e receber mensagens ou utilizar dados móveis</string>
   <string name="alarm_ringtone_title">Som de alarme predefinido</string>
   <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
   <string name="alarm_sound_title">Alarme</string>
@@ -1371,6 +1373,7 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="cellular_data_title">Dados de móveis</string>
   <string name="cellular_data_usage">Utilização de dados móveis</string>
   <string name="change">Alterar</string>
+  <string name="change_brightness">Ajustar brilho</string>
   <string name="change_lock_screen_password_title">Alterar bloqueio de ecrã</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimentar outras formas de desbloqueio</string>
@@ -2160,7 +2163,8 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="domain_urls_title">Links das aplicações</string>
   <string name="done">Concluído</string>
   <string name="done_button">Concluído</string>
-  <string name="double_click_power_key">Duplo toque botão no Ligar/Desligar</string>
+  <string name="double_click_power_key">Duplo toque no botão Ligar/Desligar</string>
+  <string name="double_click_volume_down_when_lock">Duplo toque no botão Volume- com o ecrã bloqueado</string>
   <string name="double_tap_power_for_camera_summary">Para abrir rapidamente a câmara, prima duas vezes o botão Ligar/Desligar. Funciona a partir de qualquer ecrã</string>
   <string name="double_tap_power_for_camera_title">Aceder à câmara</string>
   <string name="double_twist_for_camera_mode_title">Virar a câmara</string>
@@ -2701,6 +2705,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gentle_notifications_display_summary_shade_status_lock">Mostrar no painel pendente, na barra de estado e no ecrã de bloqueio</string>
   <string name="gentle_notifications_education">As notificações discretas são sempre silenciosas e aparecem sempre no painel pendente</string>
   <string name="gentle_notifications_title">Notificações discretas</string>
+  <string name="gesture_function_dialog_message">%1$s é utilizado para \"%2$s\". Substituir com \"%3$s\"?</string>
   <string name="gesture_not_supported_dialog_message">Não suportada pelo seu launcher predefinido, %s</string>
   <string name="gesture_not_supported_positive_button">Mudar de launcher predefinido</string>
   <string name="gesture_preference_summary">Gestos rápidos para controlar o seu telefone</string>
@@ -2710,6 +2715,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_prevent_ringing_title">Premir o botão Ligar/Desligar e o botão Volume+ ao mesmo tempo para</string>
   <string name="gesture_setting_off">Desligado</string>
   <string name="gesture_setting_on">Ligado</string>
+  <string name="gesture_settings_title">Atalhos de gestos</string>
   <string name="gesture_wakeup_summary">Dar um duplo toque no ecrã para ligar ou desligar o ecrã</string>
   <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar o ecrã</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
@@ -2984,6 +2990,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="key_combination_power_back">Ligar/Desligar + Voltar</string>
   <string name="key_combination_power_home">Ligar/Desligar + Início</string>
   <string name="key_combination_power_menu">Ligar/Desligar + Menu</string>
+  <string name="key_combination_power_volume_down">Volume- + Ligar/Desligar</string>
   <string name="key_fsg_dialog_message">Está a utilizar os gestos de ecrã inteiro para navegação. As funções relacionadas com botões não estão disponíveis. Trocar para botões?</string>
   <string name="key_fsg_dialog_negative">Cancelar</string>
   <string name="key_fsg_dialog_positive">Trocar para botões</string>
@@ -3434,6 +3441,7 @@ para o Segundo espaço"</string>
   <string name="long_press_menu_key_when_lock">Toque longo no botão Menu no ecrã de bloqueio</string>
   <string name="long_press_power_key">Toque longo no botão Ligar/Desligar</string>
   <string name="long_press_power_key_half_of_second">Toque longo no botão Ligar/Desligar por 0.5 segundos para ligar o assistente Google</string>
+  <string name="long_press_power_key_half_second">Toque longo no botão Ligar/Desligar por 0.5 segundos</string>
   <string name="long_press_power_key_tips">Toque longo no botão Ligar/Desligar <font color="#999999">Mais rápido e conveniente</font></string>
   <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
   <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>

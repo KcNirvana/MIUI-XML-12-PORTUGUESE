@@ -635,6 +635,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_heic_image_format_description">As fotos no formato HEIF ocupam menos espaço mas não suportadas por algumas aplicações</string>
   <string name="pref_camera_heic_image_format_description2">"O formato HEIF poupa espaço de armazenamento mas não é suportado por algumas aplicações. Não pode tirar fotos ao vivo e remover marcas d'água em HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
+  <string name="pref_camera_high_quality_preferred_description">Melhorar a qualidade de imagem utilizando um algoritmo. A captura de imagem pode diminuir com esta funcionalidade ligada</string>
+  <string name="pref_camera_high_quality_preferred_title">Melhorar qualidade de imagem</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
   <string name="pref_camera_histogram_entry_enable">Ligar</string>
   <string name="pref_camera_iso_entry_auto">Automático</string>
@@ -830,7 +832,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_google_lens_summary">Aponte a sua câmara para as informações do contacto, URLs e códigos QR para ver as opções disponíveis</string>
   <string name="pref_google_lens_title">Sugestões Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
-  <string name="pref_hdr10_video_mode_description">Suporta vídeos em 4K e 8K videos codificados em H.265</string>
+  <string name="pref_hdr10_video_mode_description">Optimizar cores e contraste para vídeos em 4K e 8K automaticamente</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
