@@ -294,7 +294,6 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="ai_settings_long_click_title">Premir e segurar</string>
   <string name="ai_settings_single_press_des">Prima o botão IA para falar com o assistente Google. Solte para obter a resposta</string>
   <string name="airplane_mode">Modo Avião</string>
-  <string name="airplane_mode_summary">Desactivar chamadas, mensagens e dados móveis</string>
   <string name="airplane_mode_summary">Ligar para desligar o seu dispositivo das redes móveis. Não vai poder efectuar chamadas, enviar e receber mensagens ou utilizar dados móveis</string>
   <string name="alarm_ringtone_title">Som de alarme predefinido</string>
   <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
