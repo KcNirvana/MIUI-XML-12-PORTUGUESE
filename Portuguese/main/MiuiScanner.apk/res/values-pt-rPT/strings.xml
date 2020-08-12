@@ -144,8 +144,8 @@
   <string name="function">Funcionalidades</string>
   <string name="general_error">Não foi possível reconhecer</string>
   <string name="general_feedback">Reportar resultado errado</string>
-  <string name="general_location">Store identification function needs to obtain location information to authorize</string>
-  <string name="general_location_dialog">Some features of object recognition are provided by Dianping. If you want to recognize objects in stores, Dianping needs to use the photos you take while using this feature along with their location info in order to provide the relevant results to you.</string>
+  <string name="general_location">A função de identificação de loja necessita de obter informações de localização para autorizar</string>
+  <string name="general_location_dialog">Alguns recursos de reconhecimento de objecto são fornecidos pelo Dianping. Para o reconhecimento de objectos em lojas funcionar normalmente, o Dianping necessita de utilizar as fotos que tirou com as informações de localização para fornecer e obter os resultados relevantes</string>
   <string name="general_location_prompt">Acesso à localização</string>
   <string name="general_recognized">"Resultado: "</string>
   <string name="general_title">Tirar uma foto dum objecto para reconhecer</string>
