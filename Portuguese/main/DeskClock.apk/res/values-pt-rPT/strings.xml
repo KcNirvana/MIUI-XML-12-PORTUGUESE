@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_for_continue_timer">Retomar</string>
+  <string name="action_for_pause_timer">Pausar</string>
+  <string name="action_for_restart">Repetir</string>
+  <string name="action_for_snooze">Suspender</string>
+  <string name="action_for_stop">Parar</string>
   <string name="add_alarm">Adicionar alarme</string>
   <string name="add_clock">Adicionar relógio</string>
   <string name="add_common_timer">Adicionar temporizador</string>

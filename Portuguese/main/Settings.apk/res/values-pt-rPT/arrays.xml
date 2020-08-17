@@ -1154,6 +1154,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Brilhante</item>
         <item>Predefinido</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Toque</item>
+        <item>Duplo toque</item>
+    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 segundos</item>
         <item>30 segundos</item>

@@ -4392,7 +4392,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="password_toggle_content_description">Mostrar palavra-passe</string>
   <string name="password_turned_off_text">Desligado</string>
   <string name="password_turned_on_text">Ligado</string>
-  <string name="password_unlock_title">Palavra-passe</string>
+  <string name="password_unlock_title">Bloqueio de ecrã</string>
   <string name="payment_summary">Predefinido :%1$s</string>
   <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
   <string name="performance_category">Desempenho</string>
@@ -5158,6 +5158,8 @@ Para utilizar a fixação no ecrã:
   <string name="screen_projection_sample_title">Demonstrações</string>
   <string name="screen_projection_title">Transmissão</string>
   <string name="screen_reader_category_title">Leitores de ecrã</string>
+  <string name="screen_reader_mode_input_type_summary">Seleccionar gesto para activar a introdução de texto com o TalkBack ligado</string>
+  <string name="screen_reader_mode_input_type_title">Introdução de texto</string>
   <string name="screen_resolution_confirm">Reiniciar</string>
   <string name="screen_resolution_summary">Baixar a resolução do ecrã pode aumentar a vida da bateria e a velocidade do sistema, mas as imagens podem ser menos claras. O seu dispositivo tem de reiniciar para aplicar esta alteração</string>
   <string name="screen_resolution_switch">Alterar resolução</string>
@@ -5686,6 +5688,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="sim_call_back_title">Ligar de volta do SIM predefinido</string>
   <string name="sim_calls_always_use">Utilizar sempre este para chamadas</string>
   <string name="sim_calls_ask_first_prefs_title">Perguntar sempre</string>
+  <string name="sim_card_lock">Estado do cartão SIM</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Seleccionar cartão SIM</string>
   <string name="sim_cards_changed_message">Cartões SIM foram alterados</string>
@@ -5792,6 +5795,9 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="smart_battery_manager_title">Gestor de bateria</string>
   <string name="smart_battery_summary">Limitar a bateria para as aplicações que não utiliza frequentemente</string>
   <string name="smart_battery_title">Gerir aplicações automaticamente</string>
+  <string name="smart_home_title">Casa inteligente</string>
+  <string name="smart_home_value_none">Nenhum</string>
+  <string name="smart_home_value_unknown">Desconhecido</string>
   <string name="smart_notifications_title">Notificações adaptáveis</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Modo capa inteligente</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>

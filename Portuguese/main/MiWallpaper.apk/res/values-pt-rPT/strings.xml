@@ -46,6 +46,7 @@ dd/M"</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Seleccionar localização</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
   <string name="wallpaper_setting_find_more_text">Mais papéis de parede online</string>
   <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ecrã inicial</string>
