@@ -274,7 +274,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_open">Permitir</string>
   <string name="dialog_permission_loading_msg">A verificar…</string>
   <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
-  <string name="dialog_privacy_title">Termos e condições</string>
+  <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="dialog_read_phone_perm_desc">Para identificar o seu dispositivo</string>
   <string name="dialog_request_network">Concorde com a aplicação de rede</string>
   <string name="dialog_sleep_goal_setting">Definir objectivos de duração do sono</string>

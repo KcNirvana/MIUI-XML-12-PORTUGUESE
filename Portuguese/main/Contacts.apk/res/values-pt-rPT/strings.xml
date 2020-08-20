@@ -988,7 +988,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="recent_contacts_label">Recentes</string>
   <string name="recent_number">Recentes</string>
   <string name="recent_updates">Actualizações recentes</string>
-  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e condições do contrato com o seu fornecedor de telecomunicações</string>
+  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e Condições do contrato com o seu fornecedor de telecomunicações</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
   <string name="refresh">Actualizar</string>
   <string name="relationLabelsGroup">Relação</string>

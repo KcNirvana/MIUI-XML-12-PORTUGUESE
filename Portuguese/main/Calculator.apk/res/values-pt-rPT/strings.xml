@@ -67,7 +67,7 @@
   <string name="deselect_all">Desmarcar</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
   <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
-  <string name="dialog_privacy_title">Termos e condições</string>
+  <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
   <string name="dotDesc">Ponto</string>

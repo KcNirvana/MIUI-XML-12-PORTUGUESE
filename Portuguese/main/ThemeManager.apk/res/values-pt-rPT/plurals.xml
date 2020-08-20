@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d temas AOD</item>
+        <item quantity="one">%1$d temas AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d tipos de letra</item>
+        <item quantity="one">%1$d tipo de letra</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d ícones</item>
+        <item quantity="one">%1$d ícone</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d temas</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">%1$d itens adicionados</item>
+        <item quantity="one">%1$d item adicionado</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">%1$d itens adicionados à sua conta</item>
+        <item quantity="one">%1$d item adicionado à sua conta</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"You can only download %1$d free items if you aren't signed in (wallpapers and ringtones excluded). Sign in to download items without restrictions."</item>
+        <item quantity="one">"You can only download %1$d free item if you aren't signed in (wallpapers and ringtones excluded). Sign in to download items without restrictions."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">%1$d itens não adicionados à sua conta</item>
+        <item quantity="one">%1$d item não adicionado à sua conta</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d horas atrás</item>
         <item quantity="one">%d hora atrás</item>

@@ -50,8 +50,10 @@
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">Não foi possível carregar</string>
   <string name="just_now">Agora mesmo</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="load_err">Não é possível carregar</string>
+  <string name="load_label_up_no_data">Sem itens</string>
+  <string name="load_label_up_none">Sem itens</string>
+  <string name="load_label_up_refresh">A carregar itens…</string>
+  <string name="load_label_up_refresh_fail">Não foi possível carregar itens</string>
   <string name="login_reg_content">Armazenar ficheiros e sincronizar entre vários dispositivos</string>
   <string name="login_reg_title">Utilizar Mi Drive em qualquer lugar</string>
   <string name="megabyteShort">MB</string>
@@ -104,6 +106,12 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Actualize o Ficheiros primeiro</string>
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
+  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="refresh_label_pull_to_refresh">Puxar para actualizar</string>
+  <string name="refresh_label_refreshed">Actualizado com sucesso</string>
+  <string name="refresh_label_refreshing">A actualizar…</string>
+  <string name="refresh_label_release_to_refresh">Soltar para actualizar</string>
+  <string name="remove_success">Eliminado com sucesso</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
   <string name="request_permission_msg">Permita que o Mi Drive aceda às suas informações de conta e armazenamento para funcionar normalmente</string>
@@ -121,8 +129,16 @@
   <string name="trans_mobile_network_message">Utilizar dados móveis para transferir pode gerar taxas adicionais. Pretende continuar?</string>
   <string name="trans_task">Tarefas de transferências</string>
   <string name="transing">A enviar</string>
-  <string name="upload_failed">Não foi possível carregar</string>
-  <string name="upload_file_to_midrive">Carregar ficheiros para o Mi Drive</string>
+  <string name="update_dialog_button_cancel">Agora não</string>
+  <string name="update_dialog_button_ok">Actualizar</string>
+  <string name="update_dialog_content">"Nova versão: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Actualização disponível</string>
+  <string name="update_failed">Ocorreu um erro. Aguarde um momento e tente novamente</string>
+  <string name="update_failed_no_app_info">Não foi possível obter o pacote de instalação</string>
+  <string name="update_no_network">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
+  <string name="update_no_update">A versão actual está actualizada</string>
+  <string name="update_progress_dialog_content">A transferir…</string>
   <string name="uploading">A carregar</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">A aguardar por rede…</string>

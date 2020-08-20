@@ -1707,7 +1707,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_alias_self">Eu</string>
   <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com os &amp;lt;a href=\"%1$s\"&amp;gt;\"Termos de Serviço\"&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;\"Política de Privacidade\"&amp;lt;/a&amp;gt;</string>
-  <string name="user_notice_title">Termos e condições</string>
+  <string name="user_notice_title">Termos e Condições</string>
   <string name="video_analytic_cancel">Cancelar</string>
   <string name="video_analytic_download">Transferir</string>
   <string name="video_analytic_download_failed_for_notwork">Não foi possível transferir. Verifique as suas definições de rede e tente novamente</string>

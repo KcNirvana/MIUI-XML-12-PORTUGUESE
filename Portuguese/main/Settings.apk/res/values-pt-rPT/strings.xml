@@ -3821,8 +3821,8 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
   <string name="mqs_privacy_automatically_upload">Enviar automaticamente da próxima vez</string>
   <string name="mqs_privacy_dialog_cancel">Cancelar</string>
   <string name="mqs_privacy_dialog_confirm">Enviar</string>
-  <string name="mqs_privacy_dialog_content">Enviar registos para nos ajudar a encontrar e resolver este problema? Os registos podem conter informações pessoais</string>
-  <string name="mqs_privacy_dialog_title">Ocorreu um erro</string>
+  <string name="mqs_privacy_dialog_content">Ocorreram erros no seu dispositivo recentemente. Pode enviar os registos para nos ajudar a localizar e resolver este problema. Os registos podem conter informações pessoais. Enviar agora?</string>
+  <string name="mqs_privacy_dialog_title">A enviar registos</string>
   <string name="msd_driver_download">Transferir driver</string>
   <string name="msd_driver_download_mac">OSX: Transferir o driver e instalar o AndroidFileTransfer.dmg</string>
   <string name="msd_driver_download_mac_url">Obter o driver em http://www.android.com/filetransfer/</string>
@@ -5850,7 +5850,7 @@ Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string
   <string name="sos_privacy_dialog_button_ok">Concordar</string>
   <string name="sos_privacy_dialog_message">"Leia e concorde com os nossos %s antes de utilizar esta funcionalidade.
 Esta funcionalidade necessita de permissões para aceder à sua localização, utilizar redes móveis e ler os seus contactos. Concorda?"</string>
-  <string name="sos_privacy_dialog_title">Termos e condições</string>
+  <string name="sos_privacy_dialog_title">Termos e Condições</string>
   <string name="sound_assist_summary">Personalizar as suas definições de som</string>
   <string name="sound_assist_title">Assistente de som</string>
   <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
@@ -6234,7 +6234,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
   <string name="taplus_title">Taplus</string>
   <string name="temporary_style">10 segundos após tocar no ecrã</string>
-  <string name="terms_title">Termos e condições</string>
+  <string name="terms_title">Termos e Condições</string>
   <string name="testing">Testes</string>
   <string name="testing_phone_info">Informações do telefone</string>
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>

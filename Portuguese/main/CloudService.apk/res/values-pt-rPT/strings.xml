@@ -85,6 +85,8 @@
   <string name="last_sync_time_yesterday">Ontem</string>
   <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações agora, vá a %s</string>
   <string name="loading">Aguarde…</string>
+  <string name="low_battery_locate_summary">Reportar automaticamente a localização com a bateria fraca</string>
+  <string name="low_battery_locate_title">Reportar localização com bateria fraca</string>
   <string name="master_alert_notif_content">Faça cópias regularmente para não perder dados importantes</string>
   <string name="master_alert_notif_title">Ligar a sinc. com a Xiaomi Cloud</string>
   <string name="member_entrance_normal_title">Alterar plano da Xiaomi Cloud</string>
@@ -388,13 +390,16 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="picker_list_empty">Sem contactos</string>
   <string name="picker_search_empty">Sem contactos</string>
   <string name="picker_search_hint">Pesquisar</string>
+  <string name="power_off_locate_summary">"Reportar localização ao desligar.
+A localização pode não ser reportada quando a ligação de rede for fraca"</string>
+  <string name="power_off_locate_title">Reportar localização antes de desligar</string>
   <string name="pre_privacy_policy">Política de Privacidade</string>
   <string name="pre_user_agreement">Termos de Utilização</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only_china">Utilizar apenas Wi-Fi para sincronizar fotos</string>
-  <string name="privacy_and_agreement">Termos e condições</string>
+  <string name="privacy_and_agreement">Termos e Condições</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="privacy_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
@@ -497,8 +502,6 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>
   <string name="reading_status_failure">Não foi possível carregar estado</string>
-  <string name="send_last_location_summary">Sincronizar a localização enquanto o dispositivo está a ser desligado</string>
-  <string name="send_last_location_title">Localizar antes de desligar</string>
   <string name="share_cancel">Partilha cancelada</string>
   <string name="share_failed">Não foi possível partilhar</string>
   <string name="share_miliao_not_installed">O Mi Talk não está instalado</string>

@@ -811,7 +811,7 @@
   <string name="cta_close_dialog_title">Restrição de acessos</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
-  <string name="cta_dialog_title">Termos e condições</string>
+  <string name="cta_dialog_title">Termos e Condições</string>
   <string name="cta_main_purpose">Bem-vindo a Segurança! Pode utilizar esta aplicação para limpar lixo no seu dispositivo, limpar vírus, optimizar desempenho em jogos, poupar bateria, etc.</string>
   <string name="cta_settings">Permitir acesso à Internet e localização</string>
   <string name="current_network_state_not_need_diagnose">A ligação à Internet está normal</string>
@@ -1037,7 +1037,7 @@ cartão de saúde"</string>
   <string name="ew_emergency_privacy">Declaração de privacidade: as informações fornecidas aqui serão utilizadas apenas em casos de emergência e armazenadas no seu dispositivo. Não enviaremos essas informações para nossos servidores</string>
   <string name="ew_emergency_recent_medicine">Medicação recentemente administrada</string>
   <string name="ew_emergency_title">Cartão de saúde</string>
-  <string name="ew_first_start_network_title">Termos e condições</string>
+  <string name="ew_first_start_network_title">Termos e Condições</string>
   <string name="ew_guide_law_agree">Concordar</string>
   <string name="ew_guide_law_done">Percebi</string>
   <string name="ew_guide_law_exit">Não concordo</string>

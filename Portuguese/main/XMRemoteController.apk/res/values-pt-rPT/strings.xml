@@ -409,7 +409,7 @@
   <string name="laboratory">Experimental</string>
   <string name="last_bak_time">Última cópia: %1$s</string>
   <string name="last_use_frame">%1$s atrás</string>
-  <string name="legal_terms">Termos e condições</string>
+  <string name="legal_terms">Termos e Condições</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Sala de estar</string>
   <string name="loading_brand">A obter informação…</string>
@@ -867,7 +867,7 @@ Se não concordar em conceder estas permissões ou não permitir obter as inform
   <string name="privacy_content_new_license">\"Termos de Utilização\"</string>
   <string name="privacy_content_new_privacy">\"Política de Privacidade\"</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
-  <string name="privacy_title">Termos e condições</string>
+  <string name="privacy_title">Termos e Condições</string>
   <string name="program_booking_book_filter_book_status">Estado da verificação</string>
   <string name="program_booking_book_filter_not_booked">Sem subscrição</string>
   <string name="program_booking_channel_filter_all_channels">Todos os canais</string>

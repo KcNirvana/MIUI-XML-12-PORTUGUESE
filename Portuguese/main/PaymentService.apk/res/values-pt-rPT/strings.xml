@@ -136,7 +136,7 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_label_pay_remain">Valor devido: %1$s Mi Credits</string>
   <string name="mibi_license_message">Está prestes a utilizar Mi Credits, que é um serviço fornecido pela Xiaomi Inc. Antes de utilizar este serviço, deve concordar com os Termos de Utilização descritos em %1$s. Toque em OK se concordar com os termos e conditions descritos em %1$s. É necessário ligar à Internet para utilizar os Mi Credits</string>
   <string name="mibi_license_message_span">Termos de utilização Mi Credits</string>
-  <string name="mibi_license_title">Termos e condições</string>
+  <string name="mibi_license_title">Termos e Condições</string>
   <string name="mibi_list_item_bottom_hint">Chegou ao fim desta lista</string>
   <string name="mibi_login">Iniciar sessão</string>
   <string name="mibi_memu_refresh">Actualizar</string>

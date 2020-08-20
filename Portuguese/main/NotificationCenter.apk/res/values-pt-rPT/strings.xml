@@ -34,16 +34,12 @@
   <string name="lock_screen_tip_toast">Permitir notificações no ecrã de bloqueio em \"Formato\"</string>
   <string name="lockscreen_notifications">Ecrã de bloqueio</string>
   <string name="lockscreen_notifications_short">Ecrã de bloqueio</string>
-  <string name="menu_setting_recommend_to_minus">Mostrar menos notificações</string>
-  <string name="menu_setting_recommend_to_normal">Não reduzir notificações</string>
+  <string name="menu_setting_aggregatation_feedback">Opções de agrupamento</string>
+  <string name="menu_setting_feedback_donot_classify">Não agrupar</string>
+  <string name="menu_setting_more_settings">Mais definições</string>
   <string name="menu_setting_show_in_home">Não agrupar</string>
-  <string name="menu_setting_tip_recommend_minus">Vai ver menos notificações de %s</string>
-  <string name="menu_setting_tip_recommend_normal">As notificações de %s não vão ser reduzidas</string>
   <string name="menu_setting_tip_show_in_home">As notificações de %s não vão ser agrupadas</string>
   <string name="menu_setting_tip_unfold">Todas as notificações desta aplicação vão ser consideradas importantes</string>
-  <string name="menu_setting_toast_recommend_minus">Vai ver menos notificações de %s</string>
-  <string name="menu_setting_toast_recommend_normal">As notificações de %s não vão ser reduzidas</string>
-  <string name="menu_setting_toast_show_in_home">As notificações de %s não vão ser agrupadas</string>
   <string name="menu_setting_unfold">Importantes</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
@@ -53,6 +49,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="mune_setting_prefix_category">"Agrupar com "</string>
   <string name="not_sent_recently">Sem recentes</string>
   <string name="notch_and_status_bar_setting">Centro de controlo e barra de estado</string>
   <string name="notification_aggregate_description1">A MIUI pode agrupar as notificações automaticamente tornando a área de notificações mais vazia</string>
@@ -65,10 +62,9 @@
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_manager">Notificações das aplicações</string>
-  <string name="notification_setting_menu_feedback_text">"Esta notificação não devia estar aqui?
-Reportar este erro &gt;"</string>
   <string name="off">Desligado</string>
   <string name="on">Ligado</string>
+  <string name="setting_menu_success">Definido com sucesso</string>
   <string name="settings_guide_title">Necessita de outras definições?</string>
   <string name="show_badge_notifications">Emblemas</string>
   <string name="show_badge_notifications_short">Emblemas</string>
@@ -83,6 +79,5 @@ Reportar este erro &gt;"</string>
   <string name="summary_lock_screen_enable_notification_first">Sem notificações permitidas</string>
   <string name="summary_show_badge_enable_notification_first">Sem notificações permitidas</string>
   <string name="swipe_to_delete">Deslizar para a esquerda ou direita para eliminar</string>
-  <string name="tip_feedback_success">Submetido com sucesso</string>
-  <string name="tip_select_category">Seleccionar a categoria</string>
+  <string name="tip_feedback_thanks">Obrigado pelos comentários!</string>
 </resources>

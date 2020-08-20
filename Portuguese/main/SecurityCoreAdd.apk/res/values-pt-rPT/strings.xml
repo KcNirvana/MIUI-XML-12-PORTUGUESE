@@ -72,7 +72,7 @@ para poder vê-las em qualquer momento"</string>
   <string name="creating_app_icon">A criar ícone…</string>
   <string name="cta_declaration_agree_and_continue">Concordar</string>
   <string name="cta_declaration_message_format" formatted="false">Tem de ler e concordar com os nossos &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; antes de utilizar o modo empresarial. O seu dispositivo necessita de ligar à Internet para activar o modo empresarial. Concorda?</string>
-  <string name="cta_declaration_title">Termos e condições</string>
+  <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_space">Espaço actual</string>
   <string name="dataSafe">Utilizar o Segundo espaço é como ter dois dispositivos</string>
   <string name="declare_dialog_title">Acerca das aplicações clonadas</string>

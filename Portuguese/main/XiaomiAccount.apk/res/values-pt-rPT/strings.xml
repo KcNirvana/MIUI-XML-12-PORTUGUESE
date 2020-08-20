@@ -58,7 +58,7 @@
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
   <string name="add_account">Associar conta</string>
-  <string name="agreement_and_privacy">Política de Privacidade e Termos de Utilização</string>
+  <string name="agreement_and_privacy">Termos e Condições</string>
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
@@ -157,6 +157,7 @@ Envie este código ao supervisor"</string>
   <string name="health_state_not_activated">Não activado</string>
   <string name="health_state_not_installed">Não instalado</string>
   <string name="health_state_not_support">Não suportado nesta versão</string>
+  <string name="help_center">Ajuda</string>
   <string name="i_agree">OK</string>
   <string name="i_agree_continue">Concordar</string>
   <string name="identity">Identificação</string>
