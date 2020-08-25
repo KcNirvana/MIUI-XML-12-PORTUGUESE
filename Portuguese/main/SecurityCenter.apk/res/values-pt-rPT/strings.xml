@@ -1096,7 +1096,7 @@ cartão de saúde"</string>
   <string name="ew_main_warning_list">Ver avisos</string>
   <string name="ew_main_warning_list_tips">Ver</string>
   <string name="ew_main_warning_list_title">Ver histórico de avisos</string>
-  <string name="ew_not_support_area">Avisos não são suportados nesta zona</string>
+  <string name="ew_not_support_area">Avisos não são suportados nesta área</string>
   <string name="ew_push_message">Intensidade estimada: %s. Espere uma réplica com pouca intensidade perto da sua localização</string>
   <string name="ew_push_title">Aviso de sismo para %s</string>
   <string name="ew_safe_place_no_maps_tips">Não é possível pesquisar agora. Instale o Baidu Maps ou o Amap primeiro</string>
