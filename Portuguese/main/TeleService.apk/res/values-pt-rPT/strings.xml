@@ -833,6 +833,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Roaming de dados ligado</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Actualmente em roaming. O plano de dados está activado</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Actualmente em roaming. Necessário plano de dados</string>
+  <string name="mobile_intelligent_connection_title">Ligação de rede móvel inteligente</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
   <string name="mobile_networks">Definições de redes móveis</string>
   <string name="mobile_property">Propriedades de redes móveis</string>
@@ -1470,6 +1471,8 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="time_end">Até</string>
   <string name="time_start">De</string>
   <string name="title_cfu_enabled">Reencaminhamento de chamadas está ligado</string>
+  <string name="traffic_mode_summary">A aplicação actual tem prioridade de rede, fornece uma experiência extrema, o que pode fazer com que as aplicações em segundo plano não consigam utilizar a rede</string>
+  <string name="traffic_mode_switch_title">Modo Extremo</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_not_allowed_video_call">Não é permitido alterar o modo TTY durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir o modo TTY</string>

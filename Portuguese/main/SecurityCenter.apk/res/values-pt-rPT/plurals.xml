@@ -116,6 +116,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">Em %d segundos</item>
     <item quantity="one">Em %d segundo</item>
   </plurals>
+  <plurals name="ew_concern_date">
+    <item quantity="other">%d dias atrás</item>
+    <item quantity="one">%d dia atrás</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">Pesquisar entre %d aplicações</item>
     <item quantity="one">Pesquisar entre %d aplicação</item>

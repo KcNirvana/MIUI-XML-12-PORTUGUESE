@@ -1249,6 +1249,8 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="bt_lhdc_property">Atributos</string>
   <string name="bt_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_rarely_used_device_title">Dispositivos raramente utilizados (%d)</string>
+  <string name="bt_show_notification_summary">Mostrar uma notificação permanente na área de notificações</string>
+  <string name="bt_show_notification_title">Notificar acerca das ligações Bluetooth</string>
   <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
   <string name="bt_trace_log_summary">Pesquisa do registo do Bluetooth</string>
   <string name="btn_back">Voltar</string>
@@ -1289,9 +1291,9 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
   <string name="call_manager_enable_title">Activar Gestor de chamadas</string>
   <string name="call_manager_title">Gestor de chamadas</string>
-  <string name="call_records_summary_1">9:35 | 26 segundos</string>
-  <string name="call_records_summary_2">16 Ago | 1 min 16 seg</string>
-  <string name="call_records_summary_3">16 Ago | 2 min 24 seg</string>
+  <string name="call_records_summary_1">%1$d:%2$d | %3$d segundos</string>
+  <string name="call_records_summary_2">16 %1$d | %2$d min %3$d seg</string>
+  <string name="call_records_summary_3">16 %1$d | %2$d min %3$d seg</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Definições de chamadas</string>
@@ -2924,6 +2926,9 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="input_method_function_switch_keyboard_type">Trocar teclados</string>
   <string name="input_method_function_switch_keyboard_type_des">Toque para trocar entre diferentes teclados</string>
   <string name="input_method_manage">Gestão de teclados</string>
+  <string name="input_method_middle_function_move_cursor">Mover cursor</string>
+  <string name="input_method_middle_function_move_cursor_des">Prima e segure na área central para mover o cursor</string>
+  <string name="input_method_middle_function_no_function_des">Não atribuir acções</string>
   <string name="input_method_quick_access">Acesso rápido</string>
   <string name="input_method_quick_cloud_mode_title">Notificações sobre novos conteúdos</string>
   <string name="input_method_quick_cloud_summary">Copiar itens em computadores compatíveis e colá-los no seu dispositivo</string>
@@ -3617,6 +3622,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mi_service_app_detail">Detalhes da utilização de dados</string>
   <string name="micloud_service_summary">Sincronizar a lista de aplicações, copiar definições de sistema e layout do ecrã inicial</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
+  <string name="middle_function_key">Área central</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast está indisponível devido a um PC estar a transmitir para este dispositivo</string>
   <string name="miracast_cancelconnect_dialog">Cancelar ligação</string>
   <string name="miracast_connection_failed_generic">Não é possível ligar ao ecrã</string>

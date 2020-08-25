@@ -1555,7 +1555,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou a aplicação não o permite</string>
   <string name="screenshot_failed_title">Não foi possível tirar captura de ecrã</string>
   <string name="screenshot_failed_to_capture_text">A aplicação ou a sua organização não permitem tirar capturas de ecrã</string>
-  <string name="screenshot_failed_to_capture_title">Esta aplicação não permite tirar capturas de ecrã</string>
+  <string name="screenshot_failed_to_capture_title">Não é possível tirar capturas de ecrã aqui</string>
   <string name="screenshot_failed_to_save_text">Não é possível guardar a captura de ecrã devido a falta de espaço de armazenamento</string>
   <string name="screenshot_failed_to_save_title">Sem espaço suficiente para novas capturas de ecrã</string>
   <string name="screenshot_failed_to_save_unknown_text">Ocorreu um erro ao guardar a captura de ecrã</string>
@@ -1586,6 +1586,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="show_battery_percentage_summary">Mostrar a percentagem do nível da bateria no ícone da barra de estado quando não estiver a carregar</string>
   <string name="show_brightness">Mostrar brilho nas Definições rápidas</string>
   <string name="show_silently">Mostrar notificações silenciosamente</string>
+  <string name="sim_state_locked_dialog_title">Cartão SIM inválido</string>
+  <string name="sim_state_locked_puk_dialog_message">Introduziu um PUK pelo menos 10 vezes. O seu cartão SIM está inválido agora. Substitua este cartão por outro</string>
   <string name="small_window_guide_title">Janelas flutuantes</string>
   <string name="small_window_notification_text">Toque para saber mais sobre esta funcionalidade da MIUI %d</string>
   <string name="small_window_notification_title">Janelas flutuantes</string>

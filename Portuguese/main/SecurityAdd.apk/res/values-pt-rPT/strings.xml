@@ -152,5 +152,8 @@
   <string name="superpower_third">Aplicações de terceiros</string>
   <string name="superpower_toast_app_select_full">Pode adicionar até 6 itens às aplicações utilizadas frequentemente</string>
   <string name="title_share_link">Partilhar URL</string>
+  <string name="tool_box_active_loading">Aguarde…</string>
+  <string name="tool_box_active_no_networ">Não foi possível ligar à rede</string>
+  <string name="tool_box_active_reload">Actualizar</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
 </resources>

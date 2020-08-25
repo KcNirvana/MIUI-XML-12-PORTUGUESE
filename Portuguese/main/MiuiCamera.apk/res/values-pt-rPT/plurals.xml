@@ -3,6 +3,18 @@
         <item quantity="other">%d rostos detectados</item>
         <item quantity="one">%d rosto detectado</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervalo: %d segundos</item>
+        <item quantity="one">Intervalo: %d segundo</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duração: %d segundos</item>
+        <item quantity="one">Duração: %d segundo</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Pode criar até %d clones de cada vez</item>
         <item quantity="one">Pode criar até %d clone de cada vez</item>
