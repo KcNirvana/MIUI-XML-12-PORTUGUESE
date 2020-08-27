@@ -408,8 +408,8 @@ Selecção"</string>
   <string name="select_webview_provider_dialog_title">Definir implementação WebView</string>
   <string name="select_webview_provider_title">Implementação WebView</string>
   <string name="select_webview_provider_toast_text">Esta opção já não é válida. Tente novamente</string>
-  <string name="show_all_anrs">Mostrar todos os ANRs</string>
-  <string name="show_all_anrs_summary">Mostrar erro de Aplicação não está a responder para aplicações em segundo plano</string>
+  <string name="show_all_anrs">Mostrar erros</string>
+  <string name="show_all_anrs_summary">Mostrar erro de \"Aplicação não está a responder\" para aplicações em segundo plano</string>
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
   <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>

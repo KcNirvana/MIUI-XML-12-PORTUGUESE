@@ -147,6 +147,9 @@
   <string name="general_location">A função de identificação de loja necessita de obter informações de localização para autorizar</string>
   <string name="general_location_dialog">Alguns recursos de reconhecimento de objecto são fornecidos pelo Dianping. Para o reconhecimento de objectos em lojas funcionar normalmente, o Dianping necessita de utilizar as fotos que tirou com as informações de localização para fornecer e obter os resultados relevantes</string>
   <string name="general_location_prompt">Acesso à localização</string>
+  <string name="general_no">Sem informações do item</string>
+  <string name="general_no_found">Recomendações</string>
+  <string name="general_plant">O que está à procura pode ser:</string>
   <string name="general_recognized">"Resultado: "</string>
   <string name="general_title">Tirar uma foto dum objecto para reconhecer</string>
   <string name="got_it">Percebi</string>

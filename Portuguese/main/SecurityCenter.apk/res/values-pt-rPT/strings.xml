@@ -1512,7 +1512,10 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gtb_exit_game_to_gtb">Abrir atalhos</string>
   <string name="gtb_exit_game_to_home">Voltar para o ecrã inicial</string>
   <string name="gtb_setting_item_summary_smart_5g">Quando o Game Turbo detecta uma rede 5G, pode ligar o seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Aumentar a velocidade de ligação entre 10% a 20% quando ligado a routers Mi/Redmi</string>
   <string name="gtb_setting_item_title_smart_5g">Optimização rede 5G</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Optimização Mi Wi-Fi</string>
+  <string name="gtb_wlan_speed_tips">A utilizar Mi Wi-Fi…</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
   <string name="guide_operator_text">"A sua operadora actual: "</string>
   <string name="guide_quck_open">Ligar</string>

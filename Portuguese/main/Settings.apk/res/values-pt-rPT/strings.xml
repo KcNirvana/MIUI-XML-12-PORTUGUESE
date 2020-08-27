@@ -1225,7 +1225,7 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="bt_absVolume_open_dialog_summary">Devido a problemas de compatibilidade, alguns dispositivos Bluetooth podem ter níveis de volume anormais que pode ser resolvido desligando esta funcionalidade</string>
   <string name="bt_absVolume_open_dialog_title">Atenção</string>
   <string name="bt_absVolume_pre_title">Volume absoluto</string>
-  <string name="bt_absVolume_summary">Manter o volume dos dispositivos Bluetooth consistente</string>
+  <string name="bt_absVolume_summary">Manter o volume do telefone e dos dispositivos Bluetooth consistente</string>
   <string name="bt_dialog_remember_choice">Memorizar preferência</string>
   <string name="bt_dialog_settings">Definições</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
@@ -2071,7 +2071,11 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="display_auto_rotate_stay_in_portrait">Bloquear retrato</string>
   <string name="display_auto_rotate_title">Rodar o conteúdo do ecrã</string>
   <string name="display_category_title">Visualização</string>
+  <string name="display_cutout_emulation">Corte do ecrã</string>
+  <string name="display_cutout_emulation_keywords">corte do ecrã, monocelha</string>
+  <string name="display_dashboard_nowallpaper_summary">Suspender, tamanho do tipo de letra</string>
   <string name="display_dashboard_summary">Papel de parede, suspensão, tamanho do tipo de letra</string>
+  <string name="display_dashboard_summary_with_style">Estilos, papéis de parede, suspensão do ecrã, tamanho do tipo de letra</string>
   <string name="display_label">Ecrã</string>
   <string name="display_order_text">Ordenar por:</string>
   <string name="display_settings">Ecrã</string>
@@ -2598,6 +2602,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="font_size_summary2">Modo Leve</string>
   <string name="forbidden_network">(proíbido)</string>
   <string name="forbidden_switch_apn_string">O APN seleccionado não corresponde ao tipo de rede actual</string>
+  <string name="force_allow_on_external">Forçar aplicações permitidas a escrever no armazenamento externo</string>
+  <string name="force_allow_on_external_summary">Tornar qualquer aplicação eligível a escrever no armazenamento externo, independentemente dos valores do manifesto</string>
   <string name="force_desktop_mode">Forçar modo de ambiente de trabalho</string>
   <string name="force_desktop_mode_summary">Forçar modo de ambiente de trabalho experimental em ecrãs secundários</string>
   <string name="force_immersive_compatibility_dont_hide">Não ocultar</string>
@@ -2606,6 +2612,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidade</string>
   <string name="force_msaa">Forçar 4x MSAA</string>
   <string name="force_msaa_summary">Activar 4x MSAA em OpenGL ES 2.0 aplicações</string>
+  <string name="force_resizable_activities">Forçar actividades a serem redimensionáveis</string>
+  <string name="force_resizable_activities_summary">Tornar todas as actividades redimensionáveis, independentemente dos valores do manifesto</string>
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
@@ -5642,8 +5650,8 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="share_this_wifi">Ampliar cobertura Wi-Fi</string>
   <string name="sharing_remote_bugreport_dialog_message">Este relatório de erros está a ser partilhado com o seu administrador. Entre em contacto com eles para saber mais detalhes</string>
   <string name="short_summary_font_size">Aumentar ou diminuir o texto</string>
-  <string name="show_all_anrs">Mostrar todos os ANRs</string>
-  <string name="show_all_anrs_summary">Mostrar erro de Aplicação não está a responder para aplicações em segundo plano</string>
+  <string name="show_all_anrs">Mostrar erros</string>
+  <string name="show_all_anrs_summary">Mostrar erro de \"Aplicação não está a responder\" para aplicações em segundo plano</string>
   <string name="show_all_apps">Mostrar utilização total do dispositivo</string>
   <string name="show_background_processes">Mostrar processos em cache</string>
   <string name="show_carrier_under_keyguard_title">Mostrar nome da operadora com ecrã bloqueado</string>
@@ -5653,6 +5661,8 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="show_dev_on">Agora é um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>
+  <string name="show_first_crash_dialog">Mostrar sempre a janela de erros</string>
+  <string name="show_first_crash_dialog_summary">Mostrar a janela de erros semre que uma aplicação falha</string>
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
   <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações de vistas</string>
