@@ -25,8 +25,8 @@
         <item quantity="one">%1$d item adicionado à sua conta</item>
     </plurals>
     <plurals name="anonymous_resource_login_message">
-        <item quantity="other">"You can only download %1$d free items if you aren't signed in (wallpapers and ringtones excluded). Sign in to download items without restrictions."</item>
-        <item quantity="one">"You can only download %1$d free item if you aren't signed in (wallpapers and ringtones excluded). Sign in to download items without restrictions."</item>
+        <item quantity="other">Apenas pode transferir %1$d itens gratuitos se não tiver sessão iniciada (papéis de parede e toques excluídos). Inicie sessão para transferir itens sem restrições</item>
+        <item quantity="one">Apenas pode transferir %1$d item gratuito se não tiver sessão iniciada (papéis de parede e toques excluídos). Inicie sessão para transferir itens sem restrições</item>
     </plurals>
     <plurals name="anonymous_resource_view">
         <item quantity="other">%1$d itens não adicionados à sua conta</item>
