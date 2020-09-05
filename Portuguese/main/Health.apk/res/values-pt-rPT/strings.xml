@@ -207,7 +207,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="deep_sleep">Sono profundo</string>
   <string name="deep_sleep_duration">Duração do sono profundo</string>
   <string name="deep_sleep_duration_decrease_description">O seu sono profundo é demasiado curto</string>
-  <string name="deep_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos e periódicos dos olhos, de modo que o sono pode ser dividido em sono rápido (REM) e sono não rápido. O sono profundo ocorre durante períodos de sono não rápido, representando cerca de 20 a 25% do sono durante toda a noite. Durante o sono profundo, há menos actividade consciente e o cérebro está num estado relativamente estático, difícil de ser acordado</string>
+  <string name="deep_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos e periódicos dos olhos, de modo que o sono pode ser dividido em sono rápido (REM) e sono não rápido. O sono profundo ocorre durante períodos de sono não rápido, representando cerca de 20 a 25%% do sono durante toda a noite. Durante o sono profundo, há menos actividade consciente e o cérebro está num estado relativamente estático, difícil de ser acordado</string>
   <string name="deep_sleep_duration_increase_description">O seu sono profundo é demasiado longo</string>
   <string name="deep_sleep_duration_normal_description">O seu sono profundo é suficiente</string>
   <string name="delete">Eliminar</string>
@@ -218,6 +218,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="delete_all_data_sources_description">Eliminar todas as origens de dados?</string>
   <string name="delete_avatar">Eliminar foto actual</string>
   <string name="delete_contact">Eliminar</string>
+  <string name="delete_dailog_confirm_msg_wear">Eliminar %1$s agora?</string>
   <string name="delete_data_source">Eliminar origem de dados</string>
   <string name="delete_dialog_close_sync_msg">Para eliminar %1$s, desligue a sincronização do dispositivo correspondente primeiro</string>
   <string name="delete_dialog_confirm_msg_cloud">Eliminar %1$s e os dados relacionados neste dispositivo e na Xiaomi Cloud?</string>
@@ -225,6 +226,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="delete_menstruation_record_confirm">Eliminar este registo?</string>
   <string name="delete_origin_data_description">Eliminar todos os dados gerados por %1$s?</string>
   <string name="delete_record">Eliminar registo</string>
+  <string name="delete_wear_data_toast">Não é possível eliminar dados fornecidos por %1$s</string>
   <string name="description">Detalhes</string>
   <string name="detection_has_no_data">Sem dados</string>
   <string name="detection_not_start">Ainda não começou</string>
@@ -345,6 +347,10 @@ Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente
   <string name="exercise_recog_confirm_walk">Esteve a andar entre %1$s e %2$s?</string>
   <string name="exercise_record">Histórico de exercícios</string>
   <string name="exercise_record_no_data">Sem itens</string>
+  <string name="exercise_remind_content_improve_goal">Mantenha-se saudável aumentando gradualmente os seus objectivos de actividades</string>
+  <string name="exercise_remind_content_lower_goal">Mantenha-se motivado com objectivos que pode alcançar</string>
+  <string name="exercise_remind_title_improve_goal">Defina um objectivo mais alto</string>
+  <string name="exercise_remind_title_lower_goal">Defina um objectivo realístico</string>
   <string name="exercise_reminder_accomplished">Atingiu o seu objectivo!</string>
   <string name="exercise_reminder_title">Alerta de actividade</string>
   <string name="exercise_reminder_unaccomplished">Ainda não atingiu o seu objectivo</string>
@@ -425,8 +431,36 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="home_tip_sync_done">Sincronizado com sucesso</string>
   <string name="home_tip_sync_immediately">Alguns itens não foram sincronizados. Toque para sincronizar</string>
   <string name="home_tip_syncing">A sincronizar dados…</string>
+  <string name="hr_choose_detect_state">What state are you in right now?</string>
+  <string name="hr_detect">Medir batimento cardíaco</string>
+  <string name="hr_detect_desc">"During the measurement, your phone's flash will be used as a continuous light source, and the camera will detect changes in the blood flow. The images will then be analyzed, and your heart rate will be determined based on the repeated patterns."</string>
+  <string name="hr_detect_finished">Concluído!</string>
+  <string name="hr_detect_principle_desc_1">Pode medir o seu batimento cardíaco ao cobrir o flash e câmara do seu telefone com o dedo. O flash vai ser utilizado para uma fonte de luz contínua e a câmara vai detectar alterações no fluxo de sangue. As imagens vão ser analisadas e o seu batimento cardíaco vai ser determinado com base nos padrões repetidos</string>
+  <string name="hr_detect_principle_desc_2">Vários testes mostram que a margem de erro deste método é de 2 batimentos por minuto</string>
+  <string name="hr_detect_principle_desc_3">Note que factores externos (p.e. temperatura, cor da pele, movimentos) podem levar a medições inadequadas. Faça várias medições para garantir que a leitura actual é adequada. Os resultados fornecidos são apenas para a sua referência e não podem substituir os equipamentos médicos</string>
+  <string name="hr_detect_principle_title">A medir o seu batimento cardíaco</string>
+  <string name="hr_detect_report_title">Relatório de frequência cardíaca</string>
+  <string name="hr_detect_state_after_activity">Activo recentemente</string>
+  <string name="hr_detect_state_after_activity_desc">Acabou de fazer exercício</string>
+  <string name="hr_detect_state_regular">Regular</string>
+  <string name="hr_detect_state_regular_desc">Está a trabalhar ou a estudar como é normal</string>
+  <string name="hr_detect_state_reseting">Em descanso</string>
+  <string name="hr_detect_state_reseting_desc">Está totalmente relaxado ou acabou de acordar</string>
+  <string name="hr_disturb_detect">Medição interrompida</string>
+  <string name="hr_disturb_detect_desc">Começar de novo. Tente não mover o seu dedo durante a medição</string>
   <string name="hr_heart_rate_unit">Batimentos cardíacos (BPM)</string>
+  <string name="hr_in_detect">A medir o batimento cardíaco. Não mova o dedo</string>
   <string name="hr_input_heart_rate">Registar batimentos cardíacos</string>
+  <string name="hr_measure_heart_rate">Medir</string>
+  <string name="hr_open_permission_desc">Saúde necessita de aceder à sua câmara para poder medir os batimentos cardíacos. Permitir?</string>
+  <string name="hr_open_permission_title">Permissões necessárias</string>
+  <string name="hr_phone_detect_records">Histórico de medição</string>
+  <string name="hr_pre_detect">"Cobrir totalmente o flash e a câmara
+com um dedo"</string>
+  <string name="hr_pre_detect_finger">A verificar…</string>
+  <string name="hr_pre_detect_finger_desc">A verificar se o flash e a câmara estão totalmente cobertos. Não mova o dedo</string>
+  <string name="hr_see_report">Ver relatório</string>
+  <string name="hr_start_detect">Iniciar</string>
   <string name="hr_state">Estado</string>
   <string name="hr_state_active">Activo</string>
   <string name="hr_state_fast">Rápido</string>
@@ -443,6 +477,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="instructions_provider">Instruções fornecidas por Miao Health</string>
   <string name="insufficient">Insuficiente</string>
   <string name="input_body_weight">Introduzir peso para obter conselhos de saúde</string>
+  <string name="inquire_recover_data">Restaurar dados de saúde agora?</string>
+  <string name="inquire_recover_data_subtitle">Existem dados de saúde associados com a sua Conta Mi (%1$s). Ligar a sincronização com a Xiaomi Cloud e restaurar agora?</string>
   <string name="jump_over">Ignorar</string>
   <string name="just_recently">Agora mesmo</string>
   <string name="keep_edit">Cancelar</string>
@@ -483,7 +519,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="late">Atrasado</string>
   <string name="light_sleep">Sono leve</string>
   <string name="light_sleep_duration">Duração do sono leve</string>
-  <string name="light_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos dos olhos. O sono pode ser dividido em movimentos rápidos dos olhos (REM) e sem movimentos rápidos dos olhos (NREM). O sono leve ocorre durante os períodos de sono NREM, representando cerca de 50 a 60% da duração total do sono. Durante o sono leve, a consciência é gradualmente reduzida e o cérebro é relativamente estático, mas ainda pode ser acordado facilmente</string>
+  <string name="light_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos dos olhos. O sono pode ser dividido em movimentos rápidos dos olhos (REM) e sem movimentos rápidos dos olhos (NREM). O sono leve ocorre durante os períodos de sono NREM, representando cerca de 50 a 60%% da duração total do sono. Durante o sono leve, a consciência é gradualmente reduzida e o cérebro é relativamente estático, mas ainda pode ser acordado facilmente</string>
   <string name="light_sleep_time_decrease_description">O seu sono leve é demasiado curto</string>
   <string name="light_sleep_time_increase_description">O seu sono leve é demasiado longo</string>
   <string name="light_sleep_time_normal_description">O seu sono leve é suficiente</string>
@@ -608,6 +644,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="open_stand_assistant">Toque para abrir o assistente</string>
   <string name="open_swimming">Natação em águas abertas</string>
   <string name="open_sync">Ligar sincronização</string>
+  <string name="open_sync_and_enter_app">Ligar sincronização</string>
   <string name="open_unrestricted_permissions">Para registar o sono com mais precisão, permita que Saúde execute sempre em segundo plano</string>
   <string name="organ_donation_volunteer">Dador de orgãos</string>
   <string name="origin">Origem</string>
@@ -672,7 +709,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="rem_Duration_increase_description">O seu sono REM é demasiado longo</string>
   <string name="rem_duration">Duração sono REM</string>
   <string name="rem_duration_decrease_description">O seu sono REM é demasiado curto</string>
-  <string name="rem_duration_description" formatted="false">REM refere-se ao movimento rápido dos olhos. O sono pode ser dividido em sono de movimentos rápidos dos olhos (REM) e sono de movimento não rápidos dos olhos (NREM). O sono movimentos rápidos dos olhos representa cerca de 20 a 25% da duração total do sono. Quando as pessoas acordam nesta fase, 74 a 95% dizem que estavam a sonhar e são capazes de se lembrar dos seus sonhos. O cérebro é muito activo e o corpo fica completamente relaxado durante o sono REM, o que torna esta fase do sono essencial para a manutenção das funções cognitivas</string>
+  <string name="rem_duration_description" formatted="false">REM refere-se ao movimento rápido dos olhos. O sono pode ser dividido em sono de movimentos rápidos dos olhos (REM) e sono de movimento não rápidos dos olhos (NREM). O sono movimentos rápidos dos olhos representa cerca de 20 a 25%% da duração total do sono. Quando as pessoas acordam nesta fase, 74 a 95%% dizem que estavam a sonhar e são capazes de se lembrar dos seus sonhos. O cérebro é muito activo e o corpo fica completamente relaxado durante o sono REM, o que torna esta fase do sono essencial para a manutenção das funções cognitivas</string>
   <string name="rem_duration_normal_description">O seu sono REM é suficiente</string>
   <string name="remarks">Observações</string>
   <string name="remind">Lembretes</string>
@@ -746,7 +783,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="sleep_deep_light_no_data_improvement">Não foi possível detectar as fases do sono. Estamos a melhorar o nosso algoritmo</string>
   <string name="sleep_detection_enable">Analisar ciclo de sono</string>
   <string name="sleep_detection_feedback">Comentários</string>
-  <string name="sleep_detection_guide_four_description">O registo do sono vai consumir cerca de 1% da sua bateria diariamente</string>
+  <string name="sleep_detection_guide_four_description">O registo do sono vai consumir cerca de 1%% da sua bateria diariamente</string>
   <string name="sleep_detection_guide_four_high_power_description">Certifique-se que o seu dispositivo está suficientemente carregado antes de ir dormir. A bateria fraca pode interromper o registo do sono</string>
   <string name="sleep_detection_guide_four_high_power_title">Manter o seu dispositivo carregado</string>
   <string name="sleep_detection_guide_four_title">Baixo consumo de bateria</string>
@@ -1156,6 +1193,7 @@ Actualizar agora?"</string>
   <string name="weight_setting">Definições de pesagens</string>
   <string name="weight_trend_offset_date">"De %1$s até %2$s: "</string>
   <string name="weight_unit_kg">kg</string>
+  <string name="welcome_back">Bem-vindo de volta!</string>
   <string name="welcome_exercise">Registar exercícios</string>
   <string name="welcome_exercise_description">Leve o seu dispositivo consigo para registar os exercícios automaticamente</string>
   <string name="welcome_sedentary">Manter-se em movimento</string>

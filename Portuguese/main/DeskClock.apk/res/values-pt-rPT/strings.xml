@@ -300,7 +300,7 @@
   <string name="skip_alarm_once_hint">Desligar uma vez em %s</string>
   <string name="sleep_analysis">Estatísticas</string>
   <string name="sleep_analysis_chart_date_format">dd/MM</string>
-  <string name="sleep_date_provider_text">Os dados do sono são fornecidos por Saúde Mi</string>
+  <string name="sleep_date_provider_text">Os dados do sono são fornecidos por Saúde</string>
   <string name="sleep_duration">"Duração do sono: "</string>
   <string name="sleep_duration_avg_text_diff">Média de duração do sono (%1$s-%2$s)</string>
   <string name="sleep_duration_desc">Dormiu por %1$s %2$s</string>
@@ -313,7 +313,7 @@
   <string name="sleep_notification_title">Hora de ir para a cama</string>
   <string name="sleep_record">Monitorizar sono</string>
   <string name="sleep_record_desc">Ligar para começar a registar dados do sono</string>
-  <string name="sleep_record_desc_detailed">A monitorização do sono é fornecida por Saúde Mi. Assim que ligado, Saúde Mi vai automaticamente registar o seu sono baseado na utilização do seu telefone, estatísticas de actividades, assim como a hora de acordar e dormir que definir, mostrando os seus dados através de gráficos. Para monitorizar o sono com mais precisão, dê permissão a Saúde Mi para iniciar automaticamente</string>
+  <string name="sleep_record_desc_detailed">A monitorização do sono é fornecida por Saúde. Assim que ligado, Saúde vai automaticamente registar o seu sono baseado na utilização do seu telefone, estatísticas de actividades, assim como a hora de acordar e dormir que definir, mostrando os seus dados através de gráficos. Para monitorizar o sono com mais precisão, dê permissão a Saúde para iniciar automaticamente</string>
   <string name="sleep_record_no_data">Sem dados suficientes</string>
   <string name="sleep_remind">Lembrete para dormir</string>
   <string name="sleep_time">Dormir</string>
@@ -390,8 +390,8 @@
   <string name="turn_off_this_repeat_alarm">Desligar este alarme repetitivo</string>
   <string name="upcoming_alarm">Próximo alarme: %s</string>
   <string name="upcoming_alarm_hint">Pode desligar este alarme agora</string>
-  <string name="update_health_app">Actualizar Saúde Mi</string>
-  <string name="update_health_app_desc">A monitorizaçao do sono é fornecida por Saúde Mi. Actualize Saúde Mi para aceder às funcionalidades</string>
+  <string name="update_health_app">Actualizar Saúde</string>
+  <string name="update_health_app_desc">A monitorizaçao do sono é fornecida por Saúde. Actualize Saúde para aceder às funcionalidades</string>
   <string name="update_it">Actualizar</string>
   <string name="update_notification_info">A actualizar dados em segundo plano…</string>
   <string name="usage_start">Iniciar</string>

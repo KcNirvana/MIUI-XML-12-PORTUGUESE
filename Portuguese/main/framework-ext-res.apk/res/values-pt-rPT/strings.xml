@@ -278,6 +278,10 @@
   <string name="translation_more">Mais</string>
   <string name="translation_query_error">Não foi possível encontrar resultados</string>
   <string name="translation_query_error_network">Não foi possível obter informações. Verifique a ligação à rede e tente novamente</string>
+  <string name="trial_mode_dialog_button_cancel">Cancelar</string>
+  <string name="trial_mode_dialog_button_save">Guardar</string>
+  <string name="trial_mode_dialog_message">\"%s\" está a ser executado em modo experiência. Reiniciar ou trocar para o Modo Velocidade vai eliminar este jogo. Guardar o jogo no dispositivo?</string>
+  <string name="trial_mode_dialog_title">Modo experiência</string>
   <string name="turn_off">Desligar</string>
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconhecido</string>

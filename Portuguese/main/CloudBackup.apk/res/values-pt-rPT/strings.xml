@@ -10,17 +10,31 @@
   <string name="back_up_task_in_process">A fazer cópia…</string>
   <string name="back_up_task_unfinished">Não foi possível copiar</string>
   <string name="backing_up_to_micloud">A fazer cópia…</string>
+  <string name="backup_action_buy_cloud_space">Obter mais espaço</string>
+  <string name="backup_action_check_network">Verificar as definições de rede</string>
+  <string name="backup_action_clean_disk_space">Libertar espaço</string>
+  <string name="backup_action_retry_now">Tentar novamente</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Sem espaço suficiente na Xiaomi Cloud. Actualize o seu plano ou liberte algum espaço</string>
   <string name="backup_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
-  <string name="backup_failed_reason_network_error">Erro de rede. Aguarde um momento e tente novamente</string>
+  <string name="backup_failed_reason_network_error">Verifique as suas definições de rede e tente novamente</string>
   <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="backup_now">Fazer cópia agora</string>
+  <string name="backup_remind_buy_cloud_space">Actualizar o seu plano da Xiaomi Cloud</string>
+  <string name="backup_remind_clean_disk_space">Libertar espaço de armazenamento</string>
+  <string name="backup_remind_cloud_space_cost">Tamanho: %s</string>
   <string name="backup_size">Tamanho: %s</string>
   <string name="backup_stopped_msg">A cópia actual vai substituir a anterior. Toque para ver</string>
   <string name="backup_stopped_title">A cópia foi pausada</string>
   <string name="backup_success">Cópia feita com sucesso</string>
   <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">Não é possível copiar</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Sem espaço suficiente.
+Não é possível copiar"</string>
+  <string name="backup_warning_reason_network_error">"Erro de rede.
+Não é possível copiar"</string>
+  <string name="backup_warning_reason_no_server_response">"Ligação interrompida.
+Tente novamente"</string>
   <string name="btn_continue">Continuar</string>
   <string name="btn_restore_abort">Cancelar</string>
   <string name="btn_restore_cancel">Cancelar</string>

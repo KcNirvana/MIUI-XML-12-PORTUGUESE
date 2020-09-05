@@ -641,6 +641,9 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
   <string name="face_unlock_passwork">Utilizar palavra-passe</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou impressão digital</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Introduzir palavra-passe ou utilizar impressão digital para desbloquear</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Desenhar padrão ou utilizar impressão digital para desbloquear</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Introduzir PIN ou utilizar impressão digital para desbloquear</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
   <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser actualizado. Toque para gravar os dados novamente</string>
   <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
@@ -772,8 +775,11 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Não é possível trocar de espaços quando o modo de poupança extrema está ligado</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
-  <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
-  <string name="input_pin_code">PIN</string>
+  <string name="input_password_hint_text_v11">Introduzir palavra-passe</string>
+  <string name="input_pattern_hint_text">Desenhar padrão</string>
+  <string name="input_pattern_hint_text_v11">Desenhar padrão</string>
+  <string name="input_pin_code">Introduzir PIN</string>
+  <string name="input_pin_hint_text_v11">Introduzir PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
   <string name="install_other_apps">Instalação de aplicações desconhecidas</string>
   <string name="installer_cd_button_title">Instalação de aplicação de Transferência Ficheiros de Android para Mac</string>
@@ -1000,11 +1006,6 @@ d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">"Introduziu incorrectamente a sua palavra-passe %1$d vezes. Após mais %2$d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Introduziu incorrectamente a sua palavra-passe %1$d vezes. Após mais %2$d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
-
-Tente novamente dentro de %3$d segundos"</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_none">Nenhum</string>
   <string name="lockscreen_shortcut_left">Atalho esquerdo</string>
   <string name="lockscreen_shortcut_right">Atalho direito</string>

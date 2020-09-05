@@ -170,6 +170,7 @@
   <string name="usage_device_limit_app_prolong_time2">Adicionar 40 minutos</string>
   <string name="usage_device_limit_app_prolong_time3">Adicionar 60 minutos</string>
   <string name="usage_device_limit_app_prolong_time4">Não limitar hoje</string>
+  <string name="usage_device_limit_app_prolong_time5">Adicionar uma vez</string>
   <string name="usage_device_limit_notifation_summary_start">Vai chegar ao limite em %1$s</string>
   <string name="usage_device_limit_notifation_title">Tempo disponível de hoje</string>
   <string name="usage_device_limit_time_over">Chegou ao limite de hoje (%1$s)</string>

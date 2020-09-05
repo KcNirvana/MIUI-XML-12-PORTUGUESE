@@ -761,6 +761,11 @@
   <string name="card_main_xspace_title">Aplicações clonadas</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
   <string name="cd_back">Voltar</string>
+  <string name="charger_detect_button_ok">Percebi</string>
+  <string name="charger_detect_info1">Verifique se o carregador e o cabo estão ligados correctamente</string>
+  <string name="charger_detect_info2">O carregamento também pode ser lento se estiver a utilizar cabos não standard ou carregadores e cabos antigos</string>
+  <string name="charger_detect_no_remind">Não mostrar novamente</string>
+  <string name="charger_detect_title">O carregamento está lento</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
   <string name="charging_text_battery_perfect">Totalmente carregada</string>
@@ -1261,6 +1266,11 @@ cartão de saúde"</string>
   <string name="free_time_traffic_settings">Limite de dados no período</string>
   <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
   <string name="free_traffic_settings">Limite de dados por período</string>
+  <string name="function_auto_reject_detail">"About this feature:
+1. While you're playing games, all incoming calls to the SIM card without mobile data service will be rejected automatically.
+2. You'll see notifications about missed calls and the other person will hear an audio message saying that you're busy at the moment.
+3. This feature is only supported by mobile carriers in China."</string>
+  <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
   <string name="function_close">Desligado</string>
   <string name="function_gwsd_detail">"Acerca desta funcionalidade:
  1. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
@@ -3424,6 +3434,8 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="vb_advanced_settings_after_open">Depois</string>
   <string name="vb_advanced_settings_before_open">Antes</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Torne os objectos em movimento mais nítidos, melhorando as animações. Esta funcionalidade consome mais bateria</string>
+  <string name="vb_fps_settings">Taxa de actualização automática</string>
+  <string name="vb_fps_settings_tips">Esta funcionalidade ajusta a taxa de actualização do ecrã para a taxa de frames do vídeo para poupar bateria e torna a reprodução suave. Ligar comentários flutuantes vai desligar a taxa de actualização automática</string>
   <string name="vb_quick_func_auto_bgm">Reconhecer música de fundo</string>
   <string name="vb_quick_func_hangup_listening">Reproduzir som do vídeo com o ecrã desligado</string>
   <string name="vb_quick_func_screen_capture">Captura de ecrã</string>

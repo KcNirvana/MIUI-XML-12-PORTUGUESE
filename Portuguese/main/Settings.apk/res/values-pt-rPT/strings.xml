@@ -3453,7 +3453,7 @@ para o Segundo espaço"</string>
   <string name="long_press_menu_key_when_lock">Toque longo no botão Menu no ecrã de bloqueio</string>
   <string name="long_press_power_key">Toque longo no botão Ligar/Desligar</string>
   <string name="long_press_power_key_half_of_second">Toque longo no botão Ligar/Desligar por 0.5 segundos para ligar o assistente Google</string>
-  <string name="long_press_power_key_half_second">Toque longo no botão Ligar/Desligar por 0.5 segundos</string>
+  <string name="long_press_power_key_half_second">Toque longo no botão Ligar/Desligar por %s segundos</string>
   <string name="long_press_power_key_tips">Toque longo no botão Ligar/Desligar <font color="#999999">Mais rápido e conveniente</font></string>
   <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
   <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>
@@ -3693,6 +3693,7 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_lab_install_drive_mode_title">Instalar Modo Condução</string>
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
+  <string name="miui_master_clear_prompt_battery_low">Não é possível efectuar uma reposição de fábrica com menos de %1$s de bateria restante. Carregue o seu dispositivo antes de continuar</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
   <string name="miui_master_clear_summary">Elimina todos os dados do telefone</string>
   <string name="miui_more_special_feature">Novas funcionalidades</string>

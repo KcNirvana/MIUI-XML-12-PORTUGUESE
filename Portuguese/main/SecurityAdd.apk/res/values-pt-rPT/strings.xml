@@ -79,9 +79,15 @@
   <string name="gb_advance_settings_vibration_4d_summary">Vibrar durante tiros no jogo</string>
   <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante mortes no jogo</string>
   <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
+  <string name="gb_dialog_game_speed_close">A desligar Modo Velocidade…</string>
+  <string name="gb_dialog_game_speed_exist">Apenas pode utilizar um jogo em Modo Velocidade. Substituir \"%s\" agora?</string>
   <string name="gb_game_control">Definições de GPU</string>
   <string name="gb_game_qcom_sing">Snapdragon</string>
   <string name="gb_game_settings">Definições adicionais</string>
+  <string name="gb_game_speed_closed">Modo Velocidade desligado</string>
+  <string name="gb_game_speed_closed_fail">Não foi possível desligar o Modo Velocidade</string>
+  <string name="gb_game_speed_open">Modo Velocidade ligado</string>
+  <string name="gb_game_speed_open_fail">Não foi possível ligar o Modo Velocidade</string>
   <string name="gb_gpu_control_anisotropic_filtering">Filtragem anisotrópica</string>
   <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
   <string name="gb_gpu_control_fps">Taxa de frames</string>

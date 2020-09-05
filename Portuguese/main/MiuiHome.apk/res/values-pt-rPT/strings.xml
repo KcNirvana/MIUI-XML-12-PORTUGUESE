@@ -124,6 +124,8 @@
   <string name="auto_add_app_shortcut">Adicionar novas aplicações ao ecrã inicial</string>
   <string name="auto_delete_category_dialog_content">As aplicações actuais vão ser removidas desta categoria e a categoria vai ser eliminada. Eliminar esta categoria agora?</string>
   <string name="auto_delete_category_dialog_title">Eliminar categoria</string>
+  <string name="auto_disable_screenbuttons_summary">Duplo toque em qualquer botão de navegação para ligar novamente</string>
+  <string name="auto_disable_screenbuttons_title">Desligar botões de navegação automaticamente</string>
   <string name="back">Voltar</string>
   <string name="backup_fail">Não foi possível fazer cópia do launcher</string>
   <string name="bad_wallpaper_source_prompt">Não é possível carregar o papel de parede</string>
@@ -291,6 +293,7 @@
   <string name="invalid_contact_shortcut">Contacto inválido</string>
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos de sistema</string>
+  <string name="key_shortcut_settings_title">Atalhos de botões</string>
   <string name="launcher_global_search_mode_title">Pesquisa</string>
   <string name="launcher_global_search_provider_title">Fornecedor da pesquisa</string>
   <string name="launcher_not_exist">Ocorreu um erro. Volte ao início e tente novamente</string>

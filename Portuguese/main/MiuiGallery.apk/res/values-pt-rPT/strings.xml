@@ -243,6 +243,7 @@
   <string name="burst_preview_title">Disparo Contínuo</string>
   <string name="burst_save_all">Manter todas as fotos</string>
   <string name="burst_save_choice_title" formatted="false">Seleccionados %d de %d</string>
+  <string name="burst_save_dialog_title">Seleccionar que fotos quer manter</string>
   <string name="burst_save_error_msg">Não foi possível guardar</string>
   <string name="burst_save_processing">A processar…</string>
   <string name="burst_save_video">Guardar como vídeo</string>
@@ -308,7 +309,7 @@
   <string name="choose_some_people">Escolher álbum com %s</string>
   <string name="choose_video_compress_quality">Seleccionar resolução</string>
   <string name="chooser_fragment_mishare_title">Partilhar para</string>
-  <string name="cleaner_empty">Eliminar tudo</string>
+  <string name="cleaner_empty">Limpar tudo</string>
   <string name="cleaner_empty_value_description">Verificação concluída</string>
   <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
   <string name="cleaner_raw_action">Ver detalhes</string>
@@ -671,7 +672,7 @@ efeitos de fotos"</string>
   <string name="filter_general_greenorange">Lima</string>
   <string name="filter_general_japanese">Pastel</string>
   <string name="filter_general_lilt">Lilt</string>
-  <string name="filter_general_movie">Filme</string>
+  <string name="filter_general_movie">Cinema</string>
   <string name="filter_general_nature">Natureza</string>
   <string name="filter_general_pink">Rosa</string>
   <string name="filter_general_portrait">Retrato</string>
@@ -695,18 +696,25 @@ efeitos de fotos"</string>
   <string name="filter_movie_lost">Perdidos</string>
   <string name="filter_movie_nordic">Nórdicos</string>
   <string name="filter_movie_portrait">Foco de cor</string>
+  <string name="filter_movie_quiet">Sereno</string>
   <string name="filter_movie_rome">Roma</string>
   <string name="filter_movie_summer">Verão</string>
   <string name="filter_movie_travel">Viagens</string>
   <string name="filter_movie_wonderful">Maravilhas</string>
   <string name="filter_original">Nenhum</string>
+  <string name="filter_popular_bluedream">Sonolência</string>
   <string name="filter_popular_humanity">Documentário</string>
   <string name="filter_popular_lnk">Tinta</string>
   <string name="filter_popular_purple">Roxo</string>
+  <string name="filter_popular_shallow_summer">Junho</string>
+  <string name="filter_popular_smokegreen">Sábio</string>
+  <string name="filter_popular_watergreen">Esmeralda</string>
   <string name="filter_portrait_greyish">Cinza</string>
   <string name="filter_portrait_hint">Foco de cor</string>
   <string name="filter_portrait_mist">Nevoeiro</string>
+  <string name="filter_portrait_mojito">Mojito</string>
   <string name="filter_portrait_painting">Pintura</string>
+  <string name="filter_portrait_waterblue">Verde azulado</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_bikong">Azul</string>
   <string name="filter_sky_chenguang">Aurora</string>
@@ -1223,6 +1231,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="photo_movie_module_finish">Clipes carregados com sucesso</string>
   <string name="photo_movie_module_loading">A carregar clipes…</string>
   <string name="photo_movie_select_image_range">Os clips podem conter entre 3 a 20 fotos</string>
+  <string name="photo_page_rotate_screen">Rodar ecrã</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_portrait_color_download_fail">Não foi possível transferir plugin. Ligue-se à rede e tente novamente</string>
@@ -1650,8 +1659,9 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="thumbnail_error_log_cleared">Limpo com sucesso</string>
   <string name="time_burst_photo_enter">Disparo Temporizado</string>
   <string name="time_burst_preview_title">Disparo Temporizado</string>
-  <string name="time_burst_save_all">Guardar todas as fotos</string>
-  <string name="time_burst_save_select">Guardar fotos seleccionadas</string>
+  <string name="time_burst_save_all">Exportar todas as fotos</string>
+  <string name="time_burst_save_dialog_title">Exportar items</string>
+  <string name="time_burst_save_select">Exportar fotos seleccionadas</string>
   <string name="time_burst_save_video">Guardar como vídeo</string>
   <string name="tip_capture_location">Localização:</string>
   <string name="tip_capture_params">Dados EXIF:</string>
