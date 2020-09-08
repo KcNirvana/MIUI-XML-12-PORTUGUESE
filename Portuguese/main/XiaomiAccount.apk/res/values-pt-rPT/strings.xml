@@ -518,7 +518,7 @@ Envie este código ao supervisor"</string>
   <string name="update_email_address_dialog_title">Actualizar email</string>
   <string name="update_phone_notice">Alterar definições de segurança</string>
   <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
-  <string name="used_cloud_storage_info">Espaço utilizado %s</string>
+  <string name="used_cloud_storage_info">Utilizado %s</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
   <string name="vip_account_settings">Definições VIP</string>

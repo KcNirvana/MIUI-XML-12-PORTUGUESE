@@ -34,6 +34,12 @@
   <string name="quick_controls_title">Controlos do dispositivo</string>
   <string name="quick_settings_hang_label">Janelas flutuantes</string>
   <string name="quick_settings_hang_on">Já pode utilizar janelas flutuantes agora</string>
+  <string name="quick_settings_pcmode_cancel_button">Cancelar</string>
+  <string name="quick_settings_pcmode_dialog_message_turnoff">Desligar o Pocket PC</string>
+  <string name="quick_settings_pcmode_dialog_message_turnon">Ligar o Pocket PC</string>
+  <string name="quick_settings_pcmode_dialog_remember_text">Não mostrar novamente</string>
+  <string name="quick_settings_pcmode_label">Pocket PC</string>
+  <string name="quick_settings_pcmode_ok_button">OK</string>
   <string name="quick_settings_scanner_label">Digitalizador</string>
   <string name="reset">Repor</string>
 </resources>

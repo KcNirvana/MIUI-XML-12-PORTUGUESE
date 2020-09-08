@@ -93,6 +93,8 @@
   <string name="HIPS_Perm_process_outgoing_calls_Desc">atender, monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_read_notification_sms">SMS de serviços</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">ler SMS de serviços</string>
+  <string name="HIPS_Perm_recognition">Aceder às informações de actividades</string>
+  <string name="HIPS_Perm_recognition_Desc">permitir que a aplicação aceda às informações das suas actividades</string>
   <string name="HIPS_Perm_service_foreground">Serviços em primeiro plano</string>
   <string name="HIPS_Perm_service_foreground_Desc">serviços em primeiro plano</string>
   <string name="HIPS_Perm_show_when_locked">Mostrar no ecrã de bloqueio</string>

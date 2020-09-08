@@ -8,6 +8,10 @@
         <item quantity="other">Remarcado %d vezes</item>
         <item quantity="one">Remarcado %d vez</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">A desligar em %1$s segundos…</item>
+        <item quantity="one">A desligar em %1$s segundo…</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d chamadas gravadas</item>
         <item quantity="one">%d chamada gravada</item>

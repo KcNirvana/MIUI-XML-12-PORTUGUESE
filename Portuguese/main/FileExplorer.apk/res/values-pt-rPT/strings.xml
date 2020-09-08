@@ -124,6 +124,7 @@
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
   <string name="encrypt_prefix">Ocultos</string>
+  <string name="encrypt_setting">Encriptação</string>
   <string name="encrypt_success">Ocultos com sucesso</string>
   <string name="encrypt_success_first_five">Ficheiro encriptado e oculto. Para ver os ficheiros ocultos desça a página inicial do Ficheiros</string>
   <string name="encrypting">A encriptar…</string>
@@ -264,6 +265,7 @@
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
   <string name="not_support_documentui">Ficheiros não é suportado neste dispositivo</string>
+  <string name="not_use">Agora não</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -285,6 +287,8 @@
   <string name="operation_delete_confirm_message">Eliminar</string>
   <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta vão ser eliminados. "</string>
   <string name="operation_deleting">A eliminar…</string>
+  <string name="operation_encrypt_summary">Encriptar ficheiros nas pastas privadas</string>
+  <string name="operation_encrypt_title">Encriptar ficheiros privados</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
   <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>
   <string name="operation_info">Detalhes</string>
@@ -337,6 +341,9 @@
   <string name="private_folder">Pastas ocultas</string>
   <string name="private_folder_no_file_hints">Sem ficheiros ocultos</string>
   <string name="private_folder_update">A actualizar ficheiros ocultos…</string>
+  <string name="private_folder_update_msg">O Explorador vai introduzir uma nova medida de segurança: agora pode encriptar os seus ficheiros privados!</string>
+  <string name="private_folder_update_msg_summary">A desencriptação vai remover os ficheiros das pastas privadas. Pode ligar ou desligar a encriptação nas Definições</string>
+  <string name="private_folder_update_tips">Nova funcionalidade</string>
   <string name="private_toast_hint2">Para ocultar um ficheiro prima e segure-o, depois adicione-o a uma pasta oculta</string>
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo</string>
   <string name="pull_to_enter_private">Puxe para abrir pastas privadas</string>
@@ -448,6 +455,7 @@
   <string name="unlock_pattern_title">Novo padrão</string>
   <string name="upload_user_photo">Carregar</string>
   <string name="usb_label">USB</string>
+  <string name="use">Utilizar</string>
   <string name="use_to_all">Aplicar a todos</string>
   <string name="used">"Utilizado "</string>
   <string name="user_guide_continue_use">OK</string>

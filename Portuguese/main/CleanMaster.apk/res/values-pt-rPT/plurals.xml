@@ -131,8 +131,13 @@
         <item quantity="few">%1$d horas atrás</item>
         <item quantity="many">%1$d horas atrás</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Transferido por %1$d pessoas</item>
+    <plurals name="install_find_application">
+        <item quantity="other">Pesquisar em %d aplicações</item>
+        <item quantity="one">Pesquisar em %d aplicação</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">%d aplicações encontradas</item>
+        <item quantity="one">%d aplicação encontrada</item>
     </plurals>
     <plurals name="minute">
        <item quantity="other">%1$d minutos</item>

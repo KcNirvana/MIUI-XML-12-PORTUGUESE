@@ -55,6 +55,9 @@
   <string name="auto_identify_btn_title">Esta mensagem foi enviado dum número desconhecido</string>
   <string name="auto_identify_confirmation">Pode levar algum tempo a activar esta funcionalidade</string>
   <string name="back_to_message_list">Voltar para a lista de mensagens</string>
+  <string name="banner_btn_install">Instalar</string>
+  <string name="banner_btn_not_now">Agora não</string>
+  <string name="banner_btn_open">Abrir</string>
   <string name="batch_adding_progress_message">A adicionar…</string>
   <string name="batch_deleting_message_progress_message">A eliminar…</string>
   <string name="batch_deleting_progress_message">A eliminar…</string>
@@ -151,6 +154,7 @@
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
   <string name="copy_verification_code_tip">Copiado com sucesso</string>
   <string name="current_data_version">Versão de Mi Message</string>
+  <string name="default_google_message_promo_content">Definiu Mensagens da Google como a sua aplicação predefinida de mensagens. Toque \"Abrir\" para começar a escrever</string>
   <string name="delete">Eliminar</string>
   <string name="delete_block_conversation">Eliminar esta conversa</string>
   <string name="delete_bookmark">Remover dos favoritos</string>
@@ -200,6 +204,7 @@
   <string name="edit_phrase">Editar respostas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivo</string>
   <string name="edit_slideshow_activity">Editar apresentação</string>
+  <string name="enable_classify_tip_dialog_content">Isto vai iniciar Mensagens. Continuar mesmo assim?</string>
   <string name="enabled">Ligado</string>
   <string name="english_subject_limit">40 caracteres</string>
   <string name="enter_edit_mode">Editar mensagens</string>
@@ -254,6 +259,8 @@
   <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
+  <string name="google_message_promo_content">Xiaomi recomenda a troca para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Ver detalges&lt;/a&gt;&lt;/font&gt;</string>
+  <string name="google_message_promo_title">Actualizar a sua aplicação de mensagens</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
   <string name="group_member_is_composing">A escrever…</string>
   <string name="group_message">Mensagem de grupo</string>
@@ -500,6 +507,9 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="perm_purpose_rcs_account">Para mostrar o guia rápido para novos utilizadores</string>
   <string name="perm_purpose_rcs_phone_state">Para aceder ao IMEI para identificar o seu dispositivo</string>
   <string name="perm_purpose_rcs_storage">Para guardar imagens, vídeos, ficheiros e outros anexos RCS</string>
+  <string name="permission_retry_deny">Cancelar</string>
+  <string name="permission_retry_dialog_msg">Mensagens necessita de permissões para poder funcionar normalmente. Para conceder as permissões necessárias, toque em \"Definições\", seleccione \"Permissões da aplicação\" e dê as permissões de telefone, SMS e contactos</string>
+  <string name="permission_retry_setting">Definições</string>
   <string name="play">Reproduzir</string>
   <string name="playing_failed">Não foi possível reproduzir</string>
   <string name="pref_advanced_settings_title">Definições adicionais</string>
@@ -531,6 +541,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
+  <string name="pref_summary_enable_classify">Mover promoções e mensagens de finanças para separadores diferentes</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
   <string name="pref_summary_mms_read_reports">Mostrar notificação na lista de conversas quando o receptor transferir o conteúdo da MMS</string>
@@ -549,6 +560,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
   <string name="pref_title_collapse_ad_notification">Agrupar notificações de mensagens de promoções</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
+  <string name="pref_title_enable_classify">Agrupar mensagens automaticamente</string>
   <string name="pref_title_fwd_sender_info">Reencaminhar informações do remetente</string>
   <string name="pref_title_manage_sim_messages">Armazenamento do cartão SIM</string>
   <string name="pref_title_miui_card">Enviar via cartão</string>
@@ -756,6 +768,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificações</string>
   <string name="sp_mark_as_read_menu_title">Marcar como lida</string>
+  <string name="sp_msg_entry">Serviços</string>
   <string name="sqlite_disk_full">Espaço cheio</string>
   <string name="sqlite_low_memory">Sem espaço suficiente</string>
   <string name="status_failed">Sem sucesso</string>
@@ -824,6 +837,9 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Vai ser enviada às %s</string>
   <string name="toast_failed_to_close_priv_auth">Não foi possível revogar autorização. Verifique as suas definições de rede e tente novamente</string>
+  <string name="toast_not_show_camera_perm_req">Permitir que Mensagens utilize a câmara para poder utilizar esta funcionalidade</string>
+  <string name="toast_not_show_microphone_perm_req">Permitir que Mensagens utilize o microfone para poder utilizar esta funcionalidade</string>
+  <string name="toast_not_show_storage_perm_req">Permitir que Mensagens aceda ao armazenamento para poder utilizar esta funcionalidade</string>
   <string name="toast_pending_hangup_msg">A mensagem vai ser entregue após terminar a chamada</string>
   <string name="today">Hoje</string>
   <string name="too_many_attachments">Existe um limite de %1$s anexos. Apenas o primeiro %2$s vai ser adicionado</string>

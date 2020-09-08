@@ -487,10 +487,10 @@
   <string name="file_save_term">Termos de gravação de ficheiros</string>
   <string name="filter_item_all">Todos os emails</string>
   <string name="filter_item_cc">CC para mim</string>
-  <string name="filter_item_me">Enviados para mim</string>
+  <string name="filter_item_me">Env. para mim</string>
   <string name="filter_item_unread">Não lidos</string>
   <string name="filter_title_cc">"%s [CC para mim]"</string>
-  <string name="filter_title_me">%s [Enviados para mim]</string>
+  <string name="filter_title_me">%s [Env. para mim]</string>
   <string name="filter_title_unread">%s [Não lidos]</string>
   <string name="first_quick_default_reply">Toque no botão para enviar \"%s\" para todos os destinatários</string>
   <string name="folder_drafts_name_cn0">Rascunho</string>

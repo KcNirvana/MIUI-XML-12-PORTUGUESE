@@ -366,6 +366,7 @@
   <string name="hot_today">Popular hoje</string>
   <string name="information_setting">Recomendações</string>
   <string name="install_sucess">%s instalado com sucesso</string>
+  <string name="install_time_format">dd/MM/yyyy</string>
   <string name="installed">Instalado</string>
   <string name="installing">A instalar</string>
   <string name="item_title_process_mode">Escolha uma acção</string>
@@ -466,6 +467,10 @@
   <string name="optimizecenter_data_support_cm">Produzido por Clean Master</string>
   <string name="optimizecenter_data_support_tc">Produzido por Tencent</string>
   <string name="output_videos">Exportar vídeos</string>
+  <string name="permission_dialog_storage_btn1">Definições</string>
+  <string name="permission_dialog_storage_btn2">Cancelar</string>
+  <string name="permission_dialog_storage_content">Limpeza necessita de permissão para aceder ao armazenamento interno para poder funcionar normalmente. Toque em \"Definições\" para gerir as permissões de armazenamento</string>
+  <string name="permission_dialog_storage_title">Permissões necessárias</string>
   <string name="phone_search">Pesquisa Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_about_privacy_title">Política de Privacidade</string>

@@ -7123,12 +7123,14 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_configure_settings_preference_title">Preferências de Wi-Fi</string>
   <string name="wifi_configured_ap_list">Pontos de acesso configurados anteriormente</string>
   <string name="wifi_connect">Ligar</string>
+  <string name="wifi_connect_channel">Canal Wi-Fi:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancelar</string>
   <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
   <string name="wifi_connect_cmcc_dialog_content">Ligado ao serviço de dados CMCC</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Não voltar a mostrar</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
+  <string name="wifi_connect_frequency">Frequência Wi-Fi:</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_connecting">A ligar…</string>
   <string name="wifi_connection_management">Gerir ligações Wi-Fi</string>

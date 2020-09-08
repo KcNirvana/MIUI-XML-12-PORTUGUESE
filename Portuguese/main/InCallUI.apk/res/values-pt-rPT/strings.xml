@@ -87,6 +87,7 @@
   <string name="crbt_second_hold_prompt">%s está em espera…</string>
   <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
   <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
+  <string name="description_icon_sim_card">SIM %1$d</string>
   <string name="description_image_button_answer">Atender</string>
   <string name="description_image_button_dialpad">Teclado de marcação</string>
   <string name="description_image_button_eight">oito</string>
