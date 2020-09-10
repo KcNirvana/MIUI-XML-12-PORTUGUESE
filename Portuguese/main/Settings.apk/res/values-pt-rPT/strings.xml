@@ -3836,7 +3836,7 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
   <string name="mqs_privacy_automatically_upload">Enviar automaticamente da próxima vez</string>
   <string name="mqs_privacy_dialog_cancel">Cancelar</string>
   <string name="mqs_privacy_dialog_confirm">Enviar</string>
-  <string name="mqs_privacy_dialog_content">Ocorreram erros no seu dispositivo recentemente. Pode enviar os registos para nos ajudar a localizar e resolver este problema. Os registos podem conter informações pessoais. Enviar agora?</string>
+  <string name="mqs_privacy_dialog_content">Ocorreram erros no seu dispositivo recentemente. Pode enviar os registos para nos ajudar a encontrar e resolver este problema. Os registos podem conter informações pessoais. Enviar agora?</string>
   <string name="mqs_privacy_dialog_title">A enviar registos</string>
   <string name="msd_driver_download">Transferir driver</string>
   <string name="msd_driver_download_mac">OSX: Transferir o driver e instalar o AndroidFileTransfer.dmg</string>
@@ -5663,7 +5663,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>
   <string name="show_first_crash_dialog">Mostrar sempre a janela de erros</string>
-  <string name="show_first_crash_dialog_summary">Mostrar a janela de erros semre que uma aplicação falha</string>
+  <string name="show_first_crash_dialog_summary">Mostrar a janela de erros sempre que uma aplicação falha</string>
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
   <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações de vistas</string>
