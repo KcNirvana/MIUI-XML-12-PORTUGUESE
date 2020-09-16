@@ -80,10 +80,18 @@
     <item quantity="other">Utilizada há %d anos</item>
     <item quantity="one">Utilizada há %d ano</item>
   </plurals>
+  <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Pode utilizar o Bloqueio de aplicações com %1$s aplicações</item>
+        <item quantity="one">Pode utilizar o Bloqueio de aplicações com %1$s aplicação</item>
+    </plurals>
   <plurals name="applock_guide_app_count_tips">
     <item quantity="other">Pode proteger pelo menos %s aplicações</item>
     <item quantity="one">Pode proteger pelo menos %s aplicação</item>
   </plurals>
+  <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplicações vão ser protegidas pelo Bloqueio de aplicações</item>
+        <item quantity="one">%s aplicação vai ser protegidas pelo Bloqueio de aplicações</item>
+    </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d aplicações podem ligar à rede em segundo plano</item>
     <item quantity="one">%d aplicação pode ligar à rede em segundo plano</item>

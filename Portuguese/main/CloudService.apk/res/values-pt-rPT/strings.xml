@@ -21,6 +21,7 @@
   <string name="cloud_find_device_off">Desligado</string>
   <string name="cloud_find_device_on">Ligado</string>
   <string name="cloud_lab_title">Laboratório</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Actualize o seu plano para ter mais espaço na Xiaomi Cloud</string>
   <string name="cloud_storage_already_full">O armazenamento Xiaomi Cloud está cheio: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Ocupado: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
@@ -37,6 +38,8 @@
   <string name="connect_network_china">Ligar ao Wi-Fi ou inserir cartão SIM</string>
   <string name="connect_wlan">Ligar ao Wi-Fi</string>
   <string name="connect_wlan_china">Ligar ao Wi-Fi</string>
+  <string name="cta_notification_content_text">Permitir que %s se ligue à Internet para poder restaurar itens</string>
+  <string name="cta_notification_content_title">Não é possível restaurar itens de %s</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de várias aplicações (incluindo %1$s e %2$s) com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Esta conta é utilizada também noutro dispositivo. Unir os itens de %s com os itens neste dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Esta conta é utilizada também noutro dispositivo. Unir os itens de %1$s e %2$s com os itens neste dispositivo?</string>
@@ -244,6 +247,11 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_manual_pausing">Pausada</string>
   <string name="micloud_manual_pending">Pendente…</string>
   <string name="micloud_manual_reactivate">Reactivar</string>
+  <string name="micloud_manual_request_permission_cancel">Cancelar</string>
+  <string name="micloud_manual_request_permission_confirm">Definições</string>
+  <string name="micloud_manual_request_permission_content">Para poder utilizar os nossos serviços, conceda as seguintes permissões em Definições: \"%s\"</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Conceder as permissões necessárias primeiro</string>
+  <string name="micloud_manual_request_permission_title">Permissões necessárias</string>
   <string name="micloud_manual_sync_all">Sincronizar todos os itens</string>
   <string name="micloud_manual_sync_now">Sincronizar</string>
   <string name="micloud_manual_sync_now_retry">Tentar novamente</string>
@@ -384,7 +392,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
   <string name="pay_info_dialog_confirm_to_pay">Pagar %s</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Utilizar os restantes Mi Credits: %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Utilizar os restantes Mi Coins: %s</string>
   <string name="pay_info_dialog_title">Seleccionar método de pagamento</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone "</string>
   <string name="picker_list_empty">Sem contactos</string>

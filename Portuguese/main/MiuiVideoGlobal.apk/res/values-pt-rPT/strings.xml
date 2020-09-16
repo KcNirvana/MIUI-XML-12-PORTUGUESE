@@ -232,6 +232,9 @@
   <string name="not_show">Não mostrar novamente</string>
   <string name="notification_bar_player_subtitle">Mostrar leitor minimizado na área de notificações</string>
   <string name="notification_bar_player_title">Minimizar leitor</string>
+  <string name="notification_recall_action">Ligar</string>
+  <string name="notification_recall_desc">Vídeos pode notificar acerca de vídeos populares e subscrições</string>
+  <string name="notification_recall_title">Ligar notificações</string>
   <string name="notify_apk_installed">Transferido com sucesso</string>
   <string name="off">[desligado]</string>
   <string name="ok">OK</string>
@@ -490,6 +493,7 @@ Tente ver outros vídeos!"</string>
   <string name="recommend_online_switch">Recomendações online</string>
   <string name="recommend_online_tips">Ligar para receber recomendações de vídeos online</string>
   <string name="recommend_page_replay">Repetir</string>
+  <string name="rename">Mudar o nome</string>
   <string name="report">Reportar</string>
   <string name="report_content_fakement">Spam ou fraude</string>
   <string name="report_content_illegal">Declarações ilegais</string>

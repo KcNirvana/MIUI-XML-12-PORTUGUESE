@@ -4,6 +4,9 @@
   <string name="back">Voltar</string>
   <string name="cancel">Cancelar</string>
   <string name="category_other">Outras</string>
+  <string name="channel_name_aggregation">Notificações agrupadas</string>
+  <string name="channel_name_notification">Notificações da aplicação</string>
+  <string name="channel_name_recovered">Notificações restauradas</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="confirm">OK</string>
@@ -51,7 +54,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
   <string name="mune_setting_prefix_category">"Agrupar com "</string>
   <string name="not_sent_recently">Sem recentes</string>
-  <string name="notch_and_status_bar_setting">Centro de controlo e barra de estado</string>
+  <string name="notch_and_status_bar_setting">Centro de Controlo e barra de estado</string>
   <string name="notification_aggregate_description1">A MIUI pode agrupar as notificações automaticamente tornando a área de notificações mais vazia</string>
   <string name="notification_aggregate_description2">Os nossos algoritmos analisam o conteúdo das notificações e não aplicam esta funcionalidade a alertas importantes. Se encontrar notificações importantes agrupadas, reporte o erro utilizando \"Comentários\" feature</string>
   <string name="notification_aggregate_summary">Permitir que a MIUI agrupe notificações automaticamente</string>

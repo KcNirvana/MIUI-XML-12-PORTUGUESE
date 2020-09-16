@@ -381,6 +381,7 @@ Envie este código ao supervisor"</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_str">Popular</string>
   <string name="see_all">Ver tudo</string>
+  <string name="see_detail">Ver</string>
   <string name="see_more">Ver mais</string>
   <string name="see_more_content">Ver mais</string>
   <string name="select_package">Seleccionar versão</string>
@@ -528,6 +529,7 @@ Envie este código ao supervisor"</string>
   <string name="toast_update_no_more_newest_feeds">Sem novos itens</string>
   <string name="top_search_tip">Procure pelas categorias que gosta</string>
   <string name="torch">Lanterna</string>
+  <string name="understand_band_story">Saber mais</string>
   <string name="uninstall_introducation_text_desc">Os papéis de parede aleatórios entregam imagens directamente para o seu ecrã de bloqueio. Certifique-se que consegue fazer isto antes de desinstalar</string>
   <string name="uninstall_introduction_text_title">Acerca de papéis de parede aleatórios</string>
   <string name="uninstall_warning_text_desc">Sem os papéis de parede aleatórios não vai receber novas imagens no seu ecrã de bloqueio diariamente. Eliminar papéis de parede aleatórios?</string>
