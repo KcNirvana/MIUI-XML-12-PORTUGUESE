@@ -230,6 +230,7 @@
   <string name="hide_pull_down_positive">Ocultar</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
+  <string name="home_daily">Destaques diários</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>
   <string name="incall_show_apply">Vídeo de perfil para chamadas efectuadas</string>
   <string name="incall_show_apply_fail">Não foi possível definir</string>
@@ -253,10 +254,12 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="item_resource_audio_optional_color_ring">Toque de retorno</string>
   <string name="item_resource_audio_optional_notification_ring">Notificações</string>
   <string name="item_resource_audio_optional_phone_ring">Toques</string>
+  <string name="item_view_role_description">Separador</string>
   <string name="lab">Funcionalidades Beta</string>
   <string name="like_list">Itens que gostei</string>
   <string name="live_wallpaper">Papéis de parede animados</string>
   <string name="loading">Aguarde…</string>
+  <string name="loading_picture">A carregar imagem…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
   <string name="loading_resource_detail_info">Aguarde…</string>
   <string name="local_photos">Fotos locais</string>
@@ -573,6 +576,7 @@ Toque aqui para iniciar agora"</string>
   <string name="resource_share_subject">Partilhar tema: %1$s</string>
   <string name="resource_share_text">Aqui está um tema que pode gostar: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Partilhar</string>
+  <string name="resource_status_error">Ocorreu um erro</string>
   <string name="resource_system_title">Recursos de sistema</string>
   <string name="resource_tab_to_view">Toque para ver</string>
   <string name="resource_tip_select_none">Nada seleccionado</string>
@@ -637,6 +641,18 @@ Toque aqui para iniciar agora"</string>
   <string name="settings_search_keyword_font_online">Tipos de letra online</string>
   <string name="settings_search_keyword_font_style">Formato do tipo de letra</string>
   <string name="settings_search_keyword_font_wechat">Tipos de letra Wechat</string>
+  <string name="share_copy_theme_url">Copiar o URL do tema</string>
+  <string name="share_copy_url_success">Copiado com sucesso</string>
+  <string name="share_copy_wallpaper_url">Copiar o URL do papel de parede</string>
+  <string name="share_picture_loading">A carregar imagem…</string>
+  <string name="share_save_success">Guardado com sucesso</string>
+  <string name="share_save_to_photo">Galeria</string>
+  <string name="share_send_to_friend">WeChat</string>
+  <string name="share_theme_content_text">"Pode transferir um tema brilhante \"%1$s\" aqui: %2$s. De "</string>
+  <string name="share_to_qq">QQ</string>
+  <string name="share_to_weibo">Weibo</string>
+  <string name="share_vipaccount">Comunidade Mi</string>
+  <string name="share_wallpaper_content_text">"Pode transferir um papel de parede brilhante \"%1$s\" aqui: %2$s. De "</string>
   <string name="shortcut_add">Adicionar</string>
   <string name="shortcut_cancel">Não, obrigado</string>
   <string name="shortcut_message">Adicione um atalho no ecrã inicial</string>
@@ -876,6 +892,7 @@ Toque aqui para iniciar agora"</string>
   <string name="wallpaper_set_as_incall_show">Definir como perfil de vídeo</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_setting_all">Todos</string>
+  <string name="wallpaper_setting_library">Biblioteca</string>
   <string name="wallpaper_setting_live">Live</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
   <string name="wallpaper_settings_loading_text">Aguarde…</string>
