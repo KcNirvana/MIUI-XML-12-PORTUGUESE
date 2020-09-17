@@ -46,7 +46,7 @@
   <string name="fps_smooth_title">Média</string>
   <string name="fps_standard_summary">A taxa de actualização standard poupa bateria</string>
   <string name="fps_standard_title">Standard</string>
-  <string name="fps_user_tip">Estas animações de demonstração vsão reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
+  <string name="fps_user_tip">Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
   <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>

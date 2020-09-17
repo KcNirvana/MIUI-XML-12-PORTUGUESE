@@ -34,7 +34,7 @@
   <string name="calender">Calendário</string>
   <string name="call_anyone">Ligar</string>
   <string name="camera_error_title">Erro da câmara</string>
-  <string name="can_only_be_English_Chinese">A tradução online apenas está disponível para Inglês e Chinês Simplificado</string>
+  <string name="can_only_be_English_Chinese">A tradução online apenas está disponível para Inglês e Chinês simplificado</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_pdf_save">Cancelado</string>
   <string name="carsHome_title">Carro</string>
@@ -225,7 +225,7 @@
   <string name="once">Apenas uma vez</string>
   <string name="online_ocr_recognition">Reconhecimento OCR onlinen</string>
   <string name="online_ocr_recognition_str">Alterado para tradução online</string>
-  <string name="online_translation">Online translation</string>
+  <string name="online_translation">Tradução online</string>
   <string name="open_url">Abrir URL</string>
   <string name="original_image">Original</string>
   <string name="page_does_not_exist">A página não existe</string>

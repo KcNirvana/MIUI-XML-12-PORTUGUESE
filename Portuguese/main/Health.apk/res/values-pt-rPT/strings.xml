@@ -431,9 +431,9 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="home_tip_sync_done">Sincronizado com sucesso</string>
   <string name="home_tip_sync_immediately">Alguns itens não foram sincronizados. Toque para sincronizar</string>
   <string name="home_tip_syncing">A sincronizar dados…</string>
-  <string name="hr_choose_detect_state">What state are you in right now?</string>
+  <string name="hr_choose_detect_state">Em que estado está agora?</string>
   <string name="hr_detect">Medir batimento cardíaco</string>
-  <string name="hr_detect_desc">"During the measurement, your phone's flash will be used as a continuous light source, and the camera will detect changes in the blood flow. The images will then be analyzed, and your heart rate will be determined based on the repeated patterns."</string>
+  <string name="hr_detect_desc">Durante a medição o flash do seu telefone será utilizado como uma fonte de luz contínua e a câmera irá detectar alterações no fluxo sanguíneo. As imagens serão então analisadas e a sua frequência cardíaca será determinada com base nos padrões repetidos</string>
   <string name="hr_detect_finished">Concluído!</string>
   <string name="hr_detect_principle_desc_1">Pode medir o seu batimento cardíaco ao cobrir o flash e câmara do seu telefone com o dedo. O flash vai ser utilizado para uma fonte de luz contínua e a câmara vai detectar alterações no fluxo de sangue. As imagens vão ser analisadas e o seu batimento cardíaco vai ser determinado com base nos padrões repetidos</string>
   <string name="hr_detect_principle_desc_2">Vários testes mostram que a margem de erro deste método é de 2 batimentos por minuto</string>
