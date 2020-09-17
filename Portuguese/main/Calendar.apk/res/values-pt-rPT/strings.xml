@@ -561,7 +561,7 @@
   <string name="toast_import_success">Importado com sucesso</string>
   <string name="toast_invalid_url">URL inválido</string>
   <string name="toast_login_by_exchange">Iniciar sessão pelo Exchange</string>
-  <string name="toast_no_authority">"Can't access account. Check account settings and try again."</string>
+  <string name="toast_no_authority">Não é possível aceder à conta. Verifique as suas definições de conta e tente novamente</string>
   <string name="toast_sync_failed">Sincronização com erro</string>
   <string name="toast_sync_success">Sincronizado com sucesso</string>
   <string name="today">Hoje</string>

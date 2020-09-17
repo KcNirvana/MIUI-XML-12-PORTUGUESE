@@ -1285,16 +1285,16 @@ cartão de saúde"</string>
   <string name="free_time_traffic_settings">Limite de dados no período</string>
   <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
   <string name="free_traffic_settings">Limite de dados por período</string>
-  <string name="function_auto_reject_detail">"About this feature:
-1. While you're playing games, all incoming calls to the SIM card without mobile data service will be rejected automatically.
-2. You'll see notifications about missed calls and the other person will hear an audio message saying that you're busy at the moment.
-3. This feature is only supported by mobile carriers in China."</string>
-  <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
+  <string name="function_auto_reject_detail">"Acerca desta funcionalidade:
+1. Enquanto estiver a jogar, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
+2. Vai visualizar as notificações de chamadas não atendidas e a outra pessoa vai ouvir uma mensagem de áudio a informar que não está disponivel.
+3. Esta funcionalidade é compatível apenas com operadoras na China."</string>
+  <string name="function_auto_reject_title">Rejeitar chamadas VoLTE para cartões SIM sem serviço de dados</string>
   <string name="function_close">Desligado</string>
   <string name="function_gwsd_detail">"Acerca desta funcionalidade:
- 1. When you're using mobile data on a data SIM or a regular SIM card connected to a VoLTE network, connection won't be interrupted by incoming calls until you pick up.
- 2. When this feature is on, the other person won't be able to hear your ringback tones unless you're using a regular SIM card. Incoming calls will be rejected automatically after 7-10 seconds of inactivity.
- 3. Data SIM cards issued by China Mobile and China Unicom are supported. Regular SIM cards issued by China Mobile, China Unicom, and China Telecom are supported."</string>
+ 1. Quando utiliza dados móveis num SIM com dados ou um cartão SIM normal ligado a uma rede VoLTE, a ligação não será interrompida por chamadas recebidas até que sejam atendidas.
+ 2. Quando esta funcionalidade está ligada, a outra pessoa não conseguirá ouvir o som do toque de chamada, excepto quando utilizar um cartão SIM normal. As chamadas recebidas serão rejeitadas automaticamente após 7 a 10 segundos de inactividade.
+ 3. Os cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom são compatíveis."</string>
   <string name="function_shield_auto_bright">Desligar brilho automático</string>
   <string name="function_shield_eye_shield">Desligar Modo de Leitura</string>
   <string name="function_shield_pull_notification_bar">Não abrir a área de notificações</string>
