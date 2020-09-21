@@ -449,7 +449,7 @@
   <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
   <string name="notification_uninstalled_clean_button_text">Ver</string>
   <string name="notification_uninstalled_clean_with_name">Itens residuais de %s</string>
-  <string name="notification_uninstalled_clean_without_name">As aplicações desinstaladas deixam itens residuais</string>
+  <string name="notification_uninstalled_clean_without_name">As aplicações desinstaladas deixaram itens residuais</string>
   <string name="notification_whatsapp_clean_button_text">Limpar</string>
   <string name="notification_whatsapp_clean_size">A cache do WhatsApp atingiu %s</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>

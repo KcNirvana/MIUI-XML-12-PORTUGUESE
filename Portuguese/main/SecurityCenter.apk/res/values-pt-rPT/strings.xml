@@ -2370,7 +2370,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_settings_number">Percentagem</string>
   <string name="power_settings_saver_title">Poupança de bateria</string>
   <string name="power_settings_shape">Gráfico</string>
-  <string name="power_settings_title">Definições de bateria</string>
+  <string name="power_settings_title">Definições de optimização de bateria</string>
   <string name="power_settings_top">Barra no topo</string>
   <string name="power_superpower_title_systemui_highpower">Tempo restante</string>
   <string name="power_superpower_title_systemui_lowpower">Ligar carregador</string>

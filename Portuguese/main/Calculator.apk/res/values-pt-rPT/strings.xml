@@ -44,6 +44,7 @@
   <string name="convert_currency">Conversor de moedas</string>
   <string name="convertion_unit">Conversor de unidades</string>
   <string name="convertion_unit_area">Conversor de área</string>
+  <string name="convertion_unit_data">Conversor de dados</string>
   <string name="convertion_unit_length">Conversor de comprimento</string>
   <string name="convertion_unit_radix">Sistema numérico</string>
   <string name="convertion_unit_temperature">Conversor de temperatura</string>
@@ -52,6 +53,7 @@
   <string name="convertion_unit_volume">Conversor de volume</string>
   <string name="convertion_unit_weight">Conversor de peso</string>
   <string name="cosDesc">Cosseno</string>
+  <string name="currency_dialog_privacy_content">O conversor de divisas necessita de ligar à Internet para obter as últimas taxas de câmbio. Leia e concorde com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
   <string name="currency_update_connect_to_get_data">As taxas de câmbio são fornecidas por Webull. Ligue-se à rede para obter as últimas informações</string>
   <string name="currency_update_support">As taxas de câmbio são fornecidas por Webull</string>
   <string name="currency_update_time_format">As taxas de câmbio são fornecidas por Webull (%s)</string>
@@ -66,10 +68,11 @@
   <string name="description_title">Acerca de Calculadora</string>
   <string name="deselect_all">Desmarcar</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
-  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Antes de utilizar esta aplicação, tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
+  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar a Calculadora</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
+  <string name="dont_allow">Não concordar</string>
   <string name="dotDesc">Ponto</string>
   <string name="eDesc">Número de Euler</string>
   <string name="equalDesc">Igual</string>
@@ -136,6 +139,7 @@
   <string name="item_title_bmi">IMC</string>
   <string name="item_title_calculator">Calculadora</string>
   <string name="item_title_currency">Moeda</string>
+  <string name="item_title_data_conversion">Dados</string>
   <string name="item_title_date_calculator">Data</string>
   <string name="item_title_discount">Desconto</string>
   <string name="item_title_dress_size">Tamanho de roupa</string>
@@ -171,6 +175,7 @@
   <string name="label_loan_tenure">Posse do empréstimo</string>
   <string name="label_months">Meses</string>
   <string name="label_no_history">Sem itens</string>
+  <string name="label_powered_by">Fornecido por Calculadora</string>
   <string name="label_principal">Principal</string>
   <string name="label_share">Partilhar</string>
   <string name="label_start_date">Data de início</string>
@@ -335,7 +340,10 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="preference_use_voice_summary">Ligar para utilizar a voz durante os cálculos</string>
   <string name="preference_use_voice_title">Saída de voz</string>
   <string name="preference_user_feedback_title">Comentários</string>
+  <string name="privacy_disagree">Se não concordar com a nossa Política de Privacidade e condições, a Calculadora vai parar de obter dados e todos os dados relacionados vão ser eliminados dos nossos servidores. Não concordar mesmo assim?</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_switch">Concordar com a Política de Privacidade</string>
+  <string name="privacy_switch_disagree">Não concordar</string>
   <string name="radDesc">Radianos</string>
   <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
   <string name="reciprocalDesc">Inversos</string>
@@ -569,6 +577,12 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="unit_data_display_currency_yer">Rial</string>
   <string name="unit_data_display_currency_zar">Rand</string>
   <string name="unit_data_display_currency_zmw">Kwacha</string>
+  <string name="unit_data_display_data_b">Byte</string>
+  <string name="unit_data_display_data_gb">Gigabyte</string>
+  <string name="unit_data_display_data_kb">Kilobyte</string>
+  <string name="unit_data_display_data_mb">Megabyte</string>
+  <string name="unit_data_display_data_pb">Petabyte</string>
+  <string name="unit_data_display_data_tb">Terabyte</string>
   <string name="unit_data_display_length_au">Unidade astronómica</string>
   <string name="unit_data_display_length_chi">Chi</string>
   <string name="unit_data_display_length_cm">Centímetro</string>

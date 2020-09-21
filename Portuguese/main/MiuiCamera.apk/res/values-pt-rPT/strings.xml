@@ -243,6 +243,9 @@ e ajustar as preferências automaticamente"</string>
   <string name="ai_west_lake">West Lake</string>
   <string name="ai_wuhan">Wuhan</string>
   <string name="ai_zhang_jia_jie">Zhangjiajie</string>
+  <string name="aiwatermark_location_absent_hint">Não foi possível obter a localização</string>
+  <string name="aiwatermark_location_list_title">Localização</string>
+  <string name="aiwatermark_location_tips">"Permitir que Câmara aceda à sua localização para obter marcas d'água mais relevantes"</string>
   <string name="ambilight_description_title">Acerca da exposição longa</string>
   <string name="ambilight_intro_crowd_moving_part1">Quando tirar uma foto numa rua movimentada, peça ao seu sujeito para que fique parado. As outras pessoas vão aparecer como trilhas desfocadas</string>
   <string name="ambilight_intro_crowd_moving_part2">Também pode tirar fotos de tráfego intenso e multidões em movimento. A exposição longa vai manter os edifícios nítidos mas todos os objetos em movimento vão ficar desfocados</string>

@@ -115,6 +115,7 @@
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
   <string name="request_permission_msg">Permita que o Mi Drive aceda às suas informações de conta e armazenamento para funcionar normalmente</string>
+  <string name="request_permission_content_with_phone_state">Para poder iniciar sessão com a sua Conta Mi, pré-visualizar, carregar, transferir e sincronizar ficheiros e verificar actualizações, o Mi Drive necessita de permissões para aceder às suas contas, fotos, ficheiros e IMEI</string>
   <string name="request_permission_title">Permissões necessárias</string>
   <string name="sd_full">O cartão SD está cheio</string>
   <string name="sd_invalid">O cartão SD está corrompido</string>

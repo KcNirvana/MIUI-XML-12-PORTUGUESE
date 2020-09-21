@@ -16,6 +16,14 @@
         <item quantity="other">%1$d dias</item>
         <item quantity="one">%1$d dia</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Duração do período: %1$d dias</item>
+        <item quantity="one">Duração do período: %1$d dia</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Duração do ciclo: %1$d dias</item>
+        <item quantity="one">Duração do ciclo: %1$d dia</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">%1$d itens seleccionados</item>
         <item quantity="one">%1$d item seleccionado</item>
@@ -48,6 +56,10 @@
         <item quantity="other">%1$d passos</item>
         <item quantity="one">%1$d passo</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d ciclos</item>
+        <item quantity="one">%1$d ciclo</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
@@ -59,6 +71,10 @@
     <plurals name="last_measure_day_body_weight">
         <item quantity="other">%1$d dias desde a última pesagem</item>
         <item quantity="one">%1$d dia desde a última pesagem</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">O período vai começar em %1$d dias</item>
+        <item quantity="one">O período vai começar em %1$d dia</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Período de %1$d dias</item>
@@ -163,6 +179,10 @@
     <plurals name="unit_days">
         <item quantity="other">" dias"</item>
         <item quantity="one">" dia"</item>
+    </plurals>
+   <plurals name="unit_group">
+        <item quantity="other">" ciclos"</item>
+        <item quantity="one">" ciclo"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" vezes"</item>
