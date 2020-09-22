@@ -1839,7 +1839,6 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_text_antivirus">Verif. de segurança</string>
   <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupados</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
-  <string name="menu_text_garbage_cleanup_danger">%s de lixo</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
