@@ -678,7 +678,7 @@
   <string name="boot_time">Ligar às %1$s</string>
   <string name="boot_time_day">Ligar em %1$dd às %2$s</string>
   <string name="boot_time_day_tomorrow">Ligar amanhã às %1$s</string>
-  <string name="brand_diagnostic">Diagnósticos do tipo de marca da operadora</string>
+  <string name="bottom_func_guide_default_text">Mais funcionalidades</string>
   <string name="btn_back">Voltar</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_start_diagnostic">Testar rede</string>
@@ -1151,10 +1151,14 @@ cartão de saúde"</string>
   <string name="exception_notify_message">Não foi possível calcular estatísticas de dados devido a um erro. Reinicie para restaurar</string>
   <string name="exception_titile">Ocorreu um erro</string>
   <string name="exit">Sair</string>
+  <string name="exit_dialog_exit">Sair</string>
   <string name="exit_dialog_garbage_clean_message">O lixo no seu dispositivo é maior que %s. Limpar lixo?</string>
+  <string name="exit_dialog_garbage_clean_message_new">A Limpeza pode libertar &lt;font color=#0099ff>%s&lt;/font> de espaço. Limpar agora?</Data></string>
   <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
-  <string name="exit_dialog_garbage_clean_title">Limpar lixo</string>
+  <string name="exit_dialog_garbage_clean_title">Libertar espaço</string>
   <string name="exit_dialog_homepage_optimise_message">O resultado de desempenho do seu dispositivo é menos de 80 pontos. Optimizar agora?</string>
+  <string name="exit_dialog_release_memory_positive_button">Fechar</string>
+  <string name="exit_dialog_release_memory_title">Optimizar o seu dispositivo em &lt;font color=#0099ff>%d%%&lt;/font></string>
   <string name="exit_dialog_release_storage_message">Mais de 80% de espaço no seu dispositivo está ocupado. Liberte espaço desinstalando aplicações que nunca utiliza</string>
   <string name="exit_dialog_release_storage_positive_button">Libertar espaço</string>
   <string name="exit_dialog_release_storage_title">Libertar espaço</string>
@@ -1797,7 +1801,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_item_install_debug_package">Instalar pacote de depuração</string>
   <string name="menu_item_notification_antispam_text_avail">Lista de bloqueio</string>
   <string name="menu_item_notification_antispam_text_normal">Lista de bloqueio</string>
-  <string name="menu_item_notification_garbage_text">%s</string>
+  <string name="menu_item_notification_optimize_text">%d%% ocupados</string>
   <string name="menu_item_notification_power_text">Optimização de bateria</string>
   <string name="menu_item_notification_title">Mostrar na área de notificações</string>
   <string name="menu_item_shortcut_summary">Colocar funcionalidades no ecrã inicial</string>
@@ -1833,7 +1837,9 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_summary_power_manager_4">%s até ficar carregada</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
   <string name="menu_text_antivirus">Verif. de segurança</string>
+  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupados</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
+  <string name="menu_text_garbage_cleanup_danger">%s de lixo</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
@@ -2617,7 +2623,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="renew_now">Renovar</string>
   <string name="repair">Reparar</string>
   <string name="repair_loading_text">Aguarde…</string>
-  <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos</string>
+  <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em %d minutos</string>
   <string name="repeated_marked_number_title">Não bloquear chamadas repetidas de números reportados</string>
   <string name="replace_dns">Substituir DNS automaticamente</string>
   <string name="report">Reportar</string>
@@ -2886,7 +2892,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="st_msg_settings">Lista de bloqueio de SMS</string>
   <string name="st_msg_stranger_group">Bloquear mensagens de desconhecidos</string>
   <string name="st_settings_name">Definições da lista de bloqueio</string>
-  <string name="st_share_settings">Utilizar as definições do SIM 1</string>
+  <string name="st_share_settings">Utilizar as definições do SIM %d</string>
   <string name="st_sub_title_customize_mode_name">Nome</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
   <string name="st_sum_call_wait">A sua mensagem de ausência também vai tocar como sinal de ocupado para chamadas recebidas</string>
@@ -3021,6 +3027,12 @@ Para utilizar este ^1 com este dispositivo, tem de o configurar primeiro"</strin
 
 Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de dados, faça uma cópia para outro ^3 ou dispositivo"</string>
   <string name="storage_wizard_format_confirm_v2_title">Formatar este ^1 agora?</string>
+  <string name="stranger_call_dialog_add_block_list">Bloquear</string>
+  <string name="stranger_call_dialog_add_contacts">Novo contacto</string>
+  <string name="stranger_call_dialog_notification_body">Adicionar aos contactos ou bloquear este número</string>
+  <string name="stranger_call_dialog_notification_title_format">Número desconhecido %s</string>
+  <string name="stranger_call_dialog_subtitle_format">%s não está nos seus contactos. Pode adicionar este número aos contactos ou bloqueá-lo</string>
+  <string name="stranger_call_dialog_title">"Número desconhecido "</string>
   <string name="suggest_app_tolock">Sugestões</string>
   <string name="suggest_app_tolock_masked">Conteúdo oculto</string>
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>

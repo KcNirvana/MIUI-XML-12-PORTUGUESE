@@ -242,7 +242,7 @@
   <string name="burst_image_download_item_title" formatted="false">Transferir original (%s|%s)</string>
   <string name="burst_preview_title">Disparo Contínuo</string>
   <string name="burst_save_all">Manter todas as fotos</string>
-  <string name="burst_save_choice_title" formatted="false">Seleccionados %d de %d</string>
+  <string name="burst_save_choice_title">Seleccionados %1$d de %2$d</string>
   <string name="burst_save_dialog_title">Seleccionar que fotos quer manter</string>
   <string name="burst_save_error_msg">Não foi possível guardar</string>
   <string name="burst_save_processing">A processar…</string>
@@ -528,7 +528,7 @@
   <string name="empty_album_other_list_title">Sem álbuns</string>
   <string name="empty_album_rubbish_list_title">Sem álbuns</string>
   <string name="empty_description_conditions">Lembre-se das coisas que importam</string>
-  <string name="empty_description_conditions_new">Certifique-se que tirou fotos suficientes, ligou o carregador e desligou o ecrã para fazer com que os itens apareçam aqui mais cedo</string>
+  <string name="empty_description_conditions_new">Ligue o carregador e desligue o ecrã para fazer com que os itens apareçam aqui mais cedo</string>
   <string name="empty_description_no_cards">Lembre-se das coisas que importam</string>
   <string name="empty_query_text_msg">Não sabe o que procurar…</string>
   <string name="empty_recommend_back">Voltar</string>
@@ -702,8 +702,15 @@ efeitos de fotos"</string>
   <string name="filter_movie_travel">Viagens</string>
   <string name="filter_movie_wonderful">Maravilhas</string>
   <string name="filter_original">Nenhum</string>
+  <string name="filter_popular_autumn">Outono</string>
   <string name="filter_popular_bluedream">Sonolência</string>
+  <string name="filter_popular_coffee">Café</string>
+  <string name="filter_popular_coldsmoke">Névoa fria</string>
+  <string name="filter_popular_comic">Anime</string>
+  <string name="filter_popular_dream">Sonhos</string>
+  <string name="filter_popular_hill">Montanhas</string>
   <string name="filter_popular_humanity">Documentário</string>
+  <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_lnk">Tinta</string>
   <string name="filter_popular_purple">Roxo</string>
   <string name="filter_popular_shallow_summer">Junho</string>
@@ -838,6 +845,7 @@ efeitos de fotos"</string>
   <string name="input_or_select_a_name">Introduzir ou seleccionar nome</string>
   <string name="input_relation_name">Introduzir nome do grupo</string>
   <string name="install_fail">Não foi possível carregar o plugin devido a um erro</string>
+  <string name="internal_storage_device">Armazenamento interno</string>
   <string name="invalid_invition_url">URL de convite inválido</string>
   <string name="invalid_recipient_message">Os nomes dos destinatários que introduziu são inválidos</string>
   <string name="invite_sharer_confirm_button_text">Convidar</string>
@@ -1091,6 +1099,8 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="operation_move_to_other_albums">Mover para outros álbuns</string>
   <string name="operation_move_to_rubbish_albums">Mover para o lixo</string>
   <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
+  <string name="operation_photo_rename">Mudar o nome</string>
+  <string name="operation_pic_to_pdf">Criar PDF</string>
   <string name="operation_produce">Criatividade</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_face">Remover</string>
@@ -1247,8 +1257,20 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="photo_save_to_msg">Guardado em %s</string>
   <string name="photo_vlog_module_finish">Editor de vídeo transferido com sucesso</string>
   <string name="photo_vlog_module_loading">A transferir editor…</string>
+  <string name="photodetail_failed_already_exist">Este ficheiro já existe</string>
+  <string name="photodetail_rename_failed">Não foi possível mudar o nome</string>
+  <string name="photodetail_rename_invalid">"O nome do ficheiro não pode conter: /\\:*?&lt;>|"</string>
+  <string name="photodetail_rename_success">Nome alterado com sucesso</string>
+  <string name="photodetail_rename_title">Mudar o nome</string>
+  <string name="photodetail_rename_too_long">O nome introduzido é demasiado longo</string>
+  <string name="pic_to_pdf_a4_format">Papel A4</string>
+  <string name="pic_to_pdf_all_not_support">As imagens seleccionadas não podem ser guardadas como PDF</string>
+  <string name="pic_to_pdf_exit_notice">Este PDF não vai ser guardado se sair. Sair mesmo assim?</string>
+  <string name="pic_to_pdf_not_support_video">Vídeos não podem ser guardados como PDF</string>
+  <string name="pic_to_pdf_preview_loading">A carregar pré-visualização…</string>
+  <string name="pic_to_pdf_save_in">PDF guardado para %s</string>
   <string name="pick_from_contact">Escolher dos contactos</string>
-  <string name="pick_people_cover_fail">An error occurred. Try again.</string>
+  <string name="pick_people_cover_fail">Ocorreu um erro. Tente novamente</string>
   <string name="pick_people_cover_page_title">Seleccionar foto da capa</string>
   <string name="pick_people_cover_processing">Aguarde…</string>
   <string name="pick_people_cover_success">Foto da capa aplicada com sucesso</string>
@@ -1380,6 +1402,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="runtime_permission_ungranted">A Galeria fechou devido a permissões não concedidas</string>
   <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Foi criado como '%s' em vez"</string>
   <string name="save">Guardar</string>
+  <string name="save_error_try_a_different_template_msg">Não foi possível guardar. A imagem é demasiado grande</string>
   <string name="scan_barcode_guide">Para obter o código QR do álbum, toque no ícone Partilhar</string>
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
   <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
@@ -1456,6 +1479,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="search_title_more">Mais</string>
   <string name="search_title_others">Todos os resultados</string>
   <string name="search_title_people">Pessoas</string>
+  <string name="search_title_photo_name">Ficheiro</string>
   <string name="search_title_recommend">Recomendado</string>
   <string name="search_title_suggestion">Sugestões</string>
   <string name="search_title_tag">Objectos</string>
@@ -1678,6 +1702,9 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="to_enable_sync_dialog_message">Ligar primeiro a sincronização</string>
   <string name="to_enable_sync_dialog_positive_button_text">Ir para as Definições</string>
   <string name="to_enable_sync_dialog_title">Sincronizar</string>
+  <string name="toast_invalid_char">Os ficheiros não podem conter \"%s\"</string>
+  <string name="toast_invalid_prefix">Os ficheiros não podem iniciar com \".\" ou \"_\"</string>
+  <string name="toast_rename_exit">Este ficheiro já existe</string>
   <string name="today">Hoje</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (actualmente adicionados %1$s)</string>
   <string name="trash_bin">Lixo</string>

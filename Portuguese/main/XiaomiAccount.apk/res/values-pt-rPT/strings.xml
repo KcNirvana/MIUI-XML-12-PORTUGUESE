@@ -115,6 +115,7 @@ Envie este código ao supervisor"</string>
   <string name="exit">Sair</string>
   <string name="expand_button_title">Avançado</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
+  <string name="facebook_login">Iniciar sessão com Facebook</string>
   <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
   <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
@@ -149,6 +150,7 @@ Envie este código ao supervisor"</string>
   <string name="get_identity_auth_url_failed">Não foi possível verificar ID</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
+  <string name="google_login">Iniciar sessão com Google</string>
   <string name="guest_account_label">Conta Mi de convidado</string>
   <string name="health_action_activate">Activar</string>
   <string name="health_action_install">Instalar</string>

@@ -278,6 +278,14 @@
         <item quantity="other">%d horas</item>
         <item quantity="one">%d hora</item>
     </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtrados %d itens não suportados</item>
+        <item quantity="one">Filtrado %d item não suportado</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Os ficheiros PDF podem conter até %d imagens</item>
+        <item quantity="one">Os ficheiros PDF podem conter até %d imagem</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">As fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>
         <item quantity="one">A foto seleccionada não está no dispositivo. Transferir utilizando os dados móveis?</item>
