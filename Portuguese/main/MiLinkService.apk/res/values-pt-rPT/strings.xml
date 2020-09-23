@@ -121,6 +121,7 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
   <string name="san_wait_msg_4">Ver \"Ajuda\" se não conseguir localizar dispositivos</string>
   <string name="status_bar_in_casting">A transmitir</string>
   <string name="status_bar_in_casting_long">Toque para mais funcionalidades</string>
+  <string name="synergy_casting">Não é possível transmitir enquanto o Combo de Ecrã estiver a funcionar</string>
   <string name="toast_nfc_dont_move">Não afaste o telefone</string>
   <string name="toast_msg_for_multi_window">Não é possível transmitir no modo ecrã dividido</string>
   <string name="toast_msg">Utilize a janela para transmitir o ecrã na aplicação</string>

@@ -8,6 +8,7 @@
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="ad_close_button_text">Promoções</string>
+  <string name="ad_notification_title">Mensagens não importantes</string>
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
@@ -519,12 +520,15 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_delivery_ringtone">Som de entrega</string>
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reencaminhar</string>
+  <string name="pref_group_ad_mms_recognition">Agrupar mensagens de promoções</string>
   <string name="pref_hide_verification_code_summary">Ocultar automaticamente OTP nas notificações de mensagens no bloqueio de ecrã com segurança</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
   <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Mensagens eliminadas</string>
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Definições adicionais</string>
+  <string name="pref_rcs_show_report_message">Receber relatórios de entrega</string>
+  <string name="pref_rcs_show_report_message_tip">Receber relatórios quando as suas mensagens são entregues</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
   <string name="pref_show_list_avatar_summary">Mostrar foto e outras informações na lista de contactos</string>
   <string name="pref_show_photo_word_summary">Atribuir fotos aos contactos automaticamente</string>
@@ -534,10 +538,12 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_smart_messages_settings">Mensagens Inteligentes</string>
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Visualização</string>
+  <string name="pref_summary_ad_mms_recognition">Colocar mensagens de promoções num novo separador</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
   <string name="pref_summary_collapse_ad_notification">Mostrar todas as mensagens de promoções numa pasta separada na área de notificações</string>
   <string name="pref_summary_collapse_ad_notification_mms">Mostrar todas as mensagens de promoções numa pasta separada</string>
+  <string name="pref_summary_collapse_ad_notification_mms_new">Agrupar mensagens de promoções e marcar como não importante na área de notificações</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
@@ -555,6 +561,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
   <string name="pref_system_title">Sistema</string>
+  <string name="pref_title_ad_mms_recognition">Reconhecer mensagens de promoções</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_auto_delete">Eliminar mensagens antigas</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>

@@ -534,6 +534,8 @@
   <string name="auto_data_booster_suc">O Game Turbo está ligado. Alterado para modo imersivo</string>
   <string name="auto_handle_title">Geral</string>
   <string name="auto_import_games">Coloque todos os seus jogos num único sítio</string>
+  <string name="auto_send_correcting_msg">Deixe em branco para verificar automaticamente via SMS gratuita</string>
+  <string name="auto_set_by_brand">Sincronizar os detalhes do plano de dados com a sua operadora</string>
   <string name="auto_task_condition_choose_battery_level_down">Quando a bateria chegar a um certo nível</string>
   <string name="auto_task_condition_choose_end_time">Hora de fim</string>
   <string name="auto_task_condition_choose_ontime">Temporizador</string>
@@ -780,6 +782,8 @@
   <string name="card_main_xspace_title">Aplicações clonadas</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
   <string name="cd_back">Voltar</string>
+  <string name="cellular_data_auto_check">Verificar automaticamente</string>
+  <string name="cellular_package_daily_input">Introduzir</string>
   <string name="charger_detect_button_ok">Percebi</string>
   <string name="charger_detect_info1">Verifique se o carregador e o cabo estão ligados correctamente</string>
   <string name="charger_detect_info2">O carregamento também pode ser lento se estiver a utilizar cabos não standard ou carregadores e cabos antigos</string>
@@ -819,6 +823,7 @@
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="connecting">A ligar…</string>
   <string name="continue_install">Instalar</string>
+  <string name="continue_set">Continuar</string>
   <string name="convenient_mode">Desbloquear todas as aplicações</string>
   <string name="convenient_summary">Introduzir a palavra-passe uma vez para desbloquear tudo</string>
   <string name="correction_attention_dialog_message">A ajustar definições neste momento. Aguarde que o processo conclua e tente novamente</string>
@@ -877,6 +882,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="data_usage_warning_title_notify">Passou o limite de utilização de dados</string>
   <string name="databooster_tips_message">Ligar para restringir todos os cartões SIM except o de dados. Desligue esta funcionalidade se ocorrerem erros nos seus jogos</string>
   <string name="databooster_tips_title">Atenção</string>
+  <string name="day_overflow_tips">Aviso de utilização diária de dados</string>
   <string name="debug_open_final_tip">Ligar depuração USB?</string>
   <string name="debug_open_title">Esta funcionalidade é destinada a programadores e pode não ser conveniente para utilizadores em geral. Ligar a depuração USB pode causar as seguintes alterações:</string>
   <string name="declaration_dialog_msg">Esta funcionalidade pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador</string>
@@ -1153,7 +1159,7 @@ cartão de saúde"</string>
   <string name="exit">Sair</string>
   <string name="exit_dialog_exit">Sair</string>
   <string name="exit_dialog_garbage_clean_message">O lixo no seu dispositivo é maior que %s. Limpar lixo?</string>
-  <string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode libertar &lt;font color=#0099ff>%s&lt;/font> de espaço. Limpar agora?</Data></string>
+  <string name="exit_dialog_garbage_clean_message_new">A Limpeza pode libertar &lt;font color=#0099ff>%s&lt;/font> de espaço. Limpar agora?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
   <string name="exit_dialog_garbage_clean_title">Libertar espaço</string>
   <string name="exit_dialog_homepage_optimise_message">O resultado de desempenho do seu dispositivo é menos de 80 pontos. Optimizar agora?</string>
@@ -1268,6 +1274,9 @@ cartão de saúde"</string>
   <string name="first_settings_subtitle">Opções de partilha segura disponíveis:</string>
   <string name="first_settings_title">Proteger a sua privacidade</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
+  <string name="fixed_cellular_data_quota_monthly">Limite de dados mensal</string>
+  <string name="fixed_package_tips">Vão ser geradas taxas adicionais após ultrapassar o limite</string>
+  <string name="fixed_traffic_quota">Limite de dados (obrigatório)</string>
   <string name="fod_authentication_shift_button">Cancelar</string>
   <string name="fod_button_finger">Utilizar impressão digital</string>
   <string name="fod_button_password">Introduzir palavra-passe</string>
@@ -1289,6 +1298,8 @@ cartão de saúde"</string>
   <string name="free_time_traffic_settings">Limite de dados no período</string>
   <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
   <string name="free_traffic_settings">Limite de dados por período</string>
+  <string name="full_fill_oprator_and_location">Fornecer informações da operadora e localização</string>
+  <string name="full_fill_sim_location">Definir localização primeiro</string>
   <string name="function_auto_reject_detail">"Acerca desta funcionalidade:
 1. Enquanto estiver a jogar, todas as chamadas recebidas para o cartão SIM sem serviço de dados móveis serão rejeitadas automaticamente.
 2. Vai visualizar as notificações de chamadas não atendidas e a outra pessoa vai ouvir uma mensagem de áudio a informar que não está disponivel.
@@ -1485,12 +1496,14 @@ das suas sessões de jogo"</string>
   <string name="gb_wonderful_video_header_title">Hoje</string>
   <string name="gb_wonderful_video_save_suc">Guardado</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
+  <string name="get_detail_by_click">Toque para ver detalhes</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="global_wa_setting_alert_dialog_content">Pode libertar %s</string>
   <string name="global_wa_setting_alert_dialog_title">Limpeza WhatsApp</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
   <string name="gmscore_support_service">Serviços Google básicos</string>
   <string name="go_to">Continuar</string>
+  <string name="go_to_send">Enviar</string>
   <string name="go_to_setting_fingerprint">Definições</string>
   <string name="google_base_app_fail">Não foi possível transferir. Verifique se Segurança tem permissão de ligar à Internet</string>
   <string name="google_base_app_install_choice">A aplicação necessita da Framework de serviços Google Service Framework para funcionar normalmente. Transferir e instalar?</string>
@@ -1587,6 +1600,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="hot">Em destaque</string>
   <string name="hot_today">Em destaque hoje</string>
   <string name="i_know">Percebi</string>
+  <string name="ignore_special_app">Ignorar os dados utilizados pelas aplicações seleccionadas do seu plano</string>
   <string name="im">IM</string>
   <string name="info_and_call">Chamadas e mensagens</string>
   <string name="info_antispam_close">A lista de bloqueio está desligada</string>
@@ -1598,7 +1612,10 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="info_unantispam_phone_sms">Permitir chamadas e mensagens</string>
   <string name="info_unantispam_sms">Permitir mensagens</string>
   <string name="information_setting">Recomendações</string>
+  <string name="input_available_cellular_data_daily_hint">Introduzir limite de dados diário</string>
   <string name="input_aviable_traffic">Definir utilização de dados</string>
+  <string name="input_celluar_data_quota_hint">Introduzir limite de dados</string>
+  <string name="input_cellular_data_warn_hint">Introduzir limite do aviso de utilização de dados</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_traffic_pkg">Definir utilização de dados</string>
   <string name="input_used_hint">Definir utilização de dados</string>
@@ -1645,6 +1662,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
 
 Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</string>
   <string name="leisure_usage_dialog_title">Chegou ao limite de utilização de dados móveis. A sua ligação de dados foi desligada</string>
+  <string name="limit_speed_by_quota">Podem ser aplicadas restrições de velocidade após ultrapassar o limite</string>
   <string name="list_empty_text">Vazio</string>
   <string name="load_only_under_wlan">Carregar apenas quando ligado ao Wi-Fi</string>
   <string name="loading">Aguarde…</string>
@@ -1736,6 +1754,7 @@ da operadora"</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="main_traffic_detail">Utilização de dados</string>
+  <string name="make_sure_package_type">Seleccionar o seu plano de dados</string>
   <string name="man_add_application">Adicionar aplicações de início automático manualmente</string>
   <string name="manage_hybrid_permissions">Gerir permissões da aplicação</string>
   <string name="managed_user_title">Todas as aplicações de trabalho</string>
@@ -1839,6 +1858,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_text_antivirus">Verif. de segurança</string>
   <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s ocupados</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
+  <string name="menu_text_garbage_cleanup_danger">%s de lixo</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
@@ -1873,6 +1893,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="mixed_recording_intro_header">Introduza %1$s-%2$s caracteres</string>
   <string name="mixed_retry_button_text">Cancelar</string>
   <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
+  <string name="modify_cellular_type">Toque para seleccionar o seu plano</string>
   <string name="modifypassword">Alterar tipo de palavra-passe</string>
   <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
   <string name="monitor_app_add">Adicionar</string>
@@ -1962,6 +1983,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="nickname">Alcunha</string>
   <string name="no_game">Sem jogos</string>
   <string name="not_limited_brand">Ilimitado</string>
+  <string name="not_settled">Não definido</string>
   <string name="note">Nota</string>
   <string name="note_call_none">Sem chamadas</string>
   <string name="note_list_none">Lista vazia</string>
@@ -2007,6 +2029,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notify_weekly_traffic_body">Para limitar a utilização de dados automaticamente defina um plano de dados mensal</string>
   <string name="notify_weekly_traffic_title">Utilizados %s esta semana</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizados %2$s esta semana</string>
+  <string name="number_address">Localização</string>
   <string name="numeric_need_to_confirm">Introduza novamente para confirmar</string>
   <string name="numeric_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="numeric_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
@@ -2054,6 +2077,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="open_game">Abrir</string>
   <string name="open_now">Permitir que a aplicação utilize dados móveis</string>
   <string name="operator_diagnostic">Diagnósticos da operadora</string>
+  <string name="operator_name_virtual_operator">Operadora virtual</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_mi_mobile">Mi Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
@@ -2457,6 +2481,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
   <string name="pricacy_permission_use_total">Estatísticas de permissões</string>
+  <string name="priority_statistics_fixed_traffic">Vão ser utilizados os dados do plano mensal primeiro</string>
   <string name="priority_storage_app_settings">Os dados vão ser guardados em %1$s</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os seus dados vão ser guardados no armazenamento interno automaticamente</string>
   <string name="priority_storage_summary">Seleccionar a localização para guardar os seus dados</string>
@@ -2725,10 +2750,17 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="securitycenter_tab_title">Segurança</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
+  <string name="select_province_and_city">Seleccionar localização</string>
+  <string name="send_msg_to_query">Enviar uma mensagem de texto para verificar</string>
   <string name="set_applock_password">Definir palavra-passe</string>
+  <string name="set_complete">Definido com sucesso</string>
+  <string name="set_location">Definir localização</string>
   <string name="set_mixed_password_name">Definir palavra-passe</string>
   <string name="set_numeric_password_name">Definir PIN</string>
+  <string name="set_package_tips">Vamos enviar uma SMS gratuita para a sua operadora para verificar o seu plano de dados</string>
+  <string name="set_package_tips_detail">A informação enviada para os servidores da Xiaomi vão incluir os detalhes da sua operadora, o seu número de telefone, IMEI e Conta Mi</string>
   <string name="set_pattern_password_name">Definir padrão</string>
+  <string name="set_traffic_tips">Definir o seu plano de dados para gerir a utilização de dados móveis</string>
   <string name="setting">Definições</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
   <string name="settings">Definições de utilização de dados</string>
@@ -3221,7 +3253,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não estiver a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado vai ser enviado para os nossos servidores</string>
+  <string name="tc_sms_report_tips_dialog_message">A utilização de dados utiliza uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não estiver a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado vai ser enviado para os nossos servidores</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>
@@ -3365,6 +3397,7 @@ Passou dados extra"</string>
   <string name="traffic_config_alert_setted">Definições aplicadas</string>
   <string name="traffic_config_alert_title">%s Correcção</string>
   <string name="traffic_correction_failed">Não é possível obter informações</string>
+  <string name="traffic_correction_failed_tips">Não foi possível verificar o plano de dados. Certifique-se que as definições estão correctas ou defina o seu plano manualmente</string>
   <string name="traffic_correction_start_correction">A conversar com os servidores da operadora…</string>
   <string name="traffic_correction_start_correction_failed">Pedido falhou, por favor, verifique as configurações da operadora</string>
   <string name="traffic_correction_success">Utilização de dados actualizada</string>
@@ -3374,6 +3407,7 @@ Passou dados extra"</string>
 
 Os dados restantes incluem dados que foram transferidos do mês anterior"</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
+  <string name="traffic_limit_input">Limite de dados (obrigatório)</string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Pode ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_provider_no_sim">Carão SIM não instalado</string>
@@ -3418,7 +3452,9 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="uninstall_danagerous_msg">\"%s\" pode danificar o seu dispositivo, reduzir desempenho ou causar reinícios</string>
   <string name="uninstall_danagerous_title">Desinstalar aplicações maliciosas</string>
   <string name="unlock_failed">Erro interno</string>
+  <string name="unknown_package">Não sabe o seu plano?</string>
   <string name="unlike">Não, obrigado</string>
+  <string name="unlimited_cellular_data_monthly">Ilimitado</string>
   <string name="unlock_pattern"><u>Padrão</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar as impressões digitais</string>
   <string name="unlock_set_unlock_password_summary">Segurança elevada</string>

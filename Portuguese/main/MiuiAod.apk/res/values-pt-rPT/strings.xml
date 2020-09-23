@@ -9,6 +9,8 @@
   <string name="animation_clock_panel">Visualização em onda</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser combinada com a inversão de cores. Desligue a inversão de cores primeiro</string>
   <string name="aod_component">Itens mostrados</string>
+  <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+  <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
   <string name="aod_lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="aod_lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="aod_lock_screen_date_12_signature">dd/MM</string>

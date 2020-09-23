@@ -416,6 +416,10 @@
   <string name="dialer_menu_title">Opções do menu</string>
   <string name="dialer_returnToInCallScreen">Retorno da chamada em curso</string>
   <string name="dialer_useDtmfDialpad">Utilizar o teclado numérico</string>
+  <string name="dialog_delete_contact_button_delete">Eliminar</string>
+  <string name="dialog_delete_contact_button_keep">Manter</string>
+  <string name="dialog_delete_contact_content">A Xiaomi Cloud quer eliminar alguns dos seus contactos. Eliminar agora?</string>
+  <string name="dialog_delete_contact_title">Eliminar contactos</string>
   <string name="dialog_import">Importar contactos</string>
   <string name="dialog_import_export">Importar/Exportar contactos</string>
   <string name="dialog_new_contact_account">Criar contactos na conta</string>
@@ -807,6 +811,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="none_paired">Sem dispositivos emparelhados</string>
   <string name="not_applied">Não aplicado</string>
   <string name="notification_action_voicemail_play">Reproduzir</string>
+  <string name="notification_click_detail">Toque para ver detalhes</string>
+  <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud quer eliminar alguns dos seus contactos</string>
   <string name="notification_new_voicemail_ticker">Nova mensagem de voz de %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Teclado</string>

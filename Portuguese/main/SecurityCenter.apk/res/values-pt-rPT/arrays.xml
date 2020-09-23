@@ -25,11 +25,23 @@
     <item>PIN</item>
     <item>Palavra-passe</item>
   </string-array>
+  <string-array name="cellular_package_type">
+    <item>Mensal</item>
+    <item>Ilimitado</item>
+    <item>Diário</item>
+  </string-array>
   <string-array name="daily_brand">
     <item>Personalizado</item>
     <item>Cartão Mi Fan</item>
-    <item>Cartão Xiao Tiansheng</item>
-    <item>Cartão Tencent King</item>
+    <item>Cartão Tiansheng</item>
+    <item>Cartão Tencent</item>
+  </string-array>
+  <string-array name="daily_rent_card_brands">
+    <item>Personalizado</item>
+    <item>Mi Mobile</item>
+    <item>Cartão Mi Fan</item>
+    <item>Cartão Tiansheng</item>
+    <item>Cartão Tencent</item>
   </string-array>
   <string-array name="date_of_app_all">
     <item>"Ontem (Dados móveis) "</item>
