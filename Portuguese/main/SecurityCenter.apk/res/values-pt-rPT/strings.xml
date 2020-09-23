@@ -1153,7 +1153,7 @@ cartão de saúde"</string>
   <string name="exit">Sair</string>
   <string name="exit_dialog_exit">Sair</string>
   <string name="exit_dialog_garbage_clean_message">O lixo no seu dispositivo é maior que %s. Limpar lixo?</string>
-  <string name="exit_dialog_garbage_clean_message_new">A Limpeza pode libertar &lt;font color=#0099ff>%s&lt;/font> de espaço. Limpar agora?</Data></string>
+  <string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode libertar &lt;font color=#0099ff>%s&lt;/font> de espaço. Limpar agora?</Data></string>
   <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
   <string name="exit_dialog_garbage_clean_title">Libertar espaço</string>
   <string name="exit_dialog_homepage_optimise_message">O resultado de desempenho do seu dispositivo é menos de 80 pontos. Optimizar agora?</string>
