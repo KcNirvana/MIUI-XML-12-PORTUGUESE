@@ -478,7 +478,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_heart_rate_unit">Batimentos cardíacos (BPM)</string>
   <string name="hr_in_detect">Não solte os dedos enquanto estiver a testar</string>
   <string name="hr_input_heart_rate">Registar batimentos cardíacos</string>
-  <string name="hr_measure_heart_rate">A medir o batimento cardíaco</string>
+  <string name="hr_measure_heart_rate">Medir o batimento cardíaco</string>
   <string name="hr_open_permission_desc">Saúde necessita de aceder à sua câmara para poder medir os batimentos cardíacos. Concorda?</string>
   <string name="hr_open_permission_title">Permissões necessárias</string>
   <string name="hr_phone_detect_records">Registos de detecção</string>
@@ -488,7 +488,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_report_active_desc">Medir a sua frequência cardíaca imediatamente após o treino pode ajudá-lo a ajustar seus hábitos de exercício, já que exercícios de diferentes intensidades têm diferentes zonas de frequência cardíaca ideais. Se a sua frequência cardíaca estiver muito alta a actividade pode ser prejudicial à sua saúde, causando tonturas, aperto no peito e outros riscos. A baixa frequência cardíaca pode ser um sinal de baixa eficácia de um determinado exercício</string>
   <string name="hr_report_common_desc">A frequência cardíaca normal é mantida pelo corpo humano durante as actividades diárias e varia entre 60 a 100 BPMs. Uma frequência cardíaca inferior a 60 BPMs é um sinal de bradicardia enquanto uma frequência cardíaca acima de 100 BPMs é aceite como taquicardia em adultos</string>
   <string name="hr_see_report">Ver relatório</string>
-  <string name="hr_start_detect">Comece a experimentar</string>
+  <string name="hr_start_detect">Experimentar</string>
   <string name="hr_state">Estado</string>
   <string name="hr_state_active">Activo</string>
   <string name="hr_state_fast">Rápido</string>
@@ -570,7 +570,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="manage_home">Página inicial</string>
   <string name="manual_add">Adicionar manualmente</string>
   <string name="manual_adjust">Ajustar</string>
-  <string name="manual_input">Introduzir manualmente</string>
+  <string name="manual_input">Introdução manual</string>
   <string name="manual_page_label_body_weight_select">Seleccionar peso</string>
   <string name="manual_page_label_measure_date">Data da pesagem</string>
   <string name="manual_page_measure_date_title">Data e hora</string>
@@ -1181,7 +1181,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_sleep_index_info">%1$s. Toque para ver detalhes</string>
   <string name="tb_sleep_index_title">Trocar para %1$s</string>
   <string name="tb_sleep_ring_info">%1$s. Sono: %2$s. Toque para ver detalhes</string>
-  <string name="tb_snore_detection_main">Acerca das funcionalidades relacionadas com o ressonar e falar: %1%s. Deslize horizontalmente na parte superior do ecrã para ir para a próxima página</string>
+  <string name="tb_snore_detection_main">Acerca das funcionalidades relacionadas com o ressonar e falar: %1$s. Deslize horizontalmente na parte superior do ecrã para ir para a próxima página</string>
   <string name="tb_snore_view_info">Gráfico de ressonar e falar</string>
   <string name="tb_stand_card_finish_stand">Pausas para ficar em pé hoje: %1$s. Tem de fazer pelo menos 12 hoje. Atingiu o objectivo entre %2$s e %3$s</string>
   <string name="tb_stand_card_not_finish_stand">Pausas para ficar em pé hoje: %1$s. Tem de fazer pelo menos 12 hoje. Não atingiu o objectivo entre %2$s e %3$s</string>

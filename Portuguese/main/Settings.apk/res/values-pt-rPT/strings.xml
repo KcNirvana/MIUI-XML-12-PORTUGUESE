@@ -1294,8 +1294,8 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="call_manager_enable_title">Activar Gestor de chamadas</string>
   <string name="call_manager_title">Gestor de chamadas</string>
   <string name="call_records_summary_1">%1$d:%2$d | %3$d segundos</string>
-  <string name="call_records_summary_2">16 %1$d | %2$d min %3$d seg</string>
-  <string name="call_records_summary_3">16 %1$d | %2$d min %3$d seg</string>
+  <string name="call_records_summary_2">%1$d Ago | %2$d min %3$d seg</string>
+  <string name="call_records_summary_3">%1$d Ago | %2$d min %3$d seg</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Definições de chamadas</string>

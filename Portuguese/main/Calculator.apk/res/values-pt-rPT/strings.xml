@@ -53,7 +53,7 @@
   <string name="convertion_unit_volume">Conversor de volume</string>
   <string name="convertion_unit_weight">Conversor de peso</string>
   <string name="cosDesc">Cosseno</string>
-  <string name="currency_dialog_privacy_content">O conversor de divisas necessita de ligar à Internet para obter as últimas taxas de câmbio. Leia e concorde com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
+  <string name="currency_dialog_privacy_content">O conversor de divisas necessita de ligar à Internet para obter as últimas taxas de câmbio. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar esta funcionalidade</string>
   <string name="currency_update_connect_to_get_data">As taxas de câmbio são fornecidas por Webull. Ligue-se à rede para obter as últimas informações</string>
   <string name="currency_update_support">As taxas de câmbio são fornecidas por Webull</string>
   <string name="currency_update_time_format">As taxas de câmbio são fornecidas por Webull (%s)</string>
@@ -68,7 +68,7 @@
   <string name="description_title">Acerca de Calculadora</string>
   <string name="deselect_all">Desmarcar</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
-  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar a Calculadora</string>
+  <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade antes de utilizar a Calculadora</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
