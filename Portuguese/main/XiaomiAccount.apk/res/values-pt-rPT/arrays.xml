@@ -4,10 +4,15 @@
         <item>Masculino</item>
         <item>Feminino</item>
     </string-array>
-    <string-array name="settings_search_account_and_authority">
+    <string-array name="settings_search_account_and_authority_global">
         <item>Contas</item>
         <item>Adicionar e gerir contas</item>
-        <item>Autorização;Conta;Conta Mi;Adicionar;Emparelhar;Xiaomi;Ver;SNS;WeChat;Google;Weibo</item>
+        <item>Autorização;Conta;Conta Mi;Adicionar;Emparelhar;Xiaomi;Ver;SNS;Facebook;Google</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Contas</item>
+        <item>Adicionar e gerir contas</item>
+        <item>Autorização;Conta;Conta Mi;Adicionar;Emparelhar;Xiaomi;Ver;SNS;WeChat;QQ;Weibo</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Alterar palavra-passe</item>

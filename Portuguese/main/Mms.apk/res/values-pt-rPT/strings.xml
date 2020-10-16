@@ -260,7 +260,7 @@
   <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
-  <string name="google_message_promo_content">Xiaomi recomenda a troca para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Ver detalges&lt;/a&gt;&lt;/font&gt;</string>
+  <string name="google_message_promo_content">Xiaomi recomenda a actualização para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Saber mais&lt;/a&gt;&lt;/font&gt;</string>
   <string name="google_message_promo_title">Actualizar a sua aplicação de mensagens</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
   <string name="group_member_is_composing">A escrever…</string>
@@ -297,6 +297,8 @@
   <string name="ignore">Agora não</string>
   <string name="importing_progress_private_message">Importar mensagens…</string>
   <string name="in_sms">Mensagem</string>
+  <string name="installed_google_message_promo_content">A Xiaomi recomenda a utilização de Mensagens da Google. Abrir Mensagens para obter partilha de fotos em alta qualidade, conversas via Wi-Fi e mais</string>
+  <string name="installed_google_message_promo_title">Abrir Mensagens</string>
   <string name="insufficient_drm_rights">Detectados direitos DRM insuficientes</string>
   <string name="invalid_conversation">Conversa inválida</string>
   <string name="invalid_destination">Endereço de destino inválido</string>
@@ -533,7 +535,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_show_list_avatar_summary">Mostrar foto e outras informações na lista de contactos</string>
   <string name="pref_show_photo_word_summary">Atribuir fotos aos contactos automaticamente</string>
   <string name="pref_show_sms_template_entry_summary">Detectar OTPs e mostrar menu</string>
-  <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes do Mi Message tais como copiar códigos, verificar o saldo, etc.</string>
+  <string name="pref_show_sms_template_summary">Copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_smart_messages_settings">Mensagens Inteligentes</string>
   <string name="pref_sms_storage_title">Armazenamento</string>
@@ -612,6 +614,12 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="privacy_password_title3">Actualizar o seu padrão</string>
   <string name="privacy_password_title4">Padrão actualizado</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_state_revoked_cancel">Cancelar</string>
+  <string name="privacy_state_revoked_content">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Mensagens. Nós vamos parar de obter as suas informações pessoais</string>
+  <string name="privacy_state_revoked_dialog_title">Remoção de consentimento</string>
+  <string name="privacy_state_revoked_revoked">Remover</string>
+  <string name="privacy_state_revoked_switch">Remoção de consentimento</string>
+  <string name="privacy_state_revoked_synopsis">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Mensagens</string>
   <string name="privacy_term">Política de Privacidade</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações de mensagens</string>
@@ -755,8 +763,10 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="slide_up_to_cancel">Deslizar para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação</string>
   <string name="smart_message_title">Mensagens Inteligentes</string>
+  <string name="smart_message_upgrade_title">Actualização da Política de Privacidade das Mensagens Inteligentes</string>
   <string name="smart_msg_main_purpose">As Mensagens Inteligentes fornecem identificação do remetente e serviços inteligentes</string>
   <string name="smart_msg_privacy_policy">Política de Privacidade das Mensagens Inteligentes</string>
+  <string name="smart_msg_upgrade_main_purpose">A Mensagens Inteligentes funcionam com MMS agora. Vai poder utilizar mais serviços fornecidos pelos remetentes, assim como receber mensagens em novos formatos</string>
   <string name="sms_content">Conteúdo:</string>
   <string name="sms_full_body">A mensagem a receber foi rejeitada: Não existe espaço neste dispositivo</string>
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>
@@ -815,6 +825,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
 Se não concordar com as permissões necessárias, esta aplicação não vai funcionar normalmente"</string>
   <string name="system_permission_declare_privacy_declare">%1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:</string>
   <string name="system_permission_declare_privacy_declare_new">Esta aplicação necessita de ligar à Internet e das seguintes permissões para funcionar normalmente:</string>
+  <string name="system_permission_declare_privacy_link">Para perceber os seus direitos como utilizador assim como utilizamos os seus dados, leia e concorde com os nossos %1s</string>
   <string name="system_permission_declare_revoke_path">Pode revogar a sua autorização e desligar os serviços nas definições de Mensagens</string>
   <string name="system_permission_declare_single_link">Leia e concorde com o nosso %1s antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_triple_link" formatted="false">Leia e concorde com os nossos %1s, %2s e %3s antes de utilizar estas funcionalidades</string>
@@ -895,6 +906,7 @@ Tentativas efectuadas: %s"</string>
   <string name="voice_report_wiredon">Com auriculares</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviar em %ds</string>
+  <string name="web_content_invalid_hint">A visualização deste item está restrita pelas leis e regulamentos do seu país</string>
   <string name="wild_msg_processing">A processar…</string>
   <string name="wild_msg_title">Escolher números de telefone para sincronizar</string>
   <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens MIUI</string>

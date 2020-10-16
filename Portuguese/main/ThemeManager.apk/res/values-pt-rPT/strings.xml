@@ -19,6 +19,7 @@
   <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
   <string name="all_resources">Todos</string>
   <string name="already_latest_version">Actualizado</string>
+  <string name="already_newest_version">A versão actual está actualizada</string>
   <string name="anonymous_resource_link_error">Não foi possível adicionar</string>
   <string name="anonymous_resource_link_hint">Alguns itens não foram adicionados à sua conta. Adicionar agora?</string>
   <string name="anonymous_resource_link_now">Adicionar</string>
@@ -68,6 +69,7 @@
   <string name="both_all_apply_success">Papel de parede definido</string>
   <string name="browser_local_resource">Recursos locais</string>
   <string name="can_not_apply">Não é possível aplicar</string>
+  <string name="cancel_download">Transferência cancelada</string>
   <string name="card_data_request_error">Erro no pedido de dados. Tente novamente mais tarde</string>
   <string name="card_loading">Aguarde…</string>
   <string name="card_no_network">Não foi possível ligar à rede</string>
@@ -138,6 +140,7 @@
   <string name="description_uploadtime">Actualização</string>
   <string name="description_version">Versão</string>
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
+  <string name="desk_loop_will_change">Atenção</string>
   <string name="desktop_effects">Efeitos de ecrã inicial</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
   <string name="detail_author_attention_head">Seguir alguns dos melhores designers</string>
@@ -248,6 +251,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="incompatible_dialog_message">Este tema não é totalmente compatível com a versão MIUI instalada. Alguns elementos podem ser mostrados incorrectamente</string>
   <string name="incompatible_dialog_ok">Percebi</string>
   <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
+  <string name="install_failed">Não foi possível instalar</string>
   <string name="icon_content_description">Ícone de diálogo</string>
   <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
@@ -342,7 +346,9 @@ Toque aqui para iniciar agora"</string>
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>
   <string name="network_exception">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
+  <string name="no_cta_agreed">GetApps não tem permissões CTA</string>
   <string name="no_data">Não é possível ligar à rede</string>
+  <string name="no_install_permission">Não tem permissões para instalar este item</string>
   <string name="no_net_work_connection">Verifique as suas definições de rede e tente novamente</string>
   <string name="no_network_desc">Não foi possível ligar à rede</string>
   <string name="no_network_please_retry">Verifique as suas definições de rede e tente novamente</string>
@@ -367,6 +373,7 @@ Toque aqui para iniciar agora"</string>
   <string name="ota_recovery_theme_notity_title">Restaurar o seu tema</string>
   <string name="password_toggle_content_description">Mostrar palavra-passe</string>
   <string name="playing_ringtone">A reproduzir</string>
+  <string name="pref_lockscreen_magazine_summary">Substituir o papel de parede com apresentação de imagens de várias categorias</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
   <string name="present_local_fonts">Os meus tipos de letra</string>
   <string name="present_local_themes">Os meus temas</string>
@@ -631,6 +638,8 @@ Toque aqui para iniciar agora"</string>
   <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
   <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
+  <string name="set_wallpaper_group_success">"%1$s foi aplicado.
+Vai ver uma nova imagem a cada hora"</string>
   <string name="setting_font_online">Tipos de letra online</string>
   <string name="settings">Definições</string>
   <string name="settings_search_keyword_font_free">Tipos de letra grátis</string>
@@ -672,6 +681,12 @@ Toque aqui para iniciar agora"</string>
   <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
   <string name="show_mamual_hide_wallpaper">Mostrar papéis de parede ocultos</string>
   <string name="super_wallpaper">Super papéis de parede</string>
+  <string name="super_wallpaper_list_label">Super papéis de parede</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Aplicado com sucesso</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicar</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Seleccionar localização</string>
+  <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
+  <string name="super_wallpaper_setting_view_height_title">Altitude</string>
   <string name="support_theme_store_des">Bons temas são sempre criados por designers com talento. A nossa aplicação contém anúncios para suportar o trabalho deles</string>
   <string name="support_theme_store_supported">Obrigado pelo seu suporte!</string>
   <string name="support_theme_store_title">Suporte os nossos designers</string>
@@ -687,6 +702,7 @@ Toque aqui para iniciar agora"</string>
   <string name="system_precust">Pré-instalados</string>
   <string name="swipe_find_more">Deslize para cima para ver mais</string>
   <string name="tag_ad">Anúncios</string>
+  <string name="task_already_exist">Esta tarefa já existe</string>
   <string name="the_picture_is_not_support">A imagem não é suportada</string>
   <string name="the_picture_is_too_small">A imagem é demasiado pequena</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
@@ -829,19 +845,20 @@ Toque aqui para iniciar agora"</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
   <string name="unable_connect_network">Não foi possível ligar à rede</string>
   <string name="up_to_the_end">É tudo por agora. Volte mais tarde</string>
+  <string name="update">Actualizar</string>
   <string name="update_flag">Actualizar</string>
   <string name="update_immediately">Actualizar agora</string>
   <string name="using_theme_has_update_tips">Está disponível uma actualização para este tema</string>
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
   <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente utilizando o Wi-Fi quando o dispositivo estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
+  <string name="using_wallpaper_personal">Selecção personalizada</string>
   <string name="version_update">Verificar actualizações</string>
   <string name="video_ad_click">Experimentar agora</string>
   <string name="video_ad_try_for_free">Teste grátis</string>
   <string name="video_ad_uncomplete_tip">Termine de ver o vídeo para obter o tema</string>
   <string name="video_ad_uncomplete_tip_cancel">Cancelar</string>
   <string name="video_ad_uncomplete_tip_continue">Continuar a ver</string>
-  <string name="using_wallpaper_personal">Selecção personalizada</string>
   <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="video_data_tips_title">Aviso de utilização de dados</string>
@@ -854,6 +871,7 @@ Toque aqui para iniciar agora"</string>
   <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
   <string name="wallpaper_download_incall_show">Transferir vídeo</string>
   <string name="wallpaper_dynamic">Dinâmicos</string>
+  <string name="wallpaper_group_set_loop">Bloquear apresentação de imagens do ecrã com imagens semelhantes</string>
   <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionado à apresentação</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionado à apresentação</string>
@@ -892,8 +910,18 @@ Toque aqui para iniciar agora"</string>
   <string name="wallpaper_set_as_incall_show">Definir como perfil de vídeo</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_setting_all">Todos</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Ecrã ambiente</string>
+  <string name="wallpaper_setting_find_more_text">Mais papéis de parede online</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Home screen</string>
   <string name="wallpaper_setting_library">Biblioteca</string>
   <string name="wallpaper_setting_live">Live</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Ecrã de bloqueio</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Papéis de parede online</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Explorar papéis de parede</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Papéis de parede online</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Super papéis de parede</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Mais</string>
+  <string name="wallpaper_setting_title">Papéis de parede</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
   <string name="wallpaper_settings_loading_text">Aguarde…</string>
   <string name="wallpaper_settings_no_history">Sem histórico</string>
@@ -902,6 +930,7 @@ Toque aqui para iniciar agora"</string>
   <string name="wallpaper_share_alert">Ocorreu um erro. Aguarde um momento e tente novamente</string>
   <string name="wallpaper_static">Estático</string>
   <string name="wallpaper_subject_version">MI</string>
+  <string name="warning_subscribe_wallpaper_group_content">Ligou a apresentação de imagens no ecrã inicial. %1$s vai ser aplicado ao seu ecrã inicial</string>
   <string name="wifi_check_cancel">Cancelar</string>
   <string name="wifi_check_confirm">Confirmar</string>
   <string name="wifi_check_message">Utilizar dados móveis para transferir actualizações?</string>

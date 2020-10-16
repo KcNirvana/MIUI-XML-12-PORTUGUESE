@@ -3,6 +3,9 @@
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="SMTP_password_text">Palavra-passe</string>
   <string name="SMTP_username_text">Nome de utilizador</string>
+  <string name="about_checking_update">A verificar actualização…</string>
+  <string name="about_go_to_update">Ir para a actualização</string>
+  <string name="about_lasted_version">É a última versão</string>
   <string name="account_add_title">Seleccionar serviço de email</string>
   <string name="account_duplicate_dlg_message_fmt">Este nome de utilizador já existe para a conta \"%s\"</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
@@ -18,6 +21,8 @@
   <string name="account_security_verification">Verificação de conta</string>
   <string name="account_set_up_change_type_note">Para alterar o tipo de conta entre POP3 e IMAP, elimine a sua conta e crie uma nova com as definições desejadas</string>
   <string name="account_setting">Contas</string>
+  <string name="account_setting_general_summry">Definir funcionalidades comuns de Email</string>
+  <string name="account_setting_general_title">Definições de funcionalidades</string>
   <string name="account_setting_keywords">Contas;contas de email</string>
   <string name="account_setting_message_body_load_complete">Mensagem completa</string>
   <string name="account_setting_message_body_load_head_abstract">Resumo do email</string>
@@ -27,8 +32,10 @@
   <string name="account_settings_background_attachments_label">Transferência de anexos</string>
   <string name="account_settings_background_attachments_summary">Transferir anexos via Wi-Fi</string>
   <string name="account_settings_background_attachments_summary_inter">Transferir anexos via Wi-Fi</string>
+  <string name="account_settings_background_attachments_title">Transferir anexos automaticamente</string>
   <string name="account_settings_data_usage">Definições de sincronização</string>
   <string name="account_settings_description_label">Nome da conta</string>
+  <string name="account_settings_does_not_support_pop">O protocolo POP3 não suporta esta definição</string>
   <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
   <string name="account_settings_edit_quick_responses_summary">Editar mensagens de resposta predefinidas</string>
   <string name="account_settings_enforced_label">Políticas</string>
@@ -166,6 +173,7 @@
   <string name="account_sync_settings_settings">Sincronizar contactos e calendário</string>
   <string name="account_sync_settingstip_description">Sincronização</string>
   <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>
+  <string name="action_filter">Filtros</string>
   <string name="actionbar_more_option">Mais opções</string>
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
@@ -636,6 +644,7 @@
   <string name="login_failed_tip">"Contacte-nos no WeChat para obter ajuda: "</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
   <string name="login_mail">Iniciar sessão</string>
+  <string name="login_manual">Definições manuais</string>
   <string name="login_support_tip_text">Suporta todos as contas de email mais comuns</string>
   <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa e depois toque para seleccionar mais conversas</string>
   <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
@@ -663,6 +672,16 @@
   <string name="mailbox_name_display_starred">Com estrela</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lidos</string>
+  <string name="mailbox_name_server_all_unread">Não lidos</string>
+  <string name="mailbox_name_server_drafts">Rascunhos</string>
+  <string name="mailbox_name_server_inbox">Caixa de entrada</string>
+  <string name="mailbox_name_server_junk">Lixo</string>
+  <string name="mailbox_name_server_outbox">Caixa de saída</string>
+  <string name="mailbox_name_server_sent">Correio enviado</string>
+  <string name="mailbox_name_server_starred">Favoritos</string>
+  <string name="mailbox_name_server_trash">Lixo</string>
+  <string name="mailbox_setting_preference_sync_summary_close">Sincronização: Desligada</string>
+  <string name="mailbox_setting_preference_sync_summary_open">Sincronização: Ligada</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email desde</string>

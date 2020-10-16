@@ -30,11 +30,11 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nunca desactivar para %d aplicações</item>
-        <item quantity="one">Nunca desactivar para 1 aplicação</item>
+        <item quantity="one">Nunca desactivar para %d aplicação</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>
-        <item quantity="one">Desactivar sempre para 1 aplicação</item>
+        <item quantity="one">Desactivar sempre para %d aplicação</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d aplicações podem iniciar automaticamente</item>

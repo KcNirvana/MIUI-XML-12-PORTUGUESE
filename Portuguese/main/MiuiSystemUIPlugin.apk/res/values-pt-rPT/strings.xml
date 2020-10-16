@@ -47,6 +47,7 @@
   <string name="disabled">Não disponível</string>
   <string name="loading">Estado desconhecido</string>
   <string name="no_avaliable_application">Sem aplicações disponíveis</string>
+  <string name="notification_control_center">Notificações e Centro de Controlo</string>
   <string name="quick_controls_subtitle">Adicionar controlos dos seus dispositivos ligados</string>
   <string name="quick_controls_title">Controlos do dispositivo</string>
   <string name="quick_settings_hang_label">Janelas flutuantes</string>

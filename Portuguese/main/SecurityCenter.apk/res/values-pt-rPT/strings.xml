@@ -2586,6 +2586,10 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_provision_summary">A protecção da privacidade é o compromisso por detrás do design dos nossos produtos</string>
   <string name="privacy_provision_text">Estamos comprometidos em respeitar e proteger a sua privacidade. Ao prioritizar a pesquisa e o desenvolvimento na segurança da informação, a Xiaomi trabalha constantemente para melhorar os métodos, prácticas e soluções técnicas que protejam os seus dados. Também partilhamos as nossas mais recentes conquistas com os nossos parceiros para garantir a sua privacidade em todos os aspectos</string>
   <string name="privacy_provision_title">Privacidade</string>
+  <string name="privacy_revoke_dialog_content">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Segurança. Nós vamos parar de obter as suas informações pessoais</string>
+  <string name="privacy_revoke_dialog_negetive_text">Cancelar</string>
+  <string name="privacy_revoke_dialog_positive_text">Remover</string>
+  <string name="privacy_revoke_dialog_title">Remoção de consentimento</string>
   <string name="privacy_search_key_1">Privacidade</string>
   <string name="privacy_search_key_10">ID do dispositivo</string>
   <string name="privacy_search_key_2">Interceptação de rede</string>
@@ -2773,6 +2777,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="settings_image_camera_summary">Modelo, metadados, etc.</string>
   <string name="settings_location_subtitle_no">Sem localização</string>
   <string name="settings_power_save_ontime_title">Programar</string>
+  <string name="settings_privacy_revoke_desc">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Segurança</string>
+  <string name="settings_privacy_revoke_title">Remoção de consentimento</string>
   <string name="settings_share_enable_summary">Os itens que partilhar no WeChat vão aparecer com um emblema MIUI</string>
   <string name="settings_share_info">Opções de partilha segura disponíveis para os itens partilhados da Galeria e Ficheiros:</string>
   <string name="settings_show_detail">Ver detalhes</string>

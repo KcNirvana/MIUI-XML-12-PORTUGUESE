@@ -456,12 +456,14 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="home_tip_sync_done">Sincronizado com sucesso</string>
   <string name="home_tip_sync_immediately">Alguns itens não foram sincronizados. Toque para sincronizar</string>
   <string name="home_tip_syncing">A sincronizar dados…</string>
+  <string name="hr_camera_permission_desc">Para obter os dados do batimento cardíaco através da câmara</string>
   <string name="hr_choose_detect_state">Seleccionar o estado ao detectar</string>
   <string name="hr_cover_to_red">"Cubra a câmara totalmente com o seu dedo.
 Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_detect">Detecção de batimento cardíaco</string>
   <string name="hr_detect_desc">Durante a medição o flash do seu telefone vai ser utilizado como uma fonte de luz contínua e a câmara vai detectar alterações no fluxo sanguíneo. As imagens vão ser analisadas e a sua frequência cardíaca vai ser determinada com base nos padrões repetidos</string>
   <string name="hr_detect_finished">Detecção concluída</string>
+  <string name="hr_detect_fps_jitter">Não foi possível medir o batimento cardíaco. Tente novamente</string>
   <string name="hr_detect_paused">Em pausa</string>
   <string name="hr_detect_principle_desc_1">Ao utilizar a lâmpada do flash como uma fonte de luz contínua, pode obter a imagem do fluxo sanguíneo. Através da análise da imagem, pode obter o sinal de onda de pulso estável, obtendo assim o valor da frequência cardíaca</string>
   <string name="hr_detect_principle_desc_2">Vários testes mostram que a margem de erro deste método é de 2 BPMs</string>

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aggregate_entries">
-        <item>Recomendadas</item>
-        <item>Importantes</item>
-        <item>Não importantes</item>
+        <item>Agrupar</item>
+        <item>Não agrupar</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>A MIUI vai decidir que notificações devem aparecer</item>
-        <item>Vão aparecer na área de notificações</item>
-        <item>Vão aparecer numa pasta separada</item>
+        <item>Todas as notificações vão ser agrupadas</item>
+        <item>As notificações push não vão ser agrupadas</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>

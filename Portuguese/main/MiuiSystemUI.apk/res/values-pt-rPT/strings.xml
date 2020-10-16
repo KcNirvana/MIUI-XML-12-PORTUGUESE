@@ -1189,6 +1189,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
   <string name="notification_channel_tv_pip">Ecrã no ecrã</string>
   <string name="notification_channel_usb">USB</string>
+  <string name="notification_control_center">Notificações e Centro de Controlo</string>
   <string name="notification_default_channel_desc">Esta aplicação não tem categorias de notificação</string>
   <string name="notification_done">Concluído</string>
   <string name="notification_group_collapse_button_text">Abrir</string>
@@ -1454,7 +1455,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_rssi_emergency_only">Apenas cham. emergência</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Botões</string>
-  <string name="quick_settings_screenlock_label">Bloquear ecrã</string>
+  <string name="quick_settings_screenlock_label">Bloquear</string>
   <string name="quick_settings_screenshot_label">Cap. de ecrã</string>
   <string name="quick_settings_secondary_label_until">Até %s</string>
   <string name="quick_settings_settings_label">Definições</string>

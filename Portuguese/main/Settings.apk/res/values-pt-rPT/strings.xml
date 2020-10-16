@@ -306,6 +306,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
+  <string name="allow_all_rotations_title">Permitir todas rotações</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Deseja criar widget e permitir acesso?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
@@ -1610,6 +1611,8 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="continue_reset_factory">Reposição de fábrica</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="control_center">Centro de Controlo</string>
+  <string name="control_center_style">Estilo do Centro de Controlo</string>
+  <string name="control_center_style_summary">Seleccionar visualização dos atalhos e notificações</string>
   <string name="control_panel_switch_side">Trocar o lado do Centro de Controlo</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
@@ -2077,6 +2080,9 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="disconnected">Não ligado</string>
   <string name="display_advanced_mode_summary">Opções de gama de cores</string>
   <string name="display_advanced_mode_title">Definições avançadas</string>
+  <string name="display_animate_category">Efeitos animados</string>
+  <string name="display_animate_content">Reduzir os efeitos animados que são mostrados enquanto o dispositivo estiver desbloqueado</string>
+  <string name="display_animate_title">Reduzir animações</string>
   <string name="display_auto_rotate_rotate">Ligada</string>
   <string name="display_auto_rotate_stay_in_current">Desligada</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloquear paisagem</string>
@@ -2192,6 +2198,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="doze_always_on_title">Sempre ligado</string>
   <string name="doze_summary">Ligar o ecrã quando recebe notificações</string>
   <string name="doze_title">Novas notificações</string>
+  <string name="dpp_qrcode_generator_summary">Digitalizar este código QR com um dispositivo que suporte Easy Connect</string>
   <string name="draw_overlay">Sobreposição de aplicações</string>
   <string name="dsds_dialog_cancel">Cancelar</string>
   <string name="dsds_dialog_confirm">Reiniciar</string>
@@ -3192,6 +3199,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="led_pulse_summary">Activar LED quando receber uma nova notificação</string>
   <string name="led_settings">LED de notificações</string>
   <string name="left_function_key">Atalho da esquerda</string>
+  <string name="legacy_control_center_desc">Puxe a barra de estado para ver atalhos e notificações</string>
+  <string name="legacy_control_center_title">Versão antiga</string>
   <string name="legacy_navigation_summary">Voltar, Início e Recentes</string>
   <string name="legacy_navigation_title">Navegação com 3 botões</string>
   <string name="legacy_dhcp_client">Utilizar cliente DHCP antigo</string>
@@ -3319,6 +3328,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_profile_wipe_warning_content_password">Se introduzir uma palavra-passe incorrecta na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pattern">Se introduzir um padrão incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pin">Se introduzir um PIN incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
+  <string name="lock_screen_action">Itens mostrados no ecrã de bloqueio após deslizar para baixo</string>
   <string name="lock_screen_display_category_name">Ecrã de bloqueio</string>
   <string name="lock_screen_intro_skip_dialog_text">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda ou roubo</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda, roubo ou reposição</string>
@@ -3836,6 +3846,9 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
   <string name="model_info">Modelo</string>
   <string name="model_name">Modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
+  <string name="model_summary">Modelo: %1$s</string>
+  <string name="modern_control_center_desc">Puxe a barra de estado à esquerda para ver notificações. Puxe a barra de estado à direita para abrir o Centro de Controlo</string>
+  <string name="modern_control_center_title">Nova versão</string>
   <string name="modify_default_browser_message">Se definir uma aplicação de terceiros como navegador predefinido, pode começar a obter dados de histórico e outros dados. Definir mesmo assim?</string>
   <string name="modify_instruction_password_settings">Definir palavra-passe</string>
   <string name="modify_privacy_password">Alterar palavra-passe</string>
@@ -4161,6 +4174,8 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="notification_channels_other">Outras</string>
   <string name="notification_content_block_summary">Nunca mostrar notificações no painel ou nos dispositivos periféricos</string>
   <string name="notification_content_block_title">Mostrar notificações</string>
+  <string name="notification_control_center">Notificações e Centro de Controlo</string>
+  <string name="notification_display_settings">Área de notificações</string>
   <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
   <string name="notification_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
   <string name="notification_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
@@ -4223,6 +4238,7 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="notification_reboot_title_hm">Reiniciar para aplicar actualização</string>
   <string name="notification_remind">Notificações</string>
   <string name="notification_ringtone_title">Toque de notificação predefinido</string>
+  <string name="notification_settings">Notificações</string>
   <string name="notification_settings_work_profile">O acesso às notificações não está disponível para aplicações no perfil de trabalho</string>
   <string name="notification_shade_shortcut_title">Atalho nas notificações</string>
   <string name="notification_show_lights_title">LED de notificações</string>
@@ -4930,6 +4946,7 @@ Interface UT: %5$s"</string>
   <string name="repeat_call">Notificar acerca de chamadas repetidas</string>
   <string name="repeat_call_info">Tocar quando receber uma chamada do mesmo número num espaço de quinze minutos</string>
   <string name="repeat_title">Repetir</string>
+  <string name="requires_modern_control_center">Funciona com a nova versão do Centro de Controlo</string>
   <string name="reset_aaid">Repor identificador de anúncios</string>
   <string name="reset_app_preferences">Repor preferências das aplicações</string>
   <string name="reset_app_preferences_button">Repor aplicações</string>
@@ -5671,6 +5688,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="show_all_anrs_summary">Mostrar erro de \"Aplicação não está a responder\" para aplicações em segundo plano</string>
   <string name="show_all_apps">Mostrar utilização total do dispositivo</string>
   <string name="show_background_processes">Mostrar processos em cache</string>
+  <string name="show_badge_notifications_short">Emblemas</string>
   <string name="show_carrier_under_keyguard_title">Mostrar nome da operadora com ecrã bloqueado</string>
   <string name="show_connected_devices_summary">Ver dispositivos ligados</string>
   <string name="show_connected_devices_title">Dispositivos ligados</string>
@@ -6209,6 +6227,14 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="suw_back_button_label">Voltar</string>
   <string name="suw_more_button_label">Mais</string>
   <string name="suw_next_button_label">Seguinte</string>
+  <string name="swipe_direction_ltr">Deslizar para a direita para fechar, esquerda para mostrar o menu</string>
+  <string name="swipe_direction_rtl">Deslizar para a esquerda para fechar, direita para mostrar o menu</string>
+  <string name="swipe_direction_title">Trocar acções</string>
+  <string name="swipe_up_to_switch_apps_suggestion_summary">Ligar o novo gesto para mudar entre aplicações</string>
+  <string name="swipe_up_to_switch_apps_suggestion_title">Experimentar o novo botão Início</string>
+  <string name="swipe_up_to_switch_apps_summary">Para mudar entre aplicações, deslizar para cima no botão Início. Para ver todas aplicações, deslizar para cima novamente. Para voltar, toque no botão Voltar</string>
+  <string name="swipe_up_to_switch_apps_title">Navegação de 2 botões</string>
+  <string name="switchNetworkToast">Ligar a redes móveis pode gerar custos adicionais</string>
   <string name="switch_access_service_on">Trocar acessos</string>
   <string name="switch_off_text">Desligado</string>
   <string name="switch_on_text">Ligado</string>
@@ -7478,7 +7504,10 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_switch_away_when_unvalidated">Mudar para dados móveis se o Wi-Fi perder o acesso à Internet</string>
   <string name="wifi_switch_to_gsm_message">Perdeu ligação ao Wi-Fi. Utilizar ligação de dados móveis?</string>
   <string name="wifi_switch_to_gsm_title">Utilizar GSM</string>
+  <string name="wifi_tap_to_sign_in">Toque para iniciar sessão na rede</string>
+  <string name="wifi_tether_checkbox_kddi_text">Partilha Wi-Fi</string>
   <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Configurar partilha Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel %1$s %2$s</string>
@@ -7599,7 +7628,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xiaomi_cloud_service_description_contact">contactos e</string>
   <string name="xiaomi_cloud_service_description_format">A Xiaomi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
-  <string name="xiaomi_money_service">Crédito Mi</string>
+  <string name="xiaomi_money_service">Mi Coins</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações</string>
   <string name="xiaomi_router_available_notif_title">Router Mi disponível</string>
   <string name="xiaomi_router_notif_summary">Notificar-me quando estiver disponível um Router Mi</string>

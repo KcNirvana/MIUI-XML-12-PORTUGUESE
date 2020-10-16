@@ -252,7 +252,6 @@ Pode também transferi-las separadamente"</string>
   <string name="notificationTitle">Atalho na área de notificações</string>
   <string name="notification_from_owner_user">Mostrar notificações do Primeiro espaço</string>
   <string name="notification_from_second_user">Mostrar notificações do Segundo espaço</string>
-  <string name="notification_recommend_title">Top 12 aplicações para o Segundo espaço</string>
   <string name="notification_setting_second_space">Configurar Segundo espaço</string>
   <string name="notification_setting_second_space_desc">Adicionar palavra-passe do Segundo espaço e mover dados</string>
   <string name="ok_button">OK</string>
@@ -455,9 +454,14 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_disable">Não criado</string>
   <string name="xspace_enable">Criado</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Utilizar 2 contas ao mesmo tempo</string>
-  <string name="xspace_guide_title">Criar uma aplicação clonada</string>
+  <string name="xspace_guide_content_bound">Aplicações disponíveis</string>
+  <string name="xspace_guide_des">As aplicações clonadas permitem que utilize duas contas simultâneamente sem alternar entre elas</string>
+  <string name="xspace_guide_description">"Todas as contas
+merecem a sua própria aplicação"</string>
+  <string name="xspace_guide_title">Experimentar aplicações clonadas</string>
   <string name="xspace_header">Aplicações clonadas</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_install_complete">&lt;font>Aplicação clonada criada com sucesso. &lt;/font>&lt;font color=#0D84FF>Abrir agora&lt;/font></string>
   <string name="xspace_install_completed">Ícone adicionado ao ecrã inicial</string>
   <string name="xspace_install_completed_global">Ícone adicionado ao ecrã inicial</string>
   <string name="xspace_install_failed">Não foi possível clonar</string>
@@ -466,11 +470,13 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_label">Aplicações clonadas</string>
   <string name="xspace_loading_msg">A carregar aplicações…</string>
   <string name="xspace_notification">Notificações de aplicações clonadas</string>
+  <string name="xspace_notification_button">Experimentar</string>
   <string name="xspace_notification_error">Inicie sessão na aplicação clonada WeChat e tente novamente</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">Eliminar aplicações clonadas</string>
   <string name="xspace_setting_label">Definições das aplic. clonadas</string>
   <string name="xspace_settins">Definir</string>
+  <string name="xspace_start">Criar</string>
   <string name="xspace_uninstall_completed">Aplicação clonada desinstalada com sucesso</string>
   <string name="xspace_uninstall_dialog_content">Desinstalar aplicação clonada vai remover todos os dados da mesma</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar aplicação clonada</string>
