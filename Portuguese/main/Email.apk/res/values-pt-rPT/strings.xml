@@ -672,14 +672,6 @@
   <string name="mailbox_name_display_starred">Com estrela</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lidos</string>
-  <string name="mailbox_name_server_all_unread">Não lidos</string>
-  <string name="mailbox_name_server_drafts">Rascunhos</string>
-  <string name="mailbox_name_server_inbox">Caixa de entrada</string>
-  <string name="mailbox_name_server_junk">Lixo</string>
-  <string name="mailbox_name_server_outbox">Caixa de saída</string>
-  <string name="mailbox_name_server_sent">Correio enviado</string>
-  <string name="mailbox_name_server_starred">Favoritos</string>
-  <string name="mailbox_name_server_trash">Lixo</string>
   <string name="mailbox_setting_preference_sync_summary_close">Sincronização: Desligada</string>
   <string name="mailbox_setting_preference_sync_summary_open">Sincronização: Ligada</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
