@@ -1729,8 +1729,10 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="dark_color_mode">Modo Escuro</string>
   <string name="dark_color_summary_lcd">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro ajuda a aliviar a fadiga ocular</string>
   <string name="dark_color_summary_oled">Utilizar cores escuras para as imagens de fundo e aplicações compatíveis. O Modo Escuro reduz o consumo de bateria e ajuda a aliviar a fadiga ocular</string>
+  <string name="dark_mode_apps_header">Aplicações individuais</string>
   <string name="dark_mode_contrast">Ajustar contraste automaticamente</string>
   <string name="dark_mode_contrast_hint">Ajustar cores e baixar o contraste automaticamente quando o brilho é reduzido</string>
+  <string name="dark_mode_font_background_title">Ajustar texto e fundo automaticamente</string>
   <string name="dark_ui_mode">Tema escuro</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporariamente ligado devido à poupança de bateria</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ligado / Temporariamente desligado devido à poupança de bateria</string>
@@ -2410,6 +2412,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="experimental_category_title">Experimental</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="extended_power_menu">Menu de reinicialização avançado</string>
+  <string name="exterior">Esquema de cores</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="external_source_switch_title">Permitir desta fonte</string>
@@ -3212,6 +3215,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="legal_written_offer">Oferta escrita</string>
   <string name="license_title">Licença</string>
   <string name="lift_to_wake_title">Activar ao levantar</string>
+  <string name="light_color_mode">Modo Claro</string>
   <string name="lights_title">LED de notificações</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
@@ -3856,6 +3860,7 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
   <string name="module_version">Actualização do sistema do Google Play</string>
   <string name="more_account_settings_title">Outras contas</string>
   <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
+  <string name="more_dark_mode_settings">Mais opções do Modo Escuro</string>
   <string name="more_installed_services_title">Mais serviços transferidos</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
@@ -5108,14 +5113,10 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
   <string name="screen_compatibility_text">Esta aplicação pode não ter sido definida para este ecrã. Pode controlar como a aplicação se ajusta melhor aqui</string>
   <string name="screen_confirm">Ligar</string>
-  <string name="screen_dark_mode_advanced_title">Avançado</string>
   <string name="screen_dark_mode_select_time_error_summary">A hora de início e a hora de fim não podem ser iguais</string>
-  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicações de terceiros</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algumas aplicações podem ser mostradas incorrectamente no Modo Escuro. Pode restringir a utilização do Modo Escuro para cada aplicação individualmente aqui</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicações individuais</string>
-  <string name="screen_dark_mode_smart_dark_summary">Aplicar o Modo Escuro para aplicações de terceiros. Algumas aplicações podem ser mostradas incorrectamente</string>
   <string name="screen_dark_mode_smart_dark_title">Modo Escuro</string>
-  <string name="screen_dark_mode_time_title">Programar</string>
+  <string name="screen_dark_mode_time_title">Programar Modo Escuro</string>
   <string name="screen_effect">Contraste e cores</string>
   <string name="screen_fps_summary_power_save">Utilizar taxas de actualização fixas poupam bateria</string>
   <string name="screen_fps_summary_smooth">Algumas aplicações vão aumentar a taxa de actualização automaticamente para melhorar a qualidade de imagem</string>
@@ -5955,7 +5956,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="starting_android">A iniciar o Android…</string>
   <string name="status_awake_time">Tempo de actividade</string>
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
-  <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
+  <string name="status_bar_app_enable_floating">Flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Ecrã de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>

@@ -629,6 +629,7 @@
   <string name="battery_estimate_charge_time_title">Tempo de carregamento</string>
   <string name="battery_estimate_usage_time_title">Tempo de utilização</string>
   <string name="battery_health_left_battery_text">Bateria restante</string>
+  <string name="battery_health_level_text">Saúde da bateria</string>
   <string name="battery_health_status_text">Estado da bateria</string>
   <string name="battery_health_temperature_text">Temperatura da bateria</string>
   <string name="battery_health_title_text">Saúde da bateria</string>
@@ -649,6 +650,10 @@
   <string name="battery_stats_wake_lock_label">Actividade</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">A funcionar normalmente</string>
+  <string name="battery_status_level_excellent">Excelente</string>
+  <string name="battery_status_level_good">Boa</string>
+  <string name="battery_status_level_normal">Normal</string>
+  <string name="battery_status_level_poor">Fraca</string>
   <string name="battery_status_overheat">Em aquecimento</string>
   <string name="battery_status_unknown">Erro desconhecido</string>
   <string name="battery_temperature_title">Temperatura</string>

@@ -34,10 +34,10 @@
   <string name="alert_weather_enable_settings_summary">Receber alertas oficiais de tempo</string>
   <string name="alert_weather_enable_settings_title">Alertas de tempo</string>
   <string name="app_name">Tempo</string>
-  <string name="aqi_15_days_desc">Previsão IQA para 15 dias</string>
-  <string name="aqi_24_hours_desc">Previsão IQA horária</string>
-  <string name="aqi_48_hours_desc">Previsão IQA para 48 horas</string>
-  <string name="aqi_5_days_desc">Previsão IQA para 5 dias</string>
+  <string name="aqi_15_days_desc">Previsão IQA para %d dias</string>
+  <string name="aqi_24_hours_desc">Previsão IQA para %d horas</string>
+  <string name="aqi_48_hours_desc">Previsão IQA para %d horas</string>
+  <string name="aqi_5_days_desc">Previsão IQA para %d dias</string>
   <string name="aqi_alert_channel_name">Alertas da qualidade do ar</string>
   <string name="aqi_data_source">Fornecido por Colorful Clouds</string>
   <string name="aqi_desc">Indíce de qualidade do ar</string>
@@ -292,7 +292,7 @@
   <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="weather_alert">Alertas de tempo</string>
   <string name="weather_introduce">Sempre consigo, faça chuva ou sol</string>
-  <string name="weather_main_minute_hour">Precipitação 2 horas</string>
+  <string name="weather_main_minute_hour">Precipitação %d horas</string>
   <string name="weather_main_speak_tips">Toque para transmitir o tempo por voz</string>
   <string name="weather_permission_agree">Aceitar</string>
   <string name="wind_direction_no_data">Vento</string>

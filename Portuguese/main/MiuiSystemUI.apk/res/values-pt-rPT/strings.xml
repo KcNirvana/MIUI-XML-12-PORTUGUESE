@@ -1141,6 +1141,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="mr_controller_volume_slider">Controlo de deslize do volume</string>
   <string name="mr_system_route_name">Sistema</string>
   <string name="mr_user_route_category_name">Dispositivos</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante a chamada</string>
   <string name="multi_face_delete_message">Atenção</string>
   <string name="multi_face_delete_show_message">Eliminar dados de rosto agora?</string>
   <string name="multi_face_input">Adicionar dados de rosto</string>
@@ -1468,6 +1469,9 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_user_new_user">Novo utilizador</string>
   <string name="quick_settings_user_title">Utilizador</string>
   <string name="quick_settings_vibrate_label">Vibração</string>
+  <string name="quick_settings_vowifi_label">Chamadas Wi-Fi</string>
+  <string name="quick_settings_vowifi_sim1_label">Chamadas Wi-Fi SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">Chamadas Wi-Fi SIM2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">A optimizar velocidade</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancelar</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirmar</string>
