@@ -21,8 +21,8 @@
         <item quantity="one">Inicia em %1$d minuto</item>
     </plurals>
     <plurals name="app_miot_total_device">
-        <item quantity="other">%1$d devices</item>
-        <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Em %d dias</item>
