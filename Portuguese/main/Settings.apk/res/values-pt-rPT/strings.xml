@@ -3918,7 +3918,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="musicfx_title">Efeitos de música</string>
   <string name="mute">Modo silêncio</string>
+  <string name="mute_media_sound_title">Silenciar multimédia no modo silêncio</string>
   <string name="mute_music_stream">Silenciar a transmissão de música</string>
+  <string name="mute_voiceassist_stream">Silenciar assistente de voz</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
   <string name="my_device">O meu dispositivo</string>
@@ -5045,6 +5047,8 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="ring_to_you_info">Definir um toque de chamada personalizado</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
+  <string name="ringer_mode_setting_summary">Silenciar chamadas recebidas e notificações</string>
+  <string name="ringer_mode_setting_title">Modo silêncio</string>
   <string name="ringtone_slot_setting_title">Definições SIM individuais</string>
   <string name="ringtone_title">Toque</string>
   <string name="ringtone_uniform_setting_title">Definições do segundo cartão</string>
@@ -5909,6 +5913,7 @@ Esta funcionalidade necessita de permissões para aceder à sua localização, u
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_dashboard_summary">Volume, vibração, Não incomodar</string>
   <string name="sound_effects_enable_title">Sons de toque</string>
+  <string name="sound_mode">Modo silêncio e Não incomodar</string>
   <string name="sound_settings">Som</string>
   <string name="sound_settings_example_summary">Volume do toque a 80%</string>
   <string name="sound_settings_summary">Volume do toque a %1$s</string>
@@ -7797,6 +7802,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_summary_alarms_only_by_time">Alterar para apenas alarmes, até %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Alterar para apenas alarmes, indefinidamente</string>
   <string name="zen_mode_summary_always">Alterar para interromper sempre</string>
+  <string name="zen_mode_title">Não incomodar</string>
+  <string name="zen_mode_turned_off">Desligado</string>
+  <string name="zen_mode_turned_on">Ligado</string>
   <string name="zen_mode_visual_interruptions_settings_title">Bloquear perturbações visuais</string>
   <string name="zen_mode_when">Ligar automaticamente</string>
   <string name="zen_mode_when_every_night">Todas as noites</string>
