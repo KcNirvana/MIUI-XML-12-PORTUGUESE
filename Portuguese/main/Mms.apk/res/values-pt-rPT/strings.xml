@@ -156,6 +156,7 @@
   <string name="copy_verification_code_tip">Copiado com sucesso</string>
   <string name="current_data_version">Versão de Mi Message</string>
   <string name="default_google_message_promo_content">Definiu Mensagens da Google como a sua aplicação predefinida de mensagens. Toque \"Abrir\" para começar a escrever</string>
+  <string name="go_to">"Abrir "</string>
   <string name="delete">Eliminar</string>
   <string name="delete_block_conversation">Eliminar esta conversa</string>
   <string name="delete_bookmark">Remover dos favoritos</string>

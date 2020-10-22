@@ -14,6 +14,8 @@
   <string name="category_transport">Ver transferências</string>
   <string name="change_mobile_network_message">Alterado para dados móveis. Continuar a transferir o ficheiro vai consumir dados. Pretende continuar?</string>
   <string name="confirm">OK</string>
+  <string name="confirm_and_continue">Continuar</string>
+  <string name="confirm_know">Voltar</string>
   <string name="consumption_alert">Ligação à Internet</string>
   <string name="consumption_message">O Mi Drive necessita de ligar à Internet para funcionar normalmente</string>
   <string name="copy_failed">Não foi possível copiar</string>

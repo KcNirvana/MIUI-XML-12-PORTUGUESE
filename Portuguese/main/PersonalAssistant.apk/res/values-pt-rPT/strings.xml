@@ -191,8 +191,8 @@
   <string name="app_stock_search_hint"> </string>
   <string name="app_stock_search_loading">Aguarde…</string>
   <string name="app_stock_title">Stocks</string>
-  <string name="app_stock_title_add_stock">Adicionar</string>
-  <string name="app_stock_toast">As informações sobre os mercados de acções dos EUA e de Hong Kong são actualizadas com um atraso de 15 minutos</string>
+  <string name="app_stock_title_add_stock">Adcionar</string>
+  <string name="app_stock_toast">The information about the US and Hong Kong stock markets is updated with a 15-minute delay.</string>
   <string name="app_suggest_detail_setting_summary">As sugestões da aplicação vão ser baseadas na sua utilização</string>
   <string name="app_suggest_detail_setting_title">Permitir acesso ao estado da aplicação</string>
   <string name="app_suggest_setting_brief">Receber sugestões de aplicações e funcionalidades que pode utilizar</string>

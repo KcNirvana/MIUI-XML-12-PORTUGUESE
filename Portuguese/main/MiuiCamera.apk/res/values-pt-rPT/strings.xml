@@ -44,6 +44,8 @@
   <string name="accessibility_document_strengthen_button">A digitalizar documentos: Melhorados</string>
   <string name="accessibility_dual_preview_change">Ver alterações</string>
   <string name="accessibility_dual_preview_change_finish">Alterações vistas</string>
+  <string name="accessibility_dual_video_merged">Vídeos combinados</string>
+  <string name="accessibility_dual_video_standalone">Vídeos separados</string>
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>
   <string name="accessibility_eis_normal">EIS ligado</string>
   <string name="accessibility_eis_off">EIS desligado</string>
@@ -267,6 +269,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_tips_for_suggest_using_tripod">Utilizar um tripé</string>
   <string name="ambilight_tips_for_using_tripod">Utilizar um tripé</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
+  <string name="auto_hibernation_enter_tip">Prestes a desligar o ecrã…</string>
   <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se à distância de 3 metros para obter melhores resultados</string>
   <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
   <string name="autozoom_hint">Procurar objectos em movimento</string>
@@ -410,11 +413,21 @@ documentos digitalizados automaticamente"</string>
   <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Melhorada</string>
+  <string name="download_cancel_hint">Cancelar transferência de %1$s?</string>
+  <string name="download_confirm">Transferir</string>
+  <string name="download_hint">%1$s MB de dados móveis vão ser utilizados para transferir itens. Transferir mesmo assim?</string>
+  <string name="download_title">Aviso de utilização de dados</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito desfocar.
 O objecto não pode estar a mais de dois metros</string>
+  <string name="dual_video_record_merged">Combinados</string>
+  <string name="dual_video_record_standalone">Separados</string>
+  <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmara, seleccione duas câmaras no seu dispositivo e grave simultaneamente. As gravações vão ser armazenadas separadamente ou combinadamente numa vista separada ou num vídeo em ecrã no ecrã</string>
+  <string name="dual_video_user_guide_main_title">Vídeos multicâmara</string>
+  <string name="dual_video_user_guide_merge_content">Grave com duas câmaras simultaneamente e combine as gravações numa vista separada ou num vídeo em ecrã no ecrã</string>
+  <string name="dual_video_user_guide_standalone_content">Grave com duas câmaras simultaneamente e guarde ambas as gravações como vídeos separados</string>
   <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Queixo</string>
   <string name="edit_eye_large">Olhos grandes</string>
@@ -454,6 +467,10 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="face_beauty_intelligent_level_2">Médio</string>
   <string name="face_beauty_intelligent_level_3">Alto</string>
   <string name="face_beauty_smart">Inteligente</string>
+  <string name="fastmotion_pro_adjust_name">Parâmetros</string>
+  <string name="fastmotion_pro_save_time_infinity">Ilimitada</string>
+  <string name="fastmotion_pro_save_time_min_and_sec">Duração: %1$s %2$s</string>
+  <string name="fastmotion_pro_save_time_min_or_sec">Duração: %1$s</string>
   <string name="fps960_toast">A Câmara Lenta vai começar no último quarto da gravação</string>
   <string name="fragment_tab_name_bokeh">Bokeh</string>
   <string name="front_camera_hint_text_place">"Tirar selfies vai ser mais fácil
@@ -512,8 +529,11 @@ no modo Retrato"</string>
   <string name="lighting_pattern_stage">Estúdio</string>
   <string name="lighting_phantom">Fantasmas</string>
   <string name="lighting_rainbow">Arco-íris</string>
+  <string name="live_draft_continue">Retomar</string>
+  <string name="live_draft_empty">Sem itens</string>
   <string name="live_edit_exit_confirm">Parar</string>
   <string name="live_edit_exit_message">Parar agora?</string>
+  <string name="live_edit_exit_message_draft">Guardar como rascunho</string>
   <string name="live_edit_share_title">Partilhar</string>
   <string name="live_error_confirm">Ajustar tempo</string>
   <string name="live_error_message">Algumas funcionalidades não funcionam correctamente quando a hora do sistema está incorrecta</string>
@@ -537,6 +557,8 @@ no modo Retrato"</string>
   <string name="live_speed_slow">Lento</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
   <string name="live_sticker_updating">A actualizar…</string>
+  <string name="live_workspace_title">Rascunhos</string>
+  <string name="live_workspace_title_edit">Seleccionar itens para eliminar</string>
   <string name="location_access_allow">Permitir</string>
   <string name="location_permission_des">Memorizar localizações para fotos e vídeos</string>
   <string name="location_permission_not_ask_again">Permitir que a Câmara possa aceder à sua localização nas Definições</string>
@@ -574,7 +596,7 @@ no modo Retrato"</string>
   <string name="module_name_fun">Vídeo curto</string>
   <string name="module_name_manual">Manual</string>
   <string name="module_name_more">Mais</string>
-  <string name="module_name_multi_camera">Frontal e traseira</string>
+  <string name="module_name_multi_camera">Multicâmara</string>
   <string name="module_name_new_slow_motion">Câmara Lenta</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Retrato</string>
@@ -717,6 +739,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capturar objectos seleccionados quando estiverem parados</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Para seleccionar um objecto, toque nas duas diagonais à volta do seu limite. Quando o objecto estiver parado, a câmara vai tirar uma foto automaticamente</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
+  <string name="pref_camera_auto_hibernation">Tirar fotos com o ecrã desligado</string>
+  <string name="pref_camera_auto_hibernation_description">Desligar o ecrã após %d minutos para poupar bateria</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
@@ -995,7 +1019,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_custom_tint_title">Cores</string>
   <string name="pref_customization_title">Personalizar</string>
   <string name="pref_document_mode">Documentos</string>
-  <string name="pref_dual_camera_video">Frontal e traseira</string>
+  <string name="pref_dual_camera_video">Vídeos duplos</string>
   <string name="pref_dualcamera_watermark_title">"Marca d'água câmara dupla"</string>
   <string name="pref_face_beauty_title">Embelezar</string>
   <string name="pref_fingerprint_capture_title">Disparo por impressão digital</string>
@@ -1209,6 +1233,8 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="unknow_error">Erro desconhecido</string>
   <string name="unsupported_microphones_3d_record_tips">O som 3D não suporta microfones externos</string>
   <string name="unsupported_microphones_audio_zoom_tips">O zoom de áudio não suporta microfones externos</string>
+  <string name="update_loading">Transferidos %1$d%%</string>
+  <string name="update_start">Actualizar %1$s</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>

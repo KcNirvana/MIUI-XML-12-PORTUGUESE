@@ -45,8 +45,14 @@
   <string name="file_sending">A transferir ficheiros…</string>
   <string name="file_transfer_progress">Progresso: %1$d%%</string>
   <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
+  <string name="go_to_settings">Definições</string>
+  <string name="guide_summary_1">A outra pessoa pode tocar no atalho na área de notificações</string>
+  <string name="guide_summary_2">Seleccionar o dispositivo para onde quer enviar itens e toque no seu ícone</string>
+  <string name="guide_title_1">Ligar Mi Share em ambos os dispositivos</string>
+  <string name="guide_title_2">Seleccionar dispositivo para partilhar</string>
   <string name="hide">Ocultar</string>
   <string name="location_enabled">O Mi Share ligou os serviços de localização para procurar dispositivos próximos</string>
+  <string name="menu_item_privacy_title">Política de Privacidade</string>
   <string name="mi_drop">Mi Share</string>
   <string name="mishare_settings_summary_international">"Pode utilizar o Mi Share para enviar itens para dispositivos próximos.
 Mi Share é compatível com telefones Mi e Redmi.
@@ -87,6 +93,9 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
   <string name="support_device_type">Dispositivos suportados</string>
   <string name="throwing_print">Imprimir</string>
   <string name="throwing_screen">Transmitir</string>
+  <string name="tile_state_active">Ligado</string>
+  <string name="tile_state_inactive">Desligado</string>
+  <string name="tile_state_unavailable">Não disponível</string>
   <string name="tips_prompt_enable_midrop">Partilhar ficheiro com dispositivos próximosShare files with devices nearby</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
   <string name="transfer_to_pc_summary">Pode utilizar o Mi Share para enviar itens para Mi Notebooks directamente. Nos outros portáteis tem de instalar o Mi Share primeiro</string>
