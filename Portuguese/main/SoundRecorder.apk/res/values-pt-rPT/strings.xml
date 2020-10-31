@@ -75,6 +75,7 @@
   <string name="network_tip_dialog_title">É necessário ligação à Internet</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="no_file">Vazio</string>
+  <string name="no_network">Não foi possível ligar à rede</string>
   <string name="notification_message_all_paused">A aguardar por ligação Wi-Fi</string>
   <string name="notification_playback">A reproduzir…</string>
   <string name="notification_recording">A gravar…</string>

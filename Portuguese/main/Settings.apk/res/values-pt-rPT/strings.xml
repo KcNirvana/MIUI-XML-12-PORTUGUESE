@@ -2299,6 +2299,7 @@ Pode ver o registo gerado no Ficheiros"</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
   <string name="enable_wifi_display">Visualização sem fios</string>
+  <string name="enabled">Ligado</string>
   <string name="enabled_authorised_apps_summary">A sua autorização vai ser revogada assim que alterar para aplicações individuais</string>
   <string name="enabled_authorised_apps_title">Autorização concedida</string>
   <string name="enalbe_identify_iPhone">Identificação do dispositivo</string>
@@ -3332,7 +3333,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_profile_wipe_warning_content_password">Se introduzir uma palavra-passe incorrecta na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pattern">Se introduzir um padrão incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
   <string name="lock_profile_wipe_warning_content_pin">Se introduzir um PIN incorrecto na tentativa seguinte, o seu perfil de trabalho e os respectivos dados vão ser removidos deste dispositivo</string>
-  <string name="lock_screen_action">Itens mostrados no ecrã de bloqueio após deslizar para baixo</string>
+  <string name="lock_screen_action">Ecrã de bloqueio</string>
   <string name="lock_screen_display_category_name">Ecrã de bloqueio</string>
   <string name="lock_screen_intro_skip_dialog_text">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda ou roubo</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">As funcionalidades de protecção do dispositivo não vão ser ligadas. Não vai poder impedir terceiros de utilizar este telefone em caso de perda, roubo ou reposição</string>
@@ -4133,6 +4134,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="normal_info">Todos os sons vão funcionar normalmente</string>
   <string name="normal_smartcover_title">Capa com frente opaca</string>
   <string name="not_allowed">O seu cartão SIM não permite uma ligação a esta rede</string>
+  <string name="not_battery_optimizing">Sem optimização de bateria</string>
+  <string name="not_enabled">Desligado</string>
   <string name="not_installed">Não instalado</string>
   <string name="not_set">Não definido</string>
   <string name="notch_and_status_bar_settings">Centro de Controlo e barra de estado</string>
@@ -4337,6 +4340,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="other_advanced_settings">Definições adicionais</string>
   <string name="other_data">Outros itens neste dispositivo</string>
   <string name="other_device_info">Outros</string>
+  <string name="other_input_method">Outros teclados</string>
   <string name="other_input_settings">Definições de teclado adicionais</string>
   <string name="other_personal_settings">Definições adicionais</string>
   <string name="other_relative">Outras</string>
@@ -5855,6 +5859,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="smart_home_value_none">Nenhum</string>
   <string name="smart_home_value_unknown">Desconhecido</string>
   <string name="smart_notifications_title">Notificações adaptáveis</string>
+  <string name="smart_space_clock">Num relance</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Modo capa inteligente</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>
   <string name="smartcover_sensitive_title">Modo capa inteligente</string>
@@ -5973,7 +5978,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_qs_layout">Definições rápidas</string>
   <string name="status_bar_settings_show_lte_for_4g">Mostrar LTE em vez de 4G</string>
-  <string name="status_bar_settings_show_weather">Mostrar tempo na área de notificações</string>
+  <string name="status_bar_settings_show_weather">Mostrar informações do tempo</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
   <string name="status_bar_title">Centro de Controlo e barra de estado</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
@@ -6256,7 +6261,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="sync_enable">Sincronizar</string>
   <string name="sync_enabled">Sincronização ligada</string>
   <string name="sync_error">Erro de sincronização</string>
-  <string name="sync_failed">Erro na sincronização</string>
+  <string name="sync_failed">Não foi possível sincronizar. Aguarde um momento e tente novamente</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">A sincronizar…</string>
   <string name="sync_is_failing">A sincronização de momento está com problemas</string>
@@ -6268,6 +6273,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>" 
 Uma abordagem da Google à sincronização de dados, que permite aceder aos contactos, compromissos e outros itens a partir de qualquer local onde se encontre. "</string>
   <string name="sync_settings">Contas e sincronização</string>
+  <string name="sync_success">Sincronizado com sucesso</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Apenas em Wi-Fi</string>
   <string name="system">Sistema</string>
@@ -6706,6 +6712,7 @@ ou auscultadores com ficha de 3,5 mm"</string>
   <string name="usb_mtp_title">Dispositivo multimédia (MTP)</string>
   <string name="usb_ptp_summary">Permite transferir fotos através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
   <string name="usb_ptp_title">Câmara (PTP)</string>
+  <string name="usb_reverse_charge">Carregamento reverso</string>
   <string name="usb_summary_MIDI">Utilizar o dispositivo como MIDI</string>
   <string name="usb_summary_charging_only">Carregar este dispositivo</string>
   <string name="usb_summary_file_transfers">Transferir ficheiros</string>
@@ -6721,12 +6728,16 @@ ou auscultadores com ficha de 3,5 mm"</string>
   <string name="usb_use">Utilizar USB para</string>
   <string name="usb_use_MIDI">Utilizar dispositivo como MIDI</string>
   <string name="usb_use_MIDI_desc">Utilizar este dispositivo como MIDI</string>
+  <string name="usb_use_MIDI_miui12_5">MIDI</string>
   <string name="usb_use_charging_only">Carregar este dispositivo</string>
   <string name="usb_use_charging_only_desc">Apenas carregar este dispositivo</string>
   <string name="usb_use_file_transfers">Transferir ficheiros</string>
   <string name="usb_use_file_transfers_desc">Transferir ficheiros para outro dispositivo</string>
+  <string name="usb_use_file_transfers_miui12_5">Transferir ficheiros</string>
+  <string name="usb_use_miui12_5">Utilizar USB para</string>
   <string name="usb_use_photo_transfers">Transferir fotos (PTP)</string>
   <string name="usb_use_photo_transfers_desc">Transferir fotos ou ficheiros se não suportar MTP (PTP)</string>
+  <string name="usb_use_photo_transfers_miui12_5">Transferir fotos (PTP)</string>
   <string name="usb_use_power_only">Fornecer energia</string>
   <string name="usb_use_power_only_desc">Carregar o dispositivo ligado. Apenas funciona com dispositivos que suportem carregamento USB</string>
   <string name="use_control_panel">Utilizar Centro de Controlo</string>
@@ -7634,6 +7645,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xiaomi_cloud_service_description_contact">contactos e</string>
   <string name="xiaomi_cloud_service_description_format">A Xiaomi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
+  <string name="xiaomi_custom_input_method">Personalizado para a Xiaomi</string>
   <string name="xiaomi_money_service">Mi Coins</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações</string>
   <string name="xiaomi_router_available_notif_title">Router Mi disponível</string>

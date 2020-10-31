@@ -3,6 +3,7 @@
   <string name="above_image">Cima</string>
   <string name="accessibility_battery_level">Bateria a %d porcento</string>
   <string name="accessibility_battery_level_charging">Bateria a carregar. %d porcento</string>
+  <string name="add_custom_image">Imagem personalizada</string>
   <string name="add_from_album">Adicionar da Galeria</string>
   <string name="align_type">Alinhamento</string>
   <string name="always_style">Sempre</string>
@@ -110,6 +111,8 @@ d 'de' MMMM"</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="select_notification_animation_style">Seleccionar efeitos especiais</string>
   <string name="select_notification_notify_style">Seleccionar efeitos das notificações</string>
+  <string name="share">Partilhar</string>
+  <string name="share_to_community">Partilhar na comunidade Mi</string>
   <string name="show_battery">Mostrar estado da bateria</string>
   <string name="show_battery_status">Mostrar estado da bateria</string>
   <string name="show_notification">Mostrar notificações</string>
@@ -123,6 +126,7 @@ maravilhoso está para acontecer"</string>
   <string name="step_component_info_active_tip">A contagem de passos é fornecida por Saúde. Concorde com os termos e condições de Saúde para continuar</string>
   <string name="step_component_info_desc">A contagem de passos vai-se transformar num troféu quando o seu objectivo for alcançado. A contagem de passos é fornecida por Saúde</string>
   <string name="step_component_info_tip">A contagem de passos é fornecida por Saúde. Instale ou actualize Saúde e concorde com os termos e condições para continuar</string>
+  <string name="step_to_image_community">Encontre mais na comunidade Mi</string>
   <string name="summary">Para reduzir o consumo de bateria, os itens não vão ser mostrados quando o dispositivo estiver no escuro por muito tempo</string>
   <string name="super_wallpaper_date">"EEEE
 dd/MM"</string>

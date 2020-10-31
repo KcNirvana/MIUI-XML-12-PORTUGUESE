@@ -128,10 +128,6 @@
         <item quantity="other">%1$d atalhos vão ser mostrados na área de notificações</item>
         <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
     </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d aplicações recentes</item>
-        <item quantity="one">%d aplicação recente</item>
-    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Céu limpo</item>
         <item quantity="one">Céu limpo</item>

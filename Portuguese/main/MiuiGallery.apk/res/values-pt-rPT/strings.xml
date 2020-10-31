@@ -495,9 +495,11 @@
   <string name="download_tip">Transferir</string>
   <string name="download_title">A preparar ficheiros…</string>
   <string name="download_type_origin">Ficheiros originais</string>
-  <string name="download_type_origin_desc">Ficheiros originais</string>
+  <string name="download_type_origin_subtitle_china">Os ficheiros originais ocupam mais espaço e apenas podem ser transferidas via Wi-Fi</string>
+  <string name="download_type_origin_title">Ficheiros originais</string>
   <string name="download_type_thumbnail">Alta qualidade</string>
-  <string name="download_type_thumbnail_desc">Alta qualidade</string>
+  <string name="download_type_thumbnail_subtitle">As imagens em alta qualidade parecem idênticas às originais mas ocupam menos espaço</string>
+  <string name="download_type_thumbnail_title">Alta qualidade</string>
   <string name="download_type_title">Qualidade da transferência</string>
   <string name="download_with_metered_network_msg">Transferir ficheiros originais pode gerar custos adicionais. Transferir mesmo assim?</string>
   <string name="download_with_metered_network_title">Está ligado a uma rede paga</string>
@@ -978,7 +980,7 @@ para personalizar a galeria"</string>
   <string name="movie_download">Transferir</string>
   <string name="movie_download_failed">Não foi possível transferir</string>
   <string name="movie_download_failed_for_notwork">Não foi possível transferir. Ligue-se à rede e tente novamente</string>
-  <string name="movie_download_sdk_without_wifi_msg">O seu dispositivo não está ligado ao Wi-Fi. Transferir o plugin (3MB) utilizando dados móveis?</string>
+  <string name="movie_download_sdk_without_wifi_msg">O seu dispositivo não está ligado ao Wi-Fi. Transferir o plugin (%2$dMB) utilizando dados móveis?</string>
   <string name="movie_download_sdk_without_wifi_title">Transferir utilizando dados móveis</string>
   <string name="movie_download_with_metered_network_msg">Transferir ficheiros originais pode gerar custos adicionais. Transferir mesmo assim?</string>
   <string name="movie_download_with_metered_network_title">Está ligado a uma rede paga</string>
@@ -1021,6 +1023,7 @@ para personalizar a galeria"</string>
   <string name="need_to_turn_on_sync_first">Ligue a sincronização com a Xiaomi Cloud primeiro</string>
   <string name="need_to_turn_on_wlan">Ligue ao Wi-Fi primeiro</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
+  <string name="new_album_invalid_byte">O nome é demasiado longo</string>
   <string name="new_album_invalid_char">"Os nomes não podem conter \"%s\". Introduza apenas letras ou números"</string>
   <string name="new_album_invalid_name">O álbum \"%s\" é um álbum de sistema. Atribua outro nome</string>
   <string name="new_album_invalid_prefix">"Não utilizar \".\" ou \"_\" no início do nome do álbum"</string>
@@ -1039,6 +1042,7 @@ para personalizar a galeria"</string>
   <string name="not_is">Não</string>
   <string name="not_remind_any_more">Não mostrar novamente</string>
   <string name="not_set">Não definido</string>
+  <string name="notice_click_lock_orientation">Toque para bloquear a orientação</string>
   <string name="ocr_abnormal">Não foi possível reconhecer o texto</string>
   <string name="ocr_abnormal_pic_format">Não foi possível reconhecer o texto. Este formato de imagem não é suportado</string>
   <string name="ocr_abnormal_pic_too_large">Não foi possível reconhecer o texto. Esta imagem é demasiado grande</string>
@@ -1110,6 +1114,9 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="operation_remove_rubbish">Restaurar</string>
   <string name="operation_remove_secret">Mostrar</string>
   <string name="operation_rename">Mudar o nome</string>
+  <string name="operation_replace_album_cover">Mudar a capa do álbum</string>
+  <string name="operation_replace_album_cover_custom_mode">Personalizada</string>
+  <string name="operation_replace_album_cover_default_mode">Predefinida</string>
   <string name="operation_save">Guardar</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
@@ -1192,7 +1199,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="photo_editor_miui_beauty_no_face">Não foi possível detectar rosto</string>
   <string name="photo_editor_mosaic">Mosaico</string>
   <string name="photo_editor_navigator_cancel">Cancelar</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Para transferir %s é necessário 4MB de dados móveis. Transferir agora?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Para transferir %s é necessário %2$dMB de dados móveis. Transferir agora?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Aviso de utilização de dados</string>
   <string name="photo_editor_navigator_export">Guardar</string>
   <string name="photo_editor_navigator_module_download_failed">Não foi possível transferir %s</string>
@@ -1241,6 +1248,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="photo_movie_module_finish">Clipes carregados com sucesso</string>
   <string name="photo_movie_module_loading">A carregar clipes…</string>
   <string name="photo_movie_select_image_range">Os clips podem conter entre 3 a 20 fotos</string>
+  <string name="photo_page_lock_screen">Bloquear orientação</string>
   <string name="photo_page_rotate_screen">Rodar ecrã</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
@@ -1572,10 +1580,10 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="slim_cost_time_minute">%dm restantes</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds restantes</string>
   <string name="slim_cost_time_second">%ds restantes</string>
-  <string name="slim_description_dialog_detail">Reduza o tamanho das suas fotos. Os ficheiros originais vão ser armazenados na Xiaomi Cloud</string>
+  <string name="slim_description_dialog_detail">Comprimir fotos e deixar cópias de alta qualidade neste dispositivo mantendo as originais na Xiaomi Cloud</string>
   <string name="slim_description_dialog_ok">Percebi</string>
   <string name="slim_description_dialog_slim_after">"Depois:  167KB"</string>
-  <string name="slim_description_dialog_slim_before">"Antes:  3.07MB"</string>
+  <string name="slim_description_dialog_slim_before">"Antes:  %2$dMB"</string>
   <string name="slim_exit_dialog_positive">Parar</string>
   <string name="slim_exit_dialog_title">Parar optimização</string>
   <string name="slim_running">A optimizar…</string>
@@ -1704,6 +1712,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="to_enable_sync_dialog_title">Sincronizar</string>
   <string name="toast_invalid_char">Os ficheiros não podem conter \"%s\"</string>
   <string name="toast_invalid_prefix">Os ficheiros não podem iniciar com \".\" ou \"_\"</string>
+  <string name="toast_orientation_locked">Orientação bloqueada com sucesso</string>
   <string name="toast_rename_exit">Este ficheiro já existe</string>
   <string name="today">Hoje</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (actualmente adicionados %1$s)</string>
@@ -1753,7 +1762,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="video_compress_download_failed_for_notwork">Não foi possível transferir. Verifique as suas definições de rede e tente novamente</string>
   <string name="video_compress_encode_video">A comprimir vídeo…</string>
   <string name="video_compress_lib_download">Transferir plugin</string>
-  <string name="video_compress_lib_download_without_wifi">Não está ligado ao Wi-Fi. Pode utilizar os dados móveis para transferir o plugin de compressão de vídeo (1.3MB)</string>
+  <string name="video_compress_lib_download_without_wifi">Não está ligado ao Wi-Fi. Pode utilizar os dados móveis para transferir o plugin de compressão de vídeo (%2$dMB)</string>
   <string name="video_compress_not_with_8k">Não é possível comprimir vídeos 8K</string>
   <string name="video_compress_not_with_format">A compressão de vídeo não é suportada para este formato</string>
   <string name="video_compress_not_with_low_quality">A resolução actual é a mais baixa</string>
@@ -2019,6 +2028,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="vlog_video_saved_in_my_create">Vídeo guardado com sucesso</string>
   <string name="vlog_video_selected_not_support">Não é possível editar o vídeo seleccionado</string>
   <string name="voice_assistant">Entrada de voz</string>
+  <string name="watch_all_photo">Galeria</string>
   <string name="welcome">Bem-vindo à Xiaomi Cloud</string>
   <string name="welcome_to_auto_backup">Bem-vindo à Xiaomi Cloud</string>
   <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
