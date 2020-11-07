@@ -2234,7 +2234,7 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dual_wifi_switching_prompt">Troca de Wi-Fi</string>
   <string name="dual_wifi_switching_summary">O Wi-Fi duplo necessita de diferentes bandas e se quiser alterar a banda do Wi-Fi primário o Wi-Fi secundário vai ser desligado</string>
   <string name="dump_log">Obter registos de problemas</string>
-  <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
+  <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Beta da MIUI. Utilize-a com cuidado.
 Pode ver o registo gerado no Ficheiros"</string>
   <string name="dump_log_title">Acerca desta funcionalidade</string>
   <string name="easymode_hint">Toque para desligar o Modo Leve</string>
@@ -2795,6 +2795,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_dialog_ok">Percebi</string>
   <string name="gxzw_dialog_title">Acerca do sensor de impressão digital</string>
   <string name="gxzw_enroll_again">Levante o dedo e prima o sensor novamente</string>
+  <string name="gxzw_lowlight_open_summary">Reduzir o brilho da impressão digital em condições de pouca luz. O seu dispositivo pode desbloquear mais lentamente com esta funcionalidade ligada</string>
+  <string name="gxzw_lowlight_open_title">Desbloqueio de impressão digital com pouca luz</string>
   <string name="gxzw_quick_open_enable_summary">Utilize gestos para abrir aplicações ou utilizar funcionalidades quando o seu dispositivo estiver desbloqueado</string>
   <string name="gxzw_quick_open_enable_title">Atalhos de impressão digital</string>
   <string name="gxzw_quick_open_fast_summary">Deslize para utilizar um atalho assim que o dispositivo estiver desbloqueado</string>

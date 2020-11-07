@@ -208,6 +208,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="miui_message_staging_3">Aplicação de testes...</string>
   <string name="miui_no_perms">Não é necessário permissões</string>
   <string name="miui_not_uninstall_system_app">Não é possível desinstalar aplicações de sistema</string>
+  <string name="miui_other_permission">Outras</string>
   <string name="miui_other_relative">Outras</string>
   <string name="miui_permission_manage_title">Detalhes de %s</string>
   <string name="miui_please_clear">Eliminar vírus</string>

@@ -90,10 +90,6 @@
         <item quantity="other">Copiados %d contactos</item>
         <item quantity="one">Copiado um contacto</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Encontrou %1$d contactos</item>
-        <item quantity="one">Encontrou %1$d contacto</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>
@@ -114,10 +110,6 @@
         <item quantity="other">%1$d contactos com informações iguais</item>
         <item quantity="one">%1$d contacto com informações iguais</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">juntar de %0$d fontes</item>
-        <item quantity="one">não juntos</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>
@@ -126,14 +118,6 @@
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d pessoas de %2$s</item>
         <item quantity="one">%1$d pessoa de %2$s</item>
-    </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d grupos</item>
-        <item quantity="one">%d grupo</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d itens restantes</item>
-        <item quantity="one">%1$d item restante</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>

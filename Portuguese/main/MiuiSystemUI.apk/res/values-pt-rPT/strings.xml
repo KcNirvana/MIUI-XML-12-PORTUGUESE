@@ -1051,11 +1051,15 @@ uma captura de ecrã extensa"</string>
   <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="miui_screen_rotation_freeze_message">Rotação auto. desligada</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons e vibração voltaram ao normal</string>
+  <string name="miui_toast_zen_dnd_to_off_version_R">Os sons e vibração voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Os toques voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
   <string name="miui_toast_zen_to_dnd">Os sons e vibração foram silenciados</string>
+  <string name="miui_toast_zen_to_dnd_version_R">Os sons e vibração foram silenciados</string>
   <string name="miui_toast_zen_to_standard">Os toques de chamadas e notificações foram silenciados</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons multimédia vão ser silenciados</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Os toques, notificações e sons multimédia vão ser silenciados</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

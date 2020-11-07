@@ -7,6 +7,9 @@
   <string name="add_from_album">Adicionar da Galeria</string>
   <string name="align_type">Alinhamento</string>
   <string name="always_style">Sempre</string>
+  <string name="always_style_symmary">Consome mais bateria</string>
+  <string name="ambient_display_screen_title">Ecrã ambiente</string>
+  <string name="ambient_display_screen_title_sp">Ecrã ambiente</string>
   <string name="animation_clock_panel">Visualização em onda</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser combinada com a inversão de cores. Desligue a inversão de cores primeiro</string>
   <string name="aod_component">Itens mostrados</string>
@@ -92,6 +95,8 @@ d 'de' MMMM"</string>
   <string name="notification_anim_star">Estrelas</string>
   <string name="notification_nothing">Nenhuma</string>
   <string name="notification_screen_on">Ligar ecrã</string>
+  <string name="off">Desligado</string>
+  <string name="on">Ligado</string>
   <string name="only_show_bg_description">Não mostrar hora, data e outros itens</string>
   <string name="only_show_bg_title">Apenas mostrar fundo</string>
   <string name="open_aod_mode">Ligar</string>
@@ -103,6 +108,7 @@ d 'de' MMMM"</string>
   <string name="scheduled_mode_dialog_msg">Os itens vão ser mostrados no ecrã ambiente durante este período: %s</string>
   <string name="scheduled_mode_msg">Período activo: %s</string>
   <string name="scheduled_style">Programado</string>
+  <string name="scheduled_style_summary">Definir hora personalizada</string>
   <string name="show_lunar">Mostrar calendário chinês tradicional</string>
   <string name="show_lunar_desc">O relógio duplo não suporta o calendário chinês tradicional</string>
   <string name="scope_des">Cada caleidoscópio contem 5 padrões diferentes que vão ser mostrados alternadamente sempre que o ecrã acender</string>
@@ -135,6 +141,7 @@ dd/MM"</string>
   <string name="super_wallpaper_date_lunar">"EEEE
 dd/MM"</string>
   <string name="temporary_style">Por 10 segundos após tocar</string>
+  <string name="temporary_style_summary">Recomendado</string>
   <string name="text_color">Cor do texto</string>
   <string name="text_length_exceed_limit_alert">*O texto inserido é demasiado longo</string>
   <string name="text_size">Tamanho do texto</string>

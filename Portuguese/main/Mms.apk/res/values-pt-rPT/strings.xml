@@ -337,12 +337,18 @@
   <string name="menu_unlock">Remover dos favoritos</string>
   <string name="menu_view_contact">Ver contacto</string>
   <string name="menu_view_group_info">Info. do grupo</string>
+  <string name="message_cannot_send_air_mode">"Não é possível enviar mensagens.
+Desligue o Modo Avião primeiro"</string>
+    <string name="message_cannot_send_sim_unavailable">"Não é possível enviar mensagens.
+Verifique o seu cartão SIM"</string>
   <string name="message_class_label">"Classe da mensagem: "</string>
   <string name="message_contact">Contacto:</string>
   <string name="message_details_title">Detalhes da mensagem</string>
   <string name="message_download_failed_title">Mensagem não transferida</string>
   <string name="message_expired">Expirada</string>
   <string name="message_failed">Erro ao enviar</string>
+  <string name="message_failed_and_cotanct_operator">Ocorreu um erro. <font color="#1c86ee">Contacte a sua operadora</font></string>
+  <string name="message_failed_and_feedback">Ocorreu um erro. <font color="#1c86ee">Reporte o problema</font></string>
   <string name="message_failed_body">Toque para rever a mensagem e tentar novamente</string>
   <string name="message_number">Número de telefone:</string>
   <string name="message_pending">A enviar</string>
@@ -362,9 +368,20 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="messaging">Mensagens</string>
   <string name="mi_message_title">Mi Message</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+  <string name="miuix_appcompat_action_mode_select_all">Seleccionar tudo</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Seleccionar itens</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
+  <string name="miuix_appcompat_cancel_description">Cancelar</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sincronização desligada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizado com sucesso</string>
   <string name="miuix_appcompat_cloud_state_syncing">A sincronizar…</string>
+  <string name="miuix_appcompat_confirm_description">Confirmar</string>
+  <string name="miuix_appcompat_delete_description">Eliminar</string>
+  <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
+  <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all_description">Seleccionar tudo</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
