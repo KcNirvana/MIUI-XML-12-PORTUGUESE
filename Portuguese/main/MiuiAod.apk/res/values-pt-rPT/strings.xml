@@ -30,7 +30,7 @@ d 'de' MMMM"</string>
   <string name="aod_mode_summary">Mostrar relógio, data, notificações e imagens de fundo quando o ecrã estiver desligado</string>
   <string name="aod_mode_time_summary">Programar hora para ligar ou desligar o modo sempre ligado</string>
   <string name="aod_mode_time_title">Programar</string>
-  <string name="aod_mode_title">Ecrã sempre ligado</string>
+  <string name="aod_mode_title">Ecrã ambiente</string>
   <string name="aod_show_date_and_time">Mostrar data e hora</string>
   <string name="aod_show_style_title">Mostrar ecrã</string>
   <string name="aod_style">Temas</string>

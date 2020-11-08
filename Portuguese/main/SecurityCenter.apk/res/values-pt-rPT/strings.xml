@@ -2319,7 +2319,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="permission_instruction_read_write_calendar">Permite que a aplicação adicione, remova ou altere eventos que pode modificar no telefone. As aplicações maliciosas podem enviar mensagens em seu nome ou alterar eventos sem o seu consentimento</string>
   <string name="permission_instruction_receive_mms">Permite que a aplicação leia mensagens MMS guardadas no telefone</string>
   <string name="permission_instruction_record_audio">Permite que a aplicação grave áudio com o microfone em qualquer altura</string>
-  <string name="permission_instruction_running_background">This permission allows apps to work in the background. While doing this, the apps may collect data and provide services. Remember that such activities raise power consumption.</string>
+  <string name="permission_instruction_running_background">Permite que a aplicação execute em segundo plano. Enquanto estiver a ser executada, pode obter dados e fornecer serviços. Estas actividades aumentam o consumo de bateria</string>
   <string name="permission_instruction_running_exceed_data">Permite que a aplicação ignore os limites de dados móveis</string>
   <string name="permission_instruction_send_mms">Permite que a aplicação envie mensagens multimédia. Isto pode resultar em custos inesperados. As aplicações maliciosas podem fazer com que incorra em custos, enviando mensagens multimédia sem a sua confirmação</string>
   <string name="permission_instruction_send_payment_sms">Permite que a aplicação envie mensagens de texto pagas</string>
@@ -3762,7 +3762,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="wlan_change_protection_title">Prevenir a troca de redes</string>
   <string name="wlan_optimization_summary">Reduzir o atraso da rede Wi-Fi</string>
   <string name="wlan_optimization_title">Optimização de Wi-Fi</string>
-  <string name="write_clipboard_tip_content">This permission permite que as aplicações guardem itens na área de transferências</string>
+  <string name="write_clipboard_tip_content">Permite que a aplicação guarde itens na área de transferências</string>
   <string name="write_clipboard_tip_title">Guardar itens na área de transferências</string>
   <string name="wrong_password">Palavra-passe incorrecta</string>
   <string name="xunyou_net_booster">Acelerador de rede</string>
