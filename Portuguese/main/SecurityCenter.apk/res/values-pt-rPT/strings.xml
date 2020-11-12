@@ -1987,6 +1987,9 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="network_connected_exception_title">Testar rede</string>
   <string name="network_control">Ver definições da aplicação</string>
   <string name="network_diagnostics">Testar rede</string>
+  <string name="network_disable_dialog_btn_text">Percebi</string>
+  <string name="network_disable_dialog_content">O seu dispositivo necessita de ligar à rede para poder retirar o consentimento. Verifique as suas definições de rede e tente novamente</string>
+  <string name="network_disable_dialog_title">Não é possível ligar à rede</string>
   <string name="network_mobile_exception_detail">"O seu dispositivo não consegue ligar à Internet:
 
 1. Certifique-se de que não excedeu o limite de dados móveis do plano da sua operadora
@@ -2653,6 +2656,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_dialog_call_title">Protecção de chamadas</string>
   <string name="privacy_dialog_camera_message">Para proteger a sua privacidade, a MIUI não permite que as aplicações utilizem a câmara em segundo plano</string>
   <string name="privacy_dialog_camera_title">Restrição de câmara em segundo plano</string>
+  <string name="privacy_dialog_content_part1">Bem-vindo a Segurança! Esta aplicação verifica o seu dispositivo por vírus e lixo, permite a gestão de aplicações, controla a utilização de dados móveis e mais</string>
+  <string name="privacy_dialog_content_part2">A Segurança necessita de obter dados pessoais para lhe fornecer os seus serviços. Pode saber mais na nossa Política de Privacidade. Pode retirar o seu consentimento nas Definições</string>
+  <string name="privacy_dialog_content_part3">Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar Segurança. Se não concordar, não vai poder utilizar algumas funcionalidades desta aplicação</string>
   <string name="privacy_dialog_danger_mission_message">O Android tem várias permissões de alto risco. Para proteger a sua privacidade, a MIUI vai perguntar se permite esse comportamento e fornecer opções de restrição</string>
   <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
   <string name="privacy_dialog_feedback">Comentários</string>
@@ -2660,6 +2666,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_dialog_ok">Percebi</string>
   <string name="privacy_dialog_ok_with_num">Percebi (%ss)</string>
   <string name="privacy_dialog_open">Ligar</string>
+  <string name="privacy_dialog_revoking">A retirar consentimento…</string>
+  <string name="privacy_dialog_title">Termos e Condições</string>
   <string name="privacy_empty_call">Não acedeu ao registo de chamadas hoje</string>
   <string name="privacy_empty_contact">Não acedeu aos contactos hoje</string>
   <string name="privacy_empty_location">Não acedeu à localização hoje</string>

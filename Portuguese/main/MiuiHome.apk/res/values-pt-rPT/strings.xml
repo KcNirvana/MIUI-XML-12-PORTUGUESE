@@ -460,6 +460,9 @@
   <string name="recents_exit_multi_window_mode">Sair</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Não é possível utilizar o ecrã dividido quando estiver a transmitir</string>
   <string name="recents_incompatible_app_message">Esta aplicação não suporta o ecrã dividido</string>
+  <string name="recents_layout_style">Organizar itens em Recentes</string>
+  <string name="recents_layout_style_horizontal">Horizontalmente</string>
+  <string name="recents_layout_style_vertical">Verticalmente</string>
   <string name="recents_smallwindow_text">Solte para adicionar</string>
   <string name="recents_task_screening">Transmitir</string>
   <string name="recents_title_app_manager">Gerir aplicações</string>

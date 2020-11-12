@@ -81,6 +81,10 @@
   <string name="dlg_title_set_password">Definir padrão</string>
   <string name="dlg_title_use_privacy_password">Utilizar o padrão de Protecção de Privacidade</string>
   <string name="dlg_unhide_message">A mostrar…</string>
+  <string name="dlg_update_cancel">Agora não</string>
+  <string name="dlg_update_checkbox_title">Ignorar esta versão</string>
+  <string name="dlg_update_title">Actualização disponível</string>
+  <string name="dlg_update_update_now">Actualizar</string>
   <string name="done">Concluído</string>
   <string name="doodle_action_enter_immersion_mode">Mudar para modo imersivo</string>
   <string name="doodle_action_exit_immersion_mode">Modo imersivo desligado</string>
@@ -95,14 +99,17 @@
   <string name="doodle_feature">Rabiscos</string>
   <string name="doodle_palette">Palete de cores</string>
   <string name="doodle_save_progress_text">A guardar…</string>
+  <string name="doodle_saving">A guardar</string>
   <string name="doodle_setting_show_grid_background">Linhas nos rabiscos</string>
   <string name="doodle_setting_show_grid_background_desc">Mostrar linhas nos rabiscos</string>
   <string name="doodle_text_click_input_text">Toque para introduzir texto</string>
+  <string name="doodle_tool_background">Alterar fundo</string>
   <string name="doodle_tool_eraser">Borracha</string>
   <string name="doodle_tool_eraser_element_mode">Borracha de traços</string>
   <string name="doodle_tool_eraser_pixel_mode">Borracha de pixeis</string>
   <string name="doodle_tool_picture">Adicionar imagem</string>
   <string name="doodle_tool_text">Adicionar texto</string>
+  <string name="doodle_tool_text_dialog_hint">Introduzir texto</string>
   <string name="doodle_tool_text_hint">Toque para introduzir texto</string>
   <string name="edit_header_done_description">Concluído</string>
   <string name="edit_header_lock_description">Nota oculta</string>
@@ -203,11 +210,14 @@
   <string name="note_gesture_guide_step1">Premir e segurar no botão + para criar uma nota de voz</string>
   <string name="note_gesture_guide_step2">Premir,segurar e arrastar uma nota para cima doutra para criar uma pasta</string>
   <string name="note_gesture_guide_step3">Premir,segurar e arrastar uma nota por cima duma pasta para a mover para lá</string>
+  <string name="note_invalid_mindnote_hint">Os mapas mentais não estão disponíveis nesta versão. Atualize a aplicação para utilizar esta funcionalidade</string>
   <string name="note_link_email">Escrever email</string>
   <string name="note_link_other">Abrir utilizando a aplicação de mapas</string>
   <string name="note_link_select">Seleccionar texto</string>
   <string name="note_link_tel">Ligar</string>
   <string name="note_link_web">Ver no navegador</string>
+  <string name="note_mindnote_entrance_hint">"Comece a escrever "</string>
+  <string name="note_mindnote_entrance_icon_text">Criar uma mapa mental</string>
   <string name="note_sort_way">Ordenar por</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
@@ -426,6 +436,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todoalert_done">OK</string>
   <string name="toolbar_check_description">Adicionar caixa de verificação</string>
   <string name="toolbar_delete_description">Eliminar esta nota</string>
+  <string name="toolbar_done_description">Concluído</string>
   <string name="toolbar_gallery_description">Adicionar imagem</string>
   <string name="toolbar_redo_description">Avançar</string>
   <string name="toolbar_share_description">Partilhar esta nota</string>
@@ -441,4 +452,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="widget_content_loading">Aguarde…</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Actualização disponível</string>
 </resources>

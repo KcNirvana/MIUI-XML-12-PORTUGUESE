@@ -2,6 +2,7 @@
 <resources>
   <string name="about_extreme_mode">Poupança de bateria extrema</string>
   <string name="about_hide_mode">Acerca de poupança de bateria</string>
+  <string name="accessibility_service_description">Poupança de bateria inteligente</string>
   <string name="active_classify">Ordenar por estado de actividade</string>
   <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Bateria e desempenho</string>

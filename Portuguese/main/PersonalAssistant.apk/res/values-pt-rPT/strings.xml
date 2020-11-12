@@ -288,6 +288,7 @@
   <string name="card_expand_note_toast_save_done">Guardado nas Notas</string>
   <string name="card_expand_note_toast_save_dup">Guardado com sucesso</string>
   <string name="card_expand_note_toast_share_null">Esta nota está vazia</string>
+  <string name="card_expand_note_toast_install">Instalar Notas para poder utilizar esta funcionalidade</string>
   <string name="card_hint_noteboard">Toque aqui para tirar uma nota</string>
   <string name="card_menu_edit">Editar</string>
   <string name="card_menu_remove">Remover</string>

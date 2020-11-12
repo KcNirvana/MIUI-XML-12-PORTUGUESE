@@ -128,10 +128,6 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d dias atrás</item>
     <item quantity="one">%d dia atrás</item>
   </plurals>
-  <plurals name="exit_dialog_release_memory_message">
-    <item quantity="other">Fechar &lt;font color=#0099ff>%d&lt;/font> aplicações para optimizar o seu dispositivo?</item>
-    <item quantity="one">Fechar &lt;font color=#0099ff>%d&lt;/font> aplicação para optimizar o seu dispositivo?</item>
-  </plurals>
   <plurals name="find_applications">
     <item quantity="other">Pesquisar entre %d aplicações</item>
     <item quantity="one">Pesquisar entre %d aplicação</item>

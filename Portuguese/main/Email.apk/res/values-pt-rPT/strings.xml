@@ -257,6 +257,8 @@
   <string name="body_forward_email_text">[Avançar]</string>
   <string name="body_hint">Escrever email</string>
   <string name="body_inline_pic_text">[Imagem]</string>
+  <string name="bottom_bar_more_pdf">Exportar para PDF</string>
+  <string name="bottom_bar_more_pdf_exporting">A exportar…</string>
   <string name="bottom_bar_more_quickreply">Resposta rápida</string>
   <string name="bottom_bar_more_share">Partilhar</string>
   <string name="bottom_bar_no_quickreply_toast">Sem resposta rápida</string>
@@ -339,6 +341,7 @@
   <string name="contact_list_title">Contactos</string>
   <string name="contact_permission_error">O acesso aos contactos do telefone está restrito</string>
   <string name="contact_select">Seleccionar contactos</string>
+  <string name="contain_view_all_body">Ver o texto inteiro da mensagem</string>
   <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
   <string name="contextmenu_add">Adicionar aos contactos</string>
@@ -379,6 +382,7 @@
   <string name="conversation_view">Vista de conversa</string>
   <string name="conversation_view_keywords">Vista de conversa;conversas de email</string>
   <string name="copied">Copiado</string>
+  <string name="copy">Copiar</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
   <string name="create_action">Novo</string>
@@ -445,6 +449,10 @@
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir área de navegação</string>
+  <string name="drive_card_button_tips">Copy the extracted code and get the shared content</string>
+  <string name="drive_card_code">extraction code</string>
+  <string name="drive_card_tips">Found sharing link from %s</string>
+  <string name="drive_card_title">Disk link</string>
   <string name="dtend">Termina</string>
   <string name="dtstart">Inicia</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
@@ -470,6 +478,7 @@
   <string name="exception_updated">Os detalhes deste evento foram alterados para: %s</string>
   <string name="exchange_name">Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+  <string name="expand_button_title">Avançado</string>
   <string name="expand_recipient_details">Expandir detalhes do destinatário</string>
   <string name="expand_slide">Mostrar menu lateral</string>
   <string name="fail_get_email_message">Erro na obtenção da mensagem</string>
@@ -613,6 +622,13 @@
   <string name="interact_with_server_error">Não foi possível ligar ao servidor</string>
   <string name="invalid_recipient">O endereço %s é inválido</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
+  <string name="invoice_card_amount">amount</string>
+  <string name="invoice_card_buyer">buyer</string>
+  <string name="invoice_card_date">date</string>
+  <string name="invoice_card_open">open invoice</string>
+  <string name="invoice_card_save">save invoice</string>
+  <string name="invoice_card_seller">seller</string>
+  <string name="invoice_card_title">e-invoice</string>
   <string name="kilobytes">%sKB</string>
   <string name="list_empty_to_fresh">Sem emails</string>
   <string name="load_from_remote">Pesquisar na caixa de entrada no servidor</string>
@@ -639,6 +655,8 @@
   <string name="login_des_yahoo">Iniciar sessão em Yahoo Mail</string>
   <string name="login_des_yangdex">Iniciar sessão em Yandex Mail</string>
   <string name="login_err_message">Utilizar códigos autorizados para iniciar sessão em %1$s. Vá a https://email.163.com/ para repor a sua palavra-passe</string>
+  <string name="login_err_outlook_msg">"%s
+Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à página da Microsoft para repor a sua palavra-passe"</string>
   <string name="login_err_sina_message">Utilizar códigos autorizados para iniciar sessão em %1$s. Vá a https://mail.sina.com.cn/ para repor a sua palavra-passe</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
   <string name="login_failed_tip">"Contacte-nos no WeChat para obter ajuda: "</string>
@@ -726,6 +744,7 @@
   <string name="menu_search">Pesquisar</string>
   <string name="menu_settings">Definições</string>
   <string name="merged_mailbox_compose_select_account">Seleccionar conta</string>
+  <string name="message_all_body">Texto completo</string>
   <string name="message_body_load_set_description">Em dados móveis para novos emails carregar</string>
   <string name="message_compose_insert_quick_response_list_title">Inserir resposta rápida</string>
   <string name="message_count_spacer">  </string>
@@ -784,6 +803,7 @@
   <string name="no_open_smime_toast">Adicionar o certificado S/MIME primeiro</string>
   <string name="not_subject">(Sem assunto)</string>
   <string name="no_search_results">Pesquisar no servidor</string>
+  <string name="not_set">Não definido</string>
   <string name="not_synced_title">Conta não sincronizada</string>
   <string name="note_title">Configuração automática de email</string>
   <string name="notification_action_archive">Arquivar</string>
@@ -881,6 +901,9 @@
   <string name="pdf_has_signature_prompt_cancel">Abrir original</string>
   <string name="pdf_has_signature_prompt_confirm">Abrir cópia</string>
   <string name="pdf_has_signature_prompt_message">Foi detectada uma cópia assinada deste anexo. Abrir?</string>
+  <string name="pdf_save_error">O corpo é demasiado grande. Não pode ser exportado como PDF</string>
+  <string name="pdf_save_no_body">Aguarde que o texto carregue e tente novamente</string>
+  <string name="pdf_save_to">Guardado em</string>
   <string name="pdf_signature_create_title">Criar assinatura</string>
   <string name="pdf_signature_manager_max_count">Atingiu o máximo de assinaturas. Elimina a assinatura existente e tente novamente</string>
   <string name="pdf_signature_manager_title">Gestor de assinaturas</string>
@@ -944,6 +967,7 @@
   <string name="policy_screen_timeout">Exigir dispositivo inactivo para bloquear ecrã</string>
   <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
   <string name="pop3_name">POP3</string>
+  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="preference_eas_tips">Toque Activar para configurar o servidor de email</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">Em POP3, os anexos vão ser transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
@@ -1276,6 +1300,9 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
   <string name="wipe_account_fail_description">Toque aqui para obter permissões</string>
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
   <string name="wipe_account_fail_description_remind">Devido a restrições de utilização de dados, pode haver dados residuais no Calendário e Contactos após eliminar a conta, elimine-a manualmente</string>
+  <string name="wps_card_button_tips">Abrir Kingsoft Document</string>
+  <string name="wps_card_tips">Foi encontrado um link partilhado de \"%s\"</string>
+  <string name="wps_card_title">Kingsoft Document</string>
   <string name="wps_title">Email WPS</string>
   <string name="wrong_password">A palavra-passe que introduziu não está correcta</string>
   <string name="xiaomi_auth_toastbar">Iniciar sessão para autorizar o seu dispositivo</string>

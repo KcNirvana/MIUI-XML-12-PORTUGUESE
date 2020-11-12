@@ -80,7 +80,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
 * Definições MIUI e do sistema
 Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaomi Cloud"</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
-  <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
+  <string name="cloud_back_up_frequence_long">A cada %d dias</string>
   <string name="cloud_back_up_frequence_short">Todos os dias</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
@@ -91,6 +91,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="cloud_backup">Cópias da Xiaomi Cloud</string>
   <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
+  <string name="cloud_backup_detail_frequence_every_7_day">Fazer cópia a cada %d dias</string>
+  <string name="cloud_backup_detail_frequence_every_day">Fazer cópia todos os dias</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
   <string name="cloud_backup_detail_state">Cópias automáticas</string>
   <string name="cloud_backup_detail_state_summary">Criar cópias da Xiaomi Cloud automaticamente quando ligado ao Wi-Fi</string>

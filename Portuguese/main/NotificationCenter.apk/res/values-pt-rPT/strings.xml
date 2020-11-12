@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="aggregate_title">Regras para agrupar notificações</string>
   <string name="app_name">Notificações</string>
   <string name="back">Voltar</string>
   <string name="cancel">Cancelar</string>
   <string name="category_other">Outras</string>
+  <string name="channel_keyguard_hide_content">Mostrar notificações mas ocultar conteúdo</string>
+  <string name="channel_keyguard_show_content">Mostrar notificações e conteúdo</string>
+  <string name="channel_keyguard_show_nothing">Não mostrar notificações</string>
   <string name="channel_name_aggregation">Notificações agrupadas</string>
   <string name="channel_name_notification">Notificações da aplicação</string>
   <string name="channel_name_recovered">Notificações restauradas</string>
@@ -26,6 +30,10 @@
   <string name="feedback_tip_title">Comentários nas categorias</string>
   <string name="float_notifications">Flutuantes</string>
   <string name="float_notifications_short">Flutuantes</string>
+  <string name="fold_importance_default">Recomendadas</string>
+  <string name="fold_importance_important">Importantes</string>
+  <string name="fold_importance_unimportant">Não importantes</string>
+  <string name="fold_title">Regras para notificações agrupadas</string>
   <string name="function_description">Acerda desta funcionalidade</string>
   <string name="hint_search_all">Pesquisar aplicações</string>
   <string name="hint_search_in_disabled_apps">Pesquisar aplicações que não podem mostrar notificações</string>
@@ -64,14 +72,20 @@
   <string name="notification_display_style">Estilo de notificações</string>
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
+  <string name="notification_keyguard_hide_content">Mostrar notificações mas ocultar conteúdo</string>
+  <string name="notification_keyguard_show_content">Mostrar todas as notificações e conteúdo</string>
+  <string name="notification_keyguard_show_nothing">Não mostrar notificações</string>
   <string name="notification_manager">Notificações das aplicações</string>
   <string name="off">Desligado</string>
   <string name="on">Ligado</string>
+  <string name="rule_keyguard_display">Formato</string>
   <string name="setting_menu_success">Definido com sucesso</string>
   <string name="settings_guide_title">Necessita de outras definições?</string>
   <string name="show_badge_notifications">Emblemas</string>
   <string name="show_badge_notifications_short">Emblemas</string>
   <string name="status_bar_setting">Barra de estado</string>
+  <string name="summary_aggregate_default">As notificações push e de anúncios vão ser agrupadas</string>
+  <string name="summary_aggregate_home">As notificações push não vão ser agrupadas</string>
   <string name="summary_disable_float_notification">Notificações não permitidas</string>
   <string name="summary_disable_lockscreen_notification">Notificações não permitidas</string>
   <string name="summary_disable_show_badge_notification">Emblemas não permitidos</string>
@@ -79,6 +93,9 @@
   <string name="summary_enable_lockscreen_notification">Notificações permitidas</string>
   <string name="summary_enable_show_badge_notification">Emblemas permitidos</string>
   <string name="summary_float_enable_notification_first">Sem notificações permitidas</string>
+  <string name="summary_fold_importance_default">A MIUI vai decidir que notificações devem aparecer</string>
+  <string name="summary_fold_importance_important">As notificações vão aparecer na área de notificações</string>
+  <string name="summary_fold_importance_unimportant">As notificações vão aparecer numa pasta separada</string>
   <string name="summary_lock_screen_enable_notification_first">Sem notificações permitidas</string>
   <string name="summary_show_badge_enable_notification_first">Sem notificações permitidas</string>
   <string name="swipe_to_delete">Deslizar para a esquerda ou direita para eliminar</string>

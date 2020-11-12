@@ -65,6 +65,10 @@
   <string name="backup_theme_name">Cópia de temas</string>
   <string name="backup_theme_progress_message">A copiar o tema…</string>
   <string name="backup_theme_success_message">As suas definições actuais do tema foram copiadas</string>
+  <string name="boot_audio_dialog_cancel">Cancelar</string>
+  <string name="boot_audio_dialog_confirm">OK</string>
+  <string name="boot_audio_dialog_content">O áudio do início está desligado. Ligar e aplicar este som?</string>
+  <string name="boot_audio_dialog_title">Atenção</string>
   <string name="both_all_apply_failured">Não é possível definir papel de parede</string>
   <string name="both_all_apply_success">Papel de parede definido</string>
   <string name="browser_local_resource">Recursos locais</string>

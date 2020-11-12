@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aggregate_entries">
-        <item>Agrupar</item>
-        <item>Não agrupar</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>Todas as notificações vão ser agrupadas</item>
-        <item>As notificações push não vão ser agrupadas</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -844,16 +836,6 @@
     <string-array name="fluency_mode_summaries">
         <item>Aumenta o desempenho do dispositivo</item>
         <item>Pode reduzir desempenho do dispositivo</item>
-    </string-array>
-    <string-array name="fold_entries">
-        <item>Recomendada</item>
-        <item>Importante</item>
-        <item>Não importante</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>A MIUI decide que notificações devem aparecer</item>
-        <item>As notificações vão aparecer na área de notificações</item>
-        <item>As notificações vão aparecer numa pasta separada</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 polegadas</item>
