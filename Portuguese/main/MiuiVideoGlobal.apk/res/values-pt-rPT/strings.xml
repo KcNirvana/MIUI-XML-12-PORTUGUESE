@@ -182,7 +182,7 @@
   <string name="lv_subtitle_track">Legendas</string>
   <string name="lv_unhide_prompt">Definido com sucesso</string>
   <string name="lv_updating">A actualizar…</string>
-  <string name="lv_use_notch">Mostrar monocelha</string>
+  <string name="lv_use_notch">Mostrar entalhe</string>
   <string name="lv_videoView_error_text_invalid_progressive_playback">Não é possível reproduzir este vídeo no seu dispositivo</string>
   <string name="lv_videoView_error_text_unknown">Não é possível reproduzir este vídeo</string>
   <string name="lv_videoView_error_title">Não é possível reproduzir vídeo</string>
