@@ -53,6 +53,7 @@
   <string name="account_settings_notifications">Notificações</string>
   <string name="account_settings_notify_label">Emails</string>
   <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos emails</string>
+  <string name="account_settings_only_notify_inbox">Mostrar notificações apenas da caixa de entrada</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_preference_att_save_path">Localização predefinida dos anexos</string>
