@@ -41,6 +41,15 @@ para adicionar cartões"</string>
   <string name="app_name">Saúde</string>
   <string name="app_setting">Aplicações</string>
   <string name="auth_description">Permitir que %1$s sincronize dados dos seguintes dispositivos</string>
+  <string name="auth_dialog_description">"Ligar recomendações?
+
+Para o recomendar, vamos partilhar os seus dados de saúde com um fornecedor de terceiros. Os itens vão incluir dados pessoais (idade, género), estatísticas de saúde (altura, peso, treinos) e dados comportamentais (duração dos treinos).
+
+Vamos processar estes itens antes de os partilhar para prevenir que os serviços de terceiros o possam identificar com base nos dados que eles receberem.
+
+Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios normais"</string>
+  <string name="auth_dialog_link">Para compreender todos os seus direitos como utilizador assim como de que formas utilizamos os seus dados, leia e concorde com os nossos &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Termos de Utilização&lt;/a>&lt;/font> e &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/font></string>
+  <string name="auth_dialog_title">Aulas recomendadas</string>
   <string name="auto_start_fail">Não foi possível dar permissão</string>
   <string name="auto_start_success">Permissão dada com sucesso</string>
   <string name="auto_start_tips">Toque em \"Definições\" para abrir as definições de Saúde e dar as seguintes permissões</string>
@@ -127,6 +136,7 @@ para adicionar cartões"</string>
   <string name="butterfly_stroke">Mariposa</string>
   <string name="button_record_menstruation">Registar</string>
   <string name="buy">Comprar</string>
+  <string name="calories">Calorias</string>
   <string name="camera_permission_desc">Para definir fotos de perfil</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_edit">Rejeitar alterações</string>
@@ -241,6 +251,8 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="delete_record">Eliminar registo</string>
   <string name="delete_wear_data_toast">Não é possível eliminar dados fornecidos por %1$s</string>
   <string name="description">Detalhes</string>
+  <string name="detail_record_pace_describe">Passos (tempo de cobertura 1 km)</string>
+  <string name="detail_record_pace_title">Segmentos de passos</string>
   <string name="detection_has_no_data">Sem dados</string>
   <string name="detection_not_start">Ainda não começou</string>
   <string name="detection_not_start_detail">Não fique acordado até tarde</string>
@@ -260,6 +272,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="dialog_account_perm_desc">Para aceder à sua Conta Mi</string>
   <string name="dialog_agree">Concordar</string>
   <string name="dialog_agree_and_continue">Concordar</string>
+  <string name="dialog_agree_permission">Permitir</string>
   <string name="dialog_allow">Permitir</string>
   <string name="dialog_auto_start_detail">"Dê permissão a Saúde para iniciar automaticamente para receber notificações.
 Saúde vai apenas notificá-lo acerca de itens importantes"</string>
@@ -289,9 +302,11 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
   <string name="dialog_permission_loading_msg">A verificar…</string>
+  <string name="dialog_permission_title">Permissões necessárias</string>
   <string name="dialog_privacy_policy_statement">Declaração de Política de Privacidade</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="dialog_read_phone_perm_desc">Para identificar o seu dispositivo</string>
+  <string name="dialog_reject">Restringir</string>
   <string name="dialog_request_network">Concorde com a aplicação de rede</string>
   <string name="dialog_sleep_goal_setting">Definir objectivos de duração do sono</string>
   <string name="dialog_sleep_goal_subtitle">Obter 7 a 9 horas de sono todos os dias</string>
@@ -383,6 +398,10 @@ Se o seu dispositivo está na lista, pode adicionar origens de dados manualmente
   <string name="exercise_sum">Relatório do exercício</string>
   <string name="exercise_time">Duração</string>
   <string name="exercise_walk_description">De acordo com as Directrizes Dietéticas para Residentes Chineses, a actividade física activa deve ser pelo menos 40 minutos por dia que é o equivalente a andar 6000 passos. Os passos que dá todos os dias para caminhar, correr e subir escadas estão resumidos aqui</string>
+  <string name="exit_running_tips_cancel">Sim</string>
+  <string name="exit_running_tips_confirm">Não</string>
+  <string name="exit_running_tips_desc">Ainda não começou a treinar. Concluir o treino?</string>
+  <string name="exit_running_tips_title">Concluir treinos</string>
   <string name="expand_all">Mostrar tudo</string>
   <string name="expand_button_title">Avançado</string>
   <string name="exposed_dropdown_menu_content_description">Mostrar menu</string>
@@ -423,6 +442,10 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="goal_sleep_time">Objectivos de duração de sono</string>
   <string name="goal_title">Mantenha-se saudável</string>
   <string name="goto_setting_auto_start">Definições</string>
+  <string name="gps">GPS</string>
+  <string name="gps_no_signal_hint">O sinal actual de GPS não permite o rastreio do seu exercício e o registo das rotas. Vá para uma área externa plana e aberta</string>
+  <string name="gps_unauthorized">Permissões de GPS necessárias</string>
+  <string name="gps_unopened">GPS desligado</string>
   <string name="group">Ciclos</string>
   <string name="guide_data_cloud_sync_tip">Pode desligar a sincronização em Definições &gt; Conta Mi</string>
   <string name="guide_local_data_sync_subtitle">Passos, sono, peso e períodos</string>
@@ -477,6 +500,18 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_detect_state_reseting">Em descanso</string>
   <string name="hr_detect_state_reseting_desc">Está totalmente relaxado ou acabou de acordar</string>
   <string name="hr_disturb_detect">Detecção interrompida</string>
+  <string name="hr_finger_permission_desc">Para medir o seu batimento cardíaco, esta funcionalidade necessita de aceder ao sensor de impressão digital para detectar alterações no seu fluxo sanguíneo. Permitir?</string>
+  <string name="hr_fp_area">Sensor de impressão digital</string>
+  <string name="hr_fp_detect_desc">Blood flows to your fingers with every heartbeat. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values.</string>
+  <string name="hr_fp_detect_principle_desc">"Blood isn't completely opaque; therefore, light can pass through it. With every heartbeat, blood flows to your fingers, blocking more light than between the heartbeats. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values."</string>
+  <string name="hr_fp_detect_principle_desc_2">"Note: Make sure your finger fully covers the fingerprint icon during the measurement. Don't apply force, as it might block blood flow in your fingertip and make the results inaccurate. This measurement is provided for your reference only. It can't replace medical tests."</string>
+  <string name="hr_fp_detect_principle_desc_3">Our tests show that this method measures your heart rate with an error of only ≤3 BPM.</string>
+  <string name="hr_fp_detect_start_desc">"Pressione levemente o ícone da impressão digital.
+Não mova o seu dedo"</string>
+  <string name="hr_fp_detecting">A medir…</string>
+  <string name="hr_fp_not_put_well">"O seu dedo moveu-se.
+Comece de novo"</string>
+  <string name="hr_fp_report_common_desc">A frequência cardíaca normal varia de 60 a 100 BPM. Uma frequência cardíaca menor que 60 BPM é um sinal de bradicardia, enquanto que acima de 100 BPM é aceite como taquicardia em adultos</string>
   <string name="hr_heart_rate_unit">Batimentos cardíacos (BPM)</string>
   <string name="hr_in_detect">Não solte os dedos enquanto estiver a testar</string>
   <string name="hr_input_heart_rate">Registar batimentos cardíacos</string>
@@ -1133,7 +1168,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_home_exercise_card_speed_of_progress">Exercício. %1$s. Concluído: %2$s. Objectivo: %3$s. Progresso: %4$s</string>
   <string name="tb_home_heart_rate_card">Batimento cardíaco. %1$d batidas por minuto. Registado em %2$s</string>
   <string name="tb_home_heart_rate_card_no_data">Batimento cardíaco. Sem dados</string>
-  <string name="tb_home_sleep_card">Sono. %1$s hoje. Foi dormir às %2$s. Acordou às %3$s. %4$s</string>
+  <string name="tb_home_sleep_card">Sono de hoje: %1$s, %2$s</string>
   <string name="tb_home_sleep_card_no_data">Sono. Sem dados hoje</string>
   <string name="tb_home_sleep_card_not_open_trace">Sono. A análise do ciclo de sono está desligada</string>
   <string name="tb_home_tip_open_data_sync">Sincronizar os itens de Saúde com a Xiaomi Cloud para acedê-los noutros dispositivos. Duplo toque para iniciar</string>

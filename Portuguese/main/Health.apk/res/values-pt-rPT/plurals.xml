@@ -64,6 +64,10 @@
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d segundos restantes</item>
+        <item quantity="one">%1$d segundo restante</item>
+    </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d dias desde a última pesagem</item>
         <item quantity="one">%1$d dia desde a última pesagem</item>
@@ -107,6 +111,74 @@
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">As definições não garantem %1$d horas de sono diárias. Precisa de mais</item>
         <item quantity="one">As definições não garantem %1$d hora de sono diária. Precisa de mais</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Mais %s calorias até atingir o objectivo</item>
+        <item quantity="one">Mais %s caloria até atingir o objectivo</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Mais %s quilómetros até atingir o objectivo</item>
+        <item quantity="one">Mais %s quilómetro até atingir o objectivo</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Mais %s minutos até atingir o objectivo</item>
+        <item quantity="one">Mais %s minuto até atingir o objectivo</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">Pedalou %s quilómetros</item>
+        <item quantity="one">Pedalou %s quilómetro</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">Correu %s quilómetros</item>
+        <item quantity="one">Correu %s quilómetro</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">Queimou %s calorias</item>
+        <item quantity="one">Queimou %s caloria</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">Já andou %s quilómetros</item>
+        <item quantity="one">Já andou %s quilómetro</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">Já queimou %1$s calorias</item>
+        <item quantity="one">Já queimou %1$s calorias</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">Já pedalou %1$s quilómetros</item>
+        <item quantity="one">Já pedalou %1$s quilómetro</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">Já correu %1$s quilómetros</item>
+        <item quantity="one">Já correu %1$s quilómetro</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">Já andou %1$s quilómetros</item>
+        <item quantity="one">Já andou %1$s quilómetro</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">Já andou %1$s passos</item>
+        <item quantity="one">Já andou %1$s passo</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d calorias</item>
+        <item quantity="one">%1$d caloria</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">passos</item>
+        <item quantity="one">passo</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d passos</item>
@@ -183,6 +255,26 @@
    <plurals name="unit_group">
         <item quantity="other">" ciclos"</item>
         <item quantity="one">" ciclo"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutos "</item>
+        <item quantity="one">" minuto "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" segs "</item>
+        <item quantity="one">" seg "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" vezes"</item>

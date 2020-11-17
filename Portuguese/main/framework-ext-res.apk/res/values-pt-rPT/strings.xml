@@ -194,6 +194,7 @@
   <string name="security_share_text">Protecção de Privacidade</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tudo</string>
+  <string name="send_files_by">Partilhar ficheiros via</string>
   <string name="send_files_to">Enviar itens para</string>
   <string name="set_password_action">Definir palavra-passe</string>
   <string name="set_password_message">Definir uma palavra-passe para utilizar esta funcionalidade</string>
@@ -252,7 +253,7 @@
   <string name="talk_back_water_mark_string2">Prima e segure \"Volume+\" e \"Volume-\" por 3 segundos para desligar</string>
   <string name="throwing_print">Imprimir</string>
   <string name="throwing_screen">Transmitir</string>
-  <string name="tips_prompt_enable_midrop">Partilhar ficheiros com dispositivos próximos</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="total">Não incomodar</string>
   <string name="total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>

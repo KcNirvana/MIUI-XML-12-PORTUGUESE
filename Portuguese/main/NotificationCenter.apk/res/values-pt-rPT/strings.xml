@@ -83,6 +83,7 @@
   <string name="settings_guide_title">Necessita de outras definições?</string>
   <string name="show_badge_notifications">Emblemas</string>
   <string name="show_badge_notifications_short">Emblemas</string>
+  <string name="show_weather">Mostrar informações do tempo</string>
   <string name="status_bar_setting">Barra de estado</string>
   <string name="summary_aggregate_default">As notificações push e de anúncios vão ser agrupadas</string>
   <string name="summary_aggregate_home">As notificações push não vão ser agrupadas</string>
