@@ -301,8 +301,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="alarm_ringtone_title">Som de alarme predefinido</string>
   <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
   <string name="alarm_sound_title">Alarme</string>
-  <string name="alarm_stop">Desligar o modo silêncio quando o alarme desligar</string>
-  <string name="alarm_stop_info">O modo silêncio vai ser desligado quando o alarme desligar</string>
+  <string name="alarm_stop">Desligar o modo Silêncio quando o alarme desligar</string>
+  <string name="alarm_stop_info">O modo Silêncio vai ser desligado quando o alarme desligar</string>
   <string name="alarm_volume_option_title">Volume do alarme</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volumes</string>
@@ -1194,7 +1194,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU, IMEI e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
   <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
   <string name="bootloader_status_privacy_dialog_title">Necessário permissões</string>
   <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -1479,7 +1479,7 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="color_led_incall_pulse_title">Utilizar para chamadas recebidas</string>
   <string name="color_led_lucky_dialog_message">Esta funcionalidade necessita da utilização do assistente de envelopes vermelhos. Ligar agora?</string>
   <string name="color_led_lucky_dialog_title">Ligar assistente de envelopes vermelhos</string>
-  <string name="color_led_music_mode_summary">Mostrar efeitos de luz rítmicos ao reproduzir músicas. Não funciona no modo silêncio</string>
+  <string name="color_led_music_mode_summary">Mostrar efeitos de luz rítmicos ao reproduzir músicas. Não funciona no modo Silêncio</string>
   <string name="color_led_music_mode_title">Utilizar para música</string>
   <string name="color_led_notification_pulse_title">Ligar para notificações com o ecrã desligado</string>
   <string name="color_led_red_more_feature">Efeitos especiais</string>
@@ -1601,7 +1601,7 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="content_capture">Conteúdo da aplicação</string>
   <string name="content_capture_summary">Permitir que as aplicações enviem conteúdo para o sistema Android</string>
   <string name="content_description_menu_button">Menu</string>
-  <string name="content_miui_music_mute_by_user">Reproduzir sons no modo silêncio?</string>
+  <string name="content_miui_music_mute_by_user">Reproduzir sons no modo Silêncio?</string>
   <string name="contextual_card_dismiss_confirm_message">Remover esta sugestão?</string>
   <string name="contextual_card_dismiss_keep">Manter</string>
   <string name="contextual_card_dismiss_remove">Remover</string>
@@ -3922,7 +3922,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="musicfx_title">Efeitos de música</string>
   <string name="mute">Modo silêncio</string>
-  <string name="mute_media_sound_title">Silenciar multimédia no modo silêncio</string>
+  <string name="mute_media_sound_title">Silenciar multimédia no modo Silêncio</string>
   <string name="mute_music_stream">Silenciar a transmissão de música</string>
   <string name="mute_voiceassist_stream">Silenciar assistente de voz</string>
   <string name="mvno_match_data">Valor MVNO</string>
@@ -5467,7 +5467,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_usb_tethering_button_text">Partilha de ligação USB;Partilha de ligação;USB</string>
   <string name="search_user_agreement">Termos de Serviço</string>
   <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
-  <string name="search_vibrate_in_silent_title">Vibrar em modo silêncio;vibrar;vibração</string>
+  <string name="search_vibrate_in_silent_title">Vibrar em modo Silêncio;vibrar;vibração</string>
   <string name="search_vibrate_on_touch_title">Vibração ao tocar;vibrar no toque;vibrar;vibração</string>
   <string name="search_vibrate_when_ringing_title">Vibrar também para chamadas;vibrar;vibração</string>
   <string name="search_virtual_sim">Dados móveis internacionais;Roaming de dados;Roaming de dados móveis</string>
@@ -5752,7 +5752,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="silent_off">Desligado</string>
   <string name="silent_settings">Silêncio/Não incomodar</string>
   <string name="silent_standard">Silêncio</string>
-  <string name="silent_time">Duração do modo silêncio</string>
+  <string name="silent_time">Duração do modo Silêncio</string>
   <string name="silent_total">Não incomodar</string>
   <string name="sim_bad_pin">PIN incorrecto</string>
   <string name="sim_call_back_title">Ligar de volta do SIM predefinido</string>
@@ -5972,7 +5972,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="stable_build">" | Stable"</string>
   <string name="standard">Silêncio</string>
   <string name="standard_info">As chamadas e notificações vão ser silenciadas</string>
-  <string name="start_silent_mode">Ligar modo silêncio</string>
+  <string name="start_silent_mode">Ligar modo Silêncio</string>
   <string name="starting_android">A iniciar o Android…</string>
   <string name="status_awake_time">Tempo de actividade</string>
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
@@ -6875,7 +6875,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="version_text">Versão %1$s</string>
   <string name="vibrate_category_title">Vibração</string>
   <string name="vibrate_in_normal_title">Vibrar quando estiver a tocar</string>
-  <string name="vibrate_in_silent_title">Vibrar em modo silêncio</string>
+  <string name="vibrate_in_silent_title">Vibrar em modo Silêncio</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibração para o controlador de jogo quando ligado</string>
   <string name="vibrate_on_touch_title">Vibração ao tocar</string>
@@ -7735,7 +7735,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_bypassing_apps">Permitir que as aplicações substituam</string>
   <string name="zen_mode_bypassing_apps_title">Excepções de aplicações</string>
   <string name="zen_mode_calls">Permitir chamadas</string>
-  <string name="zen_mode_calls_footer">Para se certificar de que as chamadas permitidas emitem som, verifique se o dispositivo está definido para tocar, vibrar ou no modo silêncio</string>
+  <string name="zen_mode_calls_footer">Para se certificar de que as chamadas permitidas emitem som, verifique se o dispositivo está definido para tocar, vibrar ou no modo Silêncio</string>
   <string name="zen_mode_calls_summary_one">Permitir de %1$s</string>
   <string name="zen_mode_calls_summary_two">Permitir de %1$s e %2$s</string>
   <string name="zen_mode_calls_title">Chamadas</string>
@@ -7785,7 +7785,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="zen_mode_media">Reproduzir sons multimédia</string>
   <string name="zen_mode_media_list">multimédia</string>
   <string name="zen_mode_messages">Mensagens</string>
-  <string name="zen_mode_messages_footer">Para se certificar de que as mensagens permitidas emitem som, verifique se o dispositivo está definido para tocar, vibrar ou no modo silêncio</string>
+  <string name="zen_mode_messages_footer">Para se certificar de que as mensagens permitidas emitem som, verifique se o dispositivo está definido para tocar, vibrar ou no modo Silêncio</string>
   <string name="zen_mode_messages_title">Aplicações de SMS, de MMS e de mensagens</string>
   <string name="zen_mode_miui_silent_category">Permitir</string>
   <string name="zen_mode_more_actions">Mais opções de Não incomodar</string>

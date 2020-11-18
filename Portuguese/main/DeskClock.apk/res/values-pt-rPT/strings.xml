@@ -17,7 +17,7 @@
   <string name="alarm_ascending_mode_title">Volume ascendente</string>
   <string name="alarm_clock_more_setting">Definições adicionais</string>
   <string name="alarm_disabled">Desligado</string>
-  <string name="alarm_in_silent_mode_title">Alarme no modo silêncio</string>
+  <string name="alarm_in_silent_mode_title">Alarme no modo Silêncio</string>
   <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para os alarmes definidos no Relógio</string>
   <string name="alarm_label_hint">Nome do alarme</string>
   <string name="alarm_list_title">Alarme</string>
@@ -32,7 +32,7 @@
   <string name="alarm_volume_summary">Definir volume do alarme</string>
   <string name="alarm_volume_title">Volume do alarme</string>
   <string name="alarmclock_empty_text">Sem alarmes</string>
-  <string name="alarmclock_silent_hint">O alarme está no modo silêncio</string>
+  <string name="alarmclock_silent_hint">O alarme está no modo Silêncio</string>
   <string name="alert">Toque</string>
   <string name="alert_ringtone">Toque do alarme</string>
   <string name="alert_vibrate_enable_summary">Vibrar quando o alarme desligar</string>

@@ -79,7 +79,7 @@
   <string name="notification_message_all_paused">A aguardar por ligação Wi-Fi</string>
   <string name="notification_playback">A reproduzir…</string>
   <string name="notification_recording">A gravar…</string>
-  <string name="notification_recording_ticker">Telefone no modo silêncio</string>
+  <string name="notification_recording_ticker">Telefone no modo Silêncio</string>
   <string name="notification_stopped">Gravação parada</string>
   <string name="notification_title_all_paused">Transferência em pausa</string>
   <string name="path_soundrecorder_setting">Aplicações de sistema/Gravador</string>
