@@ -1743,6 +1743,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="unrecognized_model">Dispositivo desconhecido</string>
   <string name="unsupport_raw">%s não funciona com imagens RAW</string>
   <string name="unsupport_raw_and_video">%s não funciona com vídeos e imagens RAW</string>
+  <string name="unsupport_type">Este tipo de ficheiro não é suportado</string>
   <string name="unsupport_video">%s não funciona com vídeos</string>
   <string name="unsupported_media_downloading_tip_common">Não é possível ver imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>
   <string name="unsupported_media_downloading_tip_format">Não é possível ver as %s imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>

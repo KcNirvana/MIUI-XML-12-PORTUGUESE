@@ -81,17 +81,17 @@
     <item quantity="one">Utilizada há %d ano</item>
   </plurals>
   <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Pode utilizar o Bloqueio de aplicações com %1$s aplicações</item>
-        <item quantity="one">Pode utilizar o Bloqueio de aplicações com %1$s aplicação</item>
-    </plurals>
+    <item quantity="other">Pode utilizar o Bloqueio de aplicações com %1$s aplicações</item>
+    <item quantity="one">Pode utilizar o Bloqueio de aplicações com %1$s aplicação</item>
+  </plurals>
   <plurals name="applock_guide_app_count_tips">
     <item quantity="other">Pode proteger pelo menos %s aplicações</item>
     <item quantity="one">Pode proteger pelo menos %s aplicação</item>
   </plurals>
   <plurals name="applock_one_key_lock">
-        <item quantity="other">%s aplicações vão ser protegidas pelo Bloqueio de aplicações</item>
-        <item quantity="one">%s aplicação vai ser protegidas pelo Bloqueio de aplicações</item>
-    </plurals>
+    <item quantity="other">%s aplicações vão ser protegidas pelo Bloqueio de aplicações</item>
+    <item quantity="one">%s aplicação vai ser protegidas pelo Bloqueio de aplicações</item>
+  </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d aplicações podem ligar à rede em segundo plano</item>
     <item quantity="one">%d aplicação pode ligar à rede em segundo plano</item>
@@ -257,6 +257,18 @@ You can get a %d-day free trial now!"</item>
   <plurals name="hints_traffic_enable_title">
     <item quantity="other">Não monitorizar a utilização de dados para %d aplicações</item>
     <item quantity="one">Não monitorizar a utilização de dados para %d aplicação</item>
+  </plurals>
+  <plurals name="image_protect_del_tips">
+    <item quantity="other">Eliminar %d imagens permanentemente?</item>
+    <item quantity="one">Eliminar %d imagem permanentemente?</item>
+  </plurals>
+  <plurals name="image_protect_exit_del_tips">
+    <item quantity="other">%d imagens vão ser eliminadas permanentemente após sair desta página. Eliminar mesmo assim?</item>
+    <item quantity="one">%d imagem vai ser eliminada permanentemente após sair desta página. Eliminar mesmo assim?</item>
+  </plurals>
+  <plurals name="image_protect_try_del_tips">
+    <item quantity="other">Eliminar %d imagens</item>
+    <item quantity="one">Eliminar %d imagem</item>
   </plurals>
   <plurals name="install_game_count_title">
     <item quantity="other">%d jogos adicionados</item>
@@ -478,6 +490,10 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">O seu dispositivo vai encerrar em %d segundos. Ligue o carregador</item>
     <item quantity="one">O seu dispositivo vai encerrar em %d segundo. Ligue o carregador</item>
   </plurals>
+  <plurals name="pp_times">
+    <item quantity="other">%s vezes</item>
+    <item quantity="one">%s vez</item>
+  </plurals>
   <plurals name="privacy_apps_disable_header_title">
     <item quantity="other">%d ícones das aplicações ocultos</item>
     <item quantity="one">%d ícone da aplicação oculto</item>
@@ -493,6 +509,50 @@ You can get a %d-day free trial now!"</item>
   <plurals name="privacy_pop_times">
     <item quantity="other">%s vezes</item>
     <item quantity="one">%s vez</item>
+  </plurals>
+  <plurals name="privacy_risk_app_count">
+    <item quantity="other">%d aplicações</item>
+    <item quantity="one">%d aplicação</item>
+  </plurals>
+  <plurals name="privacy_risk_dangerous_permissions_tip">
+    <item quantity="other">%d permissões de alto risco concedidas</item>
+    <item quantity="one">%d permissão de alto risco concedida</item>
+  </plurals>
+  <plurals name="privacy_risk_install_app_tip">
+    <item quantity="other">%d aplicações de risco encontradas</item>
+    <item quantity="one">%d aplicação de risco encontrada</item>
+  </plurals>
+  <plurals name="privacy_risk_photo_location_tip">
+    <item quantity="other">%d riscos de divulgação de localização detectados</item>
+    <item quantity="one">%d risco de divulgação de localização detectado</item>
+  </plurals>
+  <plurals name="privacy_risk_result_item_error">
+    <item quantity="other">%d riscos detectados</item>
+    <item quantity="one">%d risco detectado</item>
+  </plurals>
+  <plurals name="privacy_risk_result_msg">
+    <item quantity="other">%d possíveis riscos encontrados</item>
+    <item quantity="one">%d possível risco encontrado</item>
+  </plurals>
+  <plurals name="privacy_risk_result_photo_sensitive_msg">
+    <item quantity="other">%d fotos que podem conter informações privadas</item>
+    <item quantity="one">%d foto que pode conter informações privadas</item>
+  </plurals>
+  <plurals name="privacy_risk_result_protection_tip">
+    <item quantity="other">%d funcionalidades que protegem a sua privacidade desligadas</item>
+    <item quantity="one">%d funcionalidade que protege a sua privacidade desligada</item>
+  </plurals>
+  <plurals name="privacy_risk_sensitive_permissions_tip">
+    <item quantity="other">%d permissões sensíveis concedidas</item>
+    <item quantity="one">%d permissão sensível concedida</item>
+  </plurals>
+  <plurals name="privacy_risk_uninstall_btn">
+    <item quantity="other">Desinstalar %d aplicações</item>
+    <item quantity="one">Desinstalar %d aplicação</item>
+  </plurals>
+  <plurals name="privacy_risk_work_encryption_msg">
+    <item quantity="other">%d itens que necessitam de protecção extra</item>
+    <item quantity="one">%d item que necessita de protecção extra</item>
   </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d problemas de bateria</item>
