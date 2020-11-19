@@ -174,6 +174,7 @@
   <string name="detail_menu_history">Histórico</string>
   <string name="detail_menu_home">Ir para início</string>
   <string name="detail_menu_setting">Definições da aplicação</string>
+  <string name="detail_menu_settingbtn_save">Guardar na Galeria</string>
   <string name="detail_menu_settingbtn_setting">Definições</string>
   <string name="detail_menu_settingbtn_share">Partilhar</string>
   <string name="detail_menu_wall">Papéis de parede de hoje</string>

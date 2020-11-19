@@ -25,7 +25,6 @@
   <string name="black_and_white">Preto e branco</string>
   <string name="blog">Weibo</string>
   <string name="business_card">Cartão comercial</string>
-  <string name="business_card_result_title">Cartão comercial</string>
   <string name="business_card_title">Coloque o cartão dentro do quadrado</string>
   <string name="business_card_with_qr_code">Coloque o cartão ou código QR dentro do quadrado</string>
   <string name="business_copy">Copiar</string>
@@ -166,6 +165,7 @@
   <string name="history">Histórico</string>
   <string name="history_empty">Sem itens</string>
   <string name="hold_down">Premir e segurar para tirar a palavra</string>
+  <string name="identify_the_results">Identificar os resultados</string>
   <string name="if_open_result">Mostrar resultados quando voltar para a aplicação</string>
   <string name="import_contact">Importar contacto</string>
   <string name="import_picture">Importar</string>
@@ -245,6 +245,7 @@
   <string name="pdf_save_sucess">Guardado com sucesso</string>
   <string name="phone">Telefone:</string>
   <string name="phone_storage">Armazenamento interno</string>
+  <string name="picture_is_being_saved">A imagem está a ser guardada</string>
   <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
   <string name="plant_fail">Não foi possível reconhecer</string>
   <string name="plant_loading">A identificar…</string>
