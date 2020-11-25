@@ -368,6 +368,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="config_name_super_resolution">Super resolução</string>
   <string name="config_name_tilt">Tilt-Shift</string>
   <string name="config_name_timer">Temporizador</string>
+  <string name="confirm_fastmotion_reset_manually_parameter_message">Repor os parâmetros agora?</string>
   <string name="confirm_install_scanner_message">O Digitalizador permite digitalizar códigos QR, códigos de barras,etc. Não tem de ligar à Internet para o instalar</string>
   <string name="confirm_install_scanner_title">Instalar o Digitalizador</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
@@ -968,6 +969,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corrigir objectos distorcidos automaticamente</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correcção de distorção em disparos amplos</string>
   <string name="pref_camera_ultra_wide_mode_title">Modo Ultra grande-angular</string>
+  <string name="pref_camera_video_ai_scene_title">Câmara IA</string>
   <string name="pref_camera_video_bokeh_off">Efeito desfocar desligado</string>
   <string name="pref_camera_video_bokeh_on">Efeito desfocar</string>
   <string name="pref_camera_video_duration_entry_10">10 minutos</string>
@@ -1079,7 +1081,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_focusmode_entry_auto">Toque</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Modo de focagem</string>
-  <string name="pref_video_hfr_title">Vídeo HFR</string>
+  <string name="pref_video_hfr_title">Taxa de frames</string>
   <string name="pref_video_quality_entry_1080p">Full HD (1080p) 30fps</string>
   <string name="pref_video_quality_entry_1080p_60fps">Full HD (1080p) 60fps</string>
   <string name="pref_video_quality_entry_480p">SD (480p) 30fps</string>
@@ -1090,6 +1092,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_quality_entry_8k_24fps_uhd">UHD (8K) 24fps</string>
   <string name="pref_video_quality_entry_8kuhd">UHD (8K) 30fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+  <string name="pref_video_quality_hfr_title">Taxa de frames e qualidade de imagem</string>
   <string name="pref_video_quality_title">Qualidade de vídeo</string>
   <string name="pref_video_speed_entry_fast">Rápido</string>
   <string name="pref_video_speed_entry_normal">Médio (padrão)</string>

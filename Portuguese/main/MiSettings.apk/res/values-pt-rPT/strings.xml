@@ -153,6 +153,7 @@
   <string name="unlock_times_per_hour">"Desbloqueios por hora: "</string>
   <string name="usage_agree">Concordar</string>
   <string name="usage_app_get_it">Percebi</string>
+  <string name="usage_app_holiday_limit">Dias de folga</string>
   <string name="usage_app_limit_alter_summary">Parece que o tempo limite é menor do que o tempo que já utilizou esta aplicação hoje. Definir o limite mesmo assim?</string>
   <string name="usage_app_limit_alter_title">Verificar limite de tempo de ecrã</string>
   <string name="usage_app_limit_prelong">Aumentar tempo</string>
@@ -238,11 +239,16 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_new_home_unused">Não utilizado</string>
   <string name="usage_new_home_update">Alterar</string>
   <string name="usage_new_home_usage_detail">Detalhes de utilização</string>
+  <string name="usage_new_home_week_average_count">Média %s</string>
   <string name="usage_new_home_week_category_title">Categorias das aplicações</string>
   <string name="usage_new_home_week_compare_text1">%.2f mais que a semana anterior</string>
+  <string name="usage_new_home_week_compare_text1_new">(%s%% mais que a semana anterior)</string>
   <string name="usage_new_home_week_compare_text2">%.2f menos que a semana anterior</string>
+  <string name="usage_new_home_week_compare_text2_new">(%s%% menos que a semana anterior)
   <string name="usage_new_home_week_equals_text">Igual à semana anterior</string>
   <string name="usage_new_home_week_title">Semana</string>
+  <string name="usage_new_home_week_unlock_compare_decrease">(%.2f menos que a semana anterior)</string>
+  <string name="usage_new_home_week_unlock_compare_increase">(%.2f mais que a semana anterior)</string>
   <string name="usage_new_home_week_unlock_equals_text">Igual à semana anterior</string>
   <string name="usage_new_home_week_usage_title">Aplicações individuais</string>
   <string name="usage_new_home_which_week">Semana %d</string>
@@ -309,6 +315,8 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_focus_weak_summary">Guarde o seu telefone</string>
   <string name="usage_state_friday">Sex</string>
   <string name="usage_state_go_more">Mais aplicações</string>
+  <string name="usage_state_holiday_day_hour_minute">Dias de folga: %1$s %2$s</string>
+  <string name="usage_state_holiday_time">Dias de folga: %s</string>
   <string name="usage_state_less_one_minute">&lt; 1 minuto</string>
   <string name="usage_state_monday">Seg</string>
   <string name="usage_state_mourth_day">Tempo de ecrã em %s</string>
@@ -356,8 +364,10 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_stats_experience_text">Toque para experimentar (1 minuto)</string>
   <string name="usage_stats_limit_time_accuracy_title">Precisão estimada do tempo restante</string>
   <string name="usage_stats_limit_time_high_accuracy_summary">Mostrar tempo restante com uma precisão de um minuto. Isto aumenta o consumo de bateria</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary_new">Precisão ao minuto (consome mais bateria)</string>
   <string name="usage_stats_limit_time_high_accuracy_title">Alto</string>
   <string name="usage_stats_limit_time_low_accuracy_summary">Mostrar tempo restante com uma precisão de um minuto nas últimas 2 horas restantes para poupar bateria</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary_new">Precisão ao minuto em %d horas restantes (poupa bateria)</string>
   <string name="usage_stats_limit_time_low_accuracy_title">Baixo</string>
   <string name="usage_stats_limit_time_warn">Avisos de tempo de ecrã</string>
   <string name="usage_stats_limit_time_warn_summary">Mostrar o tempo de ecrã restante na área de notificações</string>

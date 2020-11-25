@@ -197,6 +197,8 @@
   <string name="trash_box">Itens eliminados recentemente</string>
   <string name="trash_box_close_tip">Fechar</string>
   <string name="trash_box_delete_all">Eliminar todos os itens do lixo permanentemente?</string>
+  <string name="uninstall_warning_content">O Gravador é uma aplicação de sistema. Não vai poder gravar e transcrever áudio e chamadas de voz depois de desinstalar</string>
+  <string name="uninstall_warning_title">Desinstalar Gravador?</string>
   <string name="usage_description">A transcrever itens de áudio e sincronizar com a Xiaomi Cloud</string>
   <string name="user_feedback">Comentários</string>
   <string name="wifi_recommended_body" formatted="false">Se utilizar a sua ligação de dados móveis para transferir este ficheiro (%s) vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais. Para aguardar por uma ligação Wi-Fi para transferir este ficheiro toque em %s</string>
