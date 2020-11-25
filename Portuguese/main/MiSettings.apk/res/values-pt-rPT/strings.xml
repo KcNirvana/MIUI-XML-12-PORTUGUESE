@@ -244,7 +244,7 @@ Esta aplicação necessita também de ligar à Internet e das seguintes permiss�
   <string name="usage_new_home_week_compare_text1">%.2f mais que a semana anterior</string>
   <string name="usage_new_home_week_compare_text1_new">(%s%% mais que a semana anterior)</string>
   <string name="usage_new_home_week_compare_text2">%.2f menos que a semana anterior</string>
-  <string name="usage_new_home_week_compare_text2_new">(%s%% menos que a semana anterior)
+  <string name="usage_new_home_week_compare_text2_new">(%s%% menos que a semana anterior)</string>
   <string name="usage_new_home_week_equals_text">Igual à semana anterior</string>
   <string name="usage_new_home_week_title">Semana</string>
   <string name="usage_new_home_week_unlock_compare_decrease">(%.2f menos que a semana anterior)</string>
