@@ -1518,6 +1518,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
   <string name="select_origin_tip">Ficheiro original (%s)</string>
   <string name="send_file_beautify_failed">Não foi possível partilhar</string>
+  <string name="send_files_by">Partilhar ficheiros via</string>
   <string name="send_files_to">Enviar itens para</string>
   <string name="send_heif_summary">Converter imagens antes de enviar para garantir a compatibilidade</string>
   <string name="send_heif_title">Converter HEIF para JPG antes de enviar</string>
@@ -1701,7 +1702,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="tip_file_info">Info. do ficheiro:</string>
   <string name="tip_file_path">Caminho:</string>
   <string name="tip_not_download">Não está no dispositivo. Vai transferir automaticamente da Xiaomi Cloud durante a reprodução</string>
-  <string name="tips_prompt_enable_midrop">Partilhar ficheiros com dispositivos próximos</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="title_set_name">Introduzir nome</string>
   <string name="title_tip">Dicas</string>
   <string name="title_warn">Aviso</string>

@@ -2861,16 +2861,16 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="high_performance_notif_summary">O dispositivo pode aquecer durante utilização intensiva</string>
   <string name="high_performance_notif_title">Modo de desempenho ligado</string>
   <string name="high_performance_title">Parece que está a executar um teste de benchmark. Definir o gestor de energia para \"Desempenho\" para obter melhores resultados</string>
-  <string name="high_power_apps">Optimização da bateria</string>
-  <string name="high_power_desc">Não aplique a optimização da bateria. A bateria pode descarregar mais rapidamente</string>
+  <string name="high_power_apps">Optimização de bateria</string>
+  <string name="high_power_desc">Não aplique a optimização dr bateria. A bateria pode descarregar mais rapidamente</string>
   <string name="high_power_filter_on">Não optimizada</string>
   <string name="high_power_off">Utilização optimizada da bateria</string>
-  <string name="high_power_on">Optimização da bateria ignorada</string>
+  <string name="high_power_on">Optimização de bateria ignorada</string>
   <string name="high_power_prompt_body">"Permitir que a aplicação %1$s seja sempre executada em segundo plano pode reduzir a autonomia da bateria. 
 
 Pode alterar esta definição mais tarde em Definições > Aplicações e notificações"</string>
   <string name="high_power_prompt_title">Permitir que a aplicação seja sempre executada em segundo plano?</string>
-  <string name="high_power_system">Optimização da bateria não disponível</string>
+  <string name="high_power_system">Optimização de bateria não disponível</string>
   <string name="hint_unadjustable_text">Não é possível ajustar manualmente. A temperatura da cor é ajustada automaticamente</string>
   <string name="history_details_title">Detalhes do histórico</string>
   <string name="home">Definições do ecrã inicial</string>
