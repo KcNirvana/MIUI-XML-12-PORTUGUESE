@@ -117,6 +117,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
   <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
+  <string name="ai_allow_all">Notificar quando a permissão for utilizada para todos</string>
   <string name="alert_back_diving_mode_summary">Desligar o modo imersivo?</string>
   <string name="alert_back_diving_mode_title">Modo imersivo</string>
   <string name="alert_back_milink_hangup_tips_content">A transmissão não vai ser interrompida enquanto estiver a desligar a chamada. Pode premir o botão Ligar/Desligar para ligar o ecrã</string>
@@ -216,6 +217,7 @@
   <string name="app_behavior_key_location">Localização</string>
   <string name="app_behavior_key_protect">Proteger informações pessoais</string>
   <string name="app_behavior_kill_process">Forçar paragem</string>
+  <string name="app_behavior_link_start">Início accionado</string>
   <string name="app_behavior_list_load_more">A carregar…</string>
   <string name="app_behavior_location">%1s acedeu à sua localização</string>
   <string name="app_behavior_location_bg">%1s acedeu à sua localização em segundo plano</string>
@@ -277,6 +279,8 @@
   <string name="app_behavior_settings_category_privacy">Proteger informações pessoais</string>
   <string name="app_behavior_settings_perm_tips">Mostrar um alerta quando as aplicações acederem à sua localização, gravarem áudio ou utilizarem a câmara</string>
   <string name="app_behavior_settings_privacy_tips">Receber notificações quando as aplicações acederem aos seus contactos, registo de chamadas ou executarem outra acções sensíveis</string>
+  <string name="app_behavior_share_file">Partilhar ficheiro</string>
+  <string name="app_behavior_share_picture">Partilhar imagem</string>
   <string name="app_behavior_sms_read">%1s leu SMS</string>
   <string name="app_behavior_sms_read_single">Esta aplicação leu SMS</string>
   <string name="app_behavior_sms_send">%1s enviou SMS</string>
@@ -1426,7 +1430,7 @@ cartão de saúde"</string>
   <string name="gb_advance_settings_edge_gear4">Grande</string>
   <string name="gb_advance_settings_edge_suppression">Área de toque resistente</string>
   <string name="gb_advance_settings_edge_suppression_summary">Reduzir a sensibilidade do toque próximo das laterais para evitar a activação dos controlos de toque. Segure o seu dispositivo nas áreas destacadas para manter os altifalantes destapados</string>
-  <string name="gb_advance_settings_finger_up">Sensibilidade para toques repetidos</string>
+  <string name="gb_advance_settings_finger_up">Sensibilidade para toques contínuos</string>
   <string name="gb_advance_settings_follow_up">Resposta do toque</string>
   <string name="gb_advance_settings_reset">Restaurar as definições predefinidas</string>
   <string name="gb_advance_settings_reset_dialog_content">Restaurar as definições predefinidas agora?</string>
@@ -2506,7 +2510,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
   <string name="power_center_title">Bateria</string>
-  <string name="power_center_used_time_Introduction">O tempo na bateria desde que foi carregada %s</string>
+  <string name="power_center_used_time_Introduction">O tempo na bateria desde que foi carregada a %s</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_sleep_summary">Desactivar todas as funções de rede (chamadas, mensagens, Wi-Fi e serviços de dados) excepto para o despertador</string>
   <string name="power_consume_other">Outros</string>
@@ -2567,7 +2571,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_optimize_manual_catagory_title">Manual</string>
   <string name="power_optimize_open_hide_mode">Ligar poupança de bateria</string>
   <string name="power_optimize_power_save_extend_time">Adicionar %s</string>
-  <string name="power_optimize_power_save_summary">Alterar para o Modo Escuro e aplicar optimizações de sistema que limitam a actividade em segundo plano e poupam bateria</string>
+  <string name="power_optimize_power_save_summary">Ligar a poupança de bateria para aplicar optimizações de sistema que limitam a actividade em segundo plano</string>
   <string name="power_optimize_prohibit_app_autostart">Não permitir que as aplicações iniciem automaticamente</string>
   <string name="power_optimize_reduce_fps">Baixar a taxa de actualização do ecrã para %dHz</string>
   <string name="power_optimize_reduce_fps_summary">Baixar a taxa de actualização do ecrã para a maioria dos cenários</string>
@@ -2937,7 +2941,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_risk_result_uninstall_btn">Desinstalar</string>
   <string name="privacy_risk_sensitive">Permissões sensíveis</string>
   <string name="privacy_risk_sensitive_bar_title">Permissões sensíveis</string>
-  <string name="privacy_risk_sensitive_call_records">Permitir que as aplicações acedam ao registo de chamadas</string>
+  <string name="privacy_risk_sensitive_call_records">Permitir que as aplicações acedam ou editem o registo de chamadas</string>
   <string name="privacy_risk_sensitive_contact">Permitir que as aplicações acedam ou editem contactos</string>
   <string name="privacy_risk_sensitive_location">Permitir que as aplicações localizem o seu dispositivo utilizando redes ou satélites disponíveis</string>
   <string name="privacy_risk_sensitive_permissions">Permissões sensíveis</string>

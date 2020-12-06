@@ -16,6 +16,8 @@
   <string name="call_record_list_group_connected">Ligadas</string>
   <string name="call_record_list_group_unconnected">Não ligadas</string>
   <string name="cancel_rename">Cancelar</string>
+  <string name="clear_data_dialog_content">Os itens em cache, dados da aplicação e definições personalizadas vão ser eliminados</string>
+  <string name="clear_data_dialog_title">Limpar dados agora?</string>
   <string name="clear_records">Eliminar gravações sincronizadas</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
   <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud</string>
@@ -86,6 +88,7 @@
   <string name="pause">Pausar</string>
   <string name="playback_delete_records">Eliminar gravação</string>
   <string name="playback_share_records">Partilhar gravação</string>
+  <string name="preference_clear_data">Limpar dados</string>
   <string name="preference_enable_earpiece_summary">Utilizar auriculares para reprodução externa de áudio</string>
   <string name="preference_enable_earpiece_title">Utilizar auriculares para reprodução</string>
   <string name="preference_led_indicator">Notificações no ecrã de bloqueio</string>

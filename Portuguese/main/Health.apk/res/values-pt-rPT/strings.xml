@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="MediaControlView_ad_remaining_time">Ad · %1$s remaining</string>
+  <string name="MediaControlView_ad_skip_wait_time">You can skip Ad in %1$ds</string>
+  <string name="MediaControlView_ad_text">Visit Advertiser</string>
+  <string name="MediaControlView_audio_track_none_text">None</string>
+  <string name="MediaControlView_audio_track_number_text">Track %1$d</string>
+  <string name="MediaControlView_audio_track_text">Música</string>
+  <string name="MediaControlView_playback_speed_normal">Normal</string>
+  <string name="MediaControlView_playback_speed_text">Playback speed</string>
+  <string name="MediaControlView_subtitle_off_text">Desligado</string>
+  <string name="MediaControlView_subtitle_track_number_and_lang_text">Música %1$d - %2$s</string>
+  <string name="MediaControlView_subtitle_track_number_text">Música %1$d</string>
+  <string name="MediaControlView_video_quality_auto_text">Auto</string>
   <string name="abnormal">Anormal</string>
   <string name="accessibility_add_datasource">Toque para adicionar %1$s</string>
   <string name="accessibility_sync_closed_device">Sincronização com %1$s desligada</string>
@@ -37,6 +49,7 @@ para adicionar cartões"</string>
   <string name="allergic_drugs_hint">Introduzir os medicamentos e as suas reacções</string>
   <string name="allow_notice_periods">Permitir lembretes de período</string>
   <string name="altitude">Altitude</string>
+  <string name="altitude_pressure_hint">*Calculado pela pressão do ar</string>
   <string name="altitude_range">Altitude</string>
   <string name="app_name">Saúde</string>
   <string name="app_setting">Aplicações</string>
@@ -83,6 +96,7 @@ Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios nor
   <string name="back_stroke">Costas</string>
   <string name="background_run_tips">Toque em \"Definições\"e dê permissão a Saúde para executar sempre em segundo plano</string>
   <string name="backtrack">Voltar</string>
+  <string name="base_dpi">360dp por predefinição</string>
   <string name="basic_info_label_age">Idade</string>
   <string name="basic_info_label_birthday">Data de nascimento</string>
   <string name="basic_info_label_gender">Género</string>
@@ -233,6 +247,7 @@ Se decidir eliminar os seus dados pode fazê-lo em Saúde &gt; Origens de dados"
   <string name="deep_sleep_duration_description">Quando as pessoas dormem, ocorrem movimentos rápidos e periódicos dos olhos, de modo que o sono pode ser dividido em sono rápido (REM) e sono não rápido. O sono profundo ocorre durante períodos de sono não rápido, representando cerca de 20 a 25%% do sono durante toda a noite. Durante o sono profundo, há menos actividade consciente e o cérebro está num estado relativamente estático, difícil de ser acordado</string>
   <string name="deep_sleep_duration_increase_description">O seu sono profundo é demasiado longo</string>
   <string name="deep_sleep_duration_normal_description">O seu sono profundo é suficiente</string>
+  <string name="default_notification_channel_name">A reproduzir</string>
   <string name="delete">Eliminar</string>
   <string name="delete_aid_file">Eliminar</string>
   <string name="delete_aid_file_desc">As suas informações de emergência médica vai ser eliminado deste dispositivo permanentemente se continuar</string>
@@ -338,6 +353,12 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="engrgy_format">%1$d W</string>
   <string name="enough">Suficiente</string>
   <string name="enter_mi_health">Abrir Saúde</string>
+  <string name="environment_detection_again">Tentar novamente</string>
+  <string name="environment_detection_fail">Existe demasiado barulho aqui</string>
+  <string name="environment_detection_fail_hint">Vá para um sítio com menos barulho e tente novamente</string>
+  <string name="environment_detection_hint_one">Evite locais barulhentos para ter estatísticas mais precisas</string>
+  <string name="environment_detection_hint_two">O seu treino vai ser pausado e retomado automaticamente baseado nos sons que produz</string>
+  <string name="environment_detection_ing">A verificar o ambiente de treinos…</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
   <string name="every_day">Todos os dias</string>
   <string name="excessive">Demasiado</string>
@@ -464,6 +485,8 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="health_score">Resultado de saúde</string>
   <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (índice de massa corporal), assim como o seu sono e actividade física. Quanto mais perto estiver dos seus objectivos, maior vai ser a sua pontuação de saúde</string>
   <string name="health_setting">Definições de Saúde</string>
+  <string name="health_uninstall_dialog_content">A Saúde é uma aplicação de sistema. Não vai poder contar passos, registar o sono e peso após desinstalar</string>
+  <string name="health_uninstall_dialog_title">Desinstalar Saúde?</string>
   <string name="heart_rate">Batimentos cardíacos</string>
   <string name="height">Altura</string>
   <string name="high">Alta</string>
@@ -500,18 +523,6 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_detect_state_reseting">Em descanso</string>
   <string name="hr_detect_state_reseting_desc">Está totalmente relaxado ou acabou de acordar</string>
   <string name="hr_disturb_detect">Detecção interrompida</string>
-  <string name="hr_finger_permission_desc">Para medir o seu batimento cardíaco, esta funcionalidade necessita de aceder ao sensor de impressão digital para detectar alterações no seu fluxo sanguíneo. Permitir?</string>
-  <string name="hr_fp_area">Sensor de impressão digital</string>
-  <string name="hr_fp_detect_desc">Blood flows to your fingers with every heartbeat. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values.</string>
-  <string name="hr_fp_detect_principle_desc">O sangue não é totalmente opaco, por isso a luz pode passar por ele. A cada batimento cardíaco, o sangue flui para os seus dedos, bloqueando mais luz do que entre os batimentos cardíacos. A luz brilhante na área do sensor de impressão digital permite-nos rastrear as mudanças no seu fluxo sanguíneo, analisar os padrões e converter em valores de frequência cardíaca</string>
-  <string name="hr_fp_detect_principle_desc_2">Nota: Certifique-se que o seu dedo cobre totalmente o ícone da impressão digital durante a medição. Não aplique força porque pode bloquear o fluxo sanguíneo na ponta do dedo e tornar os resultados imprecisos</string>
-  <string name="hr_fp_detect_principle_desc_3">Os nossos testes mostrar que este método mede o seu batimento cardíaco com um erro de ≤3 BPM</string>
-  <string name="hr_fp_detect_start_desc">"Pressione levemente o ícone da impressão digital.
-Não mova o seu dedo"</string>
-  <string name="hr_fp_detecting">A medir…</string>
-  <string name="hr_fp_not_put_well">"O seu dedo moveu-se.
-Comece de novo"</string>
-  <string name="hr_fp_report_common_desc">A frequência cardíaca normal varia de 60 a 100 BPM. Uma frequência cardíaca menor que 60 BPM é um sinal de bradicardia, enquanto que acima de 100 BPM é aceite como taquicardia em adultos</string>
   <string name="hr_heart_rate_unit">Batimentos cardíacos (BPM)</string>
   <string name="hr_in_detect">Não solte os dedos enquanto estiver a testar</string>
   <string name="hr_input_heart_rate">Registar batimentos cardíacos</string>
@@ -523,7 +534,18 @@ Comece de novo"</string>
   <string name="hr_pre_detect_finger">A verificar…</string>
   <string name="hr_re_detect_title">Começar de novo</string>
   <string name="hr_report_active_desc">Medir a sua frequência cardíaca imediatamente após o treino pode ajudá-lo a ajustar seus hábitos de exercício, já que exercícios de diferentes intensidades têm diferentes zonas de frequência cardíaca ideais. Se a sua frequência cardíaca estiver muito alta a actividade pode ser prejudicial à sua saúde, causando tonturas, aperto no peito e outros riscos. A baixa frequência cardíaca pode ser um sinal de baixa eficácia de um determinado exercício</string>
+  <string name="hr_report_active_high_desc">A sua frequência cardíaca actual é de exercício de alta intensidade. A função cardiopulmonar vai ser estimulada</string>
+  <string name="hr_report_active_higher_desc">A sua frequência cardíaca actual é de exercício de alta intensidade. As funções cardíaca e pulmonar estão a receber forte estimulação, ao mesmo tempo, preste atenção à condição física, se houver algum desconforto, deve-se interromper o exercício o mais rapidamente possível</string>
+  <string name="hr_report_active_lower_mid_desc">A sua frequência cardíaca actual é de exercício de intensidade mais baixa. Pode aquecer. É sugerido que pessoas com problemas de saúde devem praticar exercícios de intensidade baixa a moderada</string>
+  <string name="hr_report_active_lowest_desc">A sua frequência cardíaca actual é de exercício de intensidade baixa. Pode produzir certas estimulações ao corpo, mas a intensidade do exercício é pequena</string>
+  <string name="hr_report_active_mid_desc">A sua frequência cardíaca actual é de exercício de intensidade moderada. É recomendado que a maioria dos adultos saudáveis ​​faça exercícios de intensidade moderada a alta por 150 minutos por semana</string>
   <string name="hr_report_common_desc">A frequência cardíaca normal é mantida pelo corpo humano durante as actividades diárias e varia entre 60 a 100 BPMs. Uma frequência cardíaca inferior a 60 BPMs é um sinal de bradicardia enquanto uma frequência cardíaca acima de 100 BPMs é aceite como taquicardia em adultos</string>
+  <string name="hr_report_regular_fast_desc">Your current tachycardia. Severe sports, drinking, heavy physical labor, tension, anxiety or taking some drugs may cause physiological tachycardia, while cardiovascular disease, anemia, hyperthyroidism, hypoxia, heart failure and other diseases can cause pathological tachycardia. If you feel unwell, please consult your doctor.</string>
+  <string name="hr_report_regular_normal_desc">Your heart rate is in the normal range. Your heart is good at coping with stress, and your body can resist external stress. Heart rate change is closely related to heart disease. Please pay attention to heart rate change at any time, especially during exercise.</string>
+  <string name="hr_report_regular_slow_desc">Your current heart rate is too slow. The bradycardia rate was lower than normal heart rate (about 60%). If bradycardia does not cause dizziness, amaurosis, dizziness, syncope and other symptoms, can not interfere, regular follow-up can be. But if you have chest tightness, dizziness and other symptoms, please consult your doctor in time.</string>
+  <string name="hr_report_resting_fast_desc">Your resting heart rate is higher than the normal range, which may lead to fatigue or tachycardia. It is suggested that you should improve your lifestyle, such as low salt and less oil diet, weight loss, smoking and alcohol cessation, psychological and emotional adjustment, especially gradually increasing physical exercise, which can help to slow down the resting heart rate.</string>
+  <string name="hr_report_resting_normal_desc">Your resting heart rate is in the normal range. Resting heart rate refers to the number of heart beats per minute of normal people in a quiet state. The best time to measure resting heart rate is waking up in the morning, still lying in bed and not doing any physical activity. Before measuring the resting heart rate, take a deep breath to completely relax the body.</string>
+  <string name="hr_report_resting_slow_desc">Your resting heart rate is below the normal range and bradycardia may be present. If the heart rate is too slow for a long time, it is easy to cause ischemia and hypoxia of organs, especially cardio cerebral vessels. Resting heart rate is closely related to diet, exercise, stress, sleep and physical condition. It is recommended that you maintain a healthy and good lifestyle and pay attention to physical reactions in time. If you have symptoms such as dizziness, fatigue, fainting and chest tightness, please seek medical advice in time.</string>
   <string name="hr_see_report">Ver relatório</string>
   <string name="hr_start_detect">Experimentar</string>
   <string name="hr_state">Estado</string>

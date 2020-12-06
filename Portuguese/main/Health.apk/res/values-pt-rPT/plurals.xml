@@ -64,10 +64,6 @@
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">%1$d segundos restantes</item>
-        <item quantity="one">%1$d segundo restante</item>
-    </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d dias desde a última pesagem</item>
         <item quantity="one">%1$d dia desde a última pesagem</item>

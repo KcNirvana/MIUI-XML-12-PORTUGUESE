@@ -221,6 +221,8 @@
   <string name="note_sort_way">Ordenar por</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
+  <string name="notes_description_content">Notas é uma aplicação de sistema. Não vai poder utilizá-la depois de desinstalar</string>
+  <string name="notes_description_title">Desinstalar Notas?</string>
   <string name="notification_content_add_todo_from_other_app">Adicionou uma nova tarefa. Toque para ver</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar esta funcionalidade para aceder aos seus dados pessoais</string>

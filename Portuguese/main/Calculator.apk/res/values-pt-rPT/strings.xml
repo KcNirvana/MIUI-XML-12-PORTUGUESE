@@ -59,7 +59,7 @@
   <string name="currency_update_time_format">As taxas de câmbio são fornecidas por Webull (%s)</string>
   <string name="currency_update_updating">A actualizar taxas…</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
-  <string name="dateformat">dd-MM-yyyy</string>
+  <string name="date_format">dd MMM, yyyy</string>
   <string name="day">d</string>
   <string name="degDesc">Ângulo</string>
   <string name="del">DEL</string>
@@ -69,6 +69,9 @@
   <string name="deselect_all">Desmarcar</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
   <string name="dialog_privacy_content">Além das funcionalidades básicas inclui uma calculadora científica e um conversor. Algumas funcionalidades necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade antes de utilizar a Calculadora</string>
+  <string name="dialog_privacy_disagree_msg">Ao desligar isto, remove o seu consentimento com a Política de Privacidade da Calculadora. Vamos parar de obter as suas informações pessoais. A Calculadora necessita de obter informações pessoais para fornecer serviços básicos. A sua remoção do consentimento à Política de Privacidade vai ser considerada como uma recusa em aceitar os seus serviços</string>
+  <string name="dialog_privacy_revoke_btn_ok">Remover</string>
+  <string name="dialog_privacy_revoke_title">Remoção de consentimento</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dob_selection_error">A data de nascimento tem de ser menor que hoje</string>
@@ -309,6 +312,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
   <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite converter divisas, calcular empréstimos, etc.</string>
+  <string name="new_privacy_string">Bem-vindo à Calculadora!&lt;br/>Esta aplicação contém as seguintes funcionalidades:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal&lt;br/>• Cálculo de empréstimos e mais&lt;br/>A Calculadora necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade. Leia e concorde com os nossos Termos de Utilização e Política de Privacidade antes de utilizar a Calculadora</string>
   <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>
   <string name="piDesc">Pi</string>
@@ -340,10 +344,11 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="preference_use_voice_summary">Ligar para utilizar a voz durante os cálculos</string>
   <string name="preference_use_voice_title">Saída de voz</string>
   <string name="preference_user_feedback_title">Comentários</string>
-  <string name="privacy_disagree">Se não concordar com a nossa Política de Privacidade e condições, a Calculadora vai parar de obter dados e todos os dados relacionados vão ser eliminados dos nossos servidores. Não concordar mesmo assim?</string>
+  <string name="privacy_dialog_title">Privacidade</string>
   <string name="privacy_policy">Política de Privacidade</string>
-  <string name="privacy_switch">Concordar com a Política de Privacidade</string>
-  <string name="privacy_switch_disagree">Não concordar</string>
+  <string name="privacy_revoke_error">Não foi possível remover. Tente novamente</string>
+  <string name="privacy_revoke_progress">A remover…</string>
+  <string name="privacy_switch">Remoção de consentimento</string>
   <string name="radDesc">Radianos</string>
   <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
   <string name="reciprocalDesc">Inversos</string>
@@ -680,6 +685,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="unit_year_format">Ano %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="user_agreement">Termos de Utilização</string>
+  <string name="user_experience_program_title">Programa de experiência do utilizador</string>
   <string name="view_float_window_move">Mover Calculadora</string>
   <string name="voiceDesc">Controlos de voz</string>
   <string name="voice_guide_text">Pode ligar a saída de voz aqui</string>
@@ -689,6 +695,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Q</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
+  <string name="withdraw_network_error">O seu dispositivo necessita de ligar à rede para remover o consentimento. Verifique as suas definições de rede e tente novamente</string>
   <string name="word_figure_guide_text">Prima e segure o texto para converter</string>
   <string name="yesterday">Ontem</string>
   <string name="xiaomi_connect_download_manager_fail">Erro no Gestor de Transferências</string>

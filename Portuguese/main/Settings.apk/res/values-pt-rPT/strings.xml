@@ -263,6 +263,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="additional_permissions_more">%1$d mais</string>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
+  <string name="adjust_font_size_answer_cn">Tente ajustar o tamanho do texto e a espessura do tipo de letra utilizando os controlos abaixo</string>
+  <string name="adjust_font_size_answer_global">Tente ajustar o tamanho do texto utilizando os controlos abaixo</string>
   <string name="adjust_temperature_title">Temperatura da cor</string>
   <string name="admin_device_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a actividade da rede e as informações de localização do dispositivo</string>
   <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
@@ -2605,11 +2607,10 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fluency_mode">Animações de sistema</string>
   <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
   <string name="fold_title">Regras para notificações agrupadas</string>
-  <string name="following_us_facebook">Facebook</string>
-  <string name="following_us_instagram">Instagram</string>
-  <string name="following_us_linkedin">Linkedin</string>
-  <string name="following_us_title">Siga-nos</string>
-  <string name="following_us_twitter">Twitter</string>
+  <string name="font_setting_weight_toast">O tipo de letra actual não suporta ajuste de espessura</string>
+  <string name="font_settings_jump">Acessibilidade > Visão</string>
+  <string name="font_settings_recommend_title">O tamanho do texto não é grande o suficiente?</string>
+  <string name="font_settings_summary_cn">Tipo de letra e tamanho</string>
   <string name="font_size_exhuge">Super Enorme</string>
   <string name="font_size_huge">Enorme</string>
   <string name="font_size_kddi">Média</string>
@@ -2881,6 +2882,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="homepage_all_settings">Todas as definições</string>
   <string name="homepage_condition_footer_content_description">Fechar</string>
   <string name="homepage_personal_settings">Sugestões</string>
+  <string name="how_adjust_font_size">Como ajusto o tamanho do texto?</string>
   <string name="how_backup_content">"Existem 3 tipos de cópias: locais, Xiaomi Cloud e USB.
 
 Cópias locais:
@@ -3701,6 +3703,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miheadset_in_ear_check">Detecção de auriculares</string>
   <string name="miheadset_in_ear_check_summary">Pausar e retomar automaticamente assim que colocar ou remover os auriculares</string>
   <string name="miheadset_last_version">O firmware está actualizado</string>
+  <string name="miheadset_local_ota">OTA</string>
   <string name="miheadset_moreSettingsInAi">Definições adicionais</string>
   <string name="miheadset_next">Seguinte</string>
   <string name="miheadset_ok_device">OK</string>
@@ -4525,6 +4528,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="personal_data_section_title">Dados pessoais</string>
   <string name="personal_device_admin_title">Pessoal</string>
   <string name="personal_section_title">Personalização</string>
+  <string name="personalize_title">Papéis de parede e personalização</string>
   <string name="phone_backup_summary">Copiar e restaurar itens neste dispositivo</string>
   <string name="phone_backup_title">Dispositivo móvel</string>
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
@@ -6421,6 +6425,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_font2">Tipo de letra</string>
   <string name="title_font_current">Tipo de letra do sistema</string>
   <string name="title_font_current2">Tipo de letra do sistema</string>
+  <string name="title_font_settings">Definições do tipo de letra</string>
   <string name="title_font_size">Tamanho do tipo de letra</string>
   <string name="title_hdmi_color_calibration">Correcção de cores</string>
   <string name="title_jeejen">Ecrã inicial Jeejen</string>
@@ -6430,6 +6435,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_miui_music_mute_by_user">Modo silêncio</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
   <string name="to_close">Desligar</string>
+  <string name="toast_apply_font_fail">Não é possível definir o tipo de letra</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="toast_sta_ap_works_wifi_display_disable">Não é possível transmitir quando o PA Móvel está ligado</string>

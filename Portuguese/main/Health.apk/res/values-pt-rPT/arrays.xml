@@ -8,7 +8,7 @@
         <item>Correr</item>
         <item>Andar</item>
         <item>Andar de bicicleta</item>
-        <item>Passadeira</item>
+        <item>Saltar à corda</item>
         <item>Treinar</item>
     </string-array>
     <string-array name="arr_prompt_label">
@@ -125,6 +125,15 @@
         <item>Sábado</item>
     </string-array>
     <string-array name="week_label">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="week_short">
         <item>Dom</item>
         <item>Seg</item>
         <item>Ter</item>

@@ -92,17 +92,9 @@
         <item quantity="other">%s resultados nos emails sincronizados</item>
         <item quantity="one">%s resultado nos emails sincronizados</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d meses</item>
-        <item quantity="one">%d mês</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d anexos restantes</item>
         <item quantity="one">%1$d anexo restante</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">Mover %1$d conversas</item>
-        <item quantity="one">Mover conversa</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostrar %1$d novas mensagens</item>
@@ -115,10 +107,6 @@
     <plurals name="num_selected">
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Responder a %1$d pessoas</item>
-        <item quantity="one">Responder a %1$d pessoa</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s resultados em todas as contas</item>

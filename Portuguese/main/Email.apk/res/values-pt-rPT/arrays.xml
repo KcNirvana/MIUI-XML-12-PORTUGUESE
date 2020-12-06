@@ -22,11 +22,6 @@
         <item>Próximo mês</item>
         <item>Escolher data</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Responder</item>
-        <item>Responder a todos</item>
-        <item>Reencaminhar</item>
-    </string-array> 
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Minúsculo</item>
         <item>Pequeno</item>

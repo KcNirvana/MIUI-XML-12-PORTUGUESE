@@ -90,6 +90,10 @@
         <item quantity="other">Copiados %d contactos</item>
         <item quantity="one">Copiado um contacto</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>

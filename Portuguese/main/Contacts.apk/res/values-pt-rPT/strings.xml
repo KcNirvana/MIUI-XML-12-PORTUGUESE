@@ -67,7 +67,15 @@
   <string name="call_pager">Ligar para o pager</string>
   <string name="call_problem_report">Reportar um problema</string>
   <string name="call_radio">Ligar para o rádio</string>
-  <string name="call_record_setting_miui">Definições de gravação</string>
+  <string name="call_record_user_notice_all_purpose">Encontrar as chamadas durante as quais certas palavras foram mencionadas</string>
+  <string name="call_record_user_notice_permission_desc_microphone">Para gravar chamadas</string>
+  <string name="call_record_user_notice_permission_desc_storage">Para guardar gravações</string>
+  <string name="call_record_user_notice_title">Pesquisa de chamadas</string>
+  <string name="call_record_whitelist_custom">Chamadas seleccionadas</string>
+  <string name="call_recording_notification_summary">Receber notificações depois duma chamada ter sido gravada</string>
+  <string name="call_recording_notification_title">Notificações de gravação de chamadas</string>
+  <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
+  <string name="call_recording_setting">Definições de gravação</string>
   <string name="call_settings">Definições</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Utilizar o SIM 1</string>

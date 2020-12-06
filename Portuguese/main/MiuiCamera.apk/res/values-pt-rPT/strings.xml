@@ -105,6 +105,12 @@
   <string name="accessibility_portrait_depth_effect_panel_on">Painel de Modo Retrato</string>
   <string name="accessibility_preview_button">Pré-visualizar</string>
   <string name="accessibility_preview_effect_button">Pré-visualizar</string>
+  <string name="accessibility_preview_expand">Zoom in</string>
+  <string name="accessibility_preview_front">Pré-visualização da câmara frontal</string>
+  <string name="accessibility_preview_select_tip">Posição %1$d</string>
+  <string name="accessibility_preview_selected">Seleccionado</string>
+  <string name="accessibility_preview_shrink">Zoom out</string>
+  <string name="accessibility_preview_zoom_tip">Pré-visualização do zoom %1$.1fX</string>
   <string name="accessibility_pro_video_simple_mode">Modo Leve</string>
   <string name="accessibility_protrait">Retrato</string>
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
@@ -248,6 +254,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="aiwatermark_location_absent_hint">Não foi possível obter a localização</string>
   <string name="aiwatermark_location_list_title">Localização</string>
   <string name="aiwatermark_location_tips">"Permitir que Câmara aceda à sua localização para obter marcas d'água mais relevantes"</string>
+  <string name="altitude_text">Altitude</string>
   <string name="ambilight_description_title">Acerca da exposição longa</string>
   <string name="ambilight_intro_crowd_moving_part1">Quando tirar uma foto numa rua movimentada, peça ao seu sujeito para que fique parado. As outras pessoas vão aparecer como trilhas desfocadas</string>
   <string name="ambilight_intro_crowd_moving_part2">Também pode tirar fotos de tráfego intenso e multidões em movimento. A exposição longa vai manter os edifícios nítidos mas todos os objetos em movimento vão ficar desfocados</string>
@@ -321,6 +328,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o telefone firme</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
+  <string name="capture_shortcut_long">Foto</string>
+  <string name="capture_shortcut_short">Foto</string>
   <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
   <string name="ccc_temperature_warning_title">O dispositivo está superaquecido</string>
   <string name="clone_recapture_alert">Começar de novo?</string>
@@ -408,6 +417,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">A lente está suja. Limpe-a</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
+  <string name="doc_shortcut_long">Documentos</string>
+  <string name="doc_shortcut_short">Documentos</string>
   <string name="document_blackwhite">Preto e branco</string>
   <string name="document_mode_use_hint_text_body">"Alinhar e melhorar
 documentos digitalizados automaticamente"</string>
@@ -502,6 +513,7 @@ Imprima a cópia em papel A4"</string>
   <string name="id_card_mode_use_hint_text_title">Digitalizar CC</string>
   <string name="install_confirmed">Instalar</string>
   <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
+  <string name="latitude_text">Latitude</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
 Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lens_dirty_detected_title_back">A lente da câmara traseira está suja</string>
@@ -564,6 +576,7 @@ no modo Retrato"</string>
   <string name="location_permission_des">Memorizar localizações para fotos e vídeos</string>
   <string name="location_permission_not_ask_again">Permitir que a Câmara possa aceder à sua localização nas Definições</string>
   <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
+  <string name="longitude_text">Longitude</string>
   <string name="lpl_dialog_item_name_burst">Premir e segurar para Disparo Contínuo</string>
   <string name="lpl_dialog_item_name_record">Premir e segurar para gravar vídeo</string>
   <string name="lpl_dialog_title">Seleccionar função para o disparo</string>
@@ -1038,6 +1051,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
   <string name="pref_hdr10_video_mode_description">Optimizar cores e contraste para vídeos em 4K e 8K automaticamente</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
+  <string name="pref_hdr10plus_video_mode_description">Optimizar cores e ajustar contraste de vídeos 4K e 8K. Esta funcionalidade é apenas para dispositivos HDR10+</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
@@ -1121,6 +1135,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>
+  <string name="professional_shortcut_long">Pro</string>
+  <string name="professional_shortcut_short">Pro</string>
   <string name="pro_color_mode">Cor Pro</string>
   <string name="recommend_macro_mode">Experimente o Modo Macro</string>
   <string name="recommend_portrait">Experimente o Modo Retrato</string>
@@ -1201,6 +1217,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
+  <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timer_burst">Disparo Temporizado</string>
   <string name="timer_burst_manu_param_interval">Intervalo sem exposição</string>
   <string name="timer_burst_param_interval">Intervalo</string>
@@ -1272,6 +1289,8 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_effect_entry_summer_day">Verão</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
+  <string name="video_shortcut_long">Vídeo</string>
+  <string name="video_shortcut_short">Vídeo</string>
   <string name="video_tag_flag_title">Marcar</string>
   <string name="view_privacy_policy">Ver Política de Privacidade</string>
   <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>

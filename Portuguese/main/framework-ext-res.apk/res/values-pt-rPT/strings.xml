@@ -37,6 +37,7 @@
   <string name="bluetooth_enable_notification_content">%s ligou o Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth ligado</string>
   <string name="bluetooth_open">Esta aplicação ligou o Bluetooth</string>
+  <string name="bottom_bar_smallwindow_text">Soltar para fixar</string>
   <string name="btn_cancel">Cancelar</string>
   <string name="btn_sure">OK</string>
   <string name="button_text_cancel">Cancelar</string>
