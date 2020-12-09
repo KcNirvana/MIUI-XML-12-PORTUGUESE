@@ -89,8 +89,9 @@
   <string name="next_fingerprint">Seguinte</string>
   <string name="note_introduction">Esta aplicação permite criar, ver e editar notas</string>
   <string name="other_settings">Definições adicionais</string>
-  <string name="other_settings_ad_dialog_content">"Após desligar esta funcionalidade, não vai mais receber anúncios personalizados. Vai continuar a receber anúncios irrelevantes para si. Pode saber mais na Política de Privacidade da Xiaomi.
-Desligar os anúncios personalizados mesmo assim?"</string>
+  <string name="other_settings_ad_dialog_agree">Ligar</string>
+  <string name="other_settings_ad_dialog_content">Após desligar esta funcionalidade, não vai mais receber anúncios personalizados. Vai continuar a receber anúncios irrelevantes para si</string>
+  <string name="other_settings_ad_dialog_disagree">Desligar</string>
   <string name="other_settings_ad_disable_summary">Ligar anúncios personalizados</string>
   <string name="other_settings_ad_enable">Anúncios personalizadoss</string>
   <string name="other_settings_ad_enable_summary">Personalizar anúncios com base nos seus interesses</string>
@@ -241,6 +242,15 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
 2. Quando estiver a ouvir música com o ecrã desligado"</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
   <string name="voice_assist_title">Ligar com voz</string>
+  <string name="wc_dialog_agree">Concordar</string>
+  <string name="wc_dialog_reject">Não concordar</string>
+  <string name="wc_dialog_summary">Os papéis de parede aleatórios oferecem imagens impressionantes e histórias emocionantes para o seu ecrã de bloqueio diariamente</string>
+  <string name="wc_dialog_title">Ecrã de bloqueio reinventado</string>
+  <string name="wc_double_check_agree">Experimentar</string>
+  <string name="wc_double_check_reject">Não, obrigado</string>
+  <string name="wc_double_check_summary">Pode ligar os papéis de parede aleatórios para ver se gosta. Pode desligar esta funcionalidade em Definições > Ecrã de bloqueio</string>
+  <string name="wc_double_check_title">Experimentar papéis de parede aleatórios</string>
+  <string name="wc_notice_link_announcement_summary">Leia e concorde com &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> de terceiros antes de utilizar esta funcionalidade</string>
   <string name="welcome">Bem-vindo</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
 </resources>

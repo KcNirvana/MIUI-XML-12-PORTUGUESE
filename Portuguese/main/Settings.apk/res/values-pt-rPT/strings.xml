@@ -3681,6 +3681,13 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miheadset_LeftEar">Esquerdo</string>
   <string name="miheadset_RightEar">Direito</string>
   <string name="miheadset_active">Potente</string>
+  <string name="miheadset_audio_mode">Modo áudio</string>
+  <string name="miheadset_audio_mode_high">Alta qualidade</string>
+  <string name="miheadset_audio_mode_listen">Ouvir</string>
+  <string name="miheadset_audio_mode_normal">Modo normal</string>
+  <string name="miheadset_audio_mode_summary">Alterar modo áudio</string>
+  <string name="miheadset_auto_ack_mode">auto ack mode</string>
+  <string name="miheadset_auto_ack_mode_summary">auto ack the telephone</string>
   <string name="miheadset_bright">Brilhante</string>
   <string name="miheadset_call_assist">Ligar IA</string>
   <string name="miheadset_cancel_device">Cancelar</string>
@@ -3691,6 +3698,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miheadset_define_self">Definir a si mesmo</string>
   <string name="miheadset_disconnect">Desligar</string>
   <string name="miheadset_disconnect_device">Desligar este dispositivo?</string>
+  <string name="miheadset_double_click_key_mode">double click key mode</string>
+  <string name="miheadset_double_click_key_mode_summary">change double click key map</string>
   <string name="miheadset_double_click_left">Duplo toque no auricular esquerdo</string>
   <string name="miheadset_double_click_right">Duplo toque no auricular direito</string>
   <string name="miheadset_enhence_high">Melhorar a alta frequência</string>
@@ -6882,6 +6891,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_exit_guest_confirm_title">Remover convidado?</string>
   <string name="user_exit_guest_dialog_remove">Remover</string>
   <string name="user_exit_guest_title">Remover convidado</string>
+  <string name="user_experience_open_url">Saber mais sobre o Programa de Experiência do Utilizador</string>
   <string name="user_experience_program">Programa de Experiência do Utilizador</string>
   <string name="user_experience_program_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>
   <string name="user_experience_program_title">Programa de Experiência do Utilizador</string>
@@ -7095,6 +7105,10 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wake_suppression_title">Área pequena</string>
   <string name="wakeup_and_sleep_settings_category_name">Definições do ecrã de bloqueio</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
+  <string name="wallet_reset">Pode remover os seus cartões apenas em Mi Wallet. Abrir Mi Wallet agora?</string>
+  <string name="wallet_reset_cancel_btn">Ignorar</string>
+  <string name="wallet_reset_ok_btn">Abrir</string>
+  <string name="wallet_reset_title">Remover cartões de Mi Wallet</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede animados</string>

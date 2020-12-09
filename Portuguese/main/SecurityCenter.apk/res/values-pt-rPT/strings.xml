@@ -123,6 +123,7 @@
   <string name="alert_back_milink_hangup_tips_content">A transmissão não vai ser interrompida enquanto estiver a desligar a chamada. Pode premir o botão Ligar/Desligar para ligar o ecrã</string>
   <string name="alert_back_milink_hangup_tips_content_vb">A transmissão não vai ser interrompida quando o ecrã estiver desligado e a aplicação estiver a executar em segundo plano. Pode premir o botão Ligar/Desligar para voltar a ligar o ecrã</string>  
   <string name="all_address_choose_hint">Todos os números nesta área</string>
+  <string name="allow_all">Permitir tudo</string>
   <string name="already_close_gamebooster">O Game Turbo está desligado</string>
   <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
   <string name="anti_disturb_msg_title">Não incomodar</string>
@@ -846,6 +847,7 @@
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
   <string name="comprehensive_protection_measures">Protecção abrangente</string>
   <string name="confirmSecondSpacePassword">Confirmar a palavra-passe do Segundo espaço</string>
+  <string name="confirm_allow_all_permission">Permitir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Mi</string>
   <string name="confirm_fingerprint_msg">Verificar a sua impressão digital</string>
   <string name="confirm_leave">Não, obrigado</string>

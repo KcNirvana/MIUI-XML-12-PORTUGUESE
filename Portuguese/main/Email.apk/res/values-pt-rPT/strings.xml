@@ -778,6 +778,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_permission">Permitir que o Email aceda ao armazenamento e contactos nas Definições</string>
   <string name="open_notification_kingagent">Activar notificações de ponto</string>
+  <string name="open_pdf_error">Erro ao abrir ficheiro PDF. Transfira outras ferramentas de PDF e tente novamente mais tarde</string>
   <string name="optimization_suggestion">Sugestões de optimização</string>
   <string name="others_mail">Outros</string>
   <string name="others_mail_des">Outros serviços de email</string>

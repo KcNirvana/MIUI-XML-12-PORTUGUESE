@@ -106,6 +106,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="install_confirm_question_update_system">Instalar uma actualização para esta aplicação de sistema? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
   <string name="install_confirm_question_update_system_no_perms">Instalar uma actualização para esta aplicação de sistema? Os dados existentes não vão ser perdidos. Não necessita de permissões especiais</string>
   <string name="install_confirm_text_gms">Esta aplicação é da Google. Deve instalar os serviços Google Play para poder utilizar. Sem os serviços Google, a aplicação pode não funcionar correctamente</string>
+  <string name="install_continue">Instalar</string>
   <string name="install_control_cancel_install">Não instalar</string>
   <string name="install_control_cancel_vip_account_install">Sair</string>
   <string name="install_control_continue_install">Instalar mesmo assim</string>
@@ -183,8 +184,9 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="miui_failed_solution_3">Tentar guardar o pacote de instalação noutra localização</string>
   <string name="miui_failed_solution_4">Libertar espaço em Segurança &gt; Limpeza e tentar novamente</string>
   <string name="miui_failed_solution_5">Tentar utilizar um pacote de instalação compatível</string>
-  <string name="miui_failed_solution_6">Desinstalar esta aplicação no Segundo espaço e tentar novamente</string>
+  <string name="miui_failed_solution_6">Eliminar a aplicação já instalada e tentar novamente</string>
   <string name="miui_failed_solution_7">Transferir a última versão desta aplicação em GetApps</string>
+  <string name="miui_failed_solution_8">Transferir a aplicação de GetApps</string>
   <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
   <string name="miui_failed_update_incompatible">Conflito nas assinaturas de aplicações</string>
   <string name="miui_failed_version_downgrade">Não é possível fazer o downgrade de aplicações</string>

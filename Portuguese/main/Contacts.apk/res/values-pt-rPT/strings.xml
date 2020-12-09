@@ -379,6 +379,8 @@ Motivo: \"%s\""</string>
   <string name="group_sms_progress_msg">A agrupar…</string>
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">Sem grupos</string>
+  <string name="hide_app_description_content">Contactos é uma aplicação de sistema. Ainda pode utilizá-la através de Telefone após remover do ecrã inicial</string>
+  <string name="hide_app_description_title">Remover \"Contactos\" do ecrã inicial?</string>
   <string name="hint_findContacts">Localizar contactos</string>
   <string name="hint_more_contact">Unir contactos duplicados</string>
   <string name="hybrid_check_network">Definições de rede</string>
@@ -653,6 +655,10 @@ Motivo: \"%s\""</string>
   <string name="remove_duplicate">"A MIUI vai ajudá-lo a encontrar e a unir contactos duplicados.
 
  Para começar, toque no ícone Unir na parte inferior do seu ecrã"</string>
+  <string name="restore_app_btn_cancel">Cancelar</string>
+  <string name="restore_app_btn_restore">OK</string>
+  <string name="restore_app_description_content">Adicionar um atalho ao ecrã inicial para aceder ao seus contactos</string>
+  <string name="restore_app_description_title">Adicionar \"Contactos\" ao ecrã inicial?</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="return_call">Toque para voltar à chamada</string>
   <string name="return_call_calling">Chamada em curso</string>

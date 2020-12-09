@@ -62,7 +62,11 @@
   <string name="album_faces_name">Pessoas</string>
   <string name="album_favorites_name">Favoritos</string>
   <string name="album_from_format">De %s</string>
+  <string name="album_hidden_item_button_title">Mostrar</string>
+  <string name="album_hidden_page_title">Ocultar</string>
+  <string name="album_homepage_show_all_photos">Mostrar todas as fotos</string>
   <string name="album_jump_failed">Aguarde até os álbuns estarem sincronizados com a Xiaomi Cloud e tente novamente</string>
+  <string name="album_lockscreen_wallpapers">Papéis de parede do ecrã de bloqueio</string>
   <string name="album_member">Membros do álbum %s</string>
   <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Nome do álbum</string>
@@ -72,8 +76,6 @@
   <string name="album_name_people">Pessoas</string>
   <string name="album_name_recent_discovery">Recentes</string>
   <string name="album_name_tags">Etiquetas</string>
-  <string name="album_hidden_item_button_title">Mostrar</string>
-  <string name="album_hidden_page_title">Ocultar</string>
   <string name="album_notes">Notas</string>
   <string name="album_other_page_title">Outros álbuns</string>
   <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
@@ -485,7 +487,7 @@
   <string name="document_provider_guide_step_3">3. Toque no botão menu lateral</string>
   <string name="document_provider_guide_step_4">4. Seleccione \"Cartão SD\"</string>
   <string name="document_provider_guide_step_5">5. Toque \"Seleccionar\"</string>
-  <string name="double_tap_to_higher_definition">Duplo toque para ver a pré-visualização em HD</string>
+  <string name="double_tap_to_higher_definition">Duplo toque para abrir a pré-visualização em HD</string>
   <string name="download_canceled">Transferência cancelada</string>
   <string name="download_error_format">Não foi possível transferir %s</string>
   <string name="download_error_tip">. As transferências foram interrompidas</string>
@@ -1276,7 +1278,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="pic_to_pdf_exit_notice">Este PDF não vai ser guardado se sair. Sair mesmo assim?</string>
   <string name="pic_to_pdf_not_support_video">Vídeos não podem ser guardados como PDF</string>
   <string name="pic_to_pdf_preview_loading">A carregar pré-visualização…</string>
-  <string name="pic_to_pdf_save_in">PDF guardado para %s</string>
+  <string name="pic_to_pdf_saved_in_fileexplorer">Guardado com sucesso. Veja o item em Ficheiros</string>
   <string name="pick_from_contact">Escolher dos contactos</string>
   <string name="pick_people_cover_fail">Ocorreu um erro. Tente novamente</string>
   <string name="pick_people_cover_page_title">Seleccionar foto da capa</string>
@@ -1595,7 +1597,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="special_type_ai_audio">IA Áudio</string>
   <string name="special_type_eye_repair">Corrigir olhos fechados utilizando a IA</string>
   <string name="special_type_hdr">HDR</string>
-  <string name="special_type_hdr10">HDR10</string>
+  <string name="special_type_hdr10">HDR</string>
   <string name="special_type_heif">HEIF</string>
   <string name="special_type_log">LOG</string>
   <string name="special_type_night_beauty">Retrato nocturno IA</string>
@@ -1714,6 +1716,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="toast_invalid_char">Os ficheiros não podem conter \"%s\"</string>
   <string name="toast_invalid_prefix">Os ficheiros não podem iniciar com \".\" ou \"_\"</string>
   <string name="toast_orientation_locked">Orientação bloqueada com sucesso</string>
+  <string name="toast_orientation_unlock">Orientação desbloqueada</string>
   <string name="toast_rename_exit">Este ficheiro já existe</string>
   <string name="today">Hoje</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (actualmente adicionados %1$s)</string>
@@ -1744,7 +1747,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="unrecognized_model">Dispositivo desconhecido</string>
   <string name="unsupport_raw">%s não funciona com imagens RAW</string>
   <string name="unsupport_raw_and_video">%s não funciona com vídeos e imagens RAW</string>
-  <string name="unsupport_type">Este tipo de ficheiro não é suportado</string>
+  <string name="unsupport_type">O formato não é suportado</string>
   <string name="unsupport_video">%s não funciona com vídeos</string>
   <string name="unsupported_media_downloading_tip_common">Não é possível ver imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>
   <string name="unsupported_media_downloading_tip_format">Não é possível ver as %s imagens originais neste formato nesta versão de Android. Transferir mesmo assim?</string>
