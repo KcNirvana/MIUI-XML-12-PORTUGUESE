@@ -280,6 +280,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="advanced_security_title">Avançadas</string>
   <string name="advanced_settings">Definições avançadas</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
+  <string name="aggregate_rule_group_disabled">Não agrupar</string>
+  <string name="aggregate_rule_group_enabled">Agrupar</string>
   <string name="aggregate_title">Regras para notificações agrupadas</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
   <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais</string>
@@ -364,6 +366,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="aod_and_lock_screen_settings_title">Ecrã ambiente e ecrã de bloqueio</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não funciona com inversão de cores. Desligue a inversão de cores primeiro</string>
   <string name="aod_name_wanxiang">Ecrã ambiente</string>
+  <string name="aod_notification_style">Efeitos das notificações</string>
   <string name="aod_notification_style_animation">Mostrar animação</string>
   <string name="aod_notification_style_none">Não fazer nada</string>
   <string name="aod_notification_style_screen_on">Ligar o ecrã</string>
@@ -2408,6 +2411,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos</string>
   <string name="error_mnc_not23">Campo MNC deve ter 2 ou 3 dígitos</string>
   <string name="error_name_empty">Campo Nome não pode ficar vazio</string>
+  <string name="error_xcap_not_add">O tipo de APN não pode ser XCAP</string>
   <string name="estimated_charging_time_left">Até estar carregada</string>
   <string name="estimated_time_description">A estimativa pode mudar em função da utilização</string>
   <string name="estimated_time_left">Tempo restante estimado</string>
@@ -2606,6 +2610,9 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="floating_window_switch_label_disable">Desactivar janelas flutuantes</string>
   <string name="fluency_mode">Animações de sistema</string>
   <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
+  <string name="fold_rule_default">Recomendadas</string>
+  <string name="fold_rule_important">Importantes</string>
+  <string name="fold_rule_unimportant">Não importantes</string>
   <string name="fold_title">Regras para notificações agrupadas</string>
   <string name="font_setting_weight_toast">O tipo de letra actual não suporta ajuste de espessura</string>
   <string name="font_settings_jump">Acessibilidade > Visão</string>

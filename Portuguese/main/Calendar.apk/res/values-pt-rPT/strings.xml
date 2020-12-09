@@ -273,8 +273,11 @@
   <string name="holiday_detail_read_more">Mais</string>
   <string name="homepage_today">Agora</string>
   <string name="homepage_nowadays">Hoje</string>
-  <string name="huangli_bad_type"/>
-  <string name="huangli_good_type"/>
+  <string name="icon_add_description">Adicionar um atalho no ecrã inicial</string>
+  <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="icon_remove_confirm">Remover</string>
+  <string name="icon_remove_description_content">Calendário é uma aplicação de sistema. Ainda vai pode utilizar o Calendário através do widget no ecrã inicial ou no assistente após remover</string>
+  <string name="icon_remove_description_title">Remover \"Calendário\" do ecrã inicial?</string>
   <string name="ics_file_not_found">Sem ficheiros para importar</string>
   <string name="ics_import_from_local_file">Importar ficheiros</string>
   <string name="ics_import_from_url">Adicionar subscrição URL</string>

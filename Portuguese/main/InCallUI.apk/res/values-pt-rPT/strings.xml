@@ -110,6 +110,7 @@
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_video_answer">Videochamada</string>
   <string name="description_image_button_zero">zero</string>
+  <string name="description_incoming_video">Vídeo de perfil para chamadas recebidas</string>
   <string name="description_message_list_title">Lista de respostas rápidas</string>
   <string name="description_target_answer">Atender</string>
   <string name="do_not_support_video_calls_by_remote">As videochamadas não são suportadas pelo outro dispositivo</string>

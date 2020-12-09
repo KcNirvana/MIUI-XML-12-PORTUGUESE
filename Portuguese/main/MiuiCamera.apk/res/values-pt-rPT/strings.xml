@@ -328,8 +328,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o telefone firme</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
-  <string name="capture_shortcut_long">Foto</string>
-  <string name="capture_shortcut_short">Foto</string>
+  <string name="capture_shortcut_long">Selfie</string>
+  <string name="capture_shortcut_short">Selfie</string>
   <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
   <string name="ccc_temperature_warning_title">O dispositivo está superaquecido</string>
   <string name="clone_recapture_alert">Começar de novo?</string>
@@ -420,6 +420,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="doc_shortcut_long">Documentos</string>
   <string name="doc_shortcut_short">Documentos</string>
   <string name="document_blackwhite">Preto e branco</string>
+  <string name="document_blur_warn">O texto está desfocado</string>
   <string name="document_mode_use_hint_text_body">"Alinhar e melhorar
 documentos digitalizados automaticamente"</string>
   <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>

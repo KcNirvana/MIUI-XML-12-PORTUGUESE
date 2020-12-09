@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cancel">Cancelar</string>
   <string name="doc_photo_adjust_section_title">Arrastar para ajustar</string>
   <string name="doc_photo_cancel">Cancelar</string>
   <string name="doc_photo_confirm">Sair</string>
@@ -13,6 +14,8 @@
   <string name="doc_photo_idcard_portrait">Frente</string>
   <string name="doc_photo_not_support">Não é possível editar esta imagem como documento</string>
   <string name="doc_photo_view_effect">Pré-visualizar</string>
+  <string name="exit_alert_msg">Todas as alterações vão ser perdidas</string>
+  <string name="exit_alert_title">Rejeitar alterações?</string>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_save_fail">Não foi possível guardar</string>
   <string name="extra_photo_common_saving">A guardar…</string>
@@ -28,6 +31,7 @@
   <string name="motion_photo_toast_default">Predefinido</string>
   <string name="motion_photo_toast_long_press_play">Premir e segurar a foto para reproduzir</string>
   <string name="motion_photo_toast_suggest">Recomendado</string>
+  <string name="ok">OK</string>
   <string name="refocus_discard_confirm_message">Guardar alterações?</string>
   <string name="refocus_discard_negative_btn">Rejeitar</string>
   <string name="refocus_discard_positive_btn">Guardar</string>
