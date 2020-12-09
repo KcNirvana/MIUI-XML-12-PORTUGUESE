@@ -125,7 +125,6 @@
   <string name="background_location_access_reminder_notification_title">%s está a utilizar a sua localização</string>
   <string name="clipboard_ai_allow_once">Permitiu que %1$s acedesse a itens na área de transferências automaticamente</string>
   <string name="clipboard_data">"Conteúdo: "</string>
-  <string name="clipboard_data">Itens da área de transferências</string>
   <string name="clipboard_data_request">%1$s está a tentar aceder a itens na área de transferências</string>
   <string name="clipboard_deny_notification_content">Esta tentativa foi bloqueada. Toque para gerir as permissões</string>
   <string name="clipboard_deny_notification_operation">Gerir</string>
