@@ -123,6 +123,7 @@
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Esta aplicação pode aceder sempre à sua localização. Toque para alterar</string>
   <string name="background_location_access_reminder_notification_title">%s está a utilizar a sua localização</string>
+  <string name="blur_location_now_tip">Localização aproximada ligada</string>
   <string name="clipboard_ai_allow_once">Permitiu que %1$s acedesse a itens na área de transferências automaticamente</string>
   <string name="clipboard_data">"Conteúdo: "</string>
   <string name="clipboard_data_request">%1$s está a tentar aceder a itens na área de transferências</string>
@@ -138,6 +139,7 @@
   <string name="forbid_notice_me">Para notificações</string>
   <string name="go_behavior_record">Histórico de comportamento</string>
   <string name="go_perm_manager">Gerir permissões</string>
+  <string name="go_setting">Definições</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>
   <string name="grant_dialog_button_allow_background">Permitir sempre</string>
@@ -210,6 +212,8 @@
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s</string>
+  <string name="real_location_off">Localização aproximada ligada</string>
+  <string name="real_location_on">Localização aproximada desligada</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>

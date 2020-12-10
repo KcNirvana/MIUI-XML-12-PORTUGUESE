@@ -519,7 +519,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_detect_state_after_activity">Após exercício</string>
   <string name="hr_detect_state_after_activity_desc">Medir imediatamente após o exercício</string>
   <string name="hr_detect_state_regular">Estado geral</string>
-  <string name="hr_detect_state_regular_desc">Trabalho diário e estado do estudo</string>
+  <string name="hr_detect_state_regular_desc">No trabalho ou a estudar</string>
   <string name="hr_detect_state_reseting">Em descanso</string>
   <string name="hr_detect_state_reseting_desc">Está totalmente relaxado ou acabou de acordar</string>
   <string name="hr_disturb_detect">Detecção interrompida</string>
@@ -540,12 +540,12 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="hr_report_active_lowest_desc">A sua frequência cardíaca actual é de exercício de intensidade baixa. Pode produzir certas estimulações ao corpo, mas a intensidade do exercício é pequena</string>
   <string name="hr_report_active_mid_desc">A sua frequência cardíaca actual é de exercício de intensidade moderada. É recomendado que a maioria dos adultos saudáveis ​​faça exercícios de intensidade moderada a alta por 150 minutos por semana</string>
   <string name="hr_report_common_desc">A frequência cardíaca normal é mantida pelo corpo humano durante as actividades diárias e varia entre 60 a 100 BPMs. Uma frequência cardíaca inferior a 60 BPMs é um sinal de bradicardia enquanto uma frequência cardíaca acima de 100 BPMs é aceite como taquicardia em adultos</string>
-  <string name="hr_report_regular_fast_desc">Your current tachycardia. Severe sports, drinking, heavy physical labor, tension, anxiety or taking some drugs may cause physiological tachycardia, while cardiovascular disease, anemia, hyperthyroidism, hypoxia, heart failure and other diseases can cause pathological tachycardia. If you feel unwell, please consult your doctor.</string>
-  <string name="hr_report_regular_normal_desc">Your heart rate is in the normal range. Your heart is good at coping with stress, and your body can resist external stress. Heart rate change is closely related to heart disease. Please pay attention to heart rate change at any time, especially during exercise.</string>
-  <string name="hr_report_regular_slow_desc">Your current heart rate is too slow. The bradycardia rate was lower than normal heart rate (about 60%). If bradycardia does not cause dizziness, amaurosis, dizziness, syncope and other symptoms, can not interfere, regular follow-up can be. But if you have chest tightness, dizziness and other symptoms, please consult your doctor in time.</string>
-  <string name="hr_report_resting_fast_desc">Your resting heart rate is higher than the normal range, which may lead to fatigue or tachycardia. It is suggested that you should improve your lifestyle, such as low salt and less oil diet, weight loss, smoking and alcohol cessation, psychological and emotional adjustment, especially gradually increasing physical exercise, which can help to slow down the resting heart rate.</string>
-  <string name="hr_report_resting_normal_desc">Your resting heart rate is in the normal range. Resting heart rate refers to the number of heart beats per minute of normal people in a quiet state. The best time to measure resting heart rate is waking up in the morning, still lying in bed and not doing any physical activity. Before measuring the resting heart rate, take a deep breath to completely relax the body.</string>
-  <string name="hr_report_resting_slow_desc">Your resting heart rate is below the normal range and bradycardia may be present. If the heart rate is too slow for a long time, it is easy to cause ischemia and hypoxia of organs, especially cardio cerebral vessels. Resting heart rate is closely related to diet, exercise, stress, sleep and physical condition. It is recommended that you maintain a healthy and good lifestyle and pay attention to physical reactions in time. If you have symptoms such as dizziness, fatigue, fainting and chest tightness, please seek medical advice in time.</string>
+  <string name="hr_report_regular_fast_desc">Tem actualmente taquicardia. Desporto intenso, trabalho físico pesado, tensão, ansiedade ou utilização de alguns medicamentos podem causar taquicardia fisiológica, enquanto que as doenças cardiovasculares, anemia, hipertireoidismo, hipóxia, insuficiência cardíaca e outras doenças podem causar taquicardia patológica. Se não se sentir bem, consulte um médico a tempo</string>
+  <string name="hr_report_regular_normal_desc">A sua frequência cardíaca está normal. O seu coração é bom para lidar com o stress e o seu corpo pode resistir ao stress externo. As alterações da frequência cardíaca estão relacionadas com doenças do coração. Preste atenção às alterações da frequência cardíaca especialmente durante o exercício físico</string>
+  <string name="hr_report_regular_slow_desc">A sua frequência cardíaca actual está abaixo do normal. A taxa de bradicardia foi menor do que a frequência cardíaca normal (cerca de 60%). Se a bradicardia não causar tonturas, amauroses, síncopes e outros sintomas deve ser acompanhado regularmente. Se tiver apertos no peito, tonturas e outros sintomas consulte um médico a tempo</string>
+  <string name="hr_report_resting_fast_desc">A sua frequência cardíaca de descanso está acima do normal, o que pode levar a fadiga ou taquicardia. É recomendado que melhore o seu estilo de vida, como uma dieta com baixo teor de sal e menos óleo, perder peso, deixar de fumar e beber bebidas alcoólicas o que pode ajudar a baixar a frequência cardíaca de descanso</string>
+  <string name="hr_report_resting_normal_desc">A sua frequência cardíaca de descanso está normal. A frequência cardíaca de descanso refere-se ao número de batimentos cardíacos por minuto de pessoas normais num estado de descanso. A melhor hora para medir a frequência cardíaca de descanso é ao acordar de manhã ainda deitado</string>
+  <string name="hr_report_resting_slow_desc">A sua frequência cardíaca de descanso está abaixo do normal e bradicardia pode estar presente. Se a frequência cardíaca for demasiado baixo durante um longo tempo, é fácil causar isquemia e hipóxia de órgãos, especialmente em vasos cerebrais. A frequência cardíaca de descanso está relacionada com dieta, exercício, stress, sono e condição física. É recomendado que mantenha um estilo de vida saudável e tenha atenção a reacções físicas. Se tiver sintomas como tonturas, fadiga, desmaios e aperto no peito consulte um médico a tempo</string>
   <string name="hr_see_report">Ver relatório</string>
   <string name="hr_start_detect">Experimentar</string>
   <string name="hr_state">Estado</string>
@@ -569,7 +569,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="indoor_running">Passadeira</string>
   <string name="inquire_recover_data">Restaurar dados de saúde agora?</string>
   <string name="inquire_recover_data_subtitle">Existem dados de saúde associados com a sua Conta Mi (%1$s). Ligar a sincronização com a Xiaomi Cloud e restaurar agora?</string>
-  <string name="instructions_provider">Instruções fornecidas por Miao Health</string>
+  <string name="instructions_provider">Instruções fornecidas por Miao Health |</string>
   <string name="insufficient">Insuficiente</string>
   <string name="internal_training">HIIP</string>
   <string name="jump_freq">Frequência de salto</string>
@@ -636,6 +636,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="low_intensity">Baixa</string>
   <string name="low_intensity_description">Frequência respiratória normal que permite que mantenha uma conversa</string>
   <string name="low_pressure">Diastólica (baixo)</string>
+  <string name="lowest_freq">Frequência mais baixa</string>
   <string name="lowest_jump">Salto mais baixo</string>
   <string name="manage_home">Página inicial</string>
   <string name="manual_add">Adicionar manualmente</string>
@@ -653,6 +654,28 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="max_low_pressure">Máximo diastólica (baixo)</string>
   <string name="maximum">Máximo</string>
   <string name="maximum_pace">Maior ritmo</string>
+  <string name="mcv2_back_button_desc">Voltar</string>
+  <string name="mcv2_cc_is_off">Legendas desligadas. Toque para mostrar</string>
+  <string name="mcv2_cc_is_on">Legendas ligadas. Toque para ocultar</string>
+  <string name="mcv2_error_dialog_button">OK</string>
+  <string name="mcv2_ffwd_button_desc">Avançar 30 segundos</string>
+  <string name="mcv2_full_screen_button_desc">Ecrã inteiro</string>
+  <string name="mcv2_launch_button_desc">Abrir link</string>
+  <string name="mcv2_music_artist_unknown_text">Artista desconhecido</string>
+  <string name="mcv2_music_title_unknown_text">Música desconhecida</string>
+  <string name="mcv2_next_button_desc">Seguinte</string>
+  <string name="mcv2_non_music_title_unknown_text">Vídeo desconhecido</string>
+  <string name="mcv2_overflow_left_button_desc">Voltar para a lista</string>
+  <string name="mcv2_overflow_right_button_desc">Ver mais botões</string>
+  <string name="mcv2_pause_button_desc">Pausar</string>
+  <string name="mcv2_play_button_desc">Reproduzir</string>
+  <string name="mcv2_playback_error_text">Não foi possível reproduzir</string>
+  <string name="mcv2_previous_button_desc">Anterior</string>
+  <string name="mcv2_replay_button_desc">Repetir</string>
+  <string name="mcv2_rewind_button_desc">Retroceder 10 segundos</string>
+  <string name="mcv2_seek_bar_desc">Progresso</string>
+  <string name="mcv2_settings_button_desc">Definições</string>
+  <string name="mcv2_video_quality_button_desc">Qualidade do vídeo</string>
   <string name="measure_date">Tempo de medição</string>
   <string name="measure_time">Tempo de medição</string>
   <string name="medical_file_desc1">Informações médicas importantes em caso de emergência</string>
@@ -750,6 +773,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="need_auto_start_permission">Para obter estatísticas mais precisas, permita que Saúde inicie automaticamente</string>
   <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que Saúde execute em segundo plano</string>
   <string name="network_connect_failure">Não foi possível ligar à rede. Verifique as suas definições e tente novamente</string>
+  <string name="network_name_china">Wi-Fi</string>
   <string name="network_not_available">Não foi possível ligar à rede. Verifique as suas definições e tente novamente</string>
   <string name="network_not_available2">Não foi possível ligar à rede</string>
   <string name="next_step">Seguinte</string>
@@ -796,6 +820,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="outdoor_walking">Andar</string>
   <string name="passable">OK</string>
   <string name="pause">Pausar</string>
+  <string name="pause_button_content_description">Pausar</string>
   <string name="per_count_minutes1">%d SPM</string>
   <string name="per_time_minutes">%d por minuto</string>
   <string name="per_time_minutes1">" por minuto"</string>
@@ -819,6 +844,7 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="placement_tips_warn">Não recomendado</string>
   <string name="placement_tips_warn_1">Passadeira</string>
   <string name="play">Reproduzir</string>
+  <string name="play_button_content_description">Reproduzir</string>
   <string name="please_choose">Seleccionar</string>
   <string name="pool_swimming">Natação em piscina</string>
   <string name="predict_menstruation">Período esperado</string>
@@ -899,6 +925,8 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="retry">Tentar novamente</string>
   <string name="revert_to_default">Restaurar predefinições</string>
   <string name="rope_skipping">Saltar à corda</string>
+  <string name="rope_skipping_environment_warning">Evite locais barulhentos</string>
+  <string name="rope_skipping_ways">Identificar o saltar à corda através da voz</string>
   <string name="rowing_machine">Remos</string>
   <string name="run">Correr</string>
   <string name="save">Guardar</string>
@@ -937,6 +965,26 @@ Aguarde até o círculo ficar vermelho"</string>
   <string name="severe_abnormal">Crises de hipertensão</string>
   <string name="severe_abnormal_tip">Todos os dias após acordar, depois do almoço e antes de ir dormir</string>
   <string name="skip">Ignorar</string>
+  <string name="skip_to_next_item_button_content_description">Ir para o item seguinte</string>
+  <string name="skip_to_previous_item_button_content_description">Ir para o item anterior</string>
+  <string name="skipping_count">Saltos</string>
+  <string name="skipping_detection_no">Não foi possível detectar o seu treino</string>
+  <string name="skipping_detection_no_hint">Evite locais barulhentos e mantenha este dispositivo por perto</string>
+  <string name="skipping_kcal">Calorias</string>
+  <string name="skipping_pause">Pausado</string>
+  <string name="skipping_pause_tips">Pausado | Retome o seu treino para continuar a registar automaticamente</string>
+  <string name="skipping_ready">Pode iniciar o seu treino agora</string>
+  <string name="skipping_ready_hint_one">Mantenha este dispositivo a menos de 1 metro de si</string>
+  <string name="skipping_ready_hint_two">O seu treino vai ser pausado e retomado automaticamente baseado nos sons que produz</string>
+  <string name="skipping_ready_toast">Aumentámos o volume para que possa ouvir melhor as instruções</string>
+  <string name="skipping_reset_time">Descansar</string>
+  <string name="skipping_start_counting">Iniciar</string>
+  <string name="skipping_time">Duração</string>
+  <string name="skipping_upload_dialog_agree_and_upload">Concordar e enviar</string>
+  <string name="skipping_upload_dialog_msg">Para fornecermos uma contagem de saltos mais precisa, Saúde vai enviar o registo dos seus saltos à corda mediantes as %s condições para optimizar o reconhecimento dos saltos à corda. Para proteger a sua privacidade, o envio dos registo vai ser encriptado</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Rejeitar e não perguntar novamente</string>
+  <string name="skipping_upload_dialog_title">Enviar o registo dos saltos à corda para optimizar o reconhecimento</string>
+  <string name="skipping_upload_tips">Enviar este registo de saltos à corda para melhorar o reconhecimento</string>
   <string name="sleep">Sono</string>
   <string name="sleep_and_get_up_time">Hora de dormir</string>
   <string name="sleep_auto_start_perm_grant">Permissões concedidas</string>
@@ -1097,6 +1145,9 @@ podem melhorar a sua saúde"</string>
   <string name="splash_title">"Em Saúde, pode definir os seus objectivos
 e receber conselhos
 baseados nas suas informações pessoais"</string>
+  <string name="sport_audio_permission_dialog_content">Esta aplicação necessita de permissões para gravar áudio para poder registar treinos baseados nos sons que produz</string>
+  <string name="sport_audio_permission_dialog_desc">Para registar treinos baseados nos sons que produz</string>
+  <string name="sport_audio_permission_dialog_title">Permissões necessárias</string>
   <string name="sport_btn_continue">Retomar</string>
   <string name="sport_btn_finish">Terminar</string>
   <string name="sport_btn_lock">Bloquear</string>
@@ -1110,6 +1161,7 @@ baseados nas suas informações pessoais"</string>
   <string name="sport_invalid_dialog_title">Demasiado rápido!</string>
   <string name="sport_menu_share">Partilhar</string>
   <string name="sport_no_internet_toast">Não é possível aceder à sua localização precisa devido ao fraco sinal de rede</string>
+  <string name="sport_outdoor_running">Correr</string>
   <string name="sport_pace_chart_last_km">Menos de 1 km</string>
   <string name="sport_pace_step_unit">PPM</string>
   <string name="sport_pref_category_voice">Áudio</string>
@@ -1199,6 +1251,8 @@ baseados nas suas informações pessoais"</string>
   <string name="sustain_title">"Já não se move há "</string>
   <string name="swim">Natação</string>
   <string name="swim_type">Estilo</string>
+  <string name="swipe_right_to_end">Deslizar para a direita para terminar</string>
+  <string name="swipe_up_to_end">Deslizar para cima para terminar</string>
   <string name="sync_health_data">Sincronizar dados</string>
   <string name="sync_immediately">Sincronizar</string>
   <string name="sync_is_not_closed">Sincronização ligada</string>
@@ -1394,6 +1448,7 @@ baseados nas suas informações pessoais"</string>
   <string name="total_slip">Número de golpes</string>
   <string name="total_time_label">Total de tempo</string>
   <string name="treadmill">Passadeira</string>
+  <string name="try_again">Tentar novament</string>
   <string name="turn_count">Turnos</string>
   <string name="turn_on_necessary_permissions">São necessárias permissões para monitorizar o sono</string>
   <string name="unable_record_future_menstruation">Não é possível registar períodos futuros</string>
@@ -1428,6 +1483,7 @@ Actualizar agora?"</string>
   <string name="value_error_correct">Editar registo</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas</string>
+  <string name="voice_remind">Aumentámos o volume para que possa ouvir melhor as instruções</string>
   <string name="walk">Andar</string>
   <string name="weight_height_weight_bmi">Índice de massa corporal</string>
   <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>
