@@ -370,7 +370,9 @@
   <string name="url_is_unknown">Não é possível verificar se este website é seguro</string>
   <string name="url_is_unsafety">Este website não é seguro</string>
   <string name="vender_info_translation_kingsoft">Fornecido por Kingsoft</string>
+  <string name="visit">Abrir</string>
   <string name="web">Website:</string>
+  <string name="web_url">URL</string>
   <string name="website_details">Website:</string>
   <string name="weixin_code_tip">Utilize o WeChat para digitalizar este código QR</string>
   <string name="welcome_to_thesweepversion">Bem-vindo ao Digitalizador versão beta!</string>

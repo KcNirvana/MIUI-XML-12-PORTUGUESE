@@ -298,7 +298,7 @@
   <string name="weather_main_aqi_desc">IQA</string>
   <string name="weather_main_minute_hour">Precipitação %d horas</string>
   <string name="weather_main_speak_tips">Toque para transmitir o tempo por voz</string>
-  <string name="weather_more_air_quality">Mais na qualidade do ar</string>
+  <string name="weather_more_air_quality">Mais sobre a qualidade do ar</string>
   <string name="weather_permission_agree">Aceitar</string>
   <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="welcome_app_title">Bem-vindo ao Tempo!</string>

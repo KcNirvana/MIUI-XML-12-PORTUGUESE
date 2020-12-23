@@ -89,6 +89,8 @@
   <string name="download">Transferências</string>
   <string name="download_auth">A obter autorização…</string>
   <string name="download_complete">Concluído</string>
+  <string name="download_description_content">Transferências é uma aplicação de sistema. Não vai poder gerir as suas transferências depois de a remover</string>
+  <string name="download_description_title">Remover \"Transferências\" do ecrã inicial?</string>
   <string name="download_detail">Detalhes</string>
   <string name="download_error">Não foi possível transferir</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>

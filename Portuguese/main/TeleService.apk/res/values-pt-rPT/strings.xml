@@ -527,7 +527,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Definir a duração dos tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
-  <string name="dual_4g_switch_summary">Permitir conectividade 4G para ambos os SIM</string>
+  <string name="dual_4g_switch_summary">Permitir ligação 4G para ambos os SIM</string>
   <string name="dual_4g_switch_title">Duplo 4G</string>
   <string name="duration_disable_summary">Mostrar duração está desligada</string>
   <string name="duration_enable_summary">Mostrar duração está ligada</string>
