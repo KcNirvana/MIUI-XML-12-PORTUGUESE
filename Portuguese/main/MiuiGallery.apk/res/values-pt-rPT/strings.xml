@@ -1317,6 +1317,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="privacy_permission_request_title">Permissões necessárias</string>
   <string name="private_entry_lock_state_activated_text">Solte para abrir pastas privadas</string>
   <string name="private_entry_lock_state_enterd_text">Puxe para abrir pastas privadas</string>
+  <string name="problem_feedback">Comentários</string>
   <string name="projection_cancel">Cancelar</string>
   <string name="projection_checkbox_text">Memorizar este ecrã</string>
   <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>

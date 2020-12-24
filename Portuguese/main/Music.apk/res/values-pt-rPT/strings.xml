@@ -382,9 +382,12 @@
   <string name="no_local_songs">Vazio</string>
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
   <string name="no_local_source_find">Não é possível encontrar a música</string>
+  <string name="no_longer_prompt">Não mostrar novamente</string>
   <string name="no_online_song_selected">Não foi seleccionada nenhuma música</string>
   <string name="no_results_return">Sem resultados</string>
   <string name="no_scanned_songs">Vazio</string>
+  <string name="no_song_subtitle">Mergulhe no som</string>
+  <string name="no_song_title">Música</string>
   <string name="no_song">Sem músicas</string>
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
   <string name="no_system_cropper_find">O sistema não tem recorte de imagens</string>
@@ -462,6 +465,16 @@
   <string name="privacy_authorize_revoking">A revogar autorização…</string>
   <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_request_desc">"Música necessita de obter informações pessoais para fornecer serviços de streaming online. Pode saber mais em &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Pode remover o seu consentimento nas Definições em qualquer altura.
+Leia e concorde com os nossos &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de utilizar Música.
+Se não concordar em utilizar os serviços mencionados, não vai poder utilizar algumas funcionalidades da aplicação mas as funcionalidades básicas ainda vão estar disponíveis"</string>
+  <string name="privacy_request_subtitle">"Bem-vindo a Música! Esta aplicação fornece os seguintes serviços:
+
+- Reprodução de áudio
+
+- Serviços de streaming online"</string>
+  <string name="privacy_request_title">Termos e Condições</string>
+  <string name="pro_member">Membro PRO</string>
   <string name="project_device">Telefone Mi</string>
   <string name="prompt_grant_write_settings_permission">Permitir alterar definições de sistema</string>
   <string name="ready_to_play">A seguir</string>
