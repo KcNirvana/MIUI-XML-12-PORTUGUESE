@@ -561,12 +561,10 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_ad_mms_recognition">Colocar mensagens de promoções num novo separador</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
-  <string name="pref_summary_collapse_ad_notification">Mostrar todas as mensagens de promoções numa pasta separada na área de notificações</string>
-  <string name="pref_summary_collapse_ad_notification_mms">Mostrar todas as mensagens de promoções numa pasta separada</string>
-  <string name="pref_summary_collapse_ad_notification_mms_new">Agrupar mensagens de promoções e marcar como não importante na área de notificações</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para mensagens entregues</string>
+  <string name="pref_summary_enable_ad_notification">Ligar as notificações de grupo acerca das promoções na área de notificações</string>
   <string name="pref_summary_enable_classify">Mover promoções e mensagens de finanças para separadores diferentes</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
@@ -585,7 +583,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_auto_delete">Eliminar mensagens antigas</string>
   <string name="pref_title_card_format">Formato de partilha de cartões</string>
-  <string name="pref_title_collapse_ad_notification">Agrupar notificações de mensagens de promoções</string>
+  <string name="pref_title_enable_ad_notification">Promoções</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_enable_classify">Agrupar mensagens automaticamente</string>
   <string name="pref_title_fwd_sender_info">Reencaminhar informações do remetente</string>

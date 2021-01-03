@@ -2,7 +2,7 @@
 <resources>
   <string name="about_extreme_mode">Poupança de bateria extrema</string>
   <string name="about_hide_mode">Acerca de poupança de bateria</string>
-  <string name="accessibility_service_description">Poupança de bateria inteligente</string>
+  <string name="accessibility_service_description">Poupança de bateria</string>
   <string name="active_classify">Ordenar por estado de actividade</string>
   <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Bateria e desempenho</string>
@@ -23,7 +23,7 @@
   <string name="config_mode_title">Definições de segundo plano</string>
   <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
   <string name="config_no_restrict_title">Sem restrições</string>
-  <string name="config_restrict_function_description">Algumas funcionalidades (p.e. notificações) podem ser afectadas, mas as aplicações não vão ser fechadas</string>
+  <string name="config_restrict_function_description">Fechar aplicações após 10 minutos de actividade em segundo plano</string>
   <string name="config_restrict_function_title">Restringir aplicações em segundo plano</string>
   <string name="config_restrict_running_description">Aplicações vão ser fechadas para poupar bateria</string>
   <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>

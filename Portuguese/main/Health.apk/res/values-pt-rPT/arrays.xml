@@ -4,6 +4,11 @@
         <item>Saúde</item>
         <item>Treinos</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagem</item>
+        <item>Rota</item>
+        <item>Cartão</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Correr</item>
         <item>Andar</item>

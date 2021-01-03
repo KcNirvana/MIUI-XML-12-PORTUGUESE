@@ -15,6 +15,10 @@
         <item quantity="other">Seleccionados %1$d itens</item>
         <item quantity="one">Seleccionados %1$d item</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Remover %1$d aplicações do ecrã inicial?</item>
+        <item quantity="one">Remover %1$d aplicação do ecrã inicial?</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">página %1$d, %2$d aplicações</item>
         <item quantity="one">página %1$d, %2$d aplicação</item>

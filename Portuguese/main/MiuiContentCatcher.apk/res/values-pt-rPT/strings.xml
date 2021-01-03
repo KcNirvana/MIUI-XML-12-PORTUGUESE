@@ -23,7 +23,11 @@
   <string name="change_passwork_dialog_title">Actualizar palavra-passe?</string>
   <string name="delete">Eliminar</string>
   <string name="invalid_package_signature">Assinatura da aplicação inválida</string>
+  <string name="login_mi_account_alert">Alerta</string>
+  <string name="login_mi_account_summary">Para ligar a gestão de palavras-passe, é necessário iniciar sessão na Conta Mi. Iniciar sessão agora?</string>
   <string name="ok">OK</string>
+  <string name="password_manager">Gestão de palavras-passe</string>
+  <string name="password_manager_summary">Gestão de palavras-passe com sincronização com a Xiaomi Cloud</string>
   <string name="save_content_tip">"Os itens seguintes vão ser guardados: "</string>
   <string name="search">Pesquisar</string>
   <string name="settings_clear_data_confirmation_description">"Se eliminar a palavra-passe agora, vai ter que introduzi-la manualmente da próxima vez.

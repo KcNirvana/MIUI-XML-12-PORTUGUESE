@@ -26,6 +26,8 @@
   <string name="bluetooth_sap_notif_message">Pedir ao cliente para desligar?</string>
   <string name="bluetooth_sap_notif_ticker">Acesso Bluetooth ao SIM</string>
   <string name="bluetooth_sap_notif_title">Acesso Bluetooth ao SIM</string>
+  <string name="bt_audio_share_notification_content">Toque para ver opções</string>
+  <string name="bt_audio_share_notification_title">Partilhar áudio</string>
   <string name="bt_enable_cancel">Cancelar</string>
   <string name="bt_enable_line1">Para utilizar os serviços Bluetooth, deve ligar primeiro o Bluetooth</string>
   <string name="bt_enable_line2">Ligar Bluetooth agora?</string>
@@ -83,6 +85,7 @@
   <string name="no_transfers">Histórico de transferências está vazio</string>
   <string name="not_exist_file">Sem ficheiro</string>
   <string name="not_exist_file_desc">O ficheiro não existe</string>
+  <string name="notice_audio_share_disconnected">Partilha de áudio desligada devido a interrupção da ligação</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Ficheiro %1$s não foi recebido</string>
   <string name="notification_receiving">Bluetooth: A receber %1$s</string>
@@ -148,7 +151,6 @@
   <string name="upload_fail_cancel">Fechar</string>
   <string name="upload_fail_line1">O ficheiro não foi enviado para \"%1$s\"</string>
   <string name="upload_fail_line1_2">Ficheiro: %1$s</string>
-  <string name="upload_fail_ok">Tentar novamente</string>
   <string name="upload_fail_waiting">Preparação de envio de ficheiro em curso, retransmissão automática mais tarde</string>
   <string name="upload_line1">Para: \"%1$s\"</string>
   <string name="upload_line3">Tipo de ficheiro: %1$s (%2$s)</string>

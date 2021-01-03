@@ -123,7 +123,9 @@
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Esta aplicação pode aceder sempre à sua localização. Toque para alterar</string>
   <string name="background_location_access_reminder_notification_title">%s está a utilizar a sua localização</string>
+  <string name="blur_location_is_on_tip">%1$s iniciou o serviço de localização aproximada. Manter localização aproximada ligada?</string>
   <string name="blur_location_now_tip">Localização aproximada ligada</string>
+  <string name="blur_location_title">Localização aproximada</string>
   <string name="clipboard_ai_allow_once">Permitiu que %1$s acedesse a itens na área de transferências automaticamente</string>
   <string name="clipboard_data">"Conteúdo: "</string>
   <string name="clipboard_data_request">%1$s está a tentar aceder a itens na área de transferências</string>
@@ -136,10 +138,12 @@
   <string name="clipboard_read_deny_dialog_title">Restringido o acesso à área de transferências a %1$s</string>
   <string name="current_permission_template">%1$s (%2$s/%3$s)</string>
   <string name="default_permission_description">executar acções desconhecidas</string>
-  <string name="forbid_notice_me">Para notificações</string>
+  <string name="forbid_notice_me">Parar notificações</string>
   <string name="go_behavior_record">Histórico de comportamento</string>
   <string name="go_perm_manager">Gerir permissões</string>
   <string name="go_setting">Definições</string>
+  <string name="gold_master_dialog_reject">Rejeitar (%d)</string>
+  <string name="gold_master_dialog_title">%1$s quer ler a área de transferências</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>
   <string name="grant_dialog_button_allow_background">Permitir sempre</string>
@@ -217,6 +221,7 @@
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
+  <string name="stop_blur_location">Desligar</string>
   <string name="storage_policy_notify_both_title">%1$s não tem permissões para aceder à Galeria e a mensagens nas aplicações de redes sociais</string>
   <string name="storage_policy_notify_content">Toque para ajustar permissões</string>
   <string name="storage_policy_notify_gallery_title">%1$s não tem permissões para aceder à Galeria</string>

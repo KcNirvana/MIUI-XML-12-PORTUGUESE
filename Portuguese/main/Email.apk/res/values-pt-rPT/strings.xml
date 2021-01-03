@@ -1061,6 +1061,7 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="signature_black_shark">Enviado do meu telefone Blackshark</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+  <string name="sms_not_found_tip">Não foi possível iniciar a aplicação de SMS</string>
   <string name="smtp_password_error">A palavra-passe do servidor de correio de saída está incorrecta</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="storage">Armazenamento</string>
@@ -1169,11 +1170,11 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definiçõ
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
   <string name="webview_logout_cancel">Agora não</string>
   <string name="webview_logout_sure">Tentar novamente</string>
+  <string name="webview_not_found">A página não pode ser aberta porque não existe componente WebView</string>
   <string name="webview_sslerror_handle_cancel">Cancelar</string>
   <string name="webview_sslerror_handle_continue">Continuar</string>
   <string name="webview_sslerror_handle_hitmessage">Erro no certificado! Continuar para a página (não recomendado)?</string>
-  <string name="widget_all_mail">Todos os Emails</string>
-  <string name="widget_large_unread_count">%d+</string>
+  <string name="widget_all_mail">Todos os emails</string>
   <string name="widget_other_views">Outros</string>
   <string name="wipe_account_fail_description">Toque aqui para obter permissões</string>
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>

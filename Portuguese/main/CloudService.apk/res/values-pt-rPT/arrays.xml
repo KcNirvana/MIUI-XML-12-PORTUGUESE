@@ -37,7 +37,7 @@
     <string-array name="settings_search_music">
         <item>Sincronizar música com a Xiaomi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Music;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Música;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>Sincronizar notas com a Xiaomi Cloud</item>
@@ -63,6 +63,11 @@
         <item>Sincronizar Segurança com a Xiaomi Cloud</item>
         <item>Ligar sincronização</item>
         <item>Segurança;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sincronizar notas com a Xiaomi Cloud</item>
+        <item>Ligar sincronização</item>
+        <item>Notas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronizar Assistente com a Xiaomi Cloud</item>
@@ -120,6 +125,18 @@
     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
         <item>Para identificar o seu dispositivo</item>
         <item>Para localizar o seu dispositivo e trocar para o modo perdido</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sincronizar os seus contactos, mensagens, notas, etc.</item>
+        <item>Fazer cópia das aplicações, layout do ecrã inicial, etc.</item>
+        <item>Fazer cópia das definições de sistema</item>
+        <item>Bloquear o seu dispositivo remotamente se estiver perdido</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sincronizar os seus contactos, mensagens, notas, etc.</item>
+        <item>Fazer cópia das aplicações, layout do ecrã inicial, etc.</item>
+        <item>Fazer cópia das definições de sistema</item>
+        <item>Bloquear o seu dispositivo remotamente se estiver perdido</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizar dados</item>

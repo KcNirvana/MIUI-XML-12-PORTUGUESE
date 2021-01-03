@@ -393,6 +393,7 @@ Toque aqui para iniciar agora"</string>
   <string name="personalize_charge_style_title">Carregamento</string>
   <string name="personalize_default_font">Tipo de letra predefinido</string>
   <string name="personalize_fingerprint_style_title">Impressão digital</string>
+  <string name="personalize_font_demo_content">Aa</string>
   <string name="personalize_icon_title">Ícones</string>
   <string name="personalize_notify_ringtone_title">Notificações</string>
   <string name="personalize_notify_style_title">Efeitos</string>
@@ -712,6 +713,7 @@ Vai ver uma nova imagem a cada hora"</string>
   <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
   <string name="show_mamual_hide_wallpaper">Mostrar papéis de parede ocultos</string>
   <string name="super_wallpaper">Super papéis de parede</string>
+  <string name="super_wallpaper_list_footer_text">Fique ligado nos nossos novos lançamentos!</string>
   <string name="super_wallpaper_list_label">Super papéis de parede</string>
   <string name="super_wallpaper_setting_apply_success_toast">Aplicado com sucesso</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicar</string>

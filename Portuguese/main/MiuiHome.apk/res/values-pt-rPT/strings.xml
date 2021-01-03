@@ -294,8 +294,11 @@
   <string name="home_screen">Ecrã inicial</string>
   <string name="home_slide_up_action">Deslizar para cima no ecrã inicial</string>
   <string name="home_switch_personal_assistant">Assistente do ecrã inicial</string>
+  <string name="icon_customize_summary">Seleccionar o estilo e ajustar tamanho</string>
+  <string name="icon_form">Ícones</string>
   <string name="icon_reorganize_channel">Organizar ícones</string>
   <string name="icon_size">Tamanho dos ícones</string>
+  <string name="icon_style">Estilo</string>
   <string name="image_too_small_message">A imagem não tem a dimensão necessária</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Contacto inválido</string>
@@ -483,6 +486,8 @@
   <string name="recommend_loading">A carregar</string>
   <string name="recommend_refresh">Actualizar</string>
   <string name="recommend_xout">Não mostrar</string>
+  <string name="remove_dialog_message">As aplicações seleccionadas contêm funcionalidades essenciais. Apenas pode remover os atalhos do ecrã inicial</string>
+  <string name="remove_dialog_title_format">Remover \"%s\" do ecrã inicial?</string>
   <string name="remove_invalidate_gadget_tips">Um dos widgets que utiliza já não está disponível. Pode adicionar outro</string>
   <string name="reset_cate_tip_content">Se continuar, os grupos predefinidos vão ser restaurados. Continuar mesmo assim?</string>
   <string name="reset_cate_tip_title">Restaurar grupos predefinidos</string>

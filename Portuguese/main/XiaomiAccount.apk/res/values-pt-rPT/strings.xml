@@ -107,6 +107,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="diagnosis_log_sent_format">"Registo de diagnóstico enviado com sucesso.
 ID:%s
 Envie este código ao supervisor"</string>
+  <string name="download_file">A transferir %s…</string>
   <string name="empty_device_list_notice">Sem dispositivos</string>
   <string name="ep_unsupported">Não é possível iniciar sessão na Conta Mi no seu dispositivo</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
@@ -317,6 +318,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_login_instead_reg">Utilizar este número</string>
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
   <string name="passport_login_other_account">Outra conta</string>
+  <string name="passport_login_other_phone">Utilizar outra conta</string>
   <string name="passport_login_prompt">Todos os serviços Mi. Uma Conta Mi</string>
   <string name="passport_login_recycle_account_no">Não</string>
   <string name="passport_login_recycle_account_yes">Sim</string>
@@ -334,6 +336,8 @@ Envie este código ao supervisor"</string>
   <string name="passport_prev">Voltar</string>
   <string name="passport_privacy_policy">Política de Privacidade</string>
   <string name="passport_privacy_policy_required">Política de Privacidade (necessário)</string>
+  <string name="passport_provision_input_email_register_prompt">Os seus dados pessoais vão ser armazenados de acordo com as leis e regulamentos da região que seleccionou</string>
+  <string name="passport_provision_password_req_notice">%1$d-%2$d caracteres de pelo menos %3$d dos seguintes tipos: letras, dígitos e símbolos especiais</string>
   <string name="passport_pwd_generate_failure">Não foi possível gerar palavra-passe</string>
   <string name="passport_pwd_generating">A gerar…</string>
   <string name="passport_querying_phone_info">A pedir informações da conta…</string>
@@ -370,6 +374,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
   <string name="passport_register_using_other_ways">Outros métodos de criação de conta</string>
   <string name="passport_registered_phone_num">Telefone: %s</string>
+  <string name="passport_registered_phone_num_v2">Número de telefone</string>
   <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
   <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
   <string name="passport_reject_recycle_account">Não</string>
@@ -453,6 +458,9 @@ Envie este código ao supervisor"</string>
   <string name="phone_num_use_for">Número de telefone utilizado para:</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
+  <string name="provision_back">Voltar</string>
+  <string name="provision_next">Seguinte</string>
+  <string name="provision_skip_underline">Ignorar</string>
   <string name="push_notification_content">Obter código de verificação</string>
   <string name="push_notification_title">Iniciou sessão na Conta Mi num dispositivo desconhecido</string>
   <string name="push_notify_dialog_message">Um dispositivo desconhecido foi utilizado para iniciar sessão na sua Conta Mi. Introduza este código de verificação no dispositivo. Se não o fez, altere a palavra-passe da sua Conta Mi. Não divulgue o código de verificação a outras pessoas</string>

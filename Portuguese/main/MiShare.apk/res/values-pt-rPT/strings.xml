@@ -22,6 +22,7 @@
   <string name="enable_midrop">Ligar</string>
   <string name="error_ap_or_screen_already_hosting">Não é possível enviar itens para outros dispositivos enquanto estiver a transmitir ou a utilizar o PA Móvel</string>
   <string name="error_device_lost">O outro dispositivo está fora do alcance. Aguarde um momento e tente novamente</string>
+  <string name="error_mirror_working">Não é possível partilhar itens enquanto partilha o ecrã</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente</string>
   <string name="error_receive_file_cannot_read">Não foi possível receber</string>
   <string name="error_receive_file_changed">Não é possível receber. O item foi alterado</string>
@@ -30,6 +31,7 @@
   <string name="error_receive_user_interrupted">A outra pessoa cancelou a transferência</string>
   <string name="error_refuse_receive">Transferência cancelada</string>
   <string name="error_remote_busy">O outro dispositivo está ocupado. Aguarde um momento e tente novamente</string>
+  <string name="error_remote_mirror_working">O outro dispositivo não pode aceitar itens enquanto estiver a partilhar o ecrã</string>
   <string name="error_self_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente</string>
   <string name="error_send_file_cannot_read">Não foi possível enviar o ficheiro. Tente novamente</string>
   <string name="error_send_file_no_enough_space">Não é possível enviar. Sem espaço de armazenamento no outro dispositivo</string>
@@ -79,6 +81,7 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
   <string name="scanning_only_xiaomi_device">Este item apenas pode ser transferido para dispositivos Xiaomi ou Black Shark</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="send_file">Enviar ficheiro</string>
+  <string name="send_files_by">Partilhar ficheiros via</string>
   <string name="send_files_to">Enviar itens para</string>
   <string name="send_files_to_remote_success">Itens enviados para %1$s com sucesso</string>
   <string name="sender_error">Não foi possível enviar. Aguarde um momento e tente novamente</string>
@@ -96,7 +99,7 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
   <string name="tile_state_active">Ligado</string>
   <string name="tile_state_inactive">Desligado</string>
   <string name="tile_state_unavailable">Não disponível</string>
-  <string name="tips_prompt_enable_midrop">Partilhar ficheiro com dispositivos próximosShare files with devices nearby</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
   <string name="transfer_to_pc_summary">Pode utilizar o Mi Share para enviar itens para Mi Notebooks directamente. Nos outros portáteis tem de instalar o Mi Share primeiro</string>
   <string name="transfer_to_pc_title">Enviar ficheiros para computadores</string>

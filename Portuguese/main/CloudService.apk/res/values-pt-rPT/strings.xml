@@ -201,6 +201,8 @@
 Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_dspt_provision">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_dspt_provision_china">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
+  <string name="micloud_dspt_provision_china_v2">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
+  <string name="micloud_dspt_provision_v2">Utilizar a Xiaomi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_dspt_provision_xms">Utilizar a Xiaomi Cloud para sincronizar dados</string>
   <string name="micloud_dspt_provision_xms_china">Utilizar a Xiaomi Cloud para sincronizar dados</string>
   <string name="micloud_find_device_close_alert_content">Se desligar Localizar Dispositivo, não vai poder localizar o seu dispositivo em caso de o perder</string>
@@ -222,6 +224,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_find_device_guide_fail_reopen">Pode ligar Localizar Dispositivo em Conta Mi - Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas, e mais com a Xiaomi Cloud</string>
+  <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronizar contactos, fotos, notas, e mais com a Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_noti_content">Proteja os seus dados quando o seu dispositivo estiver perdido</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Os seus dados QQ vão estar seguros mesmo se perder o seu dispositivo</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Os seus dados WeChat vão estar seguros mesmo se perder o seu dispositivo</string>
@@ -340,6 +343,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_setting_gallery_summary">Fotos e vídeos</string>
   <string name="micloud_setting_music_summary">Listas de reprodução e favoritos</string>
   <string name="micloud_setting_notes_summary">Notas</string>
+  <string name="micloud_setting_notes_summary_v2">Notes</string>
   <string name="micloud_setting_personal_assistant_summary">Assistente e funcionalidades</string>
   <string name="micloud_setting_phrase_summary">Frases frequentes</string>
   <string name="micloud_setting_recorder_summary">Gravações de áudio e chamadas</string>
@@ -359,6 +363,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Xiaomi Cloud expira em breve</string>
   <string name="micloud_storage_full">A Xiaomi Cloud está cheia</string>
   <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos</string>
+  <string name="micloud_sync_alert_dialog_message_v2">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos</string>
   <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Utilizar Xiaomi Cloud</string>
@@ -450,6 +455,8 @@ A localização pode não ser reportada quando a ligação de rede for fraca"</s
   <string name="privacy_dialog_finddevice_all_purpose_phone">Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido</string>
   <string name="privacy_dialog_sync_all_purpose">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
   <string name="privacy_dialog_sync_all_purpose_china">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
+  <string name="privacy_dialog_sync_all_purpose_china_v2">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
+  <string name="privacy_dialog_sync_all_purpose_v2">Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados</string>
   <string name="privacy_doc_cloudservice">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados.
 
 É necessário uma mensagem SMS para activar este serviço. Quando troca de cartão SIM, é enviada uma mensagem automaticamente para reactivar esta funcionalidade.
@@ -486,14 +493,37 @@ Para sincronizar mensagens
 &amp;#8226; Aceder a MMS:
 Para sincronizar mensagens
 &amp;#8226; Aceder a contactos:
-For syncing contacts
-&amp;#8226; Editing contacts:
+Para sincronizar contactos
+&amp;#8226; Editar contactos:
 Para sincronizar contactos
 &amp;#8226; Armazenamento:
 Para guardar itens no seu dispositivo (p.e. imagens, vídeos, música)
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar a Xiaomi Cloud
 "</string>
+  <string name="privacy_doc_cloudservice_china_v2">"Bem-vindo ao serviços Xiaomi Cloud! Pode utilizar a Xiaomi Cloud para sincronizar mensagens, registo de chamadas, contactos, notas, etc. entre todos os dispositivos ligados.
+
+É necessário uma mensagem SMS para activar este serviço. Quando troca de cartão SIM, é enviada uma mensagem automaticamente para reactivar esta funcionalidade.
+
+As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
+
+Para funcionar normalmente, a Xiaomi Cloud necessita de ligar à Internet e das seguintes permissões para obter as suas informações pessoais:
+&amp;#8226; Calendário:
+Para sincronizar eventos
+&amp;#8226; Aceder a SMS:
+Para sincronizar mensagens
+&amp;#8226; Aceder a MMS:
+Para sincronizar mensagens
+&amp;#8226; Aceder a contactos:
+Para sincronizar contactos
+&amp;#8226; Editar contactos:
+Para sincronizar contactos
+&amp;#8226; Armazenamento:
+Para guardar itens no seu dispositivo (p.e. imagens, vídeos, música)
+Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
+Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar a Xiaomi Cloud
+"</string>
+  <string name="privacy_doc_cloudservice_global">A Xiaomi Cloud necessita de ligar à Internet para funcionar normalmente. Leia e concorde com os nossos &lt;a href=%1$s>&lt;u>Termos de Utilização&lt;/u>&lt;/a> e &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de utilizar os serviços da Xiaomi Cloud</string>
   <string name="privacy_doc_finddevice_pad">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
@@ -505,7 +535,6 @@ Para localizar o seu dispositivo e alterar para o modo perdido
 Se não concordar com as permissões ou com o envio dos seus dados pessoais, não vai poder utilizar estes serviços. Pode desinstalar esta aplicação, terminar sessão ou restringir permissões nas Definições.
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
-  <string name="privacy_doc_cloudservice_global">A Xiaomi Cloud necessita de ligar à Internet para funcionar normalmente. Leia e concorde com os nossos &lt;a href=%1$s>&lt;u>Termos de Utilização&lt;/u>&lt;/a> e &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de utilizar os serviços da Xiaomi Cloud</string>
   <string name="privacy_doc_finddevice_phone">"Bem-vindo ao Localizar Dispositivo! Pode utilizar este serviço para localizar, bloquear ou eliminar dados no seu dispositivo se estiver perdido. Pode ir a "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" para localizar, bloquear ou repô-lo.
 
 As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade.
@@ -546,6 +575,9 @@ Se não concordar com as permissões ou com o envio dos seus dados pessoais, nã
 Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Termos de Utilização &lt;/a&gt;&lt;/u&gt;e&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Política de Privacidade &lt;/a&gt;&lt;/u&gt;"antes de utilizar o Localizar Dispositivo
 "</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="provision_back">Voltar</string>
+  <string name="provision_next">Seguinte</string>
+  <string name="provision_skip_underline">Ignorar</string>
   <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>
   <string name="reading_status_failure">Não foi possível carregar estado</string>
@@ -686,14 +718,13 @@ Leia e concorde com os nossos"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sync_dspt_entrance_provision">"Sincronize as suas fotos, contactos e outros itens em todos seus dispositivos. Pode aceder aos dados sincronizados em %s. "</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Não utilizar</string>
   <string name="sync_dspt_entrance_provision_confirm_content">As aplicações de sistema da MIUI necessitam da Xiaomi Cloud para fazer cópias das suas fotos, contactos, notas, etc. A Xiaomi Cloud é gratuita e pronta a ser utilizada</string>
+  <string name="sync_dspt_entrance_provision_confirm_content_v2">As aplicações de sistema da MIUI necessitam da Xiaomi Cloud para fazer cópias das suas fotos, contactos, notas, etc. A Xiaomi Cloud é gratuita e pronta a ser utilizada</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utilizar a Xiaomi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Não utilizar a Xiaomi Cloud?</string>
   <string name="sync_dspt_entrance_provision_network">"Esta aplicação necessita de aceder à Internet para funcionar normalmente. "</string>
   <string name="sync_dspt_entrance_provision_network_china">"Esta aplicação necessita de aceder à Internet para funcionar normalmente ."</string>
   <string name="sync_dspt_entrance_provision_skip">Ignorar este passo</string>
-  <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
-  <string name="sync_dspt_provision3">". Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições.
-"</string>
+  <string name="sync_dspt_entrance_provision_v2">"Sincronize as suas fotos, contactos e outros itens em todos seus dispositivos. Pode aceder aos dados sincronizados em %s. ".</string>
   <string name="sync_item_autofill_summary">Encriptar as suas palavras-passe e sincronizá-las com a Xiaomi Cloud automaticamente</string>
   <string name="sync_item_autofill_title">Sincronizar automaticamente</string>
   <string name="sync_item_calllog_summary">Sincronizar registos das chamadas efectuadas e recebidas</string>

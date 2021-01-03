@@ -186,10 +186,13 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="other_device_second_space">Segundo espaço</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
+  <string name="provision_back">Voltar</string>
   <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
   <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
   <string name="provision_error_connect_title">Não é possível ligar à rede</string>
+  <string name="provision_next">Seguinte</string>
   <string name="provision_restore_data">A restaurar itens</string>
+  <string name="provision_skip_underline">Ignorar</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Xiaomi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Xiaomi Cloud anteriores?</string>
   <string name="recover_home_settings">Restaurar definições do ecrã inicial</string>

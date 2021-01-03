@@ -242,6 +242,8 @@
   <string name="function_app_lock_title">%d aplicações contêm riscos de privacidade​</string>
   <string name="garbage_clean_detail">Detalhes</string>
   <string name="garbage_month">Limpou %s este mês</string>
+  <string name="gb_global_icon_ad_card_btn">Obter</string>
+  <string name="gb_global_icon_ad_card_title">Sugerido para si</string>
   <string name="global_wa_audio">Áudio</string>
   <string name="global_wa_audio_item_title">Mensagens de voz</string>
   <string name="global_wa_backend_alert_dialog_content">Libertar espaço ao limpar itens do WhatsApp</string>

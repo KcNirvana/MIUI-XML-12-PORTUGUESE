@@ -71,10 +71,14 @@
   <string name="device_status_success">Enviado com sucesso</string>
   <string name="device_status_waiting">A aguardar…</string>
   <string name="device_type_pc">Computador</string>
+  <string name="disable_nfc">NFC desligado devido a carregamento sem fios</string>
+  <string name="disable_nfc_reverse">NFC desligado devido a carregamento reverso sem fios</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">0,0068€ por minuto para chamadas nacionais</string>
   <string name="enable_livetalk_title">Activar pacote de carregamento</string>
   <string name="enable_midrop">Ligar</string>
+  <string name="enable_nfc">Não está a carregar. NFC ligado</string>
+  <string name="enable_nfc_reverse">Não está a carregar. NFC ligado</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analisar? Este relatório pode conter informações pessoais. O seu relatório vai ser utilizado para ajudar a corrigir este erro e nunca vai ser partilhado em qualquer contexto comercial</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
   <string name="first_back_long_press_message">Para definir acções personalizadas de toque dos botões de navegação vá a Definições &gt; Definições adicionais &gt; Botões</string>
@@ -87,6 +91,8 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ligar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Ligar Toque rápido</string>
+  <string name="freeform_exchange_tip">Soltar para abrir aplicação</string>
+  <string name="freeform_exchange_tip2">Arrastar para o canto para cancelar</string>
   <string name="frequent_email">Emails utilizados frequentemente</string>
   <string name="frequent_phrases">Frases freqs.</string>
   <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
@@ -116,6 +122,7 @@
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+  <string name="magic_window_toast">App Multiplier enabled</string>
   <string name="maml_component_customization_title">Definições</string>
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
   <string name="memory_clear_result">%1$sB limpos</string>
@@ -249,7 +256,6 @@
   <string name="switch_brand_desc_tv">Serviços de segurança fornecido por Graphite</string>
   <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
   <string name="switching_tv">A trocar…</string>
-  <string name="talk_back_conflict_with_handy_mode">Não é possível utilizar o Modo Uma Mão com o TalkBack ligado</string>
   <string name="talk_back_water_mark_string1">TalkBack ligado</string>
   <string name="talk_back_water_mark_string2">Prima e segure \"Volume+\" e \"Volume-\" por 3 segundos para desligar</string>
   <string name="throwing_print">Imprimir</string>
@@ -261,10 +267,6 @@
   <string name="translation_more">Mais</string>
   <string name="translation_query_error">Não foi possível encontrar resultados</string>
   <string name="translation_query_error_network">Não foi possível obter informações. Verifique a ligação à rede e tente novamente</string>
-  <string name="trial_mode_dialog_button_cancel">Cancelar</string>
-  <string name="trial_mode_dialog_button_save">Guardar</string>
-  <string name="trial_mode_dialog_message">\"%s\" está a ser executado em modo experiência. Reiniciar ou trocar para o Modo Velocidade vai eliminar este jogo. Guardar o jogo no dispositivo?</string>
-  <string name="trial_mode_dialog_title">Modo experiência</string>
   <string name="turn_off">Desligar</string>
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconhecido</string>
