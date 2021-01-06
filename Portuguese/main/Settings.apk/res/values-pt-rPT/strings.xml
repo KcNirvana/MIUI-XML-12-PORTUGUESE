@@ -4041,7 +4041,6 @@ Não pode reverter esta acção!"</string>
   <string name="menu_use_uss">Utilizar Uss</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_indonesia">Mi Pay Account</string>
-  <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
   <string name="mi_pay_summary">Transport card/Mi Pay/Key card</string>
   <string name="mi_pay_summary_without_nfc">Mi Pay</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados</string>
@@ -5212,7 +5211,6 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="privacy_gallery">Fotos</string>
   <string name="privacy_header_text_less_than_half">Sem espaço para esta aplicação. Arraste o separador ainda mais</string>
   <string name="privacy_mms">Mensagens</string>
-  <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
   <string name="privacy_mode_dialog_message">Mensagens, notas, fotos e definições vão ser ocultas no Modo Convidado. Alterar para Modo Convidado?</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições e chamadas recebidas</string>
