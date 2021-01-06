@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="acousticguitar">Guitarra acústica</string>
-  <string name="africaanimals_preview">Savanna</string>
+  <string name="africaanimals_preview">Savana</string>
   <string name="alarmclock">Despertador</string>
   <string name="amazonanimals_preview">Floresta tropical</string>
   <string name="android_ringtone_default_with_actual">Toque predefinido (%1$s)</string>

@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="already_newest_version">A versão actual está actualizada</string>
+  <string name="app_name">Papéis de parede</string>
+  <string name="cancel_download">Transferência cancelada</string>
   <string name="earth_summary">A Terra é o berço da civilização humana</string>
   <string name="earth_super_wallpaper_label">Terra</string>
   <string name="earth_title">O nosso planeta</string>
   <string name="game_view_content_description">Vista de jogo</string>
+  <string name="geometry_summary">Formas, luzes e cores</string>
+  <string name="geometry_super_wallpaper_label">Geometria</string>
+  <string name="geometry_title">Geometria</string>
   <string name="install_failed">Não foi possível instalar</string>
   <string name="mars_position_content_0">Esta região contém falésias, declives e vales que se acredita terem sido causados por glaciares cobertos de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na pesquisa por evidências de vida em Marte</string>
   <string name="mars_position_content_1">Tirada durante a exploração do rover Curiosity a Marte nas colinas de Pahrump na cratera de Gale. Esta região contém rochas sedimentares que os cientistas acreditam que se formaram na presença de água. As áreas escuras são areia</string>
@@ -37,15 +43,20 @@ dd/M"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
+  <string name="no_install_permission">Não tem permissões para instalar este item</string>
   <string name="saturn_summary">Os anéis de Saturno fazem o espetáculo mais incrível do Sistema Solar</string>
   <string name="saturn_super_wallpaper_label">Saturno</string>
   <string name="saturn_title">Anéis distantes</string>
+  <string name="snowmountain_summary">Encostas da montanha iluminadas pelo sol do monte Siguniang</string>
+  <string name="snowmountain_super_wallpaper_label">Picos nevados</string>
+  <string name="snowmountain_title">Picos nevados</string>
   <string name="super_wallpaper_list_label">Super papéis de parede</string>
   <string name="super_wallpaper_setting_apply_success_toast">Aplicado com sucesso</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplicar</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Seleccionar localização</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="task_already_exist">Esta tarefa já existe</string>
   <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
   <string name="wallpaper_setting_find_more_text">Mais papéis de parede online</string>
@@ -56,4 +67,8 @@ dd/M"</string>
   <string name="wallpaper_setting_online_wallpaper_title">Papéis de parede online</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Super papéis de parede</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Mais</string>
+  <string name="wallpaper_setting_title">Papéis de parede</string>
+  <string name="weather_summary">Informações de tempo</string>
+  <string name="weather_super_wallpaper_label">Tempo</string>
+  <string name="weather_title">Tempo</string>
 </resources>

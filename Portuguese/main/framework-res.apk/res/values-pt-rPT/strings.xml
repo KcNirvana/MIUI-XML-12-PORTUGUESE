@@ -17,7 +17,7 @@
   <string name="CwMmi">Chamada em espera</string>
   <string name="DndMmi">Não incomodar</string>
   <string name="EmergencyCallWarningSummary">As chamadas de emergência necessitam de uma rede móvel</string>
-  <string name="EmergencyCallWarningTitle">As chamadas Wi-Fi estão activas</string>
+  <string name="EmergencyCallWarningTitle">As Chamadas Wi-Fi estão activas</string>
   <string name="Midnight">Meia-noite</string>
   <string name="Noon">Meio-dia</string>
   <string name="PinMmi">Alteração de PIN</string>

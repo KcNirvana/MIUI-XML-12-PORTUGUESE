@@ -116,6 +116,7 @@
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
   <string name="accessibility_record_button">Botão de Gravar</string>
   <string name="accessibility_reduce">Zoom out</string>
+  <string name="accessibility_reference_line_text">Painel de ajuste de linha de referência</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_select_all">Seleccionar tudo</string>
   <string name="accessibility_select_all_end">Tudo seleccionado</string>
@@ -311,6 +312,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="button_front_camera_title">Tirar uma selfie</string>
   <string name="button_normal_video_title">Gravar vídeo</string>
   <string name="camcorder_tip_8k_max_video_duration">Pode gravar até 6 minutos em 8K</string>
+  <string name="camcorder_tip_current_max_video_duration">Pode gravar até %d minutos na resolução actual</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_facedetection_sub_option_hint">Funcionalidade experimental</string>
@@ -328,10 +330,10 @@ e ajustar as preferências automaticamente"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o telefone firme</string>
   <string name="capture_back_pressed_hint">Toque novamente para sair</string>
-  <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
   <string name="ccc_temperature_warning_msg">O seu dispositivo está superaquecido. A câmara vai ser fechado em %d segundos. As suas fotos ou vídeos vão ser guardadas automaticamente</string>
   <string name="ccc_temperature_warning_title">O dispositivo está superaquecido</string>
+  <string name="center_mark">Marca central</string>
   <string name="clone_recapture_alert">Começar de novo?</string>
   <string name="clone_too_much_movement_stop">Moveu o dispositivo para muito longe. Parou de capturar por enquanto</string>
   <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
@@ -417,7 +419,6 @@ e ajustar as preferências automaticamente"</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">A lente está suja. Limpe-a</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
-  <string name="doc_shortcut_long">Documentos</string>
   <string name="doc_shortcut_short">Documentos</string>
   <string name="document_blackwhite">Preto e branco</string>
   <string name="document_blur_warn">O texto está desfocado</string>
@@ -584,6 +585,8 @@ no modo Retrato"</string>
   <string name="lying_direct_hint">Orientação actual</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">A distância entre as lentes e o objecto não deve exceder 10cm</string>
+  <string name="manual_picture_style">Parâmetros</string>
+  <string name="manually_raw_hint">RAW</string>
   <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
   <string name="mimoji_save_gif_emoticon">Guardar stickers GIF na Galeria?</string>
   <string name="miservice_notification_content">Toque para saber mais</string>
@@ -619,7 +622,8 @@ no modo Retrato"</string>
   <string name="module_name_square">Quadrado</string>
   <string name="module_name_super_moon">Super Lua</string>
   <string name="module_name_video">Vídeo</string>
-  <string name="module_name_vlog">Vlog</string>
+  <string name="module_name_video_cast">VídeoCast</string>
+  <string name="module_name_vlog">VLog</string>
   <string name="moive_frame">Quadro do filme</string>
   <string name="moon">Lua</string>
   <string name="more_mode_style">Seleccionar a organização dos modos da câmara</string>
@@ -675,6 +679,7 @@ Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://
   <string name="parameter_lens_w">WIDE (lentes amplas)</string>
   <string name="parameter_log_format_description">Este formato grava vídeo com funções logarítmicas aplicadas à curva de exposição para capturar mais detalhes em realces e sombras</string>
   <string name="parameter_log_format_title">Formato LOG</string>
+  <string name="parameter_manual_picturestyle_description">A saturação permite controlar a profundidade e intensidade das cores, ajustar o contraste para revelar ou minimizar a diferença entre claro e escuro e a nitidez renderiza os detalhes ao longo dos contornos</string>
   <string name="parameter_metering_description">A medição média leva em consideração todas as áreas da sua imagem, funcionando melhor em cenas com iluminação uniforme. A medição ponderada ao centro concentra-se principalmente na área central do quadro e leva em consideração o brilho da área circundante, adequada para fotografar informação no centro do quadro. A medição pontual cobre apenas a área num ponto, oferecendo um controle preciso sobre a exposição</string>
   <string name="parameter_metering_title">Modos de medição</string>
   <string name="parameter_peak_focus_description">Quando está a focar manualmente, utilize o foco máximo para colocar um destaque vermelho na área em foco</string>
@@ -683,7 +688,7 @@ Ao clicar em \"Concordar\", está a concordar com os nossos "&lt;a href="http://
   <string name="parameter_peak_raw_title">Formato RAW</string>
   <string name="parameter_wb_description">Além das predefinições do balanço de brancos (incandescente, luz do dia, fluorescente, nublado), também pode definir o balanço de brancos para um valor personalizado dentro da faixa de 2000 a 8000 Kelvin</string>
   <string name="parameter_wb_title">Balanço dos brancos</string>
-  <string name="parameter_zoom_slider_description">Arraste o controle deslizante do zoom para cima e para baixo para alterar o zoom da sua foto</string>
+  <string name="parameter_zoom_slider_description">Arraste o controle deslizante do zoom horizontalmente para alterar o zoom da sua foto</string>
   <string name="parameter_zoom_slider_title">Zoom</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
   <string name="photo_assistance_tips_title">Dicas live</string>
@@ -937,6 +942,11 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_recordlocation_entry_on">Ligado</string>
   <string name="pref_camera_recordlocation_title">Guardar localização</string>
   <string name="pref_camera_referenceline_title">Mostrar linhas de grelha</string>
+  <string name="pref_camera_reference_capture_title">Linha de referência</string>
+  <string name="pref_camera_reference_capture_title_golden_section">Seccção dourada</string>
+  <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
+  <string name="pref_camera_reference_capture_title_left_golden_spiral">Espiral dourada esquerda</string>
+  <string name="pref_camera_reference_capture_title_right_golden_spiral">Espiral dourada direita</string>
   <string name="pref_camera_saturation_title">Saturação</string>
   <string name="pref_camera_scenemode_entry_auto">Automático</string>
   <string name="pref_camera_scenemode_entry_backlight">Luz de fundo</string>
@@ -1050,6 +1060,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_google_lens_summary">Aponte a sua câmara para as informações do contacto, URLs e códigos QR para ver as opções disponíveis</string>
   <string name="pref_google_lens_title">Sugestões Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Optimizar cores para vídeos em 4K (HDR10+) e 8K (HDR10). Esta funcionalidade apenas funciona em dispositivos compatíveis com HDR10+/HDR10</string>
   <string name="pref_hdr10_video_mode_description">Optimizar cores e contraste para vídeos em 4K e 8K automaticamente</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimizar cores e ajustar contraste de vídeos 4K e 8K. Esta funcionalidade é apenas para dispositivos HDR10+</string>
@@ -1136,7 +1147,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>
-  <string name="professional_shortcut_long">Pro</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="pro_color_mode">Cor Pro</string>
   <string name="recommend_macro_mode">Experimente o Modo Macro</string>
@@ -1144,6 +1154,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="recommend_soft_light_tip">Ligue o flash</string>
   <string name="recommend_super_night">Experimente o Modo Nocturno</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para terminar a gravação</string>
+  <string name="reset_manual_picture_style_toast">Parâmetros repostos com sucesso</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
   <string name="reset_manually_parameter_hint">Repor</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
@@ -1271,6 +1282,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_bokeh_blur">Desfocagem</string>
   <string name="video_bokeh_color_point">Manchas de cor</string>
   <string name="video_bokeh_spin">Rodar</string>
+  <string name="video_bokeh_zoom">Zoom</string>
   <string name="video_bokeh_zoom_in">Zoom in</string>
   <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Máquina de filmar</string>
@@ -1290,17 +1302,16 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_effect_entry_summer_day">Verão</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
-  <string name="video_shortcut_long">Vídeo</string>
   <string name="video_shortcut_short">Vídeo</string>
   <string name="video_tag_flag_title">Marcar</string>
   <string name="view_privacy_policy">Ver Política de Privacidade</string>
   <string name="vv_duartion_hint">%1$s | Segmento %2$d | %3$ss</string>
-  <string name="vv_hint">Apenas pode gravar Vlogs em modo paisagem</string>
+  <string name="vv_hint">Apenas pode gravar VLogs em modo paisagem</string>
   <string name="vv_stability_hint">Mantenha o dispositivo estável</string>
-  <string name="vv_start">Gravar Vlog</string>
-  <string name="vv_use_hint_text_body">"O modo Vlog permite
+  <string name="vv_start">Gravar VLog</string>
+  <string name="vv_use_hint_text_body">"O modo VLog permite
 gravar e editar vídeos no momento"</string>
-  <string name="vv_use_hint_text_title">Vlog</string>
+  <string name="vv_use_hint_text_title">VLog</string>
   <string name="wait">Aguarde…</string>
   <string name="watermark_tab_city">Cidades</string>
   <string name="watermark_tab_festival">Férias</string>

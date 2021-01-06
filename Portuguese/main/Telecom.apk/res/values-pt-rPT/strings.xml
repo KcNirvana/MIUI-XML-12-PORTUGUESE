@@ -88,7 +88,7 @@
   <string name="bluetooth_hearingaid_left_pairing_message">A emparelhar aparelho auditivo do lado esquerdo…</string>
   <string name="bluetooth_hearingaid_right_battery_level">Lado direito - bateria %1$s</string>
   <string name="bluetooth_hearingaid_right_pairing_message">A emparelhar aparelho auditivo do lado direito…</string>
-   <string name="bluetooth_hid_profile_summary_connected">Ligado a um dispositivo de entrada</string>
+  <string name="bluetooth_hid_profile_summary_connected">Ligado a um dispositivo de entrada</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilizar para entrada</string>
   <string name="bluetooth_map_profile_summary_connected">Ligado ao mapa</string>
   <string name="bluetooth_map_profile_summary_use_for">Utilizar para o mapa</string>

@@ -1,28 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">%d dia atrás</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">%d minuto atrás</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d anos atrás</item>
+        <item quantity="one">%d ano atrás</item>
+    </plurals>
     <plurals name="accessibility_usage_summary">
         <item quantity="other">%1$d aplicações com acesso total ao seu dispositivo</item>
         <item quantity="one">1 aplicação com acesso total ao seu dispositivo</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Atraso extremamente curto (%1$d ms)</item>
-        <item quantity="one">Atraso extremamente curto (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Atraso muito curto (%1$d ms)</item>
-        <item quantity="one">Atraso muito curto (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Atraso curto (%1$d ms)</item>
-        <item quantity="one">Atraso curto (%1$d ms)</item>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s segundos</item>
+        <item quantity="one">%1$s segundo</item>
+        <item quantity="few">%1$s segundos</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Atraso longo (%1$d ms)</item>
-        <item quantity="one">Atraso longo (%1$d ms)</item>
+        <item quantity="other">Longo (%1$s segundos)</item>
+        <item quantity="one">Longo (%1$s segundo)</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Atraso muito longo (%1$d ms)</item>
-        <item quantity="one">Atraso muito longo (%1$d ms)</item>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Médio (%1$s segundos)</item>
+        <item quantity="one">Médio (%1$s segundo)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Curto (%1$s segundos)</item>
+        <item quantity="one">Curto (%1$s segundo)</item>
+    </plurals>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">A aplicação refere que consegue processar %d links.</item>
+        <item quantity="one">A aplicação refere que consegue processar %d link</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Desligado para %d aplicações</item>
@@ -40,6 +53,30 @@
         <item quantity="other">%d aplicações podem iniciar automaticamente</item>
         <item quantity="one">%d aplicação pode iniciar automaticamente</item>
     </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d aplicações restringidas</item>
+        <item quantity="one">%1$d aplicação restringida</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Restringir %1$d aplicações?</item>
+        <item quantity="one">Restringir a aplicação?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">Não é possível executar estas aplicações em segundo plano</item>
+        <item quantity="one">Não é possível executar esta aplicação em segundo plano</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d aplicações restringidas recentemente</item>
+        <item quantity="one">%1$s aplicação restringida recentemente</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d aplicações têm uma utilização elevada da bateria em segundo plano</item>
+        <item quantity="one">%1$s aplicação tem uma utilização elevada da bateria em segundo plano</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Restringir %1$d aplicações</item>
+        <item quantity="one">Restringir %1$d aplicação</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicações podem ligar-se à rede</item>
         <item quantity="one">%d aplicação pode ligar-se à rede</item>
@@ -47,6 +84,10 @@
     <plurals name="bg_network_restrict_count">
         <item quantity="other">%d aplicações não podem ligar-se à rede</item>
         <item quantity="one">%d aplicação não pode ligar-se à rede</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
     </plurals>
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d dispositivos disponíveis</item>
@@ -112,6 +153,10 @@
         <item quantity="other">%s horas</item>
         <item quantity="one">1 hora</item>
     </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d aplicações ligadas</item>
+        <item quantity="one">%d aplicação ligada</item>
+    </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d de %2$d aplicações têm acesso à localização</item>
         <item quantity="one">%1$d de %2$d aplicações têm acesso à localização</item>
@@ -121,48 +166,52 @@
         <item quantity="one">Ligado - %1$d aplicação tem acesso à localização</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
+        <item quantity="other">Tem de ter pelo menos %d letras</item>
+        <item quantity="one">Tem de ter pelo menos uma letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula</item>
+        <item quantity="other">Tem de ter pelo menos %d letras minúsculas</item>
+        <item quantity="one">Tem de ter pelo menos uma letra minúscula</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra</item>
+        <item quantity="other">Tem de ter pelo menos %d caracteres sem letras</item>
+        <item quantity="one">Tem de ter pelo menos um caracter sem letra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Tem de ter pelo menos %d carateres que não sejam números</item>
+        <item quantity="one">Tem de ter pelo menos um caracter que não seja número</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d números</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um número</item>
+        <item quantity="other">Tem de ter pelo menos %d números</item>
+        <item quantity="one">Tem de ter pelo menos um número</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial</item>
+        <item quantity="other">Tem de ter pelo menos %d símbolos especiais</item>
+        <item quantity="one">Tem de ter pelo menos um símbolo especial</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
+        <item quantity="other">Tem de ter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">Tem de ter pelo menos uma letra maiúscula</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">Pode introduzir até %d caracteres</item>
         <item quantity="one">Pode introduzir até %d caracter</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Introduza pelo menos %d caracteres</item>
-        <item quantity="one">Introduza pelo menos %d caracter</item>
+        <item quantity="other">Introduzir pelo menos %d caracteres</item>
+        <item quantity="one">Introduzir pelo menos %d caracter</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">O PIN tem de ter %d dígitos</item>
         <item quantity="one">O PIN tem de ter %d dígito</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN pode ter até %d dígitos</item>
-        <item quantity="one">PIN pode ter até %d dígito</item>
+        <item quantity="other">Pode introduzir até %d dígitos</item>
+        <item quantity="one">Pode introduzir até %d dígito</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN tem de ter %d dígitos</item>
-        <item quantity="one">PIN tem de ter %d dígito</item>
+        <item quantity="other">Introduzir pelo menos %d dígitos</item>
+        <item quantity="one">Introduzir pelo menos %d dígito</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Ligue pelo menos %d pontos. Tente novamente</item>
@@ -177,16 +226,12 @@
         <item quantity="one">Tente novamente dentro de %d segundo</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d aplicações podem ler as notificações</item>
-        <item quantity="one">%d aplicação pode ler as notificações</item>
+        <item quantity="other">%d aplicações podem ler notificações</item>
+        <item quantity="one">%d aplicação pode ler notificações</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d agentes confiáveis activos</item>
         <item quantity="one">1 agente confiável activo</item>
-    </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d contas vão ser repostas</item>
-        <item quantity="one">1 contas vai ser reposta</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicações utilizaram a memória nos(as) últimos(as) %2$s</item>
@@ -200,6 +245,10 @@
         <item quantity="other">%d adicionados</item>
         <item quantity="one">%d adicionado</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">O Wi-Fi vai ser ligado automaticamente quando detectar redes guardadas próximas e desligar após %d minutos se não houver ligação</item>
+        <item quantity="one">O Wi-Fi vai ser ligado automaticamente quando detectar redes guardadas próximas e desligar após %d minuto se não houver ligação</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
@@ -208,13 +257,21 @@
         <item quantity="other">%1$d restrições</item>
         <item quantity="one">1 restrição</item>
     </plurals>
-    <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d canais de notificações</item>
-        <item quantity="one">%1$d canal de notificações</item>
+    <plurals name="notification_group_summary">
+        <item quantity="other">%d categorias</item>
+        <item quantity="one">%d categoria</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d notificações</item>
+        <item quantity="one">%d notificação</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Desligado para %d aplicações</item>
         <item quantity="one">Desligado para 1 aplicação</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item quantity="other">%d categorias desligadas</item>
+        <item quantity="one">%d categoria desligada</item>
     </plurals>
     <plurals name="notifications_sent_daily">
         <item quantity="other">~%d notificações por dia</item>
@@ -236,6 +293,14 @@
         <item quantity="other">%d permissões concedidas</item>
         <item quantity="one">%d permissão concedida</item>
     </plurals>
+    <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d aplicações estão a apresentar um comportamento anormal</item>
+        <item quantity="one">%1$s aplicação está a apresentar um comportamento anormal</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Aplicações a descarregar bateria</item>
+        <item quantity="one">%1$s a a descarregar bateria</item>
+    </plurals>
     <plurals name="print_jobs_summary">
         <item quantity="other">%1$d trabalhos de impressão</item>
         <item quantity="one">1 trabalho de impressão</item>
@@ -243,6 +308,14 @@
     <plurals name="print_settings_summary">
         <item quantity="other">%1$d serviços de impressão ligados</item>
         <item quantity="one">1 serviço de impressão ligado</item>
+    </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d conversas prioritárias</item>
+        <item quantity="one">%d conversa prioritária</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item quantity="other">Limiar a utilização da bateria para %1$d aplicações</item>
+        <item quantity="one">Limitar a utilização da bateria para %1$d aplicação</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d permissões adicionais</item>
@@ -264,17 +337,13 @@
         <item quantity="other">%1$d impressões digitais configuradas</item>
         <item quantity="one">%1$d impressão digital configurada</item>
     </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Ver todas as %1$d aplicações</item>
+        <item quantity="one">Ver todas as aplicações</item>
+    </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Mostrar %d itens ocultos</item>
         <item quantity="one">Mostrar %d item oculto</item>
-    </plurals>
-    <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">Está a %1$d passos de criar um registo de áudio</item>
-        <item quantity="one">Está a %1$d passo de criar um registo de áudio</item>
-    </plurals>
-    <plurals name="show_bluetooth_devices">
-        <item quantity="other">%1$d dispositivos ligados</item>
-        <item quantity="one">%1$d dispositivo ligado</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Está a %1$d passos de entrar nos testes de hardware</item>
@@ -284,13 +353,9 @@
         <item quantity="other">Está agora a %1$d passos de se tornar um programador</item>
         <item quantity="one">Está agora a %1$d passo de se tornar um programador</item>
     </plurals>
-    <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">Está a %1$d passos de criar um registo de GPS</item>
-        <item quantity="one">Está a %1$d passo de criar um registo de GPS</item>
-    </plurals>
-    <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">Está a %1$d passos de criar um registo do modem</item>
-        <item quantity="one">Está a %1$d passo de criar um registo do modem</item>
+    <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d aparelhos auditivos guardados</item>
+        <item quantity="one">%1$d aparelho auditivo guardado</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
@@ -299,10 +364,6 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Está a %1$d passos de criar um relatório de erros</item>
         <item quantity="one">Está a %1$d passo de criar um relatório de erros</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Está a %1$d passos de fazer uma reposição de fábrica</item>
-        <item quantity="one">Está a %1$d passo de fazer uma reposição de fábrica</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d aplicações podem utilizar dados sem restrição</item>
@@ -339,6 +400,14 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicações podem mostrar notificações</item>
         <item quantity="one">%d aplicação pode mostrar notificações</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d sugestões</item>
+        <item quantity="one">+1 sugestão</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d sugestões</item>
+        <item quantity="one">1 sugestão</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d itens</item>
@@ -425,29 +494,44 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="one">1 rede e subscrição</item>
     </plurals>
     <plurals name="wifi_saved_passpoint_access_points_summary">
-        <item quantity="other">%d subscriptions</item>
-        <item quantity="one">1 subscription</item>
+        <item quantity="other">%d subscrições</item>
+        <item quantity="one">1 subscrição</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d redes partilhadas</item>
         <item quantity="one">%d rede partilhada</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositivos ligados</item>
+        <item quantity="one">%1$d dispositivo ligado</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Código PIN inválido. Tem mais %d tentativas restantes</item>
         <item quantity="one">Código PIN inválido. Tem mais %d tentativa restante</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Notificações de %1$d aplicação podem sobrepor Não incomodar</item>
-        <item quantity="zero">Nenhuma aplicação pode sobrepor Não incomodar</item>
-        <item quantity="one">Notificações de 1 aplicação podem sobrepor Não incomodar</item>
+        <item quantity="other">%s podem interromper</item>
+        <item quantity="one">%s pode interromper</item>
+    </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d contactos</item>
+        <item quantity="one">1 contacto</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d conversas</item>
+        <item quantity="one">1 conversa</item>
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d horas</item>
         <item quantity="one">1 hora</item>
     </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s podem interromper</item>
+        <item quantity="one">%s pode interromper</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d activadas</item>
-        <item quantity="one">1 activada</item>
+        <item quantity="other">%d programações configuradas</item>
+        <item quantity="one">1 programação configurada</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">%d programações podem ligar automaticamente</item>

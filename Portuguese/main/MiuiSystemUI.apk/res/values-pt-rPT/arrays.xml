@@ -48,13 +48,13 @@
         <item>Optimizado para qualidade de áudio</item>
         <item>Balanço entre qualidade de áudio e ligação</item>
         <item>Optimizado para qualidade de ligação</item>
-        <item>Melhor efeito (Bit rate adaptável)</item>
+        <item>Melhor efeito (bit rate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Balanço entre qualidade de áudio e ligação (660kbps/606kbps)</item>
         <item>Optimizado para qualidade de ligação (330kbps/303kbps)</item>
-        <item>Melhor efeito (Bit rate adaptável)</item>
+        <item>Melhor efeito (bit rate automático)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Predefinição de sistema</item>
@@ -82,8 +82,6 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Activar codecs opcionais</item>
-        <item>Desactivar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Predefinição de sistema</item>
@@ -106,12 +104,17 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Predefinido)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Desactivado</item>
         <item>Filtrados</item>
+        <item>Activado</item>
         <item>Cabeçalhos filtrados</item>
         <item>Multimédia filtrado</item>
-        <item>Activado</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
@@ -153,6 +156,10 @@
         <item>Verificar só por conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Isto é conteúdo recomendado</item>
+        <item>Isto é um anúncio</item>
+    </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Desligado</item>
         <item>30 minutos</item>
@@ -188,25 +195,25 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desligado</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desligado</item>
-        <item>Mem. int. 64K p rg.</item>
-        <item>Mem. int. 256K p rg.</item>
-        <item>Mem. int. 1M p rg.</item>
-        <item>Mem. int. 4M p rg.</item>
-        <item>Mem. int. 16M p rg.</item>
+        <item>64 KB por buffer de registo</item>
+        <item>256 KB por buffer de registo</item>
+        <item>1 MB por buffer de registo</item>
+        <item>4 MB por buffer de registo</item>
+        <item>16 MB por buffer de registo</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desligado</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desligado</item>
@@ -273,35 +280,6 @@
         <item>RNDIS (Ethernet USB)</item>
         <item>Fonte de áudio</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Céu limpo</item>
-        <item>Céu nublado</item>
-        <item>Céu muito nublado</item>
-        <item>Nevoeiro</item>
-        <item>Tempestade forte</item>
-        <item>Aguaceiros</item>
-        <item>Tempestade</item>
-        <item>Trovoada</item>
-        <item>Chuva</item>
-        <item>Chuva forte</item>
-        <item>Chuva moderada</item>
-        <item>Chuva fraca</item>
-        <item>Chuva com neve</item>
-        <item>Tempestade de neve</item>
-        <item>Neve</item>
-        <item>Nevão</item>
-        <item>Neve moderada</item>
-        <item>Leve queda de neve</item>
-        <item>Forte tempestade de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Leve tempestade de areia</item>
-        <item>Ventoso</item>
-        <item>Granizo</item>
-        <item>Poeiras</item>
-        <item>Neblina</item>
-        <item>Chuva fria</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

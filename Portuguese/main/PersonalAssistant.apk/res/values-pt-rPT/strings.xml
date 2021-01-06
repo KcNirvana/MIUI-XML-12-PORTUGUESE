@@ -93,6 +93,8 @@
   <string name="app_pa_search">Pesquisar</string>
   <string name="app_pa_setting_bugreport">Comentários</string>
   <string name="app_pa_setting_global_display">Ecrã</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_option">Desfocar fundo de cartões</string>
+  <string name="app_pa_setting_global_display_backdrop_blur_summary">Desfocar o fundo de cartões atrasa a resposta do deslizar</string>
   <string name="app_pa_setting_global_display_blur_option">Desfocar papel de parede</string>
   <string name="app_pa_setting_global_display_blur_summary">Desfocar o papel de parede atrasa a resposta do deslizar</string>
   <string name="app_pa_setting_head_bg_img">Segundo plano</string>
@@ -151,6 +153,7 @@
   <string name="app_paycode_parent">Alipay</string>
   <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_no_time_title">&lt;1 min</string>
+  <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_support_false">Tempo de ecrã não suportado</string>
   <string name="app_screen_time_time">%1$d hr %2$d mins</string>
   <string name="app_screen_time_time_minute">%1$d mins</string>
@@ -282,13 +285,17 @@
   <string name="card_expand_note_clear_all">Limpar</string>
   <string name="card_expand_note_dialog_button">Percebi</string>
   <string name="card_expand_note_dialog_message">Uma nova nota é criada cada vez que carrega no botão \"Guardar\"</string>
-  <string name="card_expand_note_dialog_title">Guardar em Notas</string>
+  <string name="card_expand_note_dialog_message_new">Uma nova nota é criada cada vez que carrega no botão \"Guardar\"</string>
+  <string name="card_expand_note_dialog_title">A guardar em Notas</string>
+  <string name="card_expand_note_dialog_title_new">A guardar em Notas</string>
   <string name="card_expand_note_sure_clear_all">Limpar</string>
   <string name="card_expand_note_toast_clear_null">Limpo com sucesso</string>
+  <string name="card_expand_note_toast_install">Instalar Notas para poder utilizar esta funcionalidade</string>
+  <string name="card_expand_note_toast_install_new">Instalar Notas para poder utilizar esta funcionalidade</string>
   <string name="card_expand_note_toast_save_done">Guardado nas Notas</string>
+  <string name="card_expand_note_toast_save_done_new">Guardado nas Notas</string>
   <string name="card_expand_note_toast_save_dup">Guardado com sucesso</string>
   <string name="card_expand_note_toast_share_null">Esta nota está vazia</string>
-  <string name="card_expand_note_toast_install">Instalar Notas para poder utilizar esta funcionalidade</string>
   <string name="card_hint_noteboard">Toque aqui para tirar uma nota</string>
   <string name="card_menu_edit">Editar</string>
   <string name="card_menu_remove">Remover</string>
@@ -706,6 +713,7 @@
   <string name="req_no_sdata">Sem resultados</string>
   <string name="retry">Tente novamente</string>
   <string name="save_to_note">Guardar em Notas</string>
+  <string name="save_to_note_new">Guardar em Notas</string>
   <string name="scan">Digitalizar</string>
   <string name="scan_app">Digitalizador</string>
   <string name="scan_card">Cartões</string>
@@ -863,6 +871,8 @@
   <string name="timeline_headline">Próximos</string>
   <string name="toast_function_add_limit">Pode adicionar até %d atalhos</string>
   <string name="toast_function_remove_not_allowed">Tem de adicionar pelo menos 1 atalho</string>
+  <string name="toast_reach_text_limit_truncate">A sua nota é demasiado longa. O conteúdo em excesso foi trancado</string>
+  <string name="toast_reach_text_limit_truncate_new">A sua nota é demasiado longa. O conteúdo em excesso foi trancado</string>
   <string name="train_C">Comboio C</string>
   <string name="train_D">Comboio D</string>
   <string name="train_G">Comboio G</string>

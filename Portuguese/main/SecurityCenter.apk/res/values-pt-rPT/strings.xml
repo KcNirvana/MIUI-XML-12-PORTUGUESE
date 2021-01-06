@@ -117,7 +117,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
   <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
-  <string name="ai_allow_all">Notificar quando a permissão for utilizada para todos</string>
+  <string name="ai_allow_all">Decidir por mim em todos os casos</string>
   <string name="alert_back_diving_mode_summary">Desligar o modo imersivo?</string>
   <string name="alert_back_diving_mode_title">Modo imersivo</string>
   <string name="alert_back_milink_hangup_tips_content">A transmissão não vai ser interrompida enquanto estiver a desligar a chamada. Pode premir o botão Ligar/Desligar para ligar o ecrã</string>
@@ -153,7 +153,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e eliminar vírus eficazmente, vamos enviar o nome e propriedades dos pacotes das aplicações</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade é fornecida por um antivírus de terceiros. Para saber mais, leia os &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Licença&amp;lt;/a&amp;gt; fornecidos pela aplicação</string>
+  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade é fornecida por um antivírus de terceiros. Para saber mais, leia os Termos de Licença fornecidos pela aplicação</string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
@@ -172,6 +172,10 @@
   <string name="app_behavior_about_content_no_link">A MIUI pode mostrar quando aplicações iniciaram outras aplicações, iniciaram automaticamente, utilizaram permissões e executaram acções sensíveis. Devido a problemas de compatibilidade com a versão de Android, alguns destes registos podem não ser correctos. Se encontrar algum registo que não esteja correcto, reporte-o através da aplicação \"Serviços e comentários\"</string>
   <string name="app_behavior_about_negative">Reportar imprecisões</string>
   <string name="app_behavior_about_positive">Percebi</string>
+  <string name="app_behavior_access_gallery">%1s acedeu à Galeria</string>
+  <string name="app_behavior_access_gallery_single">Esta aplicação acedeu à Galeria</string>
+  <string name="app_behavior_access_sociality">%1s acedeu a mensagens em aplicações de redes sociais</string>
+  <string name="app_behavior_access_sociality_single">Esta aplicação acedeu a mensagens em aplicações de redes sociais</string>
   <string name="app_behavior_allowed">Permitir</string>
   <string name="app_behavior_audio">%1s gravou áudio</string>
   <string name="app_behavior_audio_bg">%1s gravou áudio em segundo plano</string>
@@ -205,6 +209,8 @@
   <string name="app_behavior_contacts_bg">%1s acedeu aos contactos em segundo plano</string>
   <string name="app_behavior_contacts_bg_single">Esta aplicação acedeu aos contactos em segundo plano</string>
   <string name="app_behavior_contacts_single">Esta aplicação acedeu aos contactos</string>
+  <string name="app_behavior_delete_pic">%1s eliminou itens da Galeria</string>
+  <string name="app_behavior_delete_pic_single">Esta aplicação eliminou itens da Galeria</string>
   <string name="app_behavior_denied">Restringir</string>
   <string name="app_behavior_desc_allow_once">Permitido às %1$s</string>
   <string name="app_behavior_desc_deny_once">Restringido às %1$s</string>
@@ -218,7 +224,7 @@
   <string name="app_behavior_key_location">Localização</string>
   <string name="app_behavior_key_protect">Proteger informações pessoais</string>
   <string name="app_behavior_kill_process">Forçar paragem</string>
-  <string name="app_behavior_link_start">Início accionado</string>
+  <string name="app_behavior_link_start">Início em cadeia</string>
   <string name="app_behavior_list_load_more">A carregar…</string>
   <string name="app_behavior_location">%1s acedeu à sua localização</string>
   <string name="app_behavior_location_bg">%1s acedeu à sua localização em segundo plano</string>
@@ -280,8 +286,8 @@
   <string name="app_behavior_settings_category_privacy">Proteger informações pessoais</string>
   <string name="app_behavior_settings_perm_tips">Mostrar um alerta quando as aplicações acederem à sua localização, gravarem áudio ou utilizarem a câmara</string>
   <string name="app_behavior_settings_privacy_tips">Receber notificações quando as aplicações acederem aos seus contactos, registo de chamadas ou executarem outra acções sensíveis</string>
-  <string name="app_behavior_share_file">Partilhar ficheiro</string>
-  <string name="app_behavior_share_picture">Partilhar imagem</string>
+  <string name="app_behavior_share_file">Partilhar ficheiros</string>
+  <string name="app_behavior_share_picture">Partilhar imagens</string>
   <string name="app_behavior_sms_read">%1s leu SMS</string>
   <string name="app_behavior_sms_read_single">Esta aplicação leu SMS</string>
   <string name="app_behavior_sms_send">%1s enviou SMS</string>
@@ -967,6 +973,14 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
   <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
   <string name="dialog_roaming_warning_message">A operadora vai cobrar custos adicionais se ligar os dados móveis em roaming. Ligar mesmo assim?</string>
   <string name="dialog_roaming_warning_ok">Ligar</string>
+  <string name="dialog_skt_roaming_warning_cancel">Não concordar</string>
+  <string name="dialog_skt_roaming_warning_message">"Leia e concorde com as condições abaixo para utilizar dados em roaming. Podem ser aplicadas taxas de roaming internacional. Sem um plano de dados roaming, podem ser aplicados custos elevados às aplicações que actualizam automaticamente.
+ * Quando não concordar em utilizar roaming de dados, o roaming de dados vai ser desactivado
+ * Voz HD é utilizado como predefinição nas redes suportadas
+ * Dados de roaming 5G estão disponíveis apenas nas nossas redes parceiras
+"</string>
+  <string name="dialog_skt_roaming_warning_ok">Concordar</string>
+  <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
   <string name="dialog_title_attention">Atenção</string>
   <string name="dialog_title_auto_start_declare">Acerca do início automático</string>
   <string name="dialog_title_stop_virus_scan">Parar a verificação de segurança</string>
@@ -1226,6 +1240,7 @@ cartão de saúde"</string>
   <string name="face_unlock_verity_dialog_summary">Verificar dados de rosto</string>
   <string name="face_unlock_verity_dialog_title_failed">Não foi possível reconhecê-lo</string>
   <string name="face_unlock_verity_dialog_title_succeed">Verificado com sucesso</string>
+  <string name="file_confirm_start_activity">%s não tem permissão para aceder à Galeria e a aplicações de redes sociais. Esta aplicação quer o acesso a ficheiros armazenados neste dispositivo para partilhar itens. Permitir?</string>
   <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Definições</string>
   <string name="fingerprint_identify_msg">Desbloqueio com impressão digital</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>
@@ -1362,7 +1377,7 @@ cartão de saúde"</string>
   <string name="fw_blocked_join">" e "</string>
   <string name="fw_oversea">Bloquear chamadas do estrangeiro</string>
   <string name="fw_oversea_content">Bloquear chamadas recebidas do estrangeiro</string>
-  <string name="gallery_confirm_start_activity">%s está a tentar aceder a imagens através de outra aplicação. Permitir?</string>
+  <string name="gallery_confirm_start_activity">%s não tem permissão para aceder à Galeria e a aplicações de redes sociais. Esta aplicação quer o acesso a ficheiros armazenados neste dispositivo para partilhar itens. Permitir?</string>
   <string name="game_anti_disturb_msg">Não incomodar Jogos</string>
   <string name="game_booster">Game Turbo</string>
   <string name="game_booster_close">Game Turbo desligado</string>
@@ -1551,7 +1566,6 @@ para obter 3 dias gratuitos!"</string>
   <string name="gb_voice_changer_toast_window_new_tips">"Experimentar o modificador de voz!
 Trocar entre diferentes caracteres e efeitos especiais"</string>
   <string name="gb_voice_changer_toast_window_open">O efeito \"%s\" foi ligado</string>
-  <string name="gb_voice_changer_toast_window_vip_expire">A sua subscrição vai expirar. Renove a subscrição para obter benefícios!</string>
   <string name="gb_voice_changer_trial_gender_dialog">Recebeu uma experimentação gratuita! Seleccione o género para ajustar efeitos e recomendações</string>
   <string name="gb_voice_changer_trial_gender_dialog_title">Experimentação gratuita</string>
   <string name="gb_voice_changer_trial_progress_dialog_message">A receber uma experimentação gratuita…</string>
@@ -1743,7 +1757,7 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Dias úteis</string>
-  <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
+  <string name="legal_workday_invalidate">Segunda a sexta (info. de feriados expirada) </string>
   <string name="legal_workday_invalidate_message">Toque para actualizar os feriados</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>
   <string name="leisure_usage_dialog_message">"Chegou ao limite de utilização de dados móveis.
@@ -1776,7 +1790,6 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
-  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
@@ -2318,7 +2331,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="permdesc_in_calls">Monitorizar chamadas recebidas</string>
   <string name="permdesc_out_calls">Monitorizar chamadas efectuadas</string>
   <string name="permission_action_accept">Aceitar</string>
-  <string name="permission_action_ai_prompt">Notificar quando uma permissão for utilizada</string>
+  <string name="permission_action_ai_prompt">Decidir por mim</string>
   <string name="permission_action_always">Permitir sempre</string>
   <string name="permission_action_desc">Dar permissões mas devolver mensagens em branco para proteger a sua privacidade</string>
   <string name="permission_action_desc_always">Esta permissão pode ser utilizada em qualquer momento</string>
@@ -2993,6 +3006,9 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
+  <string name="provision_back">Voltar</string>
+  <string name="provision_next">Seguinte</string>
+  <string name="provision_skip_underline">Ignorar</string>
   <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações das aplicações seleccionadas</string>
   <string name="quick_optimize_checking">A verificar</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível aumentar a vida da bateria</string>
@@ -3012,13 +3028,16 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>
   <string name="read_all_sms">Ler tudo</string>
   <string name="read_and_write_clipboard">Aceder e guardar itens na área de transferências</string>
+  <string name="read_clipboard_ai_action_desc">Receber notificações quando o acesso for permitido ou restringido</string>
   <string name="read_clipboard_ai_close_no">Agora não</string>
   <string name="read_clipboard_ai_close_tip">Não vai receber mais notificações quando as aplicações acederem à área de transferências. Esta permissão vai ser concedida apenas enquanto a aplicação estiver a ser utilizada. Ajustar permissões?</string>
   <string name="read_clipboard_ai_close_yes">Ajustar</string>
-  <string name="read_clipboard_op_content">Vai receber uma notificação cada vez que as aplicações acederem à área de transferências</string>
+  <string name="read_clipboard_op_content">Receber notificações quando o acesso for permitido ou restringido</string>
   <string name="read_clipboard_op_title">Notificações de acesso à área de transferências</string>
   <string name="read_clipboard_tip_content">Esta permissão permite que as aplicações leiam qualquer conteúdo que copia, o que pode incluir informações pessoais</string>
   <string name="read_clipboard_tip_title">Aceder a itens na área de transferências</string>
+  <string name="real_location_off">Localização aproximada ligada</string>
+  <string name="real_location_on">Localização aproximada desligada</string>
   <string name="receive_now">Receber</string>
   <string name="recently_reject_message">Instalação rejeitada de %1$s e %2$d outras aplicações</string>
   <string name="recently_reject_message_one">Rejeitados %1$s pedidos de instalação</string>
@@ -3919,9 +3938,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar as impressões digitais</string>
   <string name="unlock_set_unlock_password_summary">Segurança elevada</string>
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
-  <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
@@ -4002,6 +4019,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="videobox_settings_switch_desc">Efeitos especiais para reprodução de vídeo</string>
   <string name="videobox_settings_switch_title">Ferramentas de vídeo</string>
   <string name="videobox_settings_title">Ferramentas de vídeo</string>
+  <string name="view_traffic_detail">Ver detalhes</string>
   <string name="virus_auto_update_engine">Actualizações: %s</string>
   <string name="virus_update_tips_title">Aviso</string>
   <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>

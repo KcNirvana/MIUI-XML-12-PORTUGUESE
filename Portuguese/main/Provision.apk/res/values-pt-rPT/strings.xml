@@ -63,6 +63,7 @@
   <string name="install_preinstall_app">A carregar aplicações…</string>
   <string name="item_fingerprint">Impressão digital</string>
   <string name="item_lock_screen_password">Apenas bloqueio de ecrã</string>
+  <string name="item_lock_screen_password_only">Bloqueio de ecrã</string>
   <string name="language_picker_other_languages_title">Mais idiomas</string>
   <string name="language_settings">Escolher idioma</string>
   <string name="locale_picker_title">Escolher a sua região</string>
@@ -81,6 +82,8 @@
   <string name="move_data_dialog_cancel">Cancelar</string>
   <string name="move_data_dialog_title">Pode restringir a ligação de dados nas Definições mais tarde</string>
   <string name="move_data_dialog_use">Utilizar</string>
+  <string name="msim_setting_default_data">Dados</string>
+  <string name="msim_setting_default_voice">Chamadas</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
   <string name="navigation_picker_gesture_guide">Guia de gestos</string>
@@ -160,9 +163,12 @@
   <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="protect_persoanl_info_statement">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
+  <string name="provision_back">Voltar</string>
   <string name="provision_inputmethod_policy_description">"
 Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+  <string name="provision_next">Seguinte</string>
+  <string name="provision_skip_underline">Ignorar</string>
   <string name="recorder_introduction">Pode utilizar esta aplicação para gravar áudio e copiar gravações para a Xiaomi Cloud</string>
   <string name="require_authority_statement">Para nos permitir fornecer serviços básicos, necessita de conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
   <string name="require_network_authority_statement">Para nos permitir fornecer serviços básicos, é necessário ligar à Internet e conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
@@ -194,13 +200,14 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="service_policy">Leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade&amp;lt;/a &amp;gt;</string>
   <string name="service_policy_download">Antes de utilizar os nossos serviços, leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade da Xunlei&amp;lt;/a &amp;gt;</string>
   <string name="service_privacy_index">Política de Privacidade</string>
+  <string name="service_security_over_r">Leia e concorde com a nossa Política de Privacidade antes de utilizar Segurança.&lt;br/>&lt;br/>De acordo com os standards de Android 11, uma permissão única será removida 5 segundos após a aplicação correspondente parar de funcionar. Se abrir a aplicação durante este curto período de tempo, a permissão vai ser removida</string>
   <string name="servicestate_title">Declaração sobre serviços básicos</string>
   <string name="setting_locale">A definir região…</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">A verificar o cartão SIM…</string>
   <string name="sim_card_detecting_check">Não foi possível localizar o cartão SIM. Certifique-se que o cartão SIM está devidamente colocado</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Permitir a ligação a redes de dados móveis? Se permitir, o cartão SIM que inserir vai ser utilizado para ligar às redes de dados móveis</string>
-  <string name="sim_card_detecting_title">A procurar cartão SIM</string>
+  <string name="sim_card_detecting_title">A procurar cartão SIM…</string>
   <string name="sim_card_detection">Insira o cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo</string>
   <string name="sim_card_detection_mobile_not_available">O cartão SIM não conseguiu ligar à rede</string>
@@ -243,15 +250,6 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
 2. Quando estiver a ouvir música com o ecrã desligado"</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
   <string name="voice_assist_title">Ligar com voz</string>
-  <string name="wc_dialog_agree">Concordar</string>
-  <string name="wc_dialog_reject">Não concordar</string>
-  <string name="wc_dialog_summary">Os papéis de parede aleatórios oferecem imagens impressionantes e histórias emocionantes para o seu ecrã de bloqueio diariamente</string>
-  <string name="wc_dialog_title">Ecrã de bloqueio reinventado</string>
-  <string name="wc_double_check_agree">Experimentar</string>
-  <string name="wc_double_check_reject">Não, obrigado</string>
-  <string name="wc_double_check_summary">Pode ligar os papéis de parede aleatórios para ver se gosta. Pode desligar esta funcionalidade em Definições > Ecrã de bloqueio</string>
-  <string name="wc_double_check_title">Experimentar papéis de parede aleatórios</string>
-  <string name="wc_notice_link_announcement_summary">Leia e concorde com &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> de terceiros antes de utilizar esta funcionalidade</string>
   <string name="welcome">Bem-vindo</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
 </resources>

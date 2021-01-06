@@ -340,12 +340,12 @@
   <string name="repeat_mode_default">Nunca</string>
   <string name="repeat_mode_dialog_title">Repetir</string>
   <string name="repeat_mode_month">Todos os meses</string>
-  <string name="repeat_mode_normal_workday">Segunda a Sexta</string>
+  <string name="repeat_mode_normal_workday">Segunda a sexta</string>
   <string name="repeat_mode_set_item_day">Todos os dias</string>
   <string name="repeat_mode_set_item_month_detail_lastday">Último dia de cada mês</string>
   <string name="repeat_mode_set_item_month_global">Todos os meses (mesma data)</string>
   <string name="repeat_mode_set_item_none">Nunca</string>
-  <string name="repeat_mode_set_item_normal_workday">Segunda a Sexta</string>
+  <string name="repeat_mode_set_item_normal_workday">Segunda a sexta</string>
   <string name="repeat_mode_set_item_week">Todas as semanas (%s)</string>
   <string name="repeat_mode_set_item_week_detail">Todas as semanas (%s)</string>
   <string name="repeat_mode_set_item_year">Todos os anos (%s)</string>
@@ -505,7 +505,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
   <string name="todo_schedule_time_repeat_day">, todos os dias</string>
   <string name="todo_schedule_time_repeat_month">, todos os meses</string>
-  <string name="todo_schedule_time_repeat_normal_workday">, Segunda a Sexta</string>
+  <string name="todo_schedule_time_repeat_normal_workday">, Segunda a sexta</string>
   <string name="todo_schedule_time_repeat_week">, todas as semanas</string>
   <string name="todo_schedule_time_repeat_year">, todos os anos</string>
   <string name="todo_search_hint">Pesquisar por tarefas</string>

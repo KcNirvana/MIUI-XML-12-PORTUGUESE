@@ -176,6 +176,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d segundos</item>
     <item quantity="one">%d segundo</item>
   </plurals>
+  <plurals name="gb_voice_changer_toast_tips_window_bubble">
+    <item quantity="other">"Try Voice changer now
+to get a %d-day free trial!"</item>
+  </plurals>
   <plurals name="gb_voice_changer_trial_gain_fail">
     <item quantity="other">"Couldn't receive a %d-day free trial"</item>
     <item quantity="one">"Couldn't receive a %d-day free trial"</item>
@@ -287,6 +291,10 @@ You can get a %d-day free trial now!"</item>
     <item quantity="one">%s minuto</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
+    <item quantity="other">Ligue pelo menos %d pontos</item>
+    <item quantity="one">Ligue pelo menos %d ponto</item>
+  </plurals>
+  <plurals name="lockpattern_recording_intro_header_new">
     <item quantity="other">Ligue pelo menos %d pontos</item>
     <item quantity="one">Ligue pelo menos %d ponto</item>
   </plurals>
@@ -697,6 +705,14 @@ You can get a %d-day free trial now!"</item>
   <plurals name="uninstall_game_count_title">
     <item quantity="other">Ainda não adicionou %d jogos</item>
     <item quantity="one">Ainda não adicionou %d jogo</item>
+  </plurals>
+  <plurals name="unlock_set_unlock_pattern_summary_new">
+    <item quantity="other">Ligue pelo menos %d pontos</item>
+    <item quantity="one">Ligue pelo menos %d ponto</item>
+  </plurals>
+  <plurals name="unlock_set_unlock_pin_summary_new">
+    <item quantity="other">Introduzir %s dígitos</item>
+    <item quantity="one">Introduzir %s dígito</item>
   </plurals>
   <plurals name="videobox_settings_manager_apps_count">
     <item quantity="other">%d aplicações</item>
