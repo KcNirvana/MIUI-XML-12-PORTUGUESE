@@ -3573,7 +3573,6 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lights_title">LED de notificações</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_turbo_prompt">As estatísticas nesta página apenas mostram os dados utilizados para a optimização da ligação Wi-Fi. Estas estatísticas não reflectem a utilização de dados actual</string>
   <string name="link_turbo_settings_all_app_display_loading">Aguarde…</string>
   <string name="link_turbo_settings_all_app_reach_max">Pode seleccionar até 15 aplicações</string>
