@@ -153,7 +153,6 @@
   <string name="app_paycode_parent">Alipay</string>
   <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_no_time_title">&lt;1 min</string>
-  <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_support_false">Tempo de ecrã não suportado</string>
   <string name="app_screen_time_time">%1$d hr %2$d mins</string>
   <string name="app_screen_time_time_minute">%1$d mins</string>

@@ -6346,7 +6346,6 @@ Possivelmente o código PIN está incorrecto"</string>
 Toque no botão Início para voltar.
 Duplo toque para abrir Recentes"</string>
   <string name="single_press_AI_button">Premir botão IA</string>
-  <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e atalhos não vão ser mostrados no ecrã de bloqueio</string>
   <string name="skip_lock_screen_dialog_button_label">Ignorar</string>
@@ -6895,9 +6894,6 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_settings_title_usb">Partilha de ligação USB</string>
   <string name="tether_settings_title_usb_bluetooth">Partilha de ligação</string>
   <string name="tether_settings_title_wifi">Ponto de Acesso Móvel</string>
-  <string name="tethering_help_button_text">Ajuda</string>
-  <string name="tethering_settings_not_available">Alterar as definições de partilha de ligação no Primeiro espaço</string>
-  <string name="texture_adjust_temperature_title">Temperatura da cor</string>
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desligue esta funcionalidade se detectar problemas</string>
   <string name="tether_use_wifi6_title">Suporte 6ª geração Wi-Fi</string>

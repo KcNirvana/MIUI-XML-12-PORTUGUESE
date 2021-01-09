@@ -1480,6 +1480,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="power_remaining_more_than_subtext">Mais de %1$s restantes (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Mais de %1$s restantes</string>
   <string name="power_suggestion_battery_run_out">Pode ficar sem bateria às %1$s</string>
+  <string name="power_suggestion_extend_battery">Prolongar a vida útil da bateria %1$s</string>
   <string name="pref_show_lunar_calendar_title">Mostrar calendário tradicional Chinês no ecrã de bloqueio</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="priority_onboarding_appear_as_bubble_text">Aparecem como balões flutuantes no topo das aplicações</string>
@@ -1496,8 +1497,6 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="private_dns_mode_provider">Anfitrião de DNS privado</string>
   <string name="private_dns_mode_provider_failure">Não é possível ligar</string>
   <string name="private_dns_mode_provider_hostname_hint">Introduzir anfitrião ou fornecedor de DNS</string>
-  <string name="power_suggestion_extend_battery">Prolongar a vida útil da bateria %1$s</string>
-  <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="profile_connect_timeout_subtext">Problema ao ligar. Desligue e volte a ligar o dispositivo</string>
   <string name="profile_info_settings_title">Informação de perfil</string>
   <string name="profile_owned_footer">O perfil pode ser monitorizado</string>
@@ -1579,7 +1578,6 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_dark_mode_secondary_label_on_at_sunset">Ligado ao pôr do sol</string>
   <string name="quick_settings_dark_mode_secondary_label_until">Até %s</string>
   <string name="quick_settings_dark_mode_secondary_label_until_sunrise">Até ao nascer do sol</string>
-  <string name="quick_settings_connecting">A ligar</string>
   <string name="quick_settings_disclosure_managed_profile_monitoring">A sua entidade pode monitorizar o tráfego de rede no seu perfil de trabalho</string>
   <string name="quick_settings_disclosure_managed_profile_named_vpn">Perfil de trabalho ligado à rede %1$s</string>
   <string name="quick_settings_disclosure_management">O dispositivo é gerido pela sua entidade</string>
