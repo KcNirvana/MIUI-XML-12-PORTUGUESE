@@ -319,6 +319,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
   <string name="passport_login_other_account">Outra conta</string>
   <string name="passport_login_other_phone">Utilizar outra conta</string>
+  <string name="passport_login_other_way">Outros métodos de iniciar sessão</string>
   <string name="passport_login_prompt">Todos os serviços Mi. Uma Conta Mi</string>
   <string name="passport_login_recycle_account_no">Não</string>
   <string name="passport_login_recycle_account_yes">Sim</string>

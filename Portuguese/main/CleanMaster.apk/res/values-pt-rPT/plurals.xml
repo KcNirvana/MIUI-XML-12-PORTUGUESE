@@ -165,9 +165,21 @@
     <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
     <item quantity="one">%d aplicação que não é utilizada há bastante tempo</item>
   </plurals>
+  <plurals name="rs_clean_size_hint_image">
+     <item quantity="other">O suficiente para %d fotos</item>
+    <item quantity="one">O suficiente %d foto</item>
+  </plurals>
+  <plurals name="rs_clean_size_hint_song">
+    <item quantity="other">Enough for %d songs</item>
+    <item quantity="one">Enough for %d song</item>
+  </plurals>
   <plurals name="second">
        <item quantity="other">%1$d segundos</item>
        <item quantity="one">%1$d segundo</item>
+  </plurals>
+  <plurals name="video_clean_scan_app_result">
+     <item quantity="other">%d aplicações com vídeos em cache</item>
+    <item quantity="one">%d aplicação com vídeos em cache</item>
   </plurals>
   <plurals name="view_num">
     <item quantity="other">%1$s visualizações</item>

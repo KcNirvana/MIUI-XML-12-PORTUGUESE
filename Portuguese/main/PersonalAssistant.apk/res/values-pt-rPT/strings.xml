@@ -52,7 +52,7 @@
   <string name="agenda_settings_credit">Mostrar contas do cartão de crédito</string>
   <string name="agenda_settings_elecbill">Mostrar contas de gás e electricidade</string>
   <string name="agenda_settings_loan">Mostrar pagamento de empréstimos</string>
-  <string name="agenda_tip_going">Em progresso</string>
+  <string name="agenda_tip_going">Em curso</string>
   <string name="agenda_today">·Hoje</string>
   <string name="agenda_view_event">Todos os eventos</string>
   <string name="alipay_scan">Digitalizador</string>
@@ -153,6 +153,7 @@
   <string name="app_paycode_parent">Alipay</string>
   <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_no_time_title">&lt;1 min</string>
+  <string name="app_screen_time_auth">Tempo de ecrã</string>
   <string name="app_screen_time_support_false">Tempo de ecrã não suportado</string>
   <string name="app_screen_time_time">%1$d hr %2$d mins</string>
   <string name="app_screen_time_time_minute">%1$d mins</string>

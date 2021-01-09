@@ -486,6 +486,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="no_block_button_msg">Desbloquear</string>
   <string name="no_conversations">Sem conversas</string>
   <string name="no_delivery_report">Sem relatórios de entrega</string>
+  <string name="no_dialogue_yet">Seleccionar uma conversa</string>
   <string name="no_longer_recommend">Não mostrar novamente</string>
   <string name="no_subject">(Sem assunto)</string>
   <string name="no_subject_view">(Sem assunto)</string>

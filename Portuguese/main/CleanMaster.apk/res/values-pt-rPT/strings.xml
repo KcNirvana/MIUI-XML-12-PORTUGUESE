@@ -350,6 +350,7 @@
   <string name="hints_quick_cleanning">A limpar…</string>
   <string name="hints_quick_cleanuping">A optimizar…</string>
   <string name="hints_quick_deep_clean">Limpar agora</string>
+  <string name="hints_quick_deep_clean2">Libertar %s</string>
   <string name="hints_quick_deep_scanning">A verificar</string>
   <string name="hints_quick_deep_uninstall">Limpar agora</string>
   <string name="hints_quick_prepare">A preparar…</string>
@@ -501,6 +502,19 @@
   <string name="permission_dialog_storage_title">Permissões necessárias</string>
   <string name="phone_search">Pesquisa Google</string>
   <string name="positive_confirm">OK</string>
+  <string name="powerful_acceleration">Desfragmentação</string>
+  <string name="powerful_acceleration_after">Depois</string>
+  <string name="powerful_acceleration_before">Antes</string>
+  <string name="powerful_acceleration_enable_summary">A desfragmentação vai ser efectuada automaticamente enquanto não estiver a utilizar o dispositivo</string>
+  <string name="powerful_acceleration_enable_title">Efectuar desfragmentação em segundo plano</string>
+  <string name="powerful_acceleration_item_button">Ligar</string>
+  <string name="powerful_acceleration_item_tip_normal">O seu armazenamento parece bem!</string>
+  <string name="powerful_acceleration_notification_summary">Toque para libertar mais espaço</string>
+  <string name="powerful_acceleration_notification_title">Desfragmentação completa</string>
+  <string name="powerful_acceleration_tip">O armazenamento interno sofre de fragmentação, que pode reduzir significativamente a velocidade do seu dispositivo. A desfragmentação organiza os seus ficheiros de forma a reduzir a lentidão</string>
+  <string name="powerful_acceleration_tip_high">O seu armazenamento está &lt;font color=#ff0000 >severamente&lt;/font> fragmentado. A desfragmentação pode resolver o problema</string>
+  <string name="powerful_acceleration_tip_middle">O seu armazenamento está &lt;font color=#ff0000 >levemente&lt;/font> fragmentado. A desfragmentação pode resolver o problema</string>
+  <string name="powerful_acceleration_toast">A desfragmentação vai ser efectuada automaticamente enquanto não estiver a utilizar o dispositivo</string>
   <string name="pref_about_privacy_title">Política de Privacidade</string>
   <string name="pref_category_title_auto_clean_settings">Limpeza automática</string>
   <string name="pref_category_title_auto_update_cleanup_db">Definições adicionais</string>
@@ -553,6 +567,9 @@
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
   <string name="resutl_function_deep_clean_summary">"<font color="#ff0000">%1$s</font> de ficheiros podem ser limpos. Liberte mais espaço"</string>
+  <string name="rs_clean_size_free_space">Libertar %s</string>
+  <string name="rs_clean_size_storage_size">Ocupado %1$s/%2$s</string>
+  <string name="rs_clean_size_storage_title">Armazenamento</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
   <string name="scanning">A verificar…</string>
@@ -637,6 +654,26 @@
   <string name="total_clean_text">Limpar</string>
   <string name="unlike">Não, obrigado</string>
   <string name="update_date_format">dd-MM-yyyy</string>
+  <string name="video_clean">Limpar vídeos em cache</string>
+  <string name="video_clean_auto_clean">Limpar automaticamente</string>
+  <string name="video_clean_auto_clean_summary">Limpar vídeos em cache automaticamente após verificação</string>
+  <string name="video_clean_cache_tip">Os vídeos limpos podem ser carregados novamente depois</string>
+  <string name="video_clean_create_desktop_icon">Atalho no ecrã inicial</string>
+  <string name="video_clean_create_desktop_icon_summary">Adicionar um atalho no ecrã inicial para limpar vídeos em cache</string>
+  <string name="video_clean_desktop_icon_created">Atalho adicionado com sucesso</string>
+  <string name="video_clean_garbage">Vídeos em cache</string>
+  <string name="video_clean_garbage_cleared">Vídeos limpos com sucesso</string>
+  <string name="video_clean_notification_summary">Limpar os vídeos em cache das aplicações</string>
+  <string name="video_clean_notification_title">Libertar %s</string>
+  <string name="video_clean_personal_settings_title">Definições adicionais</string>
+  <string name="video_clean_qq_clean_summary">Limpar lixo para libertar espaço</string>
+  <string name="video_clean_qq_clean_title">Limpeza do QQ</string>
+  <string name="video_clean_remind_settings_title">Lembre-se de limpar</string>
+  <string name="video_clean_scan_app_tip">A verificar aplicações %1$d/%2$d</string>
+  <string name="video_clean_video_manager_summary">Gerir todos os vídeos armazenados no dispositivo</string>
+  <string name="video_clean_video_manager_title">Gestor de vídeos</string>
+  <string name="video_clean_wechat_clean_summary">Limpar lixo para optimizar velocidade</string>
+  <string name="video_clean_wechat_clean_title">Limpeza do WeChat</string>
   <string name="virus_scan">Verificação de segurança</string>
   <string name="wechat_qq_celan_tab_file">Ficheiros</string>
   <string name="wechat_qq_celan_tab_image">Imagens</string>
