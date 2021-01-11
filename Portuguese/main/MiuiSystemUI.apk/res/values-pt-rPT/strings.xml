@@ -816,6 +816,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fs_gesture_switch_recents_summary">Deslize de baixo e pause</string>
   <string name="fsg_demo_back">Voltar</string>
   <string name="fsg_demo_go_on">Aprender</string>
+  <string name="garbage_count">Existem %1$s instâncias antigas</string>
   <string name="global_action_lock_message">Desbloquear o telefone para mais opções</string>
   <string name="global_action_screenshot">Captura de ecrã</string>
   <string name="go_to_web">Ir para o navegador</string>
@@ -1189,6 +1190,7 @@ d 'de' MMMM"</string>
   <string name="media_transfer_wired_device_name">Dispositivo de áudio com fios</string>
   <string name="media_transfer_wired_usb_device_name">Auscultadores com fio</string>
   <string name="megabyte_per_second">MB/s</string>
+  <string name="memory_leak">Vazamento de memória</string>
   <string name="menu_ime">Comutador de teclado</string>
   <string name="mic_active">Microfone ligado</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>

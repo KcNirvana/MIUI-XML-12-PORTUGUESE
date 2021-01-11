@@ -334,6 +334,12 @@
   <string name="company">Trabalho</string>
   <string name="company_or_school">Trabalho ou escola</string>
   <string name="cta_desc">Todas as funcionalidades num só lugar</string>
+  <string name="cta_dialog_all_purpose">Bem vindo ao assistente! Esta aplicação é uma centralização para trabalho, estilo de vida e serviços de viagens.</string>
+  <string name="cta_dialog_desc_calendar">Para mostrar os eventos do calendário</string>
+  <string name="cta_dialog_desc_location">Para calcular a duração das suas deslocações diárias</string>
+  <string name="cta_dialog_desc_phone_state">Para identificar o seu dispositivo utilizando o IMEI</string>
+  <string name="cta_dialog_desc_storage">Para guardar itens no seu dispositivo</string>
+  <string name="cta_dialog_miot_text_all">Para assegurar o normal funcionamente, Mi Home necessita de obter a sua rede, localização, poder ligar o Bluetooth, utilizar a sua rede móvel, microfone e ler os seus contactos. Confirma?</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_text_all">Para utilizar o assistente, deve ler e concordar com %1$s\"Termos de Utilização\" %2$s e %3$s \"Política de Privacidade\" %4$s. Este serviço necessita de ligação à Internet e acesso aos serviços de localização</string>

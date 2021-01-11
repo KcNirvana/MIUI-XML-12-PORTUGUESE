@@ -90,6 +90,7 @@
   <string name="activity_title_virus_settings">Definições</string>
   <string name="activity_title_white_list">Excepções</string>
   <string name="ad_btn_default_text">Saber mais</string>
+  <string name="ad_floating_window_title">Fechar janela flutuante para desbloquear</string>
   <string name="ad_split_screen_title">Saia do modo ecrã dividido para desbloquear</string>
   <string name="ad_update_time">Última actualização: %s</string>
   <string name="ad_update_time_unKnown">Última actualização: desconhecida</string>
@@ -1020,7 +1021,11 @@ Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do 
 Vai ser adicionado às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_not_block_call">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer</string>
-  <string name="dlg_not_block_sms">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer"</string>
+  <string name="dlg_not_block_sms">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados anteriormente não vão aparecer</string>
+  <string name="dlg_onlie_service_summary">Desligar os serviços online vai tornar algumas funcionalidades indisponíveis. Desligar mesmo assim?</string>
+  <string name="dlg_open_online_service_pos_text">Ligar</string>
+  <string name="dlg_open_online_service_summary">Algumas funcionalidades não vão estar disponíveis com os serviços online desligados. Ligar serviços online agora?</string>
+  <string name="dlg_open_online_service_title">Serviços online</string>
   <string name="dlg_remove_address_blacklist">Remover esta localização da lista de bloqueio?</string>
   <string name="dlg_remove_address_whitelist">Remover esta localização das excepções?</string>
   <string name="dlg_remove_blacklist">Remover estes números da lista de bloqueio?</string>
@@ -1137,6 +1142,13 @@ cartão de saúde"</string>
   <string name="ew_guide_start">Ligar</string>
   <string name="ew_guide_start_agree">Ligar</string>
   <string name="ew_guide_start_find_area">Pesquisar áreas</string>
+  <string name="ew_guide_start_warning_range">Early warnings are provided for the areas covered by the Mainland Earthquake Warning Network of the Chengdu Hi-tech Disaster Reduction Institute. You can find specific coverage areas in the Settings.</string>
+  <string name="ew_guide_statement_text_new">"This disclaimer applies to all users (hereinafter referred to as \"you\") who turn on the earthquake warning feature. By agreeing to this disclaimer, you enter into a legally binding contract with Xiaomi Inc. and its affiliates (hereinafter referred to as \"Xiaomi\"). You acknowledge that you have read all the contents of this disclaimer, and you fully understand and agree to all the terms and conditions of this disclaimer; otherwise, you should turn off the earthquake warning feature immediately.
+In accordance with relevant laws and regulations, Xiaomi will provide you with early warning services based on the scope of the earthquake early warning monitoring area covered by relevant agencies. That is, when you turn on the earthquake warning functionality, you'll be able to receive earthquake warnings issued for specific areas. You can find specific coverage areas in the Settings.
+This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by the Chengdu Hi-tech Disaster Reduction Institute. Xiaomi doesn't oversee this organization and doesn't have any control over it.
+Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.
+Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.
+You must understand that this feature is provided for your reference only. The warning you receive might come seconds before the onset of an earthquake. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
   <string name="ew_guide_tips_1">Vair ser notificado sobre os próximos sismos e vai ouvir um som de aviso</string>
   <string name="ew_guide_tips_2">Informações e sons de aviso vão ser actualizados durante o sismo</string>
   <string name="ew_guide_tips_3">Vai poder encontrar um abrigo mais próximo, ligar para um dos seus contactos de emergência e se necessário apresentar o seu cartão de saúde</string>
@@ -1155,6 +1167,7 @@ cartão de saúde"</string>
   <string name="ew_list_receive_time">Hora de início: %s</string>
   <string name="ew_list_receive_time_title">Hora de início</string>
   <string name="ew_list_title">Avisos</string>
+  <string name="ew_location_failed">Localização desconhecida</string>
   <string name="ew_main_close_text">Não será possivel receber informações actualizadas sobre este sismo se desligar o alerta. Desligar mesmo assim?</string>
   <string name="ew_main_close_title">Atenção</string>
   <string name="ew_main_contact_change">Alterar</string>
@@ -1704,6 +1717,8 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="image_protect_recover_success">Restaurado com sucesso</string>
   <string name="image_protect_tips_title">A eliminar imagens</string>
   <string name="image_protect_total_activity_label">Receber notificações sobre fotos eliminadas</string>
+  <string name="in_delete">A eliminar…</string>
+  <string name="in_recover">A restaurar…</string>
   <string name="info_and_call">Chamadas e mensagens</string>
   <string name="info_antispam_close">A lista de bloqueio está desligada</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -2985,7 +3000,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_show_password_summary">Manter as palavras-passe visíveis por um curto período de tempo</string>
   <string name="privacy_special_permission_summary">Monitorizar como as aplicações utilizam permissões sensíveis</string>
   <string name="privacy_special_permission_title">Permissões especiais</string>
-  <string name="privacy_summary">Aprenda sobre a protecção de privacidade na MIUI 12</string>
+  <string name="privacy_summary">Aprenda sobre a protecção de privacidade na MIUI</string>
   <string name="privacy_thumbnail_blur_category_financial">Finanças</string>
   <string name="privacy_thumbnail_blur_category_other">Outras</string>
   <string name="privacy_thumbnail_blur_category_photography">Fotos e vídeos</string>
@@ -3169,6 +3184,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="set_pattern_password_name">Definir padrão</string>
   <string name="set_traffic_tips">Definir o seu plano de dados para gerir a utilização de dados móveis</string>
   <string name="setting">Definições</string>
+  <string name="setting_online_service">Serviços online</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
   <string name="settings">Definições de utilização de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>

@@ -295,8 +295,8 @@ You can get a %d-day free trial now!"</item>
     <item quantity="one">Ligue pelo menos %d ponto</item>
   </plurals>
   <plurals name="lockpattern_recording_intro_header_new">
-    <item quantity="other">Ligue pelo menos %d pontos</item>
-    <item quantity="one">Ligue pelo menos %d ponto</item>
+    <item quantity="other">Ligue pelo menos %s pontos</item>
+    <item quantity="one">Ligue pelo menos %s ponto</item>
   </plurals>
   <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
     <item quantity="other">"Aguarde %d segundos e tente novamente "</item>
@@ -707,8 +707,8 @@ You can get a %d-day free trial now!"</item>
     <item quantity="one">Ainda não adicionou %d jogo</item>
   </plurals>
   <plurals name="unlock_set_unlock_pattern_summary_new">
-    <item quantity="other">Ligue pelo menos %d pontos</item>
-    <item quantity="one">Ligue pelo menos %d ponto</item>
+    <item quantity="other">Ligue pelo menos %s pontos</item>
+    <item quantity="one">Ligue pelo menos %s ponto</item>
   </plurals>
   <plurals name="unlock_set_unlock_pin_summary_new">
     <item quantity="other">Introduzir %s dígitos</item>

@@ -465,9 +465,9 @@
   <string name="privacy_authorize_revoking">A revogar autorização…</string>
   <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
   <string name="privacy_policy">Política de Privacidade</string>
-  <string name="privacy_request_desc">"Música necessita de obter informações pessoais para fornecer serviços de streaming online. Pode saber mais em &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Pode remover o seu consentimento nas Definições em qualquer altura.
+  <string name="privacy_request_desc"><Data>"Música necessita de obter informações pessoais para fornecer serviços de streaming online. Pode saber mais em &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Pode remover o seu consentimento nas Definições em qualquer altura.
 Leia e concorde com os nossos &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de utilizar Música.
-Se não concordar em utilizar os serviços mencionados, não vai poder utilizar algumas funcionalidades da aplicação mas as funcionalidades básicas ainda vão estar disponíveis"</string>
+Se não concordar em utilizar os serviços mencionados, não vai poder utilizar algumas funcionalidades da aplicação mas as funcionalidades básicas ainda vão estar disponíveis"</Data></string>
   <string name="privacy_request_subtitle">"Bem-vindo a Música! Esta aplicação fornece os seguintes serviços:
 
 - Reprodução de áudio
@@ -575,6 +575,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
   <string name="shuffle_off_notif">Aleatório desligado</string>
   <string name="shuffle_on_notif">Aleatório ligado</string>
   <string name="similar_songs">Músicas idênticas</string>
+  <string name="skip">Ignorar</string>
   <string name="sleep_mode">Temporizador</string>
   <string name="sleep_mode_canceled">O modo de suspensão foi desligado</string>
   <string name="sleep_mode_summary">Parar a reprodução após um determinado tempo</string>

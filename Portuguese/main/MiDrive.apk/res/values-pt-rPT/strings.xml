@@ -24,6 +24,8 @@
   <string name="delete_failed">Não é possível eliminar</string>
   <string name="delete_failed_retry">Não é possível eliminar. Tente novamente após %1$s</string>
   <string name="delete_success">Ficheiro eliminado</string>
+  <string name="detail_download_path">"Localização: "</string>
+  <string name="detail_download_time">"Transferido: "</string>
   <string name="download_failed">Não foi possível transferir</string>
   <string name="downloading">A transferir</string>
   <string name="downloading_in_3g">A transferir em 3G…</string>

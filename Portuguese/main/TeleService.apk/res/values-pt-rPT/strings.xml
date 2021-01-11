@@ -1005,7 +1005,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="onscreenShowDialpadText">Teclado de marcação</string>
   <string name="onscreenSwapCallsText">Trocar</string>
   <string name="onscreenVideoCallText">Videochamada</string>
-  <string name="open_miui">Abrir</string>
+  <string name="open_miui">Ligar</string>
   <string name="opened_dual_4g_confirm_prompt">Apenas tem um cartão SIM 4G. Duplo 4G foi ligado automaticamente</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">O SIM %1$s apenas suporta 4G. Para garantir que o cartão funciona correctamente o Duplo 4G foi ligado</string>
   <string name="operation_successfully">Concluído</string>
@@ -1659,7 +1659,7 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
   <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
-  <string name="voicemail_settings">Configuração do Voice Mail</string>
+  <string name="voicemail_settings">Definições do Voice Mail</string>
   <string name="voicemail_settings_number_hint">Introduzir número da caixa de Voice Mail</string>
   <string name="voicemail_settings_number_label">Número do Voice Mail</string>
   <string name="voicemail_settings_number_title">Número do Voice Mail</string>

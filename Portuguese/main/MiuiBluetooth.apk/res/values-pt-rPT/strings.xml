@@ -47,6 +47,10 @@
   <string name="fast_connect_device_title_connecting">A ligar…</string>
   <string name="fast_connect_device_title_find_headset">Localizar %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">Parece que este dispositivo não é seu: %1$s</string>
+  <string name="fast_connect_new_feture_anti_lost">Anti-perda</string>
+  <string name="fast_connect_new_feture_same_account">Mesma conta sem emparelhar</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Normalizador de som</string>
+  <string name="fast_connect_new_feture_title">Novas funcionalidades</string>
   <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
   <string name="fast_connect_nzbt_reset">Segure o botão por %1$s segundos enquanto desliga</string>
   <string name="fast_connect_reset_common">Reponha este dispositivo para poder emparelhar</string>

@@ -3530,6 +3530,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="launch_wechat_payment_code">Código pagamento WeChat</string>
   <string name="launch_wechat_scanner">Digitalizador WeChat</string>
   <string name="launcher_icon">Ícones</string>
+  <string name="launcher_icon_management">Gerir atalhos do ecrã inicial</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
   <string name="launching_cit">A iniciar testes de hardware…</string>
   <string name="launching_pho">A abrir informações do dispositivo…</string>

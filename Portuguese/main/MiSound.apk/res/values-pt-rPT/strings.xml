@@ -186,6 +186,7 @@
   <string name="sound_transmission_dialog_message">Assistente de som</string>
   <string name="sound_transmission_dialog_title">Ligar Bluetooth</string>
   <string name="sound_transmission_end">Parar</string>
+  <string name="sound_transmission_function_generalize">Transmitir áudio do microfone do seu telefone para um dispositivo Bluetooth externo</string>
   <string name="sound_transmission_processing">Microfone</string>
   <string name="sound_transmission_prompt">Permitir que esta funcionalidade ligue o Bluetooth para utilizar o microfone sem fios</string>
   <string name="sound_transmission_scenes">Cenários</string>

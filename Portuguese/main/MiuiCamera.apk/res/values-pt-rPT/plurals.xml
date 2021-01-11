@@ -39,6 +39,10 @@
         <item quantity="other">Gravar %d segundos</item>
         <item quantity="one">Gravar %d segundos</item>
     </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Pode congelar vídeos com %d sujeitos</item>
+        <item quantity="one">Pode congelar vídeos com %d sujeito</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s fotos</item>
         <item quantity="one">%1$s foto</item>
