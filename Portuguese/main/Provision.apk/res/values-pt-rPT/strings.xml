@@ -22,7 +22,7 @@
   <string name="congratulation_swipe">Deslize para cima para entrar no sistema</string>
   <string name="congratulation_title">Configuração concluída</string>
   <string name="content_description_complete">Concluído</string>
-  <string name="content_description_miui_version">MIUI 11</string>
+  <string name="content_description_miui_version">MIUI 12.5</string>
   <string name="content_description_start">Iniciar</string>
   <string name="content_introduction">O centro de conteúdos junta conteúdos e serviços de vários canais. Aqui pode ler artigos, assistir a vídeos, ver itens em destaque diariamente e receber recomendações</string>
   <string name="continue_to_enable_accessibility">Mantenha premido dois dedos para activar a acessibilidade</string>
@@ -164,8 +164,7 @@
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="protect_persoanl_info_statement">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa política de privacidade</string>
   <string name="provision_back">Voltar</string>
-  <string name="provision_inputmethod_policy_description">"
-Ver Política de Privacidade do teclado seleccionado"</string>
+  <string name="provision_inputmethod_policy_description"><Data>Ver &lt;a href=%1$s>Política de Privacidade&lt;/a > do teclado seleccionado</Data></string>
   <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
   <string name="provision_next">Seguinte</string>
   <string name="provision_skip_underline">Ignorar</string>

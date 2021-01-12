@@ -351,6 +351,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="clone_too_much_movement_stop">Moveu o dispositivo para muito longe. Parou de capturar por enquanto</string>
   <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
+  <string name="close_night_algo_toast_low_power">Carregar o seu dispositivo para poder definir a exposição</string>
+  <string name="close_night_algo_toast_thermal">Refrescar o seu dispositivo para poder definir a exposição</string>
   <string name="color_effect_entry_berry">Bagas</string>
   <string name="color_effect_entry_blackgold">Vibrações de ouro</string>
   <string name="color_effect_entry_blackgold_describe">Este filtro de alto contraste retem apenas as cores azul escuro e amarelo. Utilize-o nas ruas bem iluminadas de uma cidade à noite</string>
@@ -924,7 +926,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_heic_image_format_description">As fotos no formato HEIF ocupam menos espaço mas não suportadas por algumas aplicações</string>
   <string name="pref_camera_heic_image_format_description2">"O formato HEIF poupa espaço de armazenamento mas não é suportado por algumas aplicações. Não pode tirar fotos ao vivo e remover marcas d'água em HEIF"</string>
   <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
-  <string name="pref_camera_high_quality_preferred_description">Melhorar a qualidade de imagem utilizando um algoritmo. A captura de imagem pode diminuir com esta funcionalidade ligada</string>
+  <string name="pref_camera_high_quality_preferred_description">Melhorar a qualidade de imagem utilizando um algoritmo. A captura da imagem pode aumentar com esta funcionalidade ligada</string>
   <string name="pref_camera_high_quality_preferred_title">Melhorar qualidade de imagem</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
   <string name="pref_camera_histogram_entry_enable">Ligar</string>
@@ -1179,6 +1181,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_skin_beautify_slim_title">Fino</string>
   <string name="pref_skin_beautify_smooth_title">Suave</string>
   <string name="pref_smart_guide_title">Sugestões inteligentes</string>
+  <string name="pref_super_night_se_summary">Reconhecer um ambiente de luz escuro vai accionar automaticamente o disparo nocturno e vai melhorar o efeito de imagem por meio de algoritmos</string>
+  <string name="pref_super_night_se_title">Visão nocturna automática</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
   <string name="pref_video_captrue_ability_title">Captura de imagens enquanto grava</string>
   <string name="pref_video_denoise_off">Desligado</string>

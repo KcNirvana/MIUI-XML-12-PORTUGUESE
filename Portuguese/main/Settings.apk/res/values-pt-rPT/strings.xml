@@ -5253,7 +5253,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="privacy_password_toggle_summary">É necessário palavra-passe sempre que aceder aos itens privados</string>
   <string name="privacy_password_use_finger_dialog_mess">Pode também utilizar a sua impressão digital com a Protecção de Privacidade</string>
   <string name="privacy_password_use_finger_dialog_open">Definições</string>
-  <string name="privacy_password_use_finger_dialog_title">Imp. digital</string>
+  <string name="privacy_password_use_finger_dialog_title">Impressão digital</string>
   <string name="privacy_password_use_finger_success">Ligado</string>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>
@@ -6786,6 +6786,9 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="switchNetworkToast">Ligar a redes móveis pode gerar custos adicionais</string>
   <string name="switch_access_service_on">Trocar acessos</string>
   <string name="switch_bootup_sound">Som de boot</string>
+  <string name="switch_headset_anti_lost">Aviso de auriculares em falta</string>
+  <string name="switch_headset_anti_lost_summary">Receber um alerta sempre que um dos auriculares não estiver no ouvido ou na caixa de carregamento por mais de um minuto</string>
+  <string name="switch_headset_anti_lost_title">Aviso de auriculares em falta</string>
   <string name="switch_off_text">Desligado</string>
   <string name="switch_on_text">Ligado</string>
   <string name="switch_screen_button_order">Trocar a ordem dos botões</string>
@@ -7896,6 +7899,8 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_enable_data_and_wifi_roam">Assistente de Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Alterar para dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
+  <string name="wifi_enhanced_handover">Troca melhorada</string>
+  <string name="wifi_enhanced_handover_summary">Trocar rapidamente entre PA Móveis com o mesmo método de encriptação</string>
   <string name="wifi_enhanced_mac_randomization">Selecção aleatória do MAC para Wi-Fi melhorado</string>
   <string name="wifi_enhanced_mac_randomization_summary">Quando este modo estiver activo, o endereço MAC deste dispositivo pode alterar cada vez que se ligar a uma rede que tenha a selecção aleatória de MAC activa</string>
   <string name="wifi_error">Erro</string>

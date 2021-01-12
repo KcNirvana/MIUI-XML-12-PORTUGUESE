@@ -77,6 +77,8 @@
   <string name="headset_fw_file_position_failed">Erro</string>
   <string name="headset_fw_file_readfailed">Erro</string>
   <string name="headset_read_fw_state">Erro</string>
+  <string name="headset_loss_notify_summary">Um do seus auriculares não está na caixa de carregamento. Verifique!</string>
+  <string name="headset_loss_notify_title">Aviso de auriculares em falta</string>
   <string name="headset_update_failed">Erro</string>
   <string name="headset_update_ok">OK</string>
   <string name="headset_updating">Actualizar</string>

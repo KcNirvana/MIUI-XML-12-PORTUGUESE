@@ -145,6 +145,7 @@
   <string name="update_no_update">A versão actual está actualizada</string>
   <string name="update_progress_dialog_content">A transferir…</string>
   <string name="uploading">A carregar</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Eu li e concordei com os &lt;a href=\"%1$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>"</Data></string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">A aguardar por rede…</string>
   <string name="wait_sdcard">A aguardar por cartão SD…</string>

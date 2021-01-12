@@ -170,7 +170,7 @@
   <string name="add_pre_message_attachments_no">Não adicionar</string>
   <string name="add_pre_message_attachments_yes">Adicionar</string>
   <string name="add_star">Estrela</string>
-  <string name="all_purpose">Bem-vindo ao Email! Este cliente de email foi criado pela Kingsoft para a Xiaomi. Pode utilizar esta aplicação para enviar e receber emails</string>
+  <string name="all_purpose">"Bem-vindo ao Email! Este cliente de email foi criado pela Kingsoft para a Xiaomi. Pode utilizar esta aplicação para enviar e receber emails. "</string>
   <string name="allread">Ler todos</string>
   <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
   <string name="app_name">Email</string>
