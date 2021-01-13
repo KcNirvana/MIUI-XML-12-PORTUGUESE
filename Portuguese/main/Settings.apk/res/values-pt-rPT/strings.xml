@@ -1078,6 +1078,8 @@ Aplicações:
   <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
   <string name="bluetooth_enable_gabeldorsche">Activar Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Activar a pilha de funcionalidades Bluetooth Gabeldorche</string>
+  <string name="bluetooth_enable_page_scan">Activar página de verificação Bluetooth</string>
+  <string name="bluetooth_enable_page_scan_summary">Activar/desactivar página de verificação para testar o Bluetooth</string>
   <string name="bluetooth_enable_inband_ringing">Activar toques</string>
   <string name="bluetooth_enable_inband_ringing_summary">Permitir que os toques no telefone possam ser tocados nos auscultadores Bluetooth</string>
   <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e, em seguida, prima Voltar ou Avançar</string>
@@ -7900,7 +7902,7 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Alterar para dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_enhanced_handover">Troca melhorada</string>
-  <string name="wifi_enhanced_handover_summary">Trocar rapidamente entre PA Móveis com o mesmo método de encriptação</string>
+  <string name="wifi_enhanced_handover_summary">Trocar rapidamente entre diferentes PA Móveis</string>
   <string name="wifi_enhanced_mac_randomization">Selecção aleatória do MAC para Wi-Fi melhorado</string>
   <string name="wifi_enhanced_mac_randomization_summary">Quando este modo estiver activo, o endereço MAC deste dispositivo pode alterar cada vez que se ligar a uma rede que tenha a selecção aleatória de MAC activa</string>
   <string name="wifi_error">Erro</string>

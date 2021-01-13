@@ -123,7 +123,7 @@
   <string name="app_name">Permissões</string>
   <string name="background_location_access_reminder_notification_content">Esta aplicação pode aceder sempre à sua localização. Toque para alterar</string>
   <string name="background_location_access_reminder_notification_title">%s está a utilizar a sua localização</string>
-  <string name="blur_location_is_on_tip">%1$s iniciou o serviço de localização aproximada. Manter localização aproximada ligada?</string>
+  <string name="blur_location_is_on_tip">%1$s utiliza a sua localização aproximada. Manter localização aproximada ligada?</string>
   <string name="blur_location_now_tip">Localização aproximada ligada</string>
   <string name="blur_location_title">Localização aproximada</string>
   <string name="clipboard_ai_allow_once">Permitiu que %1$s acedesse a itens na área de transferências automaticamente</string>
@@ -142,8 +142,8 @@
   <string name="go_behavior_record">Histórico de comportamento</string>
   <string name="go_perm_manager">Gerir permissões</string>
   <string name="go_setting">Definições</string>
-  <string name="gold_master_dialog_reject">Rejeitar (%d)</string>
-  <string name="gold_master_dialog_title">%1$s quer ler a área de transferências</string>
+  <string name="gold_master_dialog_reject">Restringir (%d)</string>
+  <string name="gold_master_dialog_title">%1$s quer aceder à área de transferências</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_allow_always">Permitir sempre</string>
   <string name="grant_dialog_button_allow_background">Permitir sempre</string>
@@ -156,6 +156,7 @@
   <string name="grant_dialog_storage_category_title">Esta aplicação necessita de permissões para aceder à Galeria e mensagens nas aplicações de redes sociais</string>
   <string name="grant_dialog_storage_gallery_title">Galeria</string>
   <string name="grant_dialog_storage_sociality_title">Mensagens em aplicações de redes sociais</string>
+  <string name="keep_blur_location">Não</string>
   <string name="keep_notice_me">Continuar a notificar</string>
   <string name="location_settings">Definições de localização</string>
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
@@ -221,7 +222,7 @@
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
-  <string name="stop_blur_location">Desligar</string>
+  <string name="stop_blur_location">Sim</string>
   <string name="storage_policy_notify_both_title">%1$s não tem permissões para aceder à Galeria e a mensagens nas aplicações de redes sociais</string>
   <string name="storage_policy_notify_content">Toque para ajustar permissões</string>
   <string name="storage_policy_notify_gallery_title">%1$s não tem permissões para aceder à Galeria</string>

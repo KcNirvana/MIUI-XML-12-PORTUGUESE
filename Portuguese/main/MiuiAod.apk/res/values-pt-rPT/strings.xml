@@ -34,6 +34,7 @@ d 'de' MMMM"</string>
   <string name="aod_show_date_and_time">Mostrar data e hora</string>
   <string name="aod_show_style_title">Mostrar ecrã</string>
   <string name="aod_style">Temas</string>
+  <string name="aod_theme_store">Temas ecrã ambiente</string>
   <string name="aod_to_close">Desligar</string>
   <string name="apply">Aplicar</string>
   <string name="apply_succeed">Aplicado com sucesso</string>

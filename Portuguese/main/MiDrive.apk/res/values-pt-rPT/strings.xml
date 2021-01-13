@@ -11,7 +11,18 @@
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
   <string name="category_midrive">Mi Drive</string>
-  <string name="category_transport">Ver transferências</string>
+  <string name="category_select">Seleccionar</string>
+  <string name="category_video">Vídeos</string>
+  <string name="category_video_title">Vídeos</string>
+  <string name="channel_pc_edit">Editado no computador</string>
+  <string name="channel_pc_upload">Carregado no computador</string>
+  <string name="channel_pc_view">Visto no computador</string>
+  <string name="channel_phone_edit">Editado no telefone</string>
+  <string name="channel_phone_upload">Carregado no telefone</string>
+  <string name="channel_phone_view">Visto no telefone</string>
+  <string name="channel_web_edit">Editado no navegador</string>
+  <string name="channel_web_upload">Carregado no navegador</string>
+  <string name="channel_web_view">Visto no navegador</string>
   <string name="change_mobile_network_message">Alterado para dados móveis. Continuar a transferir o ficheiro vai consumir dados. Pretende continuar?</string>
   <string name="confirm">OK</string>
   <string name="confirm_and_continue">Continuar</string>
@@ -23,6 +34,8 @@
   <string name="create_new_folder_failed">Não foi possível criar a pasta</string>
   <string name="delete_failed">Não é possível eliminar</string>
   <string name="delete_failed_retry">Não é possível eliminar. Tente novamente após %1$s</string>
+  <string name="delete_operation_record">Eliminar este registo?</string>
+  <string name="delete_operation_record_timeout">Não foi possível eliminar o registo. Aguarde um momento e tente novamente</string>
   <string name="delete_success">Ficheiro eliminado</string>
   <string name="detail_download_path">"Localização: "</string>
   <string name="detail_download_time">"Transferido: "</string>
@@ -53,6 +66,8 @@
   <string name="folder_name_invalid">"Os nomes das pastas não podem conter: /\\:*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">Não foi possível carregar</string>
+  <string name="inner_storage_path">Armazenamento interno</string>
+  <string name="jump_to_directory">Abrir pasta</string>
   <string name="just_now">Agora mesmo</string>
   <string name="load_label_up_no_data">Sem itens</string>
   <string name="load_label_up_none">Sem itens</string>
@@ -69,6 +84,7 @@
   <string name="no_app_found_to_open_file">Sem aplicações para executar esta acção</string>
   <string name="no_more_space">Sem espaço de armazenamento suficiente</string>
   <string name="no_network">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
+  <string name="no_recent_activity">Sem itens recentes</string>
   <string name="no_tasks">Sem transferências</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado.
 1. Faça novamente a transferência do ficheiro para o actualizar
@@ -111,6 +127,8 @@
   <string name="pick_from_fileexplor_failed">Actualize o Ficheiros primeiro</string>
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="recent_file">Recentes</string>
+  <string name="recent_jump_to_privacy_fail_notice">Este ficheiro é privado. Volte para a página inicial e puxe para ver</string>
   <string name="refresh_label_pull_to_refresh">Puxar para actualizar</string>
   <string name="refresh_label_refreshed">Actualizado com sucesso</string>
   <string name="refresh_label_refreshing">A actualizar…</string>

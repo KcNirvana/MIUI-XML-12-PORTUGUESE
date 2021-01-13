@@ -20,6 +20,8 @@
   <string name="bluetooth_device_context_unpair">Desemparelhar</string>
   <string name="bluetooth_disconnected">Desemparelhado</string>
   <string name="bluetooth_disconnecting">A desemparelhar…</string>
+  <string name="bluetooth_enable_page_scan">Activar página de verificação Bluetooth</string>
+  <string name="bluetooth_enable_page_scan_summary">Activar/desactivar página de verificação para testar o Bluetooth</string>
   <string name="bluetooth_paired">Guardado</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
