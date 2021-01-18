@@ -393,7 +393,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="alarm_sound_title">Alarme</string>
   <string name="alarm_stop">Desligar o modo Silêncio quando o alarme desligar</string>
   <string name="alarm_stop_info">O modo Silêncio vai ser desligado quando o alarme desligar</string>
-  <string name="alarm_volume_option_title">Volume do alarme</string>
+  <string name="alarm_volume_option_title">Alarmes</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
@@ -3974,7 +3974,7 @@ Não pode reverter esta acção!"</string>
   <string name="media_transfer_this_device_name">Este dispositivo</string>
   <string name="media_transfer_wired_device_name">Dispositivo de áudio com fios</string>
   <string name="media_transfer_wired_usb_device_name">Auscultadores com fio</string>
-  <string name="media_volume_option_title">Volume multimédia</string>
+  <string name="media_volume_option_title">Multimédia</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
   <string name="meid_multi_sim">MEID (ranhura %1$d)</string>
@@ -4327,6 +4327,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="musicfx_title">Efeitos de música</string>
   <string name="mute">Modo silêncio</string>
+  <string name="mute_media_sound_summary">Jogos, música, vídeos e outras aplicações</string>
   <string name="mute_media_sound_title">Silenciar multimédia no modo Silêncio</string>
   <string name="mute_music_stream">Silenciar o som multimédia</string>
   <string name="mute_voiceassist_stream">Silenciar assistente de voz</string>
@@ -5401,7 +5402,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>
   <string name="repeat">Repetir</string>
   <string name="repeat_call">Notificar acerca de chamadas repetidas</string>
-  <string name="repeat_call_info">Tocar quando receber uma chamada do mesmo número num espaço de quinze minutos</string>
+  <string name="repeat_call_info">Tocar quando receber uma chamada do mesmo número num espaço de %d minutos</string>
   <string name="repeat_days_in_week">Repetir</string>
   <string name="repeat_never">Nunca</string>
   <string name="repeat_title">Repetir</string>
@@ -5503,9 +5504,9 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="right_function_key">Atalho da direita</string>
   <string name="ring_to_you">Toque de chamada personalizado</string>
   <string name="ring_to_you_info">Definir um toque de chamada personalizado</string>
-  <string name="ring_volume_option_title">Volume do toque</string>
+  <string name="ring_volume_option_title">Toques</string>
   <string name="ring_volume_title">Volume do toque e notificações</string>
-  <string name="ringer_mode_setting_summary">Silenciar chamadas recebidas e notificações</string>
+  <string name="ringer_mode_setting_summary">Silenciar chamadas e notificações</string>
   <string name="ringer_mode_setting_title">Modo silêncio</string>
   <string name="ringtone_slot_setting_title">Definições SIM individuais</string>
   <string name="ringtone_title">Toque</string>
@@ -7456,7 +7457,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="video_calling_settings_title">Chamada de vídeo da operadora</string>
   <string name="video_tool_box_title">Ferramentas de vídeo</string>
   <string name="view_saved_network">Para ver escolher a rede guardada</string>
-  <string name="vip_list">Permitir chamadas recebidas</string>
+  <string name="vip_list">Notificar sobre chamadas</string>
   <string name="virtual_keyboard_category">Teclado no ecrã</string>
   <string name="virtual_keyboards_for_work_title">Teclado no ecrã para perfil de trabalho</string>
   <string name="virtual_sim_category_title">Roaming Mi</string>
@@ -8517,7 +8518,7 @@ Quando desligar a funcionalidade Não incomodar, pode encontrar notificações p
   <string name="zen_mode_starred_contacts_title">Contactos favoritos</string>
   <string name="zen_mode_start_time">Hora de início</string>
   <string name="zen_mode_summary">Silenciar chamadas recebidas, notificações, multimédia e desligar vibração</string>
-  <string name="zen_mode_summary2">Silenciar chamadas e notificações, desligar vibração</string>
+  <string name="zen_mode_summary2">Sem alertas para chamadas recebidas e notificações</string>
   <string name="zen_mode_summary_alarms_only_by_time">Alterar para apenas alarmes, até %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Alterar para apenas alarmes, indefinidamente</string>
   <string name="zen_mode_summary_always">Alterar para interromper sempre</string>
