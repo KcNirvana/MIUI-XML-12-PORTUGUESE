@@ -50,6 +50,14 @@
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d contactos eliminados</item>
+        <item quantity="one">%d contacto eliminado</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d contactos restaurados</item>
+        <item quantity="one">%d contacto restaurado</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>

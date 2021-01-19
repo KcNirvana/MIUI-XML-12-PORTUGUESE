@@ -122,6 +122,7 @@
   <string name="callrecordview_menu_show_missed">Chamadas não atendidas</string>
   <string name="callrecordview_menu_show_sim">Chamadas do %s</string>
   <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
+  <string name="cancel">Cancelar</string>
   <string name="cancel_confirmation_dialog_message">Rejeitar alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
   <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
@@ -201,6 +202,15 @@
   <string name="contactsList">Contactos</string>
   <string name="contacts_default_notification_channel">Notificações</string>
   <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
+  <string name="contacts_trash_activity_hint">Seleccionar contactos a restaurar</string>
+  <string name="contacts_trash_activity_title">Contactos eliminados recentemente</string>
+  <string name="contacts_trash_delete">Eliminar</string>
+  <string name="contacts_trash_delete_dialog_continue">Eliminar</string>
+  <string name="contacts_trash_delete_dialog_hint">Não vai poder reverter isto</string>
+  <string name="contacts_trash_delete_dialog_loading">A eliminar…</string>
+  <string name="contacts_trash_delete_dialog_title">Eliminar contactos seleccionados?</string>
+  <string name="contacts_trash_restore">Restaurar</string>
+  <string name="contacts_trash_restore_loading">A restaurar…</string>
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar dum ficheiro</string>

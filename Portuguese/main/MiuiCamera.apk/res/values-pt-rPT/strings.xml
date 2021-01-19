@@ -1181,8 +1181,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_skin_beautify_slim_title">Fino</string>
   <string name="pref_skin_beautify_smooth_title">Suave</string>
   <string name="pref_smart_guide_title">Sugestões inteligentes</string>
-  <string name="pref_super_night_se_summary">Reconhecer um ambiente de luz escuro vai accionar automaticamente o disparo nocturno e vai melhorar o efeito de imagem por meio de algoritmos</string>
-  <string name="pref_super_night_se_title">Visão nocturna automática</string>
+  <string name="pref_super_night_se_summary">Detectar ambientes com pouca luz e melhorar a imagem automaticamente</string>
+  <string name="pref_super_night_se_title">Modo Nocturno automático</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
   <string name="pref_video_captrue_ability_title">Captura de imagens enquanto grava</string>
   <string name="pref_video_denoise_off">Desligado</string>

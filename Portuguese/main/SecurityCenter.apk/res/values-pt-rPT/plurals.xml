@@ -202,6 +202,10 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">Get a %d-day free trial</item>
     <item quantity="one">Get a %d-day free trial</item>
   </plurals>
+  <plurals name="gtb_spring_festival_colored_egg">
+    <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+    <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+  </plurals>
   <plurals name="hide_txt_hint_with_blank_2">
     <item quantity="other">    +%1$d mais caracteres</item>
     <item quantity="one">    +%1$d mais caracter</item>
@@ -338,6 +342,10 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">"O acesso à rede está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicações"</item>
     <item quantity="one">"O acesso à rede está restringido para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicação"</item>
   </plurals>
+  <plurals name="notification_antivirus_title">
+    <item quantity="other">%d dias sem verificar</item>
+    <item quantity="one">%d dia sem verificar</item>
+  </plurals>
   <plurals name="notification_battery_consume_abnormal_summary">
     <item quantity="other">Descarregou %2$d%% nos últimos %1$d minutos</item>
     <item quantity="one">Descarregou %2$d%% no último %1$d minuto</item>
@@ -345,6 +353,10 @@ You can get a %d-day free trial now!"</item>
   <plurals name="notification_battery_scan_consume_abnormal_title_split">
     <item quantity="other">%2$d aplicações, incluindo %1$s, estão a descarregar a bateria</item>
     <item quantity="one">%2$d aplicação, incluindo %1$s, está a descarregar a bateria</item>
+  </plurals>
+  <plurals name="notification_link_cleaner_2006">
+    <item quantity="other">Eliminar %d APKs</item>
+    <item quantity="one">Eliminar %d APK</item>
   </plurals>
   <plurals name="notification_power_consume_issue">
     <item quantity="other">%d problemas de bateria</item>
@@ -717,6 +729,12 @@ You can get a %d-day free trial now!"</item>
   <plurals name="videobox_settings_manager_apps_count">
     <item quantity="other">%d aplicações</item>
     <item quantity="one">%d aplicação</item>
+  </plurals>
+  <plurals name="videobox_settings_timing_bubble">
+    <item quantity="other">"Está a ver vídeos há %d horas.
+Faça um intervalo!"</item>
+    <item quantity="one">"Está a ver vídeos há %d hora.
+Faça um intervalo!"</item>
   </plurals>
   <plurals name="view_num">
     <item quantity="other">%1$d visualizações</item>

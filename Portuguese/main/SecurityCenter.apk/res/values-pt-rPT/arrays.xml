@@ -85,6 +85,13 @@
     <item>Sim</item>
     <item>Não</item>
   </string-array>
+  <string-array name="gb_adv_touch_custom_level">
+    <item>Mais baixo</item>
+    <item>Baixo</item>
+    <item>Normal</item>
+    <item>Alto</item>
+    <item>Mais alto</item>
+  </string-array>
   <string-array name="lock_mode">
     <item>Quando o dispositivo está bloqueado</item>
     <item>Quando o dispositivo está bloqueado ou após sair da aplicação</item>

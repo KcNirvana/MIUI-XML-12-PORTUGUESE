@@ -136,7 +136,7 @@
   <string name="clipboard_read_ai_deny_once">Restringido o acesso à área de transferências a %1$s</string>
   <string name="clipboard_read_allow_once">%1$s acedeu a itens na área de transferências</string>
   <string name="clipboard_read_deny_dialog_title">Restringido o acesso à área de transferências a %1$s</string>
-  <string name="current_permission_template">%1$s (%2$s/%3$s)</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="default_permission_description">executar acções desconhecidas</string>
   <string name="forbid_notice_me">Parar notificações</string>
   <string name="go_behavior_record">Histórico de comportamento</string>
