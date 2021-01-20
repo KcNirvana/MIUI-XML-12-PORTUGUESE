@@ -65,6 +65,7 @@
   <string name="folder_name_illegal">Nome de pasta inválido</string>
   <string name="folder_name_invalid">"Os nomes das pastas não podem conter: /\\:*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
+  <string name="home_action_up">Voltar</string>
   <string name="image_loading_error">Não foi possível carregar</string>
   <string name="inner_storage_path">Armazenamento interno</string>
   <string name="jump_to_directory">Abrir pasta</string>

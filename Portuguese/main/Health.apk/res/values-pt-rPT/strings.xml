@@ -313,6 +313,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_keep">Manter</string>
   <string name="dialog_known">Percebi</string>
   <string name="dialog_menstruation_purpose">Bem-vindo a Saúde! A \"Menstruação\" permite registar o período, determinar datas estimadas dos próximos períodos e receber lembretes</string>
+  <string name="dialog_new_version_title">Actualização disponível</string>
   <string name="dialog_no_more_prompt">Não mostrar novamente</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_open">Permitir</string>
@@ -332,6 +333,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_user_agreement_purpose2">Bem-vindo a Saúde! Pode utilizar esta aplicação para contar passos, registar o seu sono, períodos e peso</string>
   <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desligado</string>
+  <string name="discard_update">Não, obrigado</string>
   <string name="drag_sort">Ordenar</string>
   <string name="dream_talk">A falar %1$s</string>
   <string name="dream_talk_record">Foi gravado enquanto falava durante o sono</string>
@@ -437,6 +439,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="feedback_need_permission_msg">Permitir que Saúde escreva no armazenamento externo para poder gerar registos para enviar comentários</string>
   <string name="feedback_permission_denied_msg">Saúde não consegue guardar registos no armazenamento externo. Dê a Saúde as permissões necessárias em definições</string>
   <string name="fewer">Pouco</string>
+  <string name="find_new_verision">A versão %s está disponível</string>
   <string name="finish">Terminar</string>
   <string name="finish_stand">Terminar</string>
   <string name="finish_stand2">Ficar em pé</string>
@@ -572,6 +575,7 @@ Comece de novo"</string>
   <string name="hr_strength_lowest">Baixíssimo</string>
   <string name="hr_strength_mid">Médio</string>
   <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="immediately_experience">Actualizar</string>
   <string name="improve_step_target">Atingiu o seu objectivo muito cedo. Tente definir um mais alto</string>
   <string name="improve_your_health_default_tips">Exercite-se e durma o suficiente para se manter saudável</string>
   <string name="input_body_weight">Introduzir peso para obter conselhos de saúde</string>
@@ -631,6 +635,7 @@ Comece de novo"</string>
   <string name="light_sleep_time_normal_description">O seu sono leve é suficiente</string>
   <string name="load_failed">Não foi possível carregar itens. Aguarde um momento e tente novamente</string>
   <string name="loading">Aguarde…</string>
+  <string name="location_perm_description">Para registar exercícios ao ar livre e rotas</string>
   <string name="location_permission_dialog_content">Permitir que Saúde aceda à sua localização em \"Saúde\" > \"Gerir permissões\" para poder rastrear os seus treinos ao ar livre</string>
   <string name="location_permission_dialog_negative">Agora não</string>
   <string name="location_permission_dialog_positive">Permitir</string>

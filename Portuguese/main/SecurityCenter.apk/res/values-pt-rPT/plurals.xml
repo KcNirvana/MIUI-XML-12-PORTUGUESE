@@ -498,10 +498,6 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">" minutos"</item>
     <item quantity="one">" minuto"</item>
   </plurals>
-  <plurals name="power_center_battery_health_summary">
-    <item quantity="other">Carregue totalmente o seu dispositivo pelo menos %2$d vezes para obter estatísticas precisas</item>
-    <item quantity="one">Carregue totalmente o seu dispositivo pelo menos %2$d vez para obter estatísticas precisas</item>
-  </plurals>
   <plurals name="power_center_battery_hour">
     <item quantity="other">"%d horas "</item>
     <item quantity="one">"%d hora "</item>

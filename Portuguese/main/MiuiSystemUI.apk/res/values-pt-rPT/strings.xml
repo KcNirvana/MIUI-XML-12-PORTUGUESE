@@ -110,6 +110,7 @@
   <string name="accessibility_detail_switch_off">Desligar</string>
   <string name="accessibility_detail_switch_on">Ligar</string>
   <string name="accessibility_divider">Divisor de ecrã dividido</string>
+  <string name="accessibility_enter_lock_setting">Toque para abrir as definições de papéis de parede aleatórios</string>
   <string name="accessibility_enter_lock_wallpaper">Toque para abrir papéis de parede aleatórios</string>
   <string name="accessibility_ethernet_connected">Ethernet ligada</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desligada</string>
@@ -121,6 +122,14 @@
   <string name="accessibility_home">Início</string>
   <string name="accessibility_ime_switch_button">Alterar o método de introdução</string>
   <string name="accessibility_key">Botão de navegação personalizada</string>
+  <string name="accessibility_keyboard_delete_button">Eliminar</string>
+  <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
+  <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
+  <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
+  <string name="accessibility_keyboard_ok_button">Enter</string>
+  <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
+  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Bloqueio de símbolos</string>
+  <string name="accessibility_keyguard_face_unlock_view">Desbloqueio facial</string>
   <string name="accessibility_left_control_center_button">Atalho</string>
   <string name="accessibility_left_lock_screen_magazine_button">Papéis de parede aleatórios</string>
   <string name="accessibility_location_active">Pedidos de localização activos</string>
@@ -644,7 +653,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="debug_view_attributes">Activar visualização de atributos</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="default_theme">Predefinido</string>
-  <string name="delete">ELIMINAR</string>
+  <string name="delete">Eliminar</string>
   <string name="delete_blob_confirmation_text">Tem a certeza de que pretende eliminar estes dados partilhados?</string>
   <string name="delete_blob_text">Eliminar dados partilhados</string>
   <string name="demo_mode">Modo demonstração</string>

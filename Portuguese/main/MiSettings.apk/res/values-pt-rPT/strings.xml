@@ -115,10 +115,10 @@
   <string name="focus_mode_timer_pick_dialog_title">Introduzir duração</string>
   <string name="focus_time_exception_tip">A hora do sistema foi alterada. O Modo Foco foi desligado</string>
   <string name="follow_sim1">Aplicar definições do SIM 1</string>
-  <string name="fps_nature_summary">A alta taxa de actualização mantém tudo nítido e claro</string>
-  <string name="fps_nature_title">Alta</string>
-  <string name="fps_smooth_summary">A taxa de actualização média adiciona mais clareza aos detalhes</string>
-  <string name="fps_smooth_title">Média</string>
+  <string name="fps_nature_summary">A taxa máxima de actualização mantém tudo nítido e claro</string>
+  <string name="fps_nature_title">Máxima</string>
+  <string name="fps_smooth_summary">A taxa de actualização alta adiciona mais clareza aos detalhes</string>
+  <string name="fps_smooth_title">Alta</string>
   <string name="fps_standard_summary">A taxa de actualização standard poupa bateria</string>
   <string name="fps_standard_title">Standard</string>
   <string name="fps_user_tip">Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>

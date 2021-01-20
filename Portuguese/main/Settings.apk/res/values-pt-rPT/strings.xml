@@ -36,12 +36,14 @@
   <string name="accessibility_autoclick_short_summary">0.2 segundos</string>
   <string name="accessibility_autoclick_short_title">Curto</string>
   <string name="accessibility_autoclick_shorter_desc">Mais curto</string>
+  <string name="accessibility_back">Voltar</string>
   <string name="accessibility_caption_master_switch_summary">Apenas para aplicações suportadas</string>
   <string name="accessibility_caption_master_switch_title">Mostrar legendas</string>
   <string name="accessibility_caption_preference_summary">Nem todas as aplicações suportam estas preferências de legendas</string>
   <string name="accessibility_captioning_title">Preferências das legendas</string>
   <string name="accessibility_category_personal">Contas de perfil pessoal</string>
   <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
+  <string name="accessibility_clear">Limpar</string>
   <string name="accessibility_close_tab">Fechar separador actual</string>
   <string name="accessibility_control_timeout_preference_summary">"Escolher quanto tempo para mostrar as mensagens que solicitam que execute uma acção, mas apenas são visíveis apenas temporariamente.
 

@@ -61,7 +61,7 @@ Verifique as Definições para saber mais"</string>
   <string name="fast_connect_same_account_content">Os dispositivos Bluetooth podem ser sincronizados com a sua Conta Mi e ligados sem ter que emparelhar noutros dispositivos</string>
   <string name="fast_connect_same_accout_devices_connecting">A ligar via Xiaomi Cloud…</string>
   <string name="fast_connect_same_accout_devices_title">Ligou %1$s a outros dispositivos</string>
-  <string name="fast_connect_same_accout_ok">OK</string>
+  <string name="fast_connect_same_accout_ok">Percebi</string>
   <string name="fast_connect_sound_normalizer_content">"Áudio melhorado em chamadas de voz.
 Protocolo de ligação mais rápido"</string>
   <string name="fast_connect_wbs_name">ZMI WBS01</string>

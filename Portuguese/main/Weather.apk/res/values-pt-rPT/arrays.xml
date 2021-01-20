@@ -16,13 +16,6 @@
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
     </string-array>
-    <string-array name="breeze">
-        <item>&lt;Grau 2</item>
-        <item>&lt;6.0 km/h</item>
-        <item>&lt;1.7 m/s</item>
-        <item>&lt;3.7 mph</item>
-        <item>&lt;3.2 kn</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Beja</item>
         <item>Evora</item>

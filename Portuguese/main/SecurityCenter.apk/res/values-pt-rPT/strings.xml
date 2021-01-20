@@ -1799,7 +1799,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="list_empty_text">Vazio</string>
   <string name="load_only_under_wlan">Carregar apenas quando ligado ao Wi-Fi</string>
   <string name="loading">Aguarde…</string>
-  <string name="loading_text_format" formatted="false">A remover informações privadas das fotos (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">A verificar se as fotos têm informações privadas (%d/%d)…</string>
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para reportar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo</string>
   <string name="lock_all_title">Bloquear todas as aplicações</string>
   <string name="lock_mode_title">Definições de bloqueio</string>
@@ -2511,6 +2511,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_battery_detail">Detalhes</string>
   <string name="power_center_battery_duration">Tempo restante</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
+  <string name="power_center_battery_health_poor_tip">A saúde da bateria é baixa. Verifique a sua bateria num centro de serviço autorizado</string>
+  <string name="power_center_battery_health_summary">Carregar totalmente e descarregar o seu dispositivo %1$d a %2$d vezes para melhorar a precisão das estatísticas da bateria</string>
   <string name="power_center_battery_last">%s restante</string>
   <string name="power_center_battery_level">%s carregado</string>
   <string name="power_center_battery_level_general">Normal</string>
