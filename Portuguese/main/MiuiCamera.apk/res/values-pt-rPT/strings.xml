@@ -877,7 +877,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Ajustar a taxa de frames em ambientes de luz fraca de %1$d para %2$d fps para melhorar a qualidade do vídeo</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">A taxa de frames vai ser baixada automaticamente em ambientes de luz fraca para melhorar a qualidade do vídeo</string>
   <string name="pref_camera_dynamic_frame_rate_title">Ajustar taxa de frames para luz fraca</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Desligado</string>
@@ -1001,6 +1001,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_portrait_mode_entry_on">O Modo Retrato está ligado</string>
   <string name="pref_camera_portrait_mode_title">Modo Retrato</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Embelezar no Modo Retrato</string>
+  <string name="pref_camera_predictive_shutter_description">Registar movimentos para minimizar a desfocagem nas fotos de crianças, animais e outros sujeitos activos</string>
+  <string name="pref_camera_predictive_shutter_title">Registar movimentos</string>
   <string name="pref_camera_proximity_lock_summary">Bloquear toques quando colocado no bolso</string>
   <string name="pref_camera_proximity_lock_title">Modo Bolso</string>
   <string name="pref_camera_quick_settings">Definições rápidas</string>
