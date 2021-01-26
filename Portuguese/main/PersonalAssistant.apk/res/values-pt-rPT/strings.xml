@@ -66,6 +66,15 @@
   <string name="app_display_setting_title">Alterar título</string>
   <string name="app_health_card_completion">Objectivo</string>
   <string name="app_health_card_step">"Passos hoje:"</string>
+  <string name="app_health_setting_music_name_fire">Fogão</string>
+  <string name="app_health_setting_music_name_forest">Floresta</string>
+  <string name="app_health_setting_music_name_night">Noite de verão</string>
+  <string name="app_health_setting_music_name_ocean">Praia</string>
+  <string name="app_health_setting_music_name_rain">Chuviscos</string>
+  <string name="app_health_setting_text_default_duration">Duração</string>
+  <string name="app_health_setting_text_download_alert_message">Não está ligado ao Wi-Fi. Utilizar %1$s de dados móveis para transferir itens?</string>
+  <string name="app_health_setting_text_sleep_aid_settings">Sono</string>
+  <string name="app_health_setting_text_title">Saúde</string>
   <string name="app_label">Assistente</string>
   <string name="app_memory_free">Disponível</string>
   <string name="app_memory_title">Memória</string>

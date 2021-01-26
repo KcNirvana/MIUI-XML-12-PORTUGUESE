@@ -1638,7 +1638,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_notifications_label">Notificações</string>
   <string name="quick_settings_papermode_label">Modo de Leitura</string>
   <string name="quick_settings_powermode_label">Desempenho</string>
-  <string name="quick_settings_quietmode_label">N. incomodar</string>
+  <string name="quick_settings_quietmode_label">Não incomodar</string>
   <string name="quick_settings_reset_confirmation_button">Ocultar</string>
   <string name="quick_settings_reset_confirmation_message">Vai aparecer da próxima vez que a ligar nas definições</string>
   <string name="quick_settings_reset_confirmation_title">Ocultar %1$s?</string>

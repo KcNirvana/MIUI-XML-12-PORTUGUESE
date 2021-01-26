@@ -266,6 +266,8 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
   <string name="activating">A activar…</string>
   <string name="active_device_admin_msg">Aplicação admin. do dispositivo</string>
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
+  <string name="activity_check_context">O seu dispositivo está a tentar ligar à Internet. Este processo pode levar mais tempo que o esperado se estiver a utilizar dados móveis</string>
+  <string name="activity_check_title">A ligar à Internet…</string>
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo</string>
   <string name="activity_picker_label">Escolher actividade</string>
   <string name="activity_title_power_manager">Poupança de bateria;Poupar bateria</string>
@@ -2252,6 +2254,12 @@ Para corrigir este problema, pode parar a aplicação %1$s e impedir que esta ex
   <string name="dialog_background_check_ok">Desligar</string>
   <string name="dialog_background_check_title">Desligar a execução em segundo plano e parar a aplicação?</string>
   <string name="dialog_backup_title">Actualizar cópias antes de fazer uma reposição de fábrica?</string>
+  <string name="dialog_check_button_negative">Tentar novamente</string>
+  <string name="dialog_check_button_positive">Ligar ao Wi-Fi</string>
+  <string name="dialog_check_context">"O seu dispositivo não consegue ligar à Internet agora.
+1. Toque \"Ligar ao Wi-Fi\" para seleccionar uma rede disponível
+2. Se quiser utilizar dados móveis, toque \"Tentar novamente\" ou remova e insira o seu cartão SIM"</string>
+  <string name="dialog_check_title">Não é possível ligar à Internet</string>
   <string name="dialog_chose_item">Seleccione um item para mostrar</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
   <string name="dialog_location_message">"O telefone não consegue gerir a bateria normalmente, pois a aplicação %1$s está constantemente a solicitar a sua localização quando não está a utilizar a aplicação.
@@ -2273,6 +2281,10 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_login">Iniciar sessão na sua Conta Mi</string>
+  <string name="dialog_wifi_button_negative">Não</string>
+  <string name="dialog_wifi_button_positive">Sim</string>
+  <string name="dialog_wifi_context">É necessário ligar à Internet para configurar o seu dispositivo. Utilizar dados móveis pode gerar custos adicionais. Utilizar dados móveis mesmo assim?</string>
+  <string name="dialog_wifi_title">Utilizar dados móveis</string>
   <string name="dialog_yes">Sim</string>
   <string name="direct_boot_unaware_dialog_message">Nota: após reiniciar, só é possível iniciar esta aplicação quando o dispositivo for desbloqueado</string>
   <string name="disableNetwork">Desactivar rede</string>
@@ -4071,6 +4083,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_closeAnc">Desligado</string>
   <string name="miheadset_connectHeadsetForFw">Ligar os auriculares para ver a versão de firmware</string>
   <string name="miheadset_connect_play_music">Inicar a reprodução automática quando ligar os auriculares</string>
+  <string name="miheadset_connect_toast_tips">Ligar auriculares primeiro</string>
   <string name="miheadset_define_self">Personalizado</string>
   <string name="miheadset_disconnect">Desligar</string>
   <string name="miheadset_disconnect_device">Desligar este dispositivo?</string>
@@ -4114,8 +4127,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_rename_device">Mudar o nome</string>
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparência</string>
-  <string name="miheadset_unpair_device">Cancelar emparelhamento?</string>
-  <string name="miheadset_unpair_device_text">Todos os dispositivos associados com esta conta Xiaomi vão ser removidos</string>
+  <string name="miheadset_unpair_device_text">%1$s vai ser desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="misc_files">Ficheiros diversos</string>
   <string name="misc_files_selected_count">seleccionados %1$d de %2$d</string>

@@ -398,6 +398,7 @@
   <string name="user_agreement">Termos de Utilização</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>
+  <string name="voice_add_alarm">Adicionar um alarme utilizando um comando de voz</string>
   <string name="volume_button_setting_desc">Definir funções para os botões Ligar/Desligar e Volume+/-</string>
   <string name="volume_button_setting_summary">Definir a função dos botões de volume durante o alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>

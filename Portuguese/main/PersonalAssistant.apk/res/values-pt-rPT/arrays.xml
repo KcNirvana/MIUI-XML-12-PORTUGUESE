@@ -6,6 +6,12 @@
         <item>Semana 3</item>
         <item>Semana %1$d</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
     <string-array name="base_day_time_space">
         <item>Noite</item>
         <item>Noite</item>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="access_limit">Restrições de acesso</string>
+  <string name="access_tips">Não é possível aceder a itens. Tente utilizar a framework Android Storage Access</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="ad_download">Transferir</string>
@@ -67,6 +69,7 @@
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="clock_in">A fazer check-in…</string>
+  <string name="close">Fechar</string>
   <string name="compress_fail">Não foi possível comprimir. Já existe um ficheiro com o mesmo nome</string>
   <string name="compress_fail_unknown">Não foi possível comprimir. Armazenamento está cheio ou ocorreu um erro desconhecido</string>
   <string name="compress_message">Comprimir para…</string>
@@ -178,6 +181,7 @@
   <string name="function_set_private">"Para ver e encriptar ficheiros; "</string>
   <string name="function_use_imei">"Para aceder ao IMEI e encriptar ficheiros; "</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
+  <string name="go_ahead">Abrir</string>
   <string name="grid_mode">Vista de grelha</string>
   <string name="group_title">%2$s de %1$s</string>
   <string name="group_title_extra_backup">Cópias de Segurança</string>
@@ -238,6 +242,9 @@
   <string name="mirror_can_not_drag_mask">Arrastar para utilizar Mi Share</string>
   <string name="mirror_new_name">Criar pasta (%s)</string>
   <string name="mirror_new_name_first">Criar pasta</string>
+  <string name="mirror_no_recommended_app">Sem aplicações recomendadas</string>
+  <string name="mirror_open_mode_error">Não foi possível carregar itens</string>
+  <string name="mirror_open_mode_loading">Aguarde…</string>
   <string name="mirror_paste_no_file">O ficheiro não existe</string>
   <string name="mirror_progress_copy">A copiar…</string>
   <string name="mirror_side_bar_tab_app_name">Aplicações</string>
@@ -319,6 +326,7 @@
   <string name="operation_moving">A mover…</string>
   <string name="operation_new_folder">Criar pasta</string>
   <string name="operation_open">Abrir</string>
+  <string name="operation_open_mode">Abrir com</string>
   <string name="operation_other_apps">Abrir noutra aplicação</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_paste_to_folder">Colar para a pasta</string>
@@ -375,6 +383,8 @@
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo</string>
   <string name="pull_to_enter_private">Puxe para abrir pastas privadas</string>
   <string name="pull_to_refresh">Puxe para actualizar</string>
+  <string name="qq_msg">"Due to Android 11 restrictions, File Manager can't access and display QQ documents."</string>
+  <string name="qq_title">"Can't access WeChat documents"</string>
   <string name="refresh_fail">Não foi possível actualizar</string>
   <string name="refresh_success">Actualizado</string>
   <string name="refreshing">A actualizar</string>
@@ -422,6 +432,7 @@
   <string name="select_music">Ficheiros de áudio</string>
   <string name="select_video">Ficheiros de vídeo</string>
   <string name="select_volume">Seleccionar volume</string>
+  <string name="send">Enviar</string>
   <string name="server_control_advanced_settings">Definições de FTP</string>
   <string name="server_control_charset">Codificação da transferência</string>
   <string name="server_control_settings">Definições</string>
@@ -489,6 +500,8 @@
   <string name="user_not_login">Iniciar sessão primeiro</string>
   <string name="utf8_summary">Codificação do Sistema FTP padrão</string>
   <string name="view_type">Vista</string>
+  <string name="wechat_msg">"Due to Android 11 restrictions, File Manager can't access and display the documents previewed in WeChat. Open and save documents in WeChat to make them appear here."</string>
+  <string name="wechat_title">"Can't access WeChat documents"</string>
   <string name="wechat_video">Vídeo em %s</string>
   <string name="wifi_state">Rede Wi-Fi</string>
   <string name="year_month_day_format">dd-MM-yyyy</string>

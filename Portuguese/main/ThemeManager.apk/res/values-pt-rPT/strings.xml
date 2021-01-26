@@ -74,6 +74,8 @@
   <string name="both_all_apply_success">Papel de parede definido</string>
   <string name="browser_local_resource">Recursos locais</string>
   <string name="can_not_apply">Não é possível aplicar</string>
+  <string name="can_not_apply_error">Este formato de vídeo não é suportado</string>
+  <string name="can_not_apply_size_invalid">Este vídeo é demasiado grande</string>
   <string name="cancel_download">Transferência cancelada</string>
   <string name="card_data_request_error">Erro no pedido de dados. Tente novamente mais tarde</string>
   <string name="card_loading">Aguarde…</string>
@@ -188,6 +190,14 @@
   <string name="find_more_theme">Procurar mais</string>
   <string name="find_more_wallpapers">Procurar mais</string>
   <string name="first_page_recommend">Recomendados</string>
+  <string name="font_compat_dialog_buy_confirm">Comprar</string>
+  <string name="font_compat_dialog_buy_content">Tipos de letra de terceiros podem não ser suportados por algumas aplicações. Comprar mesmo assim?</string>
+  <string name="font_compat_dialog_cancel">Cancelar</string>
+  <string name="font_compat_dialog_download_confirm">Transferir</string>
+  <string name="font_compat_dialog_download_content">Tipos de letra de terceiros podem não ser suportados por algumas aplicações. Transferir mesmo assim?</string>
+  <string name="font_compat_dialog_title">Problemas de compatibilidade</string>
+  <string name="font_compat_dialog_trial_confirm">Experimentar</string>
+  <string name="font_compat_dialog_trial_content">Tipos de letra de terceiros podem não ser suportados por algumas aplicações. Experimentar mesmo assim?</string>
   <string name="gallery_wallpaper">Papéis de parede aleatórios</string>
   <string name="gallery_wallpaper_theme">Papéis de parede indispensáveis</string>
   <string name="gift_anonymous">Anónimo</string>
@@ -244,6 +254,7 @@
   <string name="hide_pull_down_message">Ocultar?</string>
   <string name="hide_pull_down_negative">Não ocultar</string>
   <string name="hide_pull_down_positive">Ocultar</string>
+  <string name="hide_retract_button">Ocultar</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="home_daily">Destaques diários</string>
@@ -661,6 +672,8 @@ Toque aqui para iniciar agora"</string>
   <string name="search_sort_news">Novos primeiro</string>
   <string name="search_sort_synthesize">Geral</string>
   <string name="search_sort_top">Populares primeiro</string>
+  <string name="scrollable_wallpaper_close">Turned off scrolling</string>
+  <string name="scrollable_wallpaper_open">Turned on scrolling</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserir o cartão SD agora.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Não foi detectado nenhum cartão SD</string>
@@ -668,6 +681,7 @@ Toque aqui para iniciar agora"</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
   <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
+  <string name="set_as_colorring">Definir como toque personalizado</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
   <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
   <string name="set_wallpaper_group_success">"%1$s foi aplicado.

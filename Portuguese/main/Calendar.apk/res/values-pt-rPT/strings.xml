@@ -71,7 +71,7 @@
   <string name="birthday_event_description_tomorrow">Amanhã é</string>
   <string name="birthday_event_description_yesterday">Ontem foi</string>
   <string name="birthday_notification_text_days_later">%1$s dias até ao %4$s (%5$s)</string>
-  <string name="birthday_notification_text_today">Não se esqueça de lhes desejar feliz aniversário</string>
+  <string name="birthday_notification_text_today">Não se esqueça de lhe desejar feliz aniversário</string>
   <string name="birthday_notification_title_days_later">O %2$s de %1$s está a chegar</string>
   <string name="birthday_notification_title_today">%3$s de %1$s</string>
   <string name="birthday_notification_type_term_lunar"/>
