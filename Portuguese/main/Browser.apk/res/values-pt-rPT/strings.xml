@@ -973,10 +973,7 @@ Sair desta página agora?"</string>
     <string name="mw_save_password_never">Nunca</string>
     <string name="mw_save_password_notnow">Agora não</string>
     <string name="mw_save_password_remember">Guardar</string>
-    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Definir hora</string>
@@ -1627,7 +1624,6 @@ Alguns sítios não vão utilizar o seu histórico de navegação anterior para 
     <string name="ssl_untrusted">Este certificado não é confiável.</string>
     <string name="ssl_warnings_header">Existem problemas com o certificado de segurança desta página.</string>
     <string name="start_save_page_capture">A guardar captura de ecrã…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_permission_request_toast">A aplicação Transferências precisa aceder ao armazenamento do dispositivo</string>
