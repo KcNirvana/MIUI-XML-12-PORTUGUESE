@@ -48,12 +48,12 @@
        <item quantity="one">%1$s ano</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d dias atrás</item>
-        <item quantity="one">%1$d dia atrás</item>
+        <item quantity="other">Há %1$d dias foi o</item>
+        <item quantity="one">Há %1$d dia foi o</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d dias até</item>
-        <item quantity="one">%1$d dia até</item>
+        <item quantity="other">%1$d dias até ao</item>
+        <item quantity="one">%1$d dia até ao</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s anos</item>

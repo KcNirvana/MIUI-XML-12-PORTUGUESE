@@ -146,7 +146,7 @@
   <string name="error_unsupport_content">Esta nota contém conteúdo não suportado. Toque aqui para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="exceed_todo_text_limitation">A descrição da tarefa é demasiado longa</string>
-  <string name="excerpt">Criar um excerto</string>
+  <string name="excerpt">Excertos</string>
   <string name="excerpt_bubble_tips">Texto copiado e imagens guardadas vão ser guardadas em Notas</string>
   <string name="excerpt_link_bubble_tips">Toque para guardar em Notas</string>
   <string name="excerpt_note">Os meus excertos</string>
