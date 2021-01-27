@@ -1679,7 +1679,19 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
   <string name="gtb_setting_item_title_smart_5g">Optimização rede 5G</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Optimização Mi Wi-Fi</string>
   <string name="gtb_spring_festival_back_game">Voltar ao jogo</string>
+  <string name="gtb_spring_festival_egg_obtain_fail">Não foi possível ligar à rede</string>
   <string name="gtb_spring_festival_goto_gameturbo">Ver</string>
+  <string name="gtb_spring_festival_guide">"Switch to landscape mode
+to join our egg hunt!"</string>
+  <string name="gtb_spring_festival_guide_know">Got it</string>
+  <string name="gtb_spring_festival_push_active_desc">Win phones, smart devices and coupons</string>
+  <string name="gtb_spring_festival_push_active_title">Easter egg hunt is on!</string>
+  <string name="gtb_spring_festival_push_desc">Join our egg hunt to win prizes</string>
+  <string name="gtb_spring_festival_push_egg_title">You received an Easter egg!</string>
+  <string name="gtb_spring_festival_push_gift_title">Egg hunt prizes are coming!</string>
+  <string name="gtb_spring_festival_push_join">Aderir</string>
+  <string name="gtb_spring_festival_push_see">Ver</string>
+  <string name="gtb_spring_festival_shortcut_create">Criar um atalho no ecrã inicial</string>
   <string name="gtb_wlan_speed_tips">A utilizar Mi Wi-Fi…</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
   <string name="guide_operator_text">"A sua operadora actual: "</string>

@@ -24,6 +24,7 @@
   <string name="error_device_lost">O outro dispositivo está fora do alcance. Aguarde um momento e tente novamente</string>
   <string name="error_mirror_working">Não é possível partilhar itens enquanto partilha o ecrã</string>
   <string name="error_msg_network_error">Ocorreu um erro de rede. Tente novamente</string>
+  <string name="error_permission_denied">Para poder utilizar esta funcionalidade, dê todas as permissões necessárias a Mi Share em Definições</string>
   <string name="error_receive_file_cannot_read">Não foi possível receber</string>
   <string name="error_receive_file_changed">Não é possível receber. O item foi alterado</string>
   <string name="error_receive_file_no_enough_space">Não é possível receber. Sem espaço de armazenamento</string>
@@ -56,12 +57,12 @@
   <string name="location_enabled">O Mi Share ligou os serviços de localização para procurar dispositivos próximos</string>
   <string name="menu_item_privacy_title">Política de Privacidade</string>
   <string name="mi_drop">Mi Share</string>
-  <string name="mishare_settings_summary_international">"Pode utilizar o Mi Share para enviar itens para dispositivos próximos.
-Mi Share é compatível com telefones Mi e Redmi.
-OPPO, Vivo, Realme e outras marcas vão ser compatíveis brevemente também. Pode verificar a lista de dispositivos compatíveis no nosso site"</string>
+  <string name="mishare_settings_summary_international">"Mi Share permite enviar itens enviar itens para dispositivos próximos.
+Esta funcionalidade é suportado por dispositivos de OPPO, Vivo, Realme e outras marcas. Pode verificar a lista de dispositivos compatíveis no nosso site"</string>
   <string name="mishare_state_protection">Ligar Mi Share automaticamente</string>
   <string name="mishare_state_protection_summary">Ligar o Mi Share novamente quando o Bluetooth ou Wi-Fi estiverem ligados novamente</string>
   <string name="mishare_state_protection_summary_china">Ligar o Mi Share novamente quando o Bluetooth ou Wi-Fi estiverem ligados novamente</string>
+  <string name="nearby_share">Nearby Share</string>
   <string name="no_longer_prompt">Bloquear</string>
   <string name="no_longer_receive">Bloquear este dispositivo? Não vai poder receber ficheiros dele</string>
   <string name="operate_too_fast">Demasiado rápido! Aguarde até as operações em curso estarem concluídas</string>
