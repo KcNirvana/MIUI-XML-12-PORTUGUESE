@@ -269,6 +269,7 @@
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>
   <string name="choose_an_office365_international">Edição international</string>
+  <string name="choose_an_office365_provider">Escolher um fornecedor de Office365</string>
   <string name="choose_an_office365_sj">Edição 21Vianet</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear">Limpar</string>
@@ -347,6 +348,7 @@
   <string name="conversation_quick_button_disapprove">Cancelar</string>
   <string name="conversation_quick_button_received">Recebido</string>
   <string name="conversation_report_spam">Reportar spam</string>
+  <string name="conversation_report_un_spam">Não é spam</string>
   <string name="conversation_spam_dig_msg">Marcar esta mensagem como spam? A mensagem vai ser movida para a pasta \"Spam\" e o remetente vai ser adicionado à lista de bloqueio</string>
   <string name="conversation_spam_tips">Marcar esta mensagem como spam?</string>
   <string name="copied">Copiado</string>
@@ -421,6 +423,7 @@
   <string name="edit_signature">Editar assinatura</string>
   <string name="editor_max_length_limit_hint">A mensagem que introduziu é demasiado longa</string>
   <string name="email_netease">Email NetEase</string>
+  <string name="email_no_snippet">[Esta mensagem não tem corpo]</string>
   <string name="email_qq">Email QQ</string>
   <string name="email_sina">Email Sina</string>
   <string name="email_sync_failed">Não foi possível sincronizar</string>
@@ -541,6 +544,8 @@
   <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
+  <string name="general_preference_trash_contact">Triagem de spam</string>
+  <string name="general_preference_trash_contact_sum">Tratamento de mensagens de remetentes que foram denunciados em grande número</string>
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro</string>
   <string name="get_database_exception">Limpar os dados desta aplicação nas Definições &gt; Aplicações de Sistema e tente novamente</string>
   <string name="get_oauth_code">Obter código</string>
@@ -659,12 +664,50 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="mark_unread">Não lidas</string>
   <string name="me_object_pronun">mim</string>
   <string name="me_subject_pronun">mim</string>
-  <string name="meeting_accepted">Aceite: %s</string>
-  <string name="meeting_canceled">Cancelado: %s</string>
-  <string name="meeting_declined">Recusado: %s</string>
+  <string name="meeting_accepted">"
+        Aceite:
+        %s
+    "</string>
+  <string name="meeting_allday">"
+        Quando:
+        %s
+        (todo o dia)
+    "</string>
+  <string name="meeting_allday_recurring">"
+        Quando:
+        %s
+        (todo o dia, recorrente)
+    "</string>
+  <string name="meeting_canceled">"
+        Cancelado:
+        %s
+    "</string>
+  <string name="meeting_declined">"
+        Recusado:
+        %s
+    "</string>
+  <string name="meeting_recurring">"
+        Quando:
+        %s
+        (recorrente)
+    "</string>
   <string name="meeting_responded_failed">Sem resposta</string>
-  <string name="meeting_tentative">Tentativa: %s</string>
-  <string name="meeting_updated">Actualizado: %s</string>
+  <string name="meeting_tentative">"
+        Tentativa:
+        %s
+    "</string>
+  <string name="meeting_updated">"
+        Actualizado:
+        %s
+    "</string>
+  <string name="meeting_when">"
+        Quando:
+        %s
+    "</string>
+  <string name="meeting_where">"
+        Onde:
+        %s
+    "</string>
   <string name="megabytes">%sMB</string>
   <string name="menu_att_mgr">Anexos</string>
   <string name="menu_att_mgr_order_default">Vistos recentemente</string>
@@ -747,6 +790,7 @@ Confirme se a palavra-passe da aplicação está ligada. Se estiver, vá à pág
   <string name="notification_action_undo_archive">Arquivada</string>
   <string name="notification_action_undo_delete">Eliminada</string>
   <string name="notification_action_undo_remove_label">Marcador removido</string>
+  <string name="notification_exchange_calendar_added">Adicionado calendário Exchange</string>
   <string name="notify_channel_new_mail">Novos emails</string>
   <string name="notify_channel_no_disterb">Modo Não incomodar</string>
   <string name="notify_channel_permission_notice">Permissões necessárias</string>
@@ -1167,6 +1211,7 @@ Remover conta?"</string>
 Toque "<b>Sincronizar agora</b> para sincronizar emails ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
   <string name="wait_while_update_db">A actualizar a base de dados…</string>
+  <string name="web_view_load_error_tip">Ocorreram alguns problemas e o corpo desta mensagem não pode ser mostrado correctamente</string>
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
   <string name="webview_logout_cancel">Agora não</string>
   <string name="webview_logout_sure">Tentar novamente</string>

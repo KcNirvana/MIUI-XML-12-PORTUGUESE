@@ -1439,6 +1439,8 @@ UT Interface: %5$s"</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="sendSms">Enviar SMS</string>
   <string name="send_button">Enviar</string>
+  <string name="sensor_answer_summary">Levantar o telefone até ao ouvido para atender automaticamente</string>
+  <string name="sensor_answer_title">Levantar para atender</string>
   <string name="set_primary_summary">Utilizado para chamadas efectuadas</string>
   <string name="set_primary_title">Definir como conta principal</string>
   <string name="set_smsc_address_error">Não é possível definir o número</string>
