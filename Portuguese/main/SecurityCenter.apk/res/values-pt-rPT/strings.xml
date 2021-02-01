@@ -29,6 +29,7 @@
   <string name="Setting_lock">Definições</string>
   <string name="Settings_title_anti_spam">Definições da lista de bloqueio</string>
   <string name="Settings_title_anti_virus">Definições da verificação de segurança</string>
+  <string name="Settings_title_anti_virus_kddi">Definições da verificação de segurança</string>
   <string name="Settings_title_garbage_cleanup">Definições da Limpeza</string>
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de optimização de bateria</string>
@@ -72,6 +73,7 @@
   <string name="action_source_sms_title">Mensagens bloqueadas</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Verificação de segurança</string>
+  <string name="activity_title_antivirus_kddi">Verificação de segurança</string>
   <string name="activity_title_apps_manager">Aplicações</string>
   <string name="activity_title_auto_start_manager">Início automático</string>
   <string name="activity_title_create_shortcut">Gerir atalhos</string>
@@ -103,7 +105,7 @@
   <string name="adb_login_xiaomi_account">Inicie sessão na sua Conta Mi primeiro</string>
   <string name="add_done">Adicionado com sucesso</string>
   <string name="add_game">Adicionar jogo</string>
-  <string name="add_game_notification_summary">Toque para executar e acelerar a velocidade</string>
+  <string name="add_game_notification_summary">Toque para optimizar a velocidade</string>
   <string name="add_miservice_dialog_content">%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros</string>
   <string name="add_miservice_dialog_title">Serviço FrameWork MIUI</string>
   <string name="add_to_whitelist_button">Excepções de dados em roaming</string>
@@ -156,9 +158,12 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e eliminar vírus eficazmente, vamos enviar o nome e propriedades dos pacotes das aplicações</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Esta funcionalidade é fornecida por um antivírus de terceiros. Para saber mais, leia os Termos de Licença fornecidos pela aplicação</string>
+  <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando estiver a fazer uma verificação de segurança, o modelo do seu dispositivo e os resultados vão ser enviados para os servidores de %1$s e utilizados em concordância com os nossos &lt;a href=\"%2$s\">Termos e Condições&lt;/a>.&lt;br/>&lt;br/>Leia e concorde com os Termos e Condições de %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se não concordar com o envio de dados para os servidores de %4$s, pode utilizar as definições de vírus armazenadas no seu dispositivo"</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
+  <string name="antivirus_privacy_dialog_title_kddi">Termos e Condições</string>
   <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="antivirus_third_privacy_title">Política de Privacidade de terceiros</string>
   <string name="antivirus_toast_already_update">Actualizado</string>
   <string name="antivirus_toast_network_unavailable">Não foi possível ligar à rede</string>
   <string name="antivirus_toast_update_failed">Não foi possível actualizar</string>
@@ -711,9 +716,9 @@
   <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_stop">Desligar acelerador</string>
-  <string name="boost_done">Optmizado com sucesso</string>
-  <string name="booster_immediately">Aumentar</string>
-  <string name="booster_suc">Optmizado com sucesso</string>
+  <string name="boost_done">Optimizado com sucesso</string>
+  <string name="booster_immediately">Optimizar</string>
+  <string name="booster_suc">Optimizado com sucesso</string>
   <string name="boostering">A aumentar velocidade…</string>
   <string name="boosting">A aumentar velocidade…</string>
   <string name="boot_reminder">Ligar o dispositivo no horário definido</string>
@@ -2000,6 +2005,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="menu_summary_power_manager_4">%s até ficar carregada</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
   <string name="menu_text_antivirus">Verif. de segurança</string>
+  <string name="menu_text_antivirus_kddi">Verif. de segurança</string>
   <string name="menu_text_deepclean_summary">%1$s/%2$s ocupados</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
   <string name="menu_text_garbage_cleanup_danger">%s de lixo</string>

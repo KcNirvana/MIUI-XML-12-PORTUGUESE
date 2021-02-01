@@ -93,6 +93,7 @@
 
 A longa exposição a sons altos pode causar problemas de audição"</string>
   <string name="slider_view_content_description">Deslizar para cima para desligar ou para baixo para reiniciar</string>
+  <string name="smart_home_title">Dispositivos inteligentes</string>
   <string name="status_bar_setting_title">Centro de Controlo e barra de estado</string>
   <string name="timer_1_hour">%d hora</string>
   <string name="timer_2_hours">%d horas</string>

@@ -1458,7 +1458,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="photo_font_download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="photo_movie_module_finish">Clipes carregados com sucesso</string>
   <string name="photo_movie_module_loading">A carregar clipes…</string>
-  <string name="photo_movie_select_image_range">Os clips podem conter entre %1$d a %2$d fotos</string>
+  <string name="photo_movie_select_image_range">Os clips podem conter %1$d-%2$d fotos</string>
   <string name="photo_page_lock_screen">Bloquear orientação</string>
   <string name="photo_page_rotate_screen">Rodar ecrã</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
@@ -1510,7 +1510,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="picker_title_format">Seleccionar %1$d a %2$d fotos</string>
   <string name="picker_title_format_video">Seleccionar vídeos (%1$d)</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
-  <string name="picker_title_selection_format_multiple">Seleccionar %1$d para %2$d fotos (%3$d)</string>
+  <string name="picker_title_selection_format_multiple">Seleccionar %1$d a %2$d fotos (%3$d)</string>
   <string name="picker_title_specify_format">Seleccionar %d fotos</string>
   <string name="picker_title_specify_format_one">Seleccionar %d foto</string>
   <string name="picker_title_unlimit">Seleccionar fotos</string>

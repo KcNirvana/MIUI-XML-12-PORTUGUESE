@@ -572,6 +572,7 @@ Taxa de amostragem"</string>
   <string name="connected_via_app">Ligado via %1$s</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
   <string name="content_description_menu_button">Menu</string>
+  <string name="control_center_notification_switch_guide">Deslizar parar trocar entre o Centro de Controlo e a área de notificações</string>
   <string name="controls_added_tooltip">Mantenha premido o botão Ligar/Desligar para ver os novos controlos.</string>
   <string name="controls_confirmation_confirming">A confirmar…</string>
   <string name="controls_confirmation_message">Confirmar alteração para %s</string>

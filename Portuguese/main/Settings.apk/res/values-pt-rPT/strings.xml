@@ -7473,6 +7473,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_you">O utilizador (%s)</string>
   <string name="users_and_accounts_summary">Utilizador actual: %1$s</string>
   <string name="users_summary">Sessão iniciada como %1$s</string>
+  <string name="var_font_switch_title">Fonte variável para todo o sistema</string>
   <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos perigosos</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">Versão %1$s</string>
@@ -8178,7 +8179,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_switch_to_gsm_message">Perdeu ligação ao Wi-Fi. Utilizar ligação de dados móveis?</string>
   <string name="wifi_switch_to_gsm_title">Utilizar GSM</string>
   <string name="wifi_tap_to_sign_in">Toque para iniciar sessão na rede</string>
+  <string name="wifi_tether_checkbox_kddi_text">Partilha Wi-Fi</string>
   <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Configurar partilha Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel %1$s %2$s</string>
@@ -8267,6 +8270,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wizard_back">Voltar</string>
   <string name="wizard_finish">Concluir</string>
   <string name="wizard_next">Seguinte</string>
+  <string name="wlan_scanner_unresizeble">Não pode mostrar definições Wi-Fi no modo ecrã dividido</string>
   <string name="words_title">Texto</string>
   <string name="work_alarm_ringtone_title">Som do alarme de trabalho predefinido</string>
   <string name="work_policy_privacy_settings">As suas informações da política de trabalho</string>

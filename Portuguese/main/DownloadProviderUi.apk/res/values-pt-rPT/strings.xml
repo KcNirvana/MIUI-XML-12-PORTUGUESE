@@ -135,7 +135,8 @@
   <string name="downloading_empty">Vazio</string>
   <string name="downloads_operating">Em curso…</string>
   <string name="dredge_xunlei_account">Criar uma Conta Xunlei</string>
-  <string name="edit_hint"> Introduzir um endereço http, torrent ou eMule</string>
+  <string name="edit_hint">Introduzir um endereço http, torrent ou eMule</string>
+  <string name="edit_hint2">Introduzir um endereço http, torrent ou eMule</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Partilhar</string>
   <string name="engine_open">Abrir</string>
@@ -206,6 +207,7 @@
   <string name="network_error">Não é possível obter ligar à rede</string>
   <string name="new_add">Nova transferência</string>
   <string name="new_add_bt">Adicionar torrent</string>
+  <string name="new_add_bt2">Adicionar torrent</string>
   <string name="no_downloads">Sem ficheiros</string>
   <string name="no_file_hint">Já existe uma transferência para este ficheiro</string>
   <string name="no_net">Não é possível ligar à rede</string>
@@ -378,6 +380,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="subbt_pause">Em pausa</string>
   <string name="subbt_wait">A aguardar…</string>
   <string name="subfile_list">Ficheiros</string>
+  <string name="task_add">A adicionar…</string>
   <string name="task_detail">Transferências</string>
   <string name="task_detail_notfound_confirm">OK</string>
   <string name="task_fail">Erro</string>
