@@ -109,6 +109,8 @@
   <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
   <string name="permlab_handoverStatus">Receber transmissões de transferência Bluetooth</string>
+  <string name="snapdragon_sound_notification_content">Este dispositivo suporta a tecnologia Qualcomm® Snapdragon Sound™</string>
+  <string name="snapdragon_sound_notification_title">Bluetooth</string>
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferência cancelada pelo utilizador</string>
   <string name="status_connection_error">Ligado sem sucesso</string>

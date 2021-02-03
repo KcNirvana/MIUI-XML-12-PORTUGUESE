@@ -32,6 +32,7 @@
   <string name="ew_detail_receive_location_title">Localização</string>
   <string name="ew_detail_receive_time_title">Hora de início</string>
   <string name="ew_detail_receive_warn_time_title">Tempo antes do início</string>
+  <string name="ew_save_title">Guardar</string>
   <string name="ew_share_logo_title">Aviso de sismo</string>
   <string name="ew_share_save_tips">Guardado em %s</string>
   <string name="ew_share_title">Partilhar</string>
