@@ -24,6 +24,10 @@
         <item quantity="other">%1$s notas movidas para %2$s</item>
         <item quantity="one">%1$s nota movida para %2$s</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s itens</item>
+        <item quantity="one">%1$s item</item>
+    </plurals>
     <plurals name="pc_notes_search_result">
         <item quantity="other">Encontrou %1$s notas</item>
         <item quantity="one">Encontrou %1$s nota</item>

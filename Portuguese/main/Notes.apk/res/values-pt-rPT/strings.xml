@@ -471,10 +471,10 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_edit_btn_today">Hoje</string>
   <string name="todo_edit_btn_tomorrow">Amanhã</string>
   <string name="todo_edit_text_hint">Introduzir a descrição da tarefa</string>
-  <string name="todo_event_description_a_week_ago">1 semana atrás</string>
-  <string name="todo_event_description_a_week_later">Em 1 semana</string>
-  <string name="todo_event_description_day_after_tomorrow">Em 2 dias</string>
-  <string name="todo_event_description_day_before_yesterday">2 dias atrás</string>
+  <string name="todo_event_description_a_week_ago">%1$d semana atrás</string>
+  <string name="todo_event_description_a_week_later">Em %1$d semana</string>
+  <string name="todo_event_description_day_after_tomorrow">Em %1$d dias</string>
+  <string name="todo_event_description_day_before_yesterday">%1$d dias atrás</string>
   <string name="todo_event_description_today">Hoje</string>
   <string name="todo_float_permission_open_reminder">Permitir que Notas mostre janelas flutuantes sobre outras aplicações para utilizar esta funcionalidade</string>
   <string name="todo_event_description_tomorrow">Amanhã</string>
@@ -533,7 +533,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="toolbar_undo_description">Anular</string>
   <string name="toolbar_voice_description">Voz</string>
   <string name="trash_folder_name">Lixo</string>
-  <string name="trash_folder_reminder">As notas que eliminar vão ser eliminadas de vez em 30 dias</string>
+  <string name="trash_folder_reminder">As notas que eliminar vão ser eliminadas de vez em %1$d dias</string>
   <string name="trash_folder_reminder_new">As notas são mantidas no lixo por %d dias antes de serem eliminadas permanentemente</string>
   <string name="unclassfied_folder_name">Sem categoria</string>
   <string name="undo">Anular</string>

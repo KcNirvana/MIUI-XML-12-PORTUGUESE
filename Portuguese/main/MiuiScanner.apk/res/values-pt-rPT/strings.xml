@@ -2,6 +2,9 @@
 <resources>
   <string name="Approval">Aplicar</string>
   <string name="Enhance">Melhorado</string>
+  <string name="Fullmask_mode">Masked</string>
+  <string name="Fullmask_mode_str1">Show results processed by WeChat scanner without showing the recognition process</string>
+  <string name="Fullmask_mode_str2">Show results processed by WeChat scanner along with every step of the recognition process</string>
   <string name="Xiaomi_account_pending_approval">A rever aplicação</string>
   <string name="about_title">Acerca</string>
   <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
@@ -36,14 +39,17 @@
   <string name="can_only_be_English_Chinese">A tradução online apenas está disponível para Inglês e Chinês simplificado</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_pdf_save">Cancelado</string>
-  <string name="carsHome_title">Carro</string>
   <string name="cars_is_public">Executado</string>
   <string name="cars_no_public">Não executado</string>
   <string name="cars_solution">"Solução: "</string>
   <string name="cars_suitability">"Correspondência: "</string>
   <string name="cars_title">Digitalize um carro ou uma parte dele</string>
   <string name="carshome_data">Suporte técnico fornecido por Autohome Inc.</string>
+  <string name="carsHome_title">Carro</string>
+  <string name="change_phone_number">Alterar número de telefone</string>
+  <string name="change_wifi_info">Alterar detalhes de rede</string>
   <string name="character_counter_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="check_WI_FI">Rede Wi-Fi encontrada</string>
   <string name="check_for_updates">Verificar actualizações beta</string>
   <string name="choose_open_code_app">Seleccionar uma aplicação</string>
   <string name="choose_pay_title">Seleccionar método de pagamento</string>
@@ -61,13 +67,18 @@
   <string name="classes_titlt">Horário das aulas</string>
   <string name="classes_topTitle">Digitalizar o seu horário de aulas</string>
   <string name="close_hotspot_when_connecting_to_wifi">PA Móvel ligado. Ligue o Wi-Fi</string>
+  <string name="code_always">Memorizar preferência</string>
+  <string name="code_determine">OK</string>
+  <string name="code_result">Resultados</string>
   <string name="common_retake_picture">Tirar novamente</string>
   <string name="common_retry">Tentar novamente</string>
   <string name="common_save">Guardar</string>
   <string name="company">Empresa:</string>
   <string name="confirm">OK</string>
+  <string name="connect_to_wifi">Ligar a esta rede</string>
   <string name="connect_wifi">Ligar a esta rede</string>
   <string name="contact_details">Código QR do contacto:</string>
+  <string name="content_desktop_uninstall">O Digitalizador é uma aplicação de sistema. Não vai poder utilizá-la depois de desinstalar</string>
   <string name="continue_access_web_url">Ir para website</string>
   <string name="continue_to_website">Ir para website</string>
   <string name="continue_waiting">Continuar a aguardar</string>
@@ -77,6 +88,7 @@
   <string name="crop_cancel_description">Cancelar</string>
   <string name="crop_title_study">Recortar a foto</string>
   <string name="crop_done_description">Concluído</string>
+  <string name="crop_frame_you_selected_cannot_crop_this_picture">O quadrilátero de corte não pode ser um quadrilátero côncavo e o ângulo máximo não pode exceder 140 graus</string>
   <string name="cropping">A cortar…</string>
   <string name="current_word_is_locked">A palavra actual está bloqueada</string>
   <string name="dialog_report">Reportar</string>
@@ -160,12 +172,13 @@
   <string name="general_plant">Pode estar à procura destes:</string>
   <string name="general_recognized">"Resultado: "</string>
   <string name="general_title">Tirar uma foto dum objecto para reconhecer</string>
+  <string name="general_wifi_data_wrong_data">Introduzir SSID e palavra-passe</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="history">Histórico</string>
   <string name="history_empty">Sem itens</string>
   <string name="hold_down">Premir e segurar para tirar a palavra</string>
-  <string name="identify_the_results">Identificar os resultados</string>
+  <string name="identify_the_results">Resultados</string>
   <string name="if_open_result">Mostrar resultados quando voltar para a aplicação</string>
   <string name="import_contact">Importar contacto</string>
   <string name="import_picture">Importar</string>
@@ -188,6 +201,7 @@
   <string name="language_entry_japanese">Japonês</string>
   <string name="language_entry_korean">Coreano</string>
   <string name="language_entry_spanish">Espanhol</string>
+  <string name="link_to_network">Ligar</string>
   <string name="local_ocr_recognition">Reconhecimento OCR</string>
   <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
   <string name="low_version_tip">A versão da MIUI é muito antiga. Actualize a versão para utilizar o Digitalizador</string>
@@ -217,12 +231,15 @@
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="my_document">Os meus documentos</string>
   <string name="name">Nome:</string>
+  <string name="network_name">"SSID: "</string>
+  <string name="network_password">"Palavra-passe: "</string>
   <string name="new_schedule">Criar evento</string>
   <string name="newbuildfile">Novo ficheiro</string>
   <string name="nickname">Alcunha:</string>
   <string name="no_has_experience_version_permission">Não tem permissões para utilizar o Digitalizador versão beta. Faça a inscrição para as permissões ou transfira a versão estável</string>
   <string name="no_inner_version">Versão beta não disponível</string>
   <string name="no_network">Não é possível ligar à rede</string>
+  <string name="no_one_phone">Introduza um número de telefone válido</string>
   <string name="no_storage">Sem armazenamento interno</string>
   <string name="no_support_to_translate_type">Este idioma não é suportado</string>
   <string name="not_insert_contact">Não é possível adicionar contacto</string>
@@ -244,6 +261,8 @@
   <string name="pdf_name">Nome</string>
   <string name="pdf_save_sucess">Guardado com sucesso</string>
   <string name="phone">Telefone:</string>
+  <string name="phone_can_not_be_empty">O número de telefone não pode estar vazio</string>
+  <string name="phone_number">Número de telefone</string>
   <string name="phone_storage">Armazenamento interno</string>
   <string name="picture_is_being_saved">A imagem está a ser guardada</string>
   <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
@@ -259,10 +278,13 @@
   <string name="processing">A processar…</string>
   <string name="prompt">Atenção</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
+  <string name="qrcode_cannot_be_processed_auto">"Smart scanner can't process this code. Scan the code with WeChat instead."</string>
+  <string name="query">Verificar</string>
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">Não foi possível ler o código</string>
   <string name="release_lock">Desbloquear</string>
   <string name="release_locked_word">Desbloquear a palavra</string>
+  <string name="repeat_import">Importar novamente</string>
   <string name="request_server_failed">Não foi possível ligar ao servidor</string>
   <string name="result_of_identifying_text_is_empty">Não foi possível reconhecer o texto</string>
   <string name="save">Guardar</string>
@@ -270,6 +292,7 @@
   <string name="save_as_PDF">Guardar como PDF</string>
   <string name="save_as_picture">Guardar como imagem</string>
   <string name="save_fail">Não foi possível guardar</string>
+  <string name="save_pictures_repeatedly">Guardar imagens repetidamente</string>
   <string name="save_sucess">Guardado com sucesso</string>
   <string name="scanHistory">Histórico</string>
   <string name="scanHistory_close">Desligar</string>
@@ -290,6 +313,7 @@
   <string name="setting_default_function">Opção predefinida</string>
   <string name="setting_function_sort">Reordenar funcionalidades</string>
   <string name="setting_preference_pay">Método pagamento preferido</string>
+  <string name="setting_preference_weixin_process_method">WeChat codes</string>
   <string name="setting_title">Definições</string>
   <string name="setting_use_last_choose">Última escolha</string>
   <string name="setting_wechat">WeChat</string>
@@ -300,6 +324,7 @@
   <string name="shopping_searching">A pesquisar…</string>
   <string name="shopping_title">Tirar uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
+  <string name="smart_scan_code">Smart scanner</string>
   <string name="submitting">A submeter</string>
   <string name="suggested_submission_success">Comentários submetidos com sucesso</string>
   <string name="spaceIsLow_content">Sem espaço suficiente no armazenamento interno</string>
@@ -323,6 +348,7 @@
   <string name="text_to_be_translated_cannot_be_empty">O Digitalizador necessita de texto para traduzir</string>
   <string name="textrecognition_results">Texto reconhecido</string>
   <string name="title">Título:</string>
+  <string name="title_desktop_uninstall">Desinstalar Digitalizador?</string>
   <string name="to_install_title">Este código QR redirecciona-o para uma aplicação desinstalada. Transferir esta aplicação agora?</string>
   <string name="toinstall">Download</string>
   <string name="translate_auto_lock">Bloquear tradução</string>
@@ -337,7 +363,8 @@
   <string name="translate_text_compare">Comparação</string>
   <string name="translate_text_compare_copy">Copiar</string>
   <string name="translate_text_compare_save">Guardar</string>
-  <string name="translate_try_again">Toque para tentar novamente</string>
+  <string name="translate_try_again">Certifique-se que o texto está visível</string>
+  <string name="translate_try_agains">Não foi possível reconhecer a imagem</string>
   <string name="translate_type_take_pic">Foto</string>
   <string name="translation_language_chinese">Chinês</string>
   <string name="translation_language_english">Inglês</string>
@@ -378,6 +405,7 @@
   <string name="welcome_to_thesweepversion">Bem-vindo ao Digitalizador versão beta!</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">O PA Móvel \"%1$s\" já existe. Elimine-o e tente novamente</string>
+  <string name="wifi_low_version_prompt">É necessário ligar o Wi-Fi manualmente</string>
   <string name="wifi_open_fail">Não é possível ligar o Wi-Fi</string>
   <string name="wifi_psd_toolong">A palavra-passe é demasiado longa. Introduza-a manualmente</string>
   <string name="wifi_pwd">Palavra-passe:</string>
