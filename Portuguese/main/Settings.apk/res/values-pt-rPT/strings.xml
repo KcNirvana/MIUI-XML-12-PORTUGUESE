@@ -3373,7 +3373,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="interact_across_profiles_install_work_app_title">Para ligar estas aplicações, instale %1$s no seu perfil de trabalho</string>
   <string name="interact_across_profiles_keywords">vários perfis aplicação ligada aplicações de trabalho e pessoais</string>
   <string name="interact_across_profiles_number_of_connected_apps_none">Sem aplicações ligadas</string>
-  <string name="interact_across_profiles_summary_1">As aplicações lgiadas partilham permissões e podem aceder aos dados entre elas</string>
+  <string name="interact_across_profiles_summary_1">As aplicações ligadas partilham permissões e podem aceder aos dados entre elas</string>
   <string name="interact_across_profiles_summary_2">Ligue aplicações apenas se confiar que elas não partilham dados com o seu administrador</string>
   <string name="interact_across_profiles_summary_3">Pode desligar aplicações a qualquer altura nas definições de privacidade do seu dispositivo</string>
   <string name="interact_across_profiles_summary_allowed">Ligada</string>
