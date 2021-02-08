@@ -85,6 +85,11 @@
   <string name="copy_text">Copiar texto</string>
   <string name="copy_text_success">Texto copiado</string>
   <string name="copy_tracknum">Copiar código de pesquisa</string>
+  <string name="create">Gerar código QR</string>
+  <string name="createFail">Não foi possível gerar código QR. O texto é demasiado longo</string>
+  <string name="createQRCode_hint">Introduzir texto</string>
+  <string name="createQRCode_save">Guardar</string>
+  <string name="create_again">Actualizar</string>
   <string name="crop_cancel_description">Cancelar</string>
   <string name="crop_title_study">Recortar a foto</string>
   <string name="crop_done_description">Concluído</string>
@@ -92,6 +97,7 @@
   <string name="cropping">A cortar…</string>
   <string name="current_word_is_locked">A palavra actual está bloqueada</string>
   <string name="dialog_report">Reportar</string>
+  <string name="delete">Eliminar</string>
   <string name="document_color_picture">Cor</string>
   <string name="document_color_picture_tip">A converter para a cor…</string>
   <string name="document_crop_title">Cortar documento</string>
@@ -100,9 +106,10 @@
   <string name="document_grayscale">Escala de cinzentos</string>
   <string name="document_grayscale_tip_msg">A converter para escala de cinzentos…</string>
   <string name="document_list">Documentos</string>
-  <string name="document_list_is_empty">A lista de documentos está vazia</string>
+  <string name="document_list_is_empty">Sem documentos</string>
   <string name="document_list_rename">Introduzir nome</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_fail">Não foi possível reconhecer o texto. Rode a image para que corresponda à orientação do dispositivo e tente novamente</string>
   <string name="document_ocr_result_copy">Copiar texto</string>
   <string name="document_ocr_result_save">Guardar nas Notas</string>
   <string name="document_ocr_tip_msg">A ler…</string>
@@ -116,6 +123,7 @@
   <string name="document_rnext_step">Seguinte</string>
   <string name="document_save_succeed_tip">Documento guardado para %1$s</string>
   <string name="document_save_text">Guardar</string>
+  <string name="document_spin">Rodar</string>
   <string name="document_take_a_single">Uma página</string>
   <string name="document_take_multiple_shots">Várias páginas</string>
   <string name="document_title">Tirar uma foto do documento</string>
@@ -295,9 +303,9 @@
   <string name="save_pictures_repeatedly">Guardar imagens repetidamente</string>
   <string name="save_sucess">Guardado com sucesso</string>
   <string name="scanHistory">Histórico</string>
-  <string name="scanHistory_close">Desligar</string>
-  <string name="scanHistory_isOpen">Iniciar o registo do histórico de itens digitalizados?</string>
-  <string name="scanHistory_open">Ligar</string>
+  <string name="scanHistory_close">Desligado</string>
+  <string name="scanHistory_isOpen">Guardar o registo de itens digitalizados</string>
+  <string name="scanHistory_open">Ligado</string>
   <string name="scan_result">Resultados</string>
   <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>
   <string name="search_menu_title">Pesquisa</string>
@@ -311,7 +319,7 @@
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Perguntar sempre</string>
   <string name="setting_default_function">Opção predefinida</string>
-  <string name="setting_function_sort">Reordenar funcionalidades</string>
+  <string name="setting_function_sort">Ordenar funcionalidades</string>
   <string name="setting_preference_pay">Método pagamento preferido</string>
   <string name="setting_preference_weixin_process_method">WeChat codes</string>
   <string name="setting_title">Definições</string>
