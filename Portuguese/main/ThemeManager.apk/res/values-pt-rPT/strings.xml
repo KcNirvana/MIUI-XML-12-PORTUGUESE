@@ -874,7 +874,7 @@ Vai ver uma nova imagem a cada hora"</string>
   <string name="transparent_wallpaper_filter_setting">Aplicações individualmente</string>
   <string name="transparent_wallpaper_guide">Ir para Temas</string>
   <string name="transparent_wallpaper_guide_tip">Pode seleccionar um papel de parede transparente nos Temas agora</string>
-  <string name="transparent_wallpaper_is_running_in_background">O Papel de parede transparente está a ser executado em segundo plano</string>
+  <string name="transparent_wallpaper_is_running_in_background">O papel de parede transparente está a ser executado em segundo plano</string>
   <string name="transparent_wallpaper_pref_summary">Papéis de parede com opacidade de fundo reduzida</string>
   <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Não é possível tornar o fundo branco</string>
