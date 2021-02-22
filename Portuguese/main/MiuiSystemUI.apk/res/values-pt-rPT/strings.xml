@@ -1658,6 +1658,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_screenshot_label">Cap. de ecrã</string>
   <string name="quick_settings_secondary_label_until">Até %s</string>
   <string name="quick_settings_settings_label">Definições</string>
+  <string name="quick_settings_sim_disabled">" (desactivado)"</string>
   <string name="quick_settings_sync_label">Sincronização</string>
   <string name="quick_settings_tethering_label">Partilha de ligação</string>
   <string name="quick_settings_time_label">Hora</string>

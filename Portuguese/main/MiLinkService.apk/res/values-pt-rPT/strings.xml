@@ -45,14 +45,14 @@ Para mais questões, veja a ajuda"</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Parar transmissão</string>
   <string name="enable_screen_projection_summary">Transmitir conteúdos do ecrã para um ecrã externo</string>
-  <string name="global_privacy">Terms and conditions</string>
-  <string name="global_privacy_detail"><Data>"Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using this app.&lt;br>If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you."</Data></string>
-  <string name="global_privacy_explain">Welcome to Casting! This app provides the following services:</string>
-  <string name="global_privacy_feature">Using minimized windows, casting with the screen off, and hiding private items.</string>
-  <string name="global_privacy_main">"Projecting the items from your phone's screen on a bigger external monitor."</string>
-  <string name="global_privacy_negative">"Don't agree"</string>
-  <string name="global_privacy_positive">Agree</string>
-  <string name="global_privacy_tip"><Data>We need to collect necessary personal information to provide you with the basic services and optimize the casting process. You can learn how we handle the information we collect in our &lt;a href=%1$s>Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy in the Settings at any time.</Data></string>
+  <string name="global_privacy">Termos e Condições</string>
+  <string name="global_privacy_detail"><Data>"Ler e concordar com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de utilizar esta aplicação.&lt;br>Se não concordar na utilização dos serviços mencionados, não vai poder utilizar algumas funcionalidades"</Data></string>
+  <string name="global_privacy_explain">Bem-vindo a Transmissão! Esta aplicação fornece os seguintes serviços:</string>
+  <string name="global_privacy_feature">Utilizar janelas minimizadas, transmitir com o ecrã desligado e ocultar itens privados</string>
+  <string name="global_privacy_main">Projectar itens do ecrã do seu telefone num ecrã externo</string>
+  <string name="global_privacy_negative">Não concordar</string>
+  <string name="global_privacy_positive">Concordar</string>
+  <string name="global_privacy_tip"><Data>Necessitamos de obter informações pessoais para fornecer os serviços básicos. Pode saber mais na nossa &lt;a href=%1$s>Política de Privacidade&lt;/a>. Pode remover o consentimento em qualquer altura nas Definições</Data></string>
   <string name="hang_up">Transmitir com o ecrã desligado</string>
   <string name="hang_up_alert_dialog_content">A transmissão não vai ser interrompida quando o ecrã desligar. Prima o botão Ligar/Desligar para voltar a ligar o ecrã</string>
   <string name="hang_up_alert_dialog_neg">Cancelar</string>

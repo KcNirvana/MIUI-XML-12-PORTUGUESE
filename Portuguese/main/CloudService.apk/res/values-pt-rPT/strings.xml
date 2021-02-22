@@ -365,6 +365,7 @@ Localize e bloqueie o seu dispositivo se estiver perdido"</string>
   <string name="micloud_request_permission_title">A Xiaomi Cloud necessita de permissões</string>
   <string name="micloud_request_sync_too_frequent">Demasiados pedidos. Aguarde um momento e tente novamente</string>
   <string name="micloud_setting_antispam_summary">Excepções e números de telefone bloqueados</string>
+  <string name="micloud_setting_bluetooth_summary">Sincronizar informações dos dispositivo emparelhados com a Xiaomi Cloud</string>
   <string name="micloud_setting_browser_summary">Marcadores, histórico e separadores</string>
   <string name="micloud_setting_calendar_summary">Eventos</string>
   <string name="micloud_setting_calllog_summary">Registo de chamadas</string>

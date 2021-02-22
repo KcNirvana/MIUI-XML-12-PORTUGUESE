@@ -1111,6 +1111,8 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_is_discoverable">Visível para todos os dispositivos Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Visível para todos os dispositivos Bluetooth</string>
   <string name="bluetooth_is_visible_message">%1$s é visível para dispositivos próximos enquanto as definições de Bluetooth estiverem abertas</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Ligado a LE Audio</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Utilizar para LE Audio</string>
   <string name="bluetooth_left_name">Esquerda</string>
   <string name="bluetooth_lock_voice_dialing">Bloquear a marcação por voz</string>
   <string name="bluetooth_lock_voice_dialing_summary">Impedir a marcação por Bluetooth quando o ecrã está bloqueado</string>
@@ -1184,6 +1186,7 @@ Aqui está o que pode estar errado:
   <string name="bluetooth_profile_dun">Acesso Dial-up</string>
   <string name="bluetooth_profile_headset">Áudio do telefone</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
+  <string name="bluetooth_profile_le_audio">LE Audio</string>
   <string name="bluetooth_profile_map">Utilizado para aceder às mensagens</string>
   <string name="bluetooth_profile_opp">Transferência de ficheiro</string>
   <string name="bluetooth_profile_pan">Acesso à Internet</string>
@@ -1323,7 +1326,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU e IMSI para funcionar. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
   <string name="bootloader_status_privacy_dialog_title">Necessário permissões</string>
   <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
@@ -1625,19 +1628,19 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="color_calibration_none">Este dispositivo</string>
   <string name="color_cyan">Ciano</string>
   <string name="color_game_led_applications_title">Seleccionar aplicações</string>
-  <string name="color_game_led_applications_title_summary">Pode restringir o LED para aplicações individuais</string>
+  <string name="color_game_led_applications_title_summary">Seleccionar aplicações individuais que vão funcionar com o LED</string>
   <string name="color_game_led_battery_title">Manter enquanto estiver a carregar</string>
-  <string name="color_game_led_charging_summary">Vai ser desligado quando a bateria estiver carregada</string>
-  <string name="color_game_led_end_time">Hora de fim</string>
+  <string name="color_game_led_charging_summary">O LED vai ser desligado quando a bateria estiver carregada</string>
+  <string name="color_game_led_end_time">Fim</string>
   <string name="color_game_led_game_mode_summary">Mostrar efeitos nos jogos quando o Game Turbo estiver ligado</string>
   <string name="color_game_led_game_mode_title">Utilizar no Game Turbo</string>
   <string name="color_game_led_incall_pulse_title">Utilizar em chamadas recebidas</string>
-  <string name="color_game_led_notification_pulse_title">Notificações quando o ecrã estiver desligado</string>
-  <string name="color_game_led_remind_title">Efeitos de lembrete</string>
+  <string name="color_game_led_notification_pulse_title">Notificações em ecrã ambiente</string>
+  <string name="color_game_led_remind_title">Efeitos</string>
   <string name="color_game_led_special_scene_title">Efeitos especiais</string>
-  <string name="color_game_led_start_time">Hora início</string>
+  <string name="color_game_led_start_time">Início</string>
   <string name="color_game_led_summary">Não funciona no modo Não incomodar</string>
-  <string name="color_game_led_time_title">LED acesso</string>
+  <string name="color_game_led_time_title">Programar</string>
   <string name="color_game_led_title">LED</string>
   <string name="color_gray">Cinzento</string>
   <string name="color_green">Verde</string>
@@ -2275,8 +2278,8 @@ Para corrigir este problema, pode parar a aplicação %1$s e impedir que esta ex
   <string name="dialog_check_button_negative">Tentar novamente</string>
   <string name="dialog_check_button_positive">Ligar ao Wi-Fi</string>
   <string name="dialog_check_context">"O seu dispositivo não consegue ligar à Internet agora.
-1. Toque \"Ligar ao Wi-Fi\" para seleccionar uma rede disponível
-2. Se quiser utilizar dados móveis, toque \"Tentar novamente\" ou remova e insira o seu cartão SIM"</string>
+. Toque \"Ligar ao Wi-Fi\" para seleccionar uma rede disponível
+. Se quiser utilizar dados móveis, toque \"Tentar novamente\" ou remova e insira o seu cartão SIM"</string>
   <string name="dialog_check_title">Não é possível ligar à Internet</string>
   <string name="dialog_chose_item">Seleccione um item para mostrar</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
@@ -2700,7 +2703,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="exceptional_case">Excepções</string>
   <string name="expandable_under_keyguard_title">Mostrar no ecrã de bloqueio</string>
   <string name="experimental_category_title">Experimental</string>
-  <string name="experimental_preference">(Experimental)</string>
+  <string name="experimental_preference">(experimental)</string>
+  <string name="expert_detail_content_description">Ver detalhes</string>
   <string name="extended_power_menu">Menu de reinicialização avançado</string>
   <string name="exterior">Esquema de cores</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
@@ -3543,6 +3547,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="last_time_used_label">Última utilização</string>
   <string name="lattice_smartcover_title">Capa com frente em malha</string>
   <string name="launch_ai_shortcut">Atalho Mi IA</string>
+  <string name="launch_alipay_health_code">Alipay health code</string>
+  <string name="launch_alipay_health_code_auto_close">Alipay health code shortcut is no longer available. You can switch to a different shortcut.</string>
   <string name="launch_alipay_payment_code">Código de pagamento Alipay</string>
   <string name="launch_alipay_scanner">Digitalizador Alipay</string>
   <string name="launch_by_default">Abrir por predefinição</string>
@@ -3560,6 +3566,8 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="launch_notification_center">Área de notificações</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+  <string name="launch_wechat_health_code">WeChat health code</string>
+  <string name="launch_wechat_health_code_auto_close">WeChat health code shortcut is no longer available. You can switch to a different shortcut.</string>
   <string name="launch_wechat_payment_code">Código pagamento WeChat</string>
   <string name="launch_wechat_scanner">Digitalizador WeChat</string>
   <string name="launcher_icon">Ícones</string>
@@ -4186,6 +4194,7 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_lab_install_drive_mode_title">Instalar Modo Condução</string>
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
+  <string name="miui_master_clear_prompt_battery_low">Não é possível fazer uma reposição de fábrica com %1$s de bateria restante. Carregue o seu dispositivo antes de continuar</string>
   <string name="miui_master_clear_summary">Elimina todos os dados do dispositivo</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
   <string name="miui_more_special_feature">Novas funcionalidades</string>

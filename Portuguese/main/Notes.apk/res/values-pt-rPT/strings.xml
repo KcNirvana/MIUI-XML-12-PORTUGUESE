@@ -37,8 +37,6 @@
   <string name="call_folder_name">Notas de chamada</string>
   <string name="cancel_alarm_description">Cancelar alarme</string>
   <string name="check_in_todo_app">Ver tarefas</string>
-  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Xiaomi Cloud para sincronizar notas</string>
-  <string name="cloud_service_state_open_reminder_note_and_todo">Ligar a sincronização com a Xiaomi Cloud</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Xiaomi Cloud</string>
   <string name="confirm_cancel">Não concordar</string>
   <string name="confirm_ok">Concordar</string>
@@ -409,6 +407,10 @@
   <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
   <string name="sns_toast_over_limit">Enviado como imagem</string>
   <string name="sync_all_terms">%1$s, %2$s e %3$s</string>
+  <string name="sync_desc_state_complete">Sincronizado</string>
+  <string name="sync_desc_state_complete_china">Todos os %1$s foram sincronizados</string>
+  <string name="sync_desc_state_disable">Ligar sincronização</string>
+  <string name="sync_desc_state_running">A sincronizar</string>
   <string name="sync_folder_todo">%1$s e %2$s</string>
   <string name="sync_note_folder">%1$s e %2$s</string>
   <string name="sync_note_todo">%1$s e %2$s</string>
