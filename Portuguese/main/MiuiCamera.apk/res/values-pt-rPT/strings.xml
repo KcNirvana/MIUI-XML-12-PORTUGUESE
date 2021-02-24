@@ -279,6 +279,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="ambilight_tips_for_suggest_using_tripod">Utilizar um tripé</string>
   <string name="ambilight_tips_for_using_tripod">Utilizar um tripé</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
+  <string name="audio_map_summary_tip">Monitorizar o volume dos canais esquerdo e direito em tempo real e ajustar</string>
   <string name="auto_hibernation_enter_tip">Prestes a desligar o ecrã…</string>
   <string name="autozoom_click_hint">Toque num objecto para o manter focado enquanto estiver em movimento. Mantenha-se à distância de 3 metros para obter melhores resultados</string>
   <string name="autozoom_disabled_hint">A procura de objectos em movimento foi interrompida</string>
@@ -602,6 +603,7 @@ e criar uma espectacular"</string>
   <string name="hint_slow_motion">O vídeo que gravar vai ser reproduzido mais lento</string>
   <string name="hint_subtitle">Ditar legendas na gravação de vídeos</string>
   <string name="hint_subtitle_prompt">Pode ditar legendas agora</string>
+  <string name="histogram_summary_tip">Mostrar exposição em tempo real</string>
   <string name="hunt_dual_water_mark">A data e hora vão ser adicionadas automaticamente</string>
   <string name="id_card_mode_hint_back">Digitalize a parte de trás do seu CC</string>
   <string name="id_card_mode_hint_front">Digitalize a parte da frente do seu CC</string>

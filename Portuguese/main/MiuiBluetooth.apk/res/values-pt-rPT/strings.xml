@@ -119,6 +119,10 @@ Protocolo de ligação mais rápido"</string>
   <string name="mi_key_summary_open_camera">Duplo toque na MiKey para abrir a câmara</string>
   <string name="mi_key_summary_take_photo">Toque na MiKey para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
+  <string name="miheadset_notification_Box">Box</string>
+  <string name="miheadset_notification_Disconnect">Desligar</string>
+  <string name="miheadset_notification_LeftEar">E</string>
+  <string name="miheadset_notification_RightEar">D</string>
   <string name="mihome_app_download">Instalar agora</string>
   <string name="mihome_app_update">Actualizar agora</string>
   <string name="mihome_download_tips">Instalar Mi Home, iniciar sessão e segurar o seu telefone junto ao dispositivo</string>

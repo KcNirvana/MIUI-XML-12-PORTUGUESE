@@ -38,6 +38,7 @@ Tente novamente"</string>
   <string name="btn_continue">Continuar</string>
   <string name="btn_restore_abort">Cancelar</string>
   <string name="btn_restore_cancel">Cancelar</string>
+  <string name="btn_restore_cancel_app_app">Não restaurar dados do WeChat</string>
   <string name="btn_restore_continue">Restaurar mesmo assim</string>
   <string name="btn_restore_resume">Continuar</string>
   <string name="btn_restore_retry">Tentar novamente</string>
@@ -90,6 +91,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup">Cópias da Xiaomi Cloud</string>
   <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
+  <string name="cloud_backup_detail_app_data">Fazer cópia de WeChat</string>
+  <string name="cloud_backup_detail_app_data_summary">Copiar histórico, ficheiros e outros itens</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
   <string name="cloud_backup_detail_frequence_every_7_day">Fazer cópia a cada %d dias</string>
   <string name="cloud_backup_detail_frequence_every_day">Fazer cópia todos os dias</string>
@@ -110,6 +113,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="confirm_cancel_restore_positive">Continuar</string>
   <string name="confirm_cancel_restore_title">Cancelar restauro?</string>
   <string name="confirm_restore">Restaurar</string>
+  <string name="confirm_restore_app_data">Substituir dados da aplicação</string>
+  <string name="confirm_restore_app_data_summary">Restaurar os dados do WeChat vai substituir a versão actual da aplicação neste dispositivo. Restaurar mesmo assim?</string>
   <string name="confirm_restore_summary">O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="copy">Copiar</string>
@@ -122,13 +127,17 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="desktop_wait_network">A aguardar…</string>
   <string name="desktop_waiting">A aguardar</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
+  <string name="dialog_backup_failed">Não foi possível copiar</string>
   <string name="dialog_btn_cancel_backup">Cancelar</string>
   <string name="dialog_btn_next">Seguinte</string>
   <string name="dialog_btn_overwrite_backup">Substituir</string>
+  <string name="dialog_btn_restore_skip">Restaurar depois</string>
+  <string name="dialog_buy_cloud_space">Actualizar</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Desligar vai terminar as cópias em curso</string>
   <string name="dialog_cancel_backup_title">Cancelar a cópia em curso?</string>
+  <string name="dialog_cloud_space_not_enough">Esta cópia necessita de %1$s de espaço na Xiaomi Cloud. Actualize o seu plano de armazenamento para fazer a cópia de itens</string>
   <string name="dialog_msg_overwrite_backup">A cópia local é diferente da que está na Xiaomi Cloud. Se continuar, a cópia actual vai substituir a anterior</string>
   <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
   <string name="dialog_msg_restore_require_wlan_china">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
@@ -147,7 +156,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="expand_button_title">Avançado</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
   <string name="help_and_feedback">Ajuda e comentários</string>
-  <string name="hint_restore_cross_space">O layout do ecrã inicial pode ser mostrado incorrectamente se transferir itens entre espaços</string>
+  <string name="hint_restore_wechat_data">Nota: Os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade</string>
   <string name="home_hint_global_launcher">Launcher Poco</string>
   <string name="home_hint_other_launcher">Outro launcher</string>
   <string name="home_restore_error">Não foi possível restaurar o ecrã inicial</string>
@@ -170,7 +179,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="miuix_sbl_tracking_progress_labe_up_none">É tudo por agora</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-  <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
+  <string name="msg_alert_cancel_restore">A restaurar itens. Cancelar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Xiaomi Cloud. Tente novamente</string>
   <string name="msg_restore_start_with_metered_network">"O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de ficheiros vão ser transferidos&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Se restaurar estes itens, vão ser utilizados dados móveis</string>
@@ -214,6 +223,8 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_app_order_search_prior">Aplicações prioritárias</string>
   <string name="restore_cloud_backup_to_phone">Restaurar itens da Xiaomi Cloud</string>
   <string name="restore_data_title">Restaurar dados</string>
+  <string name="restore_detail_category_app_data">Dados WeChat</string>
+  <string name="restore_detail_category_app_data_summary">Histórico de conversas, ficheiros e outros itens (%s)</string>
   <string name="restore_detail_category_apps">Layout do ecrã inicial e aplicações</string>
   <string name="restore_detail_category_settings">Definições</string>
   <string name="restore_detail_more">Mais</string>
@@ -228,14 +239,15 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_home_failed">Não foi possível restaurar o ecrã inicial</string>
   <string name="restore_home_screen_apps">Restaurar da cópia da Xiaomi Cloud</string>
   <string name="restore_init_description">Iniciar restauro</string>
-  <string name="restore_network_pause">%s (Toque para retomar)</string>
+  <string name="restore_network_pause">Pausado para poupar dados móveis. Toque para retomar</string>
   <string name="restore_network_unconnect">%s (A aguardar por ligação)</string>
   <string name="restore_task_cancelling">A cancelar…</string>
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_task_unfinished">Não foi possível restaurar</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
+  <string name="restoring_app_data_title_no_progress">A restaurar dados WeChat…</string>
   <string name="restoring_data">A restaurar dados…</string>
-  <string name="restoring_file_title_no_progress">A restaurar ficheiros…</string>
+  <string name="restoring_file_title_no_progress">A restaurar aplicações…</string>
   <string name="restoring_home_screen_apps">A restaurar da Xiaomi Cloud…</string>
   <string name="restoring_settings">A restaurar definições…</string>
   <string name="retry">Tentar novamente</string>

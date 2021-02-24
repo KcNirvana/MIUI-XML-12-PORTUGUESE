@@ -5,6 +5,12 @@
   <string name="accessibility_battery_level_charging">Bateria a carregar. %d porcento</string>
   <string name="add_custom_image">Imagem personalizada</string>
   <string name="add_from_album">Adicionar da Galeria</string>
+  <string name="align_center_horizontally">Horizontal e centro</string>
+  <string name="align_center_vertically">Empilhado e centro</string>
+  <string name="align_left_horizontally">Horizontal e esquerda</string>
+  <string name="align_left_vertically">Empilhado e esquerda</string>
+  <string name="align_right_horizontally">Horizontal e direita</string>
+  <string name="align_right_vertically">Empilhado e direita</string>
   <string name="align_type">Alinhamento</string>
   <string name="always_style">Sempre</string>
   <string name="always_style_symmary">Consome mais bateria</string>

@@ -12,10 +12,6 @@
         <item quantity="other">Prioridade normal: %d aplicações</item>
         <item quantity="one">Prioridade normal: %d aplicação</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">A restaurar %d ficheiros</item>
-        <item quantity="one">A restaurar %d ficheiro</item>
-    </plurals>
     <plurals name="restore_app_order_prior">
         <item quantity="other">Prioridade alta: %d aplicações</item>
         <item quantity="one">Prioridade alta: %d aplicação</item>
