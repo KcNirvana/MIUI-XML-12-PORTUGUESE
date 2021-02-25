@@ -42,6 +42,8 @@
   <string name="already_download_btn">A transferir…</string>
   <string name="already_favorited">Já foi adicionada aos favoritos</string>
   <string name="app_label">Transferências</string>
+  <string name="app_description_content">Música é uma aplicação de sistema que contém um leitor de áudio e permite a gestão de ficheiros áudio. Ainda vai poder reproduzir ficheiros áudio após remover do ecrã inicial</string>
+  <string name="app_description_title">Remover \"Música\" do ecrã inicial?</string>
   <string name="artist">Artistas</string>
   <string name="artist_album">Álbuns</string>
   <string name="artist_area_all">Todos</string>

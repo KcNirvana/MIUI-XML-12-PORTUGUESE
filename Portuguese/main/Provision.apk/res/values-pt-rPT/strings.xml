@@ -115,6 +115,7 @@
   <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
   <string name="other_settings_user_experience_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>
   <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon permite transferir dados do seu dispositivo para outro dispositivo quando o ecrã está danificado</string>
   <string name="permission_account">Aceder a contas no seu dispositivo:</string>
   <string name="permission_account_introduction">Para iniciar sessão na sua Conta Mi</string>
   <string name="permission_application_package_introduction">Para aceder ao armzenamento para analisar e verificar os pacotes de instalação</string>
@@ -147,6 +148,10 @@
   <string name="permission_picture_introduction">Para guardar, editar e sincronizar fotos e vídeos</string>
   <string name="permission_read_call_records">Editar o registo de chamadas:</string>
   <string name="permission_read_call_records_introduction">Para adicionar itens ao registo de chamadas e eliminar chamadas bloqueadas</string>
+  <string name="permission_read_contacts">Aceder a contactos</string>
+  <string name="permission_read_contacts_introduction">Para verificar a sua identidade</string>
+  <string name="permission_read_message">Aceder a mensagens texto</string>
+  <string name="permission_read_message_introduction">Para verificar a propriedade do seu dispositivo</string>
   <string name="permission_read_note_introduction">Para aceder a notas e anexos</string>
   <string name="permission_read_write_file">Aceder e guardar ficheiros e fotos no seu dispositivo:</string>
   <string name="permission_read_write_file_introduction">Para aceder, guardar e guardar em cache itens no seu dispositivo</string>
@@ -182,6 +187,7 @@
   <string name="security_introduction">Pode utilizar esta aplicação para limpar lixo no seu dispositivo, encontrar e eliminar vírus, optimizar desempenho para jogos, poupar bateria, gerir aplicações e muito mais</string>
   <string name="security_mobile_account_introduction">Para iniciar sessão e gerir contas de sistema</string>
   <string name="service_agreement">Eu li e concordei com os termos e condições</string>
+  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galeria</string>
   <string name="service_name_application_package">Instalador de pacotes</string>
   <string name="service_name_backup">Cópias</string>
