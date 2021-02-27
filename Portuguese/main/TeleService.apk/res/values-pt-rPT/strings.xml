@@ -677,7 +677,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="importToFDNfromContacts">Importar dos contactos</string>
   <string name="importingSimContacts">Importar contactos do SIM</string>
   <string name="ims_settings">Definições IMS</string>
-  <string name="imsi_protection_warning">Esta rede recebe um ID único que pode ser utilizado para rastrear a localização do dispositivoation. <annotation id="url">Saber mais</annotation></string>
+  <string name="imsi_protection_warning">Esta rede recebe um ID único que pode ser utilizado para rastrear a localização do dispositivo. <annotation id="url">Saber mais</annotation></string>
   <string name="incall_error_call_failed">Não é possível fazer a chamada</string>
   <string name="incall_error_emergency_only">Não registado na rede</string>
   <string name="incall_error_local_low_battery">Chamada falhou devido a bateria fraca</string>
