@@ -488,6 +488,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
   <string name="remove">Remover</string>
   <string name="remove_download">Remover</string>
   <string name="remove_user_privacy_dialog_message">Após revogar autorização, Música vai parar de obter dados e todos os dados vão ser eliminados dos servidores. Revogar autorização agora?</string>
+  <string name="remove_user_privacy_dialog_message_canuse">Após revogar autorização, Música vai parar de obter dados e todos os dados vão ser eliminados dos servidores. Revogar autorização agora?</string>
   <string name="remove_user_privacy_dialog_title">Revogar autorização</string>
   <string name="repeat_all_notif">A repetir todas as músicas</string>
   <string name="repeat_current_notif">A repetir a música actual</string>

@@ -6,6 +6,8 @@
   <string name="ad_download">Transferir</string>
   <string name="agree">Concordar</string>
   <string name="agree_and_continue">Concordar</string>
+  <string name="app_description_content">Vídeos é uma aplicação de sistema que contém um leitor de vídeo. Ainda vai poder reproduzir vídeos após remover do ecrã inicial</string>
+  <string name="app_description_title">Remover \"Vídeos\" do ecrã inicial?</string>
   <string name="app_name">Vídeos</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_choose">Desmarcar</string>
@@ -67,8 +69,15 @@
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
   <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
   <string name="dialog_privacy_title">Autorizações</string>
-  <string name="dialog_revoke_privacy_info_new2">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
-  <string name="dialog_revoke_privacy_title">Revogar autorização</string>
+  <string name="dialog_privacy_revoke_cancel">Cancelar</string>
+  <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
+  <string name="dialog_privacy_revoke_description">By toggling off the switch, you withdraw your consent to the Privacy Policy of Mi Video. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period as required by applicable laws. Your withdrawal of consent to the Privacy Policy will be held as refusing to accept online services based on collected personal information.</string>
+  <string name="dialog_privacy_revoke_fail">O seu dispositivo necessita de ligar à rede para conseguir retirar o consentimento. Verifique as suas definições de rede e tente novamente</string>
+  <string name="dialog_privacy_revoke_ok">Retirar</string>
+  <string name="dialog_privacy_revoke_success">Retirado com sucesso</string>
+  <string name="dialog_privacy_revoking">A retirar consentimento…</string>
+  <string name="dialog_revoke_privacy_info_new2">Após retirar consentimento, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Retirar consentimento mesmo assim?</string>
+  <string name="dialog_revoke_privacy_title">Retirar consentimento</string>
   <string name="download">Transferir</string>
   <string name="download_checking_tip">A preparar transferência…</string>
   <string name="download_complete">Transferido</string>
@@ -342,6 +351,7 @@
   <string name="network_connect_info">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
   <string name="network_failed">Não foi possível ligar à rede</string>
   <string name="next">Seguinte</string>
+  <string name="no_history">Sem itens</string>
   <string name="no_recommend_data">Sem vídeos recomendados</string>
   <string name="not_show">Não mostrar novamente</string>
   <string name="notification_bar_player_subtitle">Mostrar leitor minimizado na área de notificações</string>
@@ -567,6 +577,8 @@ Aumentar a segurança da sua conta"</string>
   <string name="plus_sort_type_time">Data</string>
   <string name="plus_tab_gallery">Pastas</string>
   <string name="plus_tab_time">Linha do tempo</string>
+  <string name="privacy_revoke_setting">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Vídeos</string>
+  <string name="privacy_revoke_title">Remoção de consentimento</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Puxe para actualizar…</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Aguarde…</string>
   <string name="pull_to_refresh_from_bottom_release_label">Solte para actualizar…</string>
@@ -728,4 +740,12 @@ tamanho da actualização Delta: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">Actualização %1$s!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
   <string name="yesterday">Ontem</string>
+  <string name="ytb_account">Contas</string>
+  <string name="ytb_author_video">Vídeos</string>
+  <string name="ytb_login">Iniciar sessão</string>
+  <string name="ytb_login_btn">Iniciar sessão</string>
+  <string name="ytb_login_hint">Iniciar sessão para ver as suas subscrições do YouTube</string>
+  <string name="ytb_logout">Terminar sessão</string>
+  <string name="ytb_play_next">Seguinte</string>
+  <string name="ytb_subscribed">Subscrições</string>
 </resources>

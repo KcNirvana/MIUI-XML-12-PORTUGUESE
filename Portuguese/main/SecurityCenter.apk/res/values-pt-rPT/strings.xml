@@ -432,17 +432,24 @@
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
   <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
+  <string name="app_manager_tab_app">Aplicações</string>
+  <string name="app_manager_tab_manager">Gerir</string>
   <string name="app_manager_thumbnail_blur_summary">Desfocar pré-visualizações em Recentes</string>
   <string name="app_manager_thumbnail_blur_title">Desfocar pré-visualizações</string>
   <string name="app_manager_title">Gestão de aplicações</string>
+  <string name="app_manager_to_appstore">Descobrir mais aplicações</string>
   <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall">Desinstalar</string>
+  <string name="app_manager_uninstall_button_text">Desinstalar</string>
+  <string name="app_manager_uninstall_notify_title">Desinstalar aplicações raramente utilizadas</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar aplicações de sistema pode fazer com que alguns componentes MIUI deixem de funcionar. Desinstalar mesmo assim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstalar aplicações de sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">As aplicações clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="app_manager_unstall_application">Desinstalar</string>
+  <string name="app_manager_update">Actualizar</string>
+  <string name="app_manager_updater_notify_message">Actualizar aplicações para aceder a novas funcionalidades</string>
   <string name="app_manager_wake_path_card_title">Histórico de início sequencial (2 dias)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Percebi</string>
   <string name="app_manager_wakepath_dialog_summary">O início sequencial acontece quando uma aplicação executa outra em segundo plano. Pode gastar mais bateria e reduzir o desempenho do sistema. A MIUI normalmente bloqueia o início sequencial</string>
@@ -593,12 +600,12 @@
   <string name="auto_task_edit_choose_condition_title">Seleccionar condição</string>
   <string name="auto_task_edit_choose_new_operation">Adicionar acção</string>
   <string name="auto_task_edit_choose_operation_title">Seleccionar acção</string>
-  <string name="auto_task_edit_condition_summary">Por exemplo: \"Às 23:00\"</string>
+  <string name="auto_task_edit_condition_summary_new">Por exemplo: \"Às %s\"</string>
   <string name="auto_task_edit_condition_title">Adicionar condição</string>
   <string name="auto_task_edit_my_custom_task">Nome</string>
   <string name="auto_task_edit_operation_summary">Por exemplo: \"Ligar Modo Avião\"</string>
-  <string name="auto_task_edit_step1">1.</string>
-  <string name="auto_task_edit_step2">2.</string>
+  <string name="auto_task_edit_step1_new">%d.</string>
+  <string name="auto_task_edit_step2_new">%d.</string>
   <string name="auto_task_edit_task_name">Nome</string>
   <string name="auto_task_main_title">Tarefas automáticas</string>
   <string name="auto_task_mamange_activity_title">Definições</string>
@@ -607,7 +614,7 @@
   <string name="auto_task_manager_group_title">As minhas tarefas automáticas</string>
   <string name="auto_task_notify_do_task_title">Início da tarefa automática</string>
   <string name="auto_task_notify_exit_task_title">Fim da tarefa automática</string>
-  <string name="auto_task_notify_task_cancel_count_down">A acção automática vai ser cancelada em 5 segundos</string>
+  <string name="auto_task_notify_task_cancel_count_down_new">A acção automática vai ser cancelada em %d segundos</string>
   <string name="auto_task_notify_task_cancel_do">Cancelar acção</string>
   <string name="auto_task_notify_task_canceled_summary">Pode efectuar e receber chamadas</string>
   <string name="auto_task_notify_task_canceled_summary2">Parece que está a jogar</string>
@@ -615,7 +622,7 @@
   <string name="auto_task_notify_task_canceled_summary4">Cancelado pelo Primeiro espaço</string>
   <string name="auto_task_notify_task_canceled_title">A acção está cancelada</string>
   <string name="auto_task_notify_task_continue_do">Iniciar acção</string>
-  <string name="auto_task_notify_task_count_down">A acção automática vai iniciar em 5 segundos</string>
+  <string name="auto_task_notify_task_count_down_new">A acção automática vai iniciar em %d segundos</string>
   <string name="auto_task_notify_task_exit_task">Cancelar tarefa</string>
   <string name="auto_task_operation_airplane_mode">Modo Avião</string>
   <string name="auto_task_operation_auto_brightness">Brilho auto.</string>
@@ -826,6 +833,9 @@
   <string name="card_main_xspace_summary">Criar várias contas para quaisquer aplicações</string>
   <string name="card_main_xspace_title">Aplicações clonadas</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
+  <string name="card_uninstall_button_text">Gerir</string>
+  <string name="card_uninstall_summary">Desinstalar aplicações raramente utilizadas para libertar espaço</string>
+  <string name="card_uninstall_title_1">Desinstalar aplicações raramente utilizadas</string>
   <string name="cd_back">Voltar</string>
   <string name="cellular_data_auto_check">Verificar automaticamente</string>
   <string name="cellular_package_daily_input">Introduzir</string>
@@ -942,7 +952,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="deep_clean_never_memory_clean">Nunca</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajustar brilho do ecrã automaticamente para poupar bateria</string>
   <string name="deep_power_save_item_summary_bluetooth">Desligar Bluetooth para poupar bateria</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Suspender ecrã após 15 segundos para poupar bateria</string>
+  <string name="deep_power_save_item_summary_lock_screen_time_new">Suspender ecrã após %d segundos para poupar bateria</string>
   <string name="deep_power_save_item_title_auto_brightness">Ligar brilho automático</string>
   <string name="deep_power_save_item_title_bluetooth">Desligar Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Suspender ecrã</string>
@@ -1441,6 +1451,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gamebox_immersion_tips_content">O modo imersivo restringe todas as funcionalidades do cartão SIM excepto dados móveis. Não vai ser interrompido por chamadas ou notificações acerca de chamadas. Todas as funcionalidades vão ser restauradas quando o modo imersivo for desligado. Ligar modo imersivo?</string>
   <string name="gamebox_immersion_tips_title">Atenção</string>
   <string name="gamebox_immerson_open">A ligar o modo imersivo. Não troque de redes…</string>
+  <string name="gamebox_macro">Combinações</string>
   <string name="gamebox_manual_record">Gravar</string>
   <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
@@ -1529,6 +1540,9 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gb_first_window_summary">Acelerar velocidade e desempenho do sistema</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Revisitar os momentos chave dos seus jogos</string>
+  <string name="gb_game_macro_bubble_tips">Experimente combinações!</string>
+  <string name="gb_game_macro_toast_tips">"Experimente combinações!
+Grave sequências e utilize-as em qualquer altura!"</string>
   <string name="gb_game_video_bottom_tips">Ver as gravações dos seus jogos no Game Turbo. Os vídeos são armazenados por 7 dias</string>
   <string name="gb_game_video_item_tag">Momento chave</string>
   <string name="gb_game_video_page_delete_success">Eliminado com sucesso</string>
@@ -1556,6 +1570,20 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="gb_operat_frequently">Não tão rápido!</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
+  <string name="gb_shoulder_key">Botões de ombro</string>
+  <string name="gb_shoulder_key_add_show_btn">Mostrar botões virtuais durante os jogos</string>
+  <string name="gb_shoulder_key_add_tips">Mover os botões [E] e [D] para qualquer posição funcional e utilizá-los através de botões de ombro</string>
+  <string name="gb_shoulder_key_btn_cancel">Cancelar</string>
+  <string name="gb_shoulder_key_btn_save_exit">Guardar</string>
+  <string name="gb_shoulder_key_circle_left">E</string>
+  <string name="gb_shoulder_key_circle_right">D</string>
+  <string name="gb_shoulder_key_dialog_txt">Pode ligar o Game Turbo utilizando botões de ombro</string>
+  <string name="gb_shoulder_key_guide_btn_done">Percebi</string>
+  <string name="gb_shoulder_key_guide_btn_next">Seguinte</string>
+  <string name="gb_shoulder_key_guide_tips">Configurar  botões de ombro para jogar como um pro!</string>
+  <string name="gb_shoulder_key_guide_tips1">Abrir ferramentas e configurar os botões de ombro</string>
+  <string name="gb_shoulder_key_settings_guide_tips1">Mover os botões [E] e [D] para qualquer posição funcional para concluir a configuração</string>
+  <string name="gb_shoulder_key_settings_guide_tips2">Utilizar botões de ombro para funcionalidades que atribuiu durante os jogos</string>
   <string name="gb_sign_gift">Iniciar sessão para receber recompensas</string>
   <string name="gb_sign_gift_button_text">Receber</string>
   <string name="gb_sign_notification_summary">Jogar sem atrasos de rede</string>
@@ -1816,7 +1844,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="list_empty_text">Vazio</string>
   <string name="load_only_under_wlan">Carregar apenas quando ligado ao Wi-Fi</string>
   <string name="loading">Aguarde…</string>
-  <string name="loading_text_format" formatted="false">A verificar se as fotos têm informações privadas (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">A verificar se as fotos têm informações privadas %d/%d</string>
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para reportar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo</string>
   <string name="lock_all_title">Bloquear todas as aplicações</string>
   <string name="lock_mode_title">Definições de bloqueio</string>
@@ -2131,7 +2159,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="network_traffic_warning_title">Utilização de dados para aplicações de sistema</string>
   <string name="networkchanged_exception_summary">A ligação de rede foi alterada. Por favor, teste novamente</string>
   <string name="networkchanged_exception_title">Ligação alterada</string>
-  <string name="never">1 vez</string>
+  <string name="never_new">%d vez</string>
   <string name="news_change">Alterar</string>
   <string name="nickname">Alcunha</string>
   <string name="no_game">Sem jogos</string>
@@ -2554,8 +2582,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_list_item_deep_save_title">Definições avançadas</string>
   <string name="power_center_list_item_haptic_feedback">Desligar feedback táctil</string>
   <string name="power_center_list_item_haptic_feedback_summary">Os gestos e controlos de sistema não vão ter feedback táctil</string>
-  <string name="power_center_list_item_set_lockscreen_time">Pôr ecrã em suspensão após 30 segundos de inactividade</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inactividade</string>
+  <string name="power_center_list_item_set_lockscreen_time_new">Pôr ecrã em suspensão após %d segundos de inactividade</string>
   <string name="power_center_list_item_set_lockscreen_time_summary">Bloquear o seu dispositivo rapidamente poupa bateria</string>
   <string name="power_center_list_item_wake_notification">Não ligar o ecrã para notificações</string>
   <string name="power_center_list_item_wake_notification_summary">As notificações recebidas apenas vão ser mostradas quando ligar o ecrã</string>
@@ -2660,7 +2688,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_optimize_set_lockscreen_time_holder">Bloquear dispositivo após %d segundos de inactividade</string>
   <string name="power_phone">Chamadas de voz</string>
   <string name="power_save_mode">Poupança de bateria</string>
-  <string name="power_save_mode_auto_exit_summary">Desligar quando a bateria estiver a 60% ou totalmente carregada​</string>
+  <string name="power_save_mode_auto_exit_summary_new">Desligar quando a bateria estiver a %s ou totalmente carregada​</string>
   <string name="power_save_mode_auto_exit_title">Desligar quando carregada</string>
   <string name="power_save_mode_close_aod_display_summary">Desligar ecrã ambiente quanda a poupança de bateria estiver ligada</string>
   <string name="power_save_mode_close_aod_display_title">Desligar ecrã ambiente</string>
@@ -3614,6 +3642,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
   <string name="summary_app_lock_disable">Proteger os seus dados com o Bloqueio de aplicações</string>
+  <string name="summary_app_update_new">Actualizar aplicações para aceder a novas funcionalidades</string>
   <string name="summary_auto_update">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>
   <string name="summary_background_connection">Restringiu a ligação em segundo plano para esta aplicação</string>
   <string name="summary_block_calls_from_cantacts">As chamadas de contactos estão bloqueadas</string>
@@ -3668,7 +3697,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="superpower_notification_summary">Ligar a poupança de bateria extrema</string>
   <string name="superpower_notification_time_12">"EEEE, d 'de' MMMM"</string>
   <string name="superpower_notification_time_24">"EEEE, d 'de' MMMM"</string>
-  <string name="superpower_notification_title">Menos de 10% de bateria restante</string>
+  <string name="superpower_notification_title_new">Menos de %s de bateria restante</string>
   <string name="superpower_progress_content">A ligar a poupança de bateria extrema…</string>
   <string name="superpower_progress_switch_home">A trocar para tema Escuro</string>
   <string name="superpower_progress_title">Tempo restante</string>
@@ -3681,9 +3710,9 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="superpower_savemode_limit3">Restringir actividades (Sincronização, GPS, vibração,etc.)</string>
   <string name="superpower_savemode_limit4">Permitir que as aplicações seleccionadas funcionem normalmente</string>
   <string name="superpower_settings">Poupança de bateria extrema</string>
-  <string name="superpower_settins_autoenter_summary">Ligar a poupança de bateria extrema automaticamente quando a bateria estiver a 10%</string>
+  <string name="superpower_settins_autoenter_summary_new">Ligar a poupança de bateria extrema automaticamente quando a bateria estiver a %s</string>
   <string name="superpower_settins_autoenter_title">Ligar automaticamente</string>
-  <string name="superpower_settins_autoleave_summary">Desligar a poupança de bateria extrema automaticamente quando a bateria estiver a 50%</string>
+  <string name="superpower_settins_autoleave_summary_new">Desligar a poupança de bateria extrema automaticamente quando a bateria estiver a %s</string>
   <string name="superpower_settins_autoleave_title">Desligar automaticamente</string>
   <string name="superpower_settins_other">Definições adicionais</string>
   <string name="superpower_settins_switch_summary">Restringir as funcionalidades que consomem mais bateria para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível</string>
@@ -3789,6 +3818,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="tc_sms_report_get_success_notify_title">Recebido o SMS com relatório da utilização de dados</string>
   <string name="tc_sms_report_geting_sms">A obter informação de SMS…</string>
   <string name="tc_sms_report_notify_correction_body">Ir para a aplicação de utilização de dados em Segurança e tente novamente manualmente</string>
+  <string name="tc_sms_report_notify_correction_business_hall">Calibrar novamente em serviços da operadora</string>
   <string name="tc_sms_report_notify_correction_failure_title">Não é possível actualizar informações da utilização de dados</string>
   <string name="tc_sms_report_notify_get_failure_body">Não foi possível enviar dados de relatório de utilização. Certifique-se de que está ligado a uma rede móvel</string>
   <string name="tc_sms_report_notify_get_failure_title">Não é possível obter o relatório de utilização de dados</string>
@@ -3984,6 +4014,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_setting_fragment_title">Consulta de utilização de dados</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
   <string name="traffic_setting_fragment_title_guide">Operadoras e planos de dados</string>
+  <string name="traffic_to_limit_warning">Já utilizou %s do limite de dados</string>
   <string name="traffic_usage_warning_body">Já utilizou %s de dados móveis este mês</string>
   <string name="traffic_usage_warning_limit">Limite de utilização de dados</string>
   <string name="traffic_usage_warning_title">Aviso de utilização de dados</string>
@@ -4057,6 +4088,11 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="vb_ve_settings_pic_border_stronger">Contornos melhorados</string>
   <string name="vb_ve_settings_picture_stronger">Animações melhoradas</string>
   <string name="vb_video_effects_display_style">Estilo</string>
+  <string name="vb_video_effects_dolby">Dolby Atmos</string>
+  <string name="vb_video_effects_dolby_dialog_enhancer">Diálogos melhorados</string>
+  <string name="vb_video_effects_dolby_headset">" (auriculares apenas)"</string>
+  <string name="vb_video_effects_dolby_open">Dolby Atmos ligado</string>
+  <string name="vb_video_effects_dolby_stereo_expansion">Estéreo expandido</string>
   <string name="vb_video_effects_setting_black_white">Preto e branco</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>
   <string name="vb_video_effects_setting_girl">Blush</string>
@@ -4099,6 +4135,7 @@ Tente aumentar a resolução!"</string>
   <string name="videobox_settings_timing_desc">Receba um alerta de hora a hora avisando-o para fazer um intervalo</string>
   <string name="videobox_settings_title">Ferramentas de vídeo</string>
   <string name="view_traffic_detail">Ver detalhes</string>
+  <string name="view_traffic_details">Ver estatísticas de utilização de dados</string>
   <string name="virus_auto_update_engine">Actualizações: %s</string>
   <string name="virus_update_tips_title">Aviso</string>
   <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>
@@ -4146,6 +4183,22 @@ Tente aumentar a resolução!"</string>
   <string name="warningcenter_mijia_search_keywords">Alertas Mi Home</string>
   <string name="warningcenter_mijia_page_title">Alertas</string>
   <string name="warningcenter_mijia_title">Alertas de dispositivos domésticos inteligentes</string>
+  <string name="warningcenter_policeassist_charge_tips">*You might be charged for outcoming text messages. Contact your carrier to learn about rates.</string>
+  <string name="warningcenter_policeassist_close_btn">Desligar</string>
+  <string name="warningcenter_policeassist_flow_locating">Getting info…</string>
+  <string name="warningcenter_policeassist_flow_locfailed">"Couldn't share location"</string>
+  <string name="warningcenter_policeassist_flow_privacy">Privacy Policy</string>
+  <string name="warningcenter_policeassist_flow_send">Shared location with the police</string>
+  <string name="warningcenter_policeassist_flow_tips">Share your location</string>
+  <string name="warningcenter_policeassist_noti_content">Send a text message with your location automatically</string>
+  <string name="warningcenter_policeassist_noti_privacy">Tap to check Privacy Policy</string>
+  <string name="warningcenter_policeassist_noti_send">Shared your location with the police</string>
+  <string name="warningcenter_policeassist_noti_title">Share location during emergency calls</string>
+  <string name="warningcenter_policeassist_open_btn">Ligar</string>
+  <string name="warningcenter_policeassist_open_content">"Send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, 122, or 12122."</string>
+  <string name="warningcenter_policeassist_open_title">Share your location with the police during emergency calls</string>
+  <string name="warningcenter_policeassist_privacy"><Data>"I've read and agreed to &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>."</Data></string>
+  <string name="warningcenter_policeassist_title">Localização de emergência</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">Centro de alertas MIUI</string>
   <string name="website">Website</string>

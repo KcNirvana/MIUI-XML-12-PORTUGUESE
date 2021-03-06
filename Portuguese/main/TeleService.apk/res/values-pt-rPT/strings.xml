@@ -721,6 +721,16 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="ivr_type_settings">Definições de plano de dados</string>
   <string name="ivr_type_settings_hint">Introduzir o seu código de plano de dados</string>
   <string name="jump_to_mobile_network_setting">Definições de rede móvel</string>
+  <string name="kddi_sim_lock_status_allowed">Permitido</string>
+  <string name="kddi_sim_lock_status_code">Código</string>
+  <string name="kddi_sim_lock_status_no_sim">Sem cartão SIM</string>
+  <string name="kddi_sim_lock_status_not_allowed">Não permitido</string>
+  <string name="kddi_sim_lock_status_open_wifi_warning">Necessário ligação Wi-Fi</string>
+  <string name="kddi_sim_lock_status_status">Estado</string>
+  <string name="kddi_sim_lock_status_title">Estado cartão SIM</string>
+  <string name="kddi_sim_lock_status_update">Actualizar estado cartão SIM</string>
+  <string name="kddi_sim_lock_status_update_fail">Erro ao actualizar</string>
+  <string name="kddi_sim_lock_status_update_success">Actualizado com sucesso</string>
   <string name="labelCDMAMore">Definições de chamadas CDMA</string>
   <string name="labelCF">Reencaminhamento de chamadas</string>
   <string name="labelCFB">Reencaminhar quando estiver ocupado</string>
@@ -812,6 +822,9 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="message_decode_error">Ocorreu um erro durante a descodificação da mensagem</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está desligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital está ligado</string>
+  <string name="mi_mobile_sim_activate_message">Activar SIM %d para poder utilizar Mi Mobile. Isto pode demorar até 5 minutos</string>
+  <string name="mi_mobile_sim_activate_ok">Activar</string>
+  <string name="mi_mobile_sim_activate_title">Bem-vindo a Mi Mobile!</string>
   <string name="mi_sim_settings_summary">Utilizar dados móveis sem um cartão SIM</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">Os PINs que introduziu não coincidem. Tente novamente</string>
@@ -1433,6 +1446,7 @@ UT Interface: %5$s"</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_networks">Pesquisar redes</string>
   <string name="selectContact">Seleccionar contacto</string>
+  <string name="select_apn_list_title">Seleccionar o seu APN predefinido para o cartão %1$s</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_automatically">Seleccionar automaticamente</string>
   <string name="select_dds_dialog_title">Seleccionar SIM de dados predefinido</string>
@@ -1701,6 +1715,7 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wfcmode_wifi_preferred">Wi-Fi</string>
   <string name="wifi_call_accept">Ignorar</string>
   <string name="wifi_call_available_message">Pode efectuar Chamadas Wi-Fi agora. Se estiver ligado a uma rede Wi-Fi, vai poder efectuar chamadas mesmo que não tenha rede móvel</string>
+  <string name="wifi_call_available_message_for_ATT_MX">Vai-se ligar a uma rede Wi-Fi. A qualidade da chamada pode variar dependendo da rede</string>
   <string name="wifi_call_available_title">A ligar Chamadas Wi-Fi</string>
   <string name="wifi_call_cancel">Mais informações</string>
   <string name="wifi_call_help">Ajuda</string>

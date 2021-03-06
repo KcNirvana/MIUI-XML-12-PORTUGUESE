@@ -126,6 +126,8 @@
   <string name="aqi_quality_index_light_pollution">Com cuidado</string>
   <string name="aqi_quality_index_moderate">Moderado</string>
   <string name="aqi_quality_index_unhealthy">Nocivo</string>
+  <string name="assistant_edge_gesture_summary">Deslizar desde o canto inferior esquerdo ou direito para ligar o assistente Google</string>
+  <string name="assistant_edge_gesture_title">Deslizar desde o canto para o assistente Google</string>
   <string name="auto_add_app_shortcut">Adicionar novas aplicações ao ecrã inicial</string>
   <string name="auto_delete_category_dialog_content">As aplicações actuais vão ser removidas desta categoria e a categoria vai ser eliminada. Eliminar esta categoria agora?</string>
   <string name="auto_delete_category_dialog_title">Eliminar categoria</string>

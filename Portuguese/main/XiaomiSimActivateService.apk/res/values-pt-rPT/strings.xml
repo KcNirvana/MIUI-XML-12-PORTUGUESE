@@ -8,7 +8,7 @@
   <string name="activate_feature_call_log_sync">Sincronização do registo de chamadas</string>
   <string name="activate_feature_default_name">Serviços Mi</string>
   <string name="activate_feature_default_title">Xiaomi</string>
-  <string name="activate_feature_find_device">Localizar Dispositivo não consegue ligar à rede</string>
+  <string name="activate_feature_find_device">Posicionamento por SMS</string>
   <string name="activate_feature_live_talk">Pacote de carregamento</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mms_sync">Sincronizar mensagens</string>

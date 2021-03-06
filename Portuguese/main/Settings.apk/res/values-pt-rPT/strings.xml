@@ -2204,6 +2204,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
   <string name="development_settings_title">Opções de programador</string>
   <string name="device_actionbar_title">Especificações</string>
+  <string name="device_activation_info">Activação de dispositivo</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
@@ -3180,6 +3181,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="headset_remove_message">Desemparelhar dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s vai ser desemparelhado de todos os dispositivos associados com esta Conta Mi</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
+  <string name="headset_unsaved_device">Remover o dispositivo</string>
   <string name="headset_unsaved_devices">Utilizado noutros dispositivos</string>
   <string name="hearing_aids_category">Ferramentas de assistência auditiva</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
@@ -4121,6 +4123,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_double_click_key_mode">Duplo toque</string>
   <string name="miheadset_double_click_left">Duplo toque no auricular esquerdo</string>
   <string name="miheadset_double_click_right">Duplo toque no auricular direito</string>
+  <string name="miheadset_enhanceVoice">Melhorar voz</string>
   <string name="miheadset_enhence_high">Melhorar agudos</string>
   <string name="miheadset_enhence_low">Melhorar baixos</string>
   <string name="miheadset_equalizer">Equalizador</string>
@@ -4151,7 +4154,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_key_config_close_summary">Desligar transparência e redução do ruído</string>
   <string name="miheadset_key_config_gesture_control">Gestos</string>
   <string name="miheadset_key_config_next_music">Seguinte</string>
-  <string name="miheadset_key_config_noise_control">Activar controlo de ruído</string>
+  <string name="miheadset_key_config_noise_control">Controlo de ruído</string>
   <string name="miheadset_key_config_noise_control_summary">Premir e segurar para trocar entre dois modos seleccionados</string>
   <string name="miheadset_key_config_noise_summary">Bloquear sons externos</string>
   <string name="miheadset_key_config_press_left">Premir e segurar o auricular esquerdo</string>
@@ -4254,6 +4257,9 @@ Continuar para aceder a definições adicionais"</string>
   <string name="miui_sos_menu_add">Adicionar</string>
   <string name="miui_sos_menu_edit">Editar</string>
   <string name="miui_sos_msg_call_log_prefix">Aqui está o meu registo de chamadas da última hora:</string>
+  <string name="miui_sos_pa_title">Localização de emergência</string>
+  <string name="miui_sos_pa_turn_off">Desligado</string>
+  <string name="miui_sos_pa_turn_on">Ligado</string>
   <string name="miui_sos_play_voice">Reproduzir mensagem SOS</string>
   <string name="miui_sos_remind_add">Adicionar</string>
   <string name="miui_sos_remind_close">O modo SOS Emergência está ligado. Desligá-lo e todas as funcionalidades relacionadas?</string>
@@ -6363,6 +6369,7 @@ Alguém muito parecido consigo, como um filho ou um irmão com traços semelhant
   <string name="sim_call_back_title">Ligar de volta do SIM predefinido</string>
   <string name="sim_calls_always_use">Utilizar sempre este para chamadas</string>
   <string name="sim_calls_ask_first_prefs_title">Perguntar sempre</string>
+  <string name="sim_card_lock">Estado do cartão SIM</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Seleccionar cartão SIM</string>
   <string name="sim_cards_changed_message">Cartões SIM foram alterados</string>
@@ -7023,6 +7030,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_layout_current2_weight">Tamanho do texto</string>
   <string name="title_miui_music_mute_by_user">Modo silêncio</string>
   <string name="title_of_auto_launch_manage">Início automático</string>
+  <string name="title_special_features_health_global">Batimento cardíaco</string>
   <string name="to_close">Desligar</string>
   <string name="toast_apply_font_fail">Não é possível definir o tipo de letra</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
