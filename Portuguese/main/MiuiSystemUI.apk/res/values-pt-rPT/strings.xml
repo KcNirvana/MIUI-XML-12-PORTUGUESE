@@ -802,6 +802,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_success_stay_screen_msg">Manter-se no ecrã de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o ecrã inicial</string>
   <string name="face_unlock_success_stay_screen_title">Manter-se no ecrã de bloqueio após desbloquear</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir definições de %1$s</string>
+  <string name="finger_error_single_mode">Não é possível utilizar as impressões digitais no Modo Uma Mão. Saia do modo e tente novamente</string>
   <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>

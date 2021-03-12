@@ -409,6 +409,10 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="other">%1$d sugestões</item>
         <item quantity="one">1 sugestão</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Receber um alerta sempre que um dos auriculares estiver fora da caixa mais do que %d minutos</item>
+        <item quantity="one">Receber um alerta sempre que um dos auriculares estiver fora da caixa mais do que %d minuto</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d itens</item>
         <item quantity="one">1 item</item>

@@ -47,6 +47,7 @@ Tente novamente"</string>
   <string name="btn_retry">Verificar novamente</string>
   <string name="btn_skip">Ignorar este passo</string>
   <string name="button_cancel">Cancelar</string>
+  <string name="button_confirm">Percebi</string>
   <string name="button_delete">Eliminar</string>
   <string name="button_next">Seguinte</string>
   <string name="can_not_backup_in_lite_mode">Não é possível copiar no Modo Leve</string>
@@ -193,6 +194,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
   <string name="open_backup_switch">Ligue as cópias</string>
   <string name="other_device_main_space">Primeiro espaço</string>
   <string name="other_device_second_space">Segundo espaço</string>
+  <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desligue o Modo PC e tente novamente</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
   <string name="provision_back">Voltar</string>

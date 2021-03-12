@@ -520,10 +520,13 @@ documentos digitalizados automaticamente"</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito desfocar.
 O objecto não pode estar a mais de dois metros</string>
   <string name="dual_video_record_merged">Combinados</string>
+  <string name="dual_video_record_remote">Gravação telefone duplo</string>
   <string name="dual_video_record_standalone">Separados</string>
   <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmara, seleccione duas câmaras no seu dispositivo e grave simultaneamente. As gravações vão ser armazenadas separadamente ou combinadamente numa vista separada ou num vídeo em ecrã no ecrã</string>
   <string name="dual_video_user_guide_main_title">Vídeos multicâmara</string>
   <string name="dual_video_user_guide_merge_content">Grave com duas câmaras simultaneamente e combine as gravações numa vista separada ou num vídeo em ecrã no ecrã</string>
+  <string name="dual_video_user_guide_remote_content">A gravação telefone duplo permite combinar vídeos de dois telefones diferentes num só. Vai poder pré-visualizar ambos os vídeos e o vídeo final neste dispositivo. O áudio apenas vai ser gravado por este dispositivo</string>
+  <string name="dual_video_user_guide_remote_p">Telefone %d</string>
   <string name="dual_video_user_guide_standalone_content">Grave com duas câmaras simultaneamente e guarde ambas as gravações como vídeos separados</string>
   <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Queixo</string>
@@ -1225,6 +1228,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_super_night_se_summary">Detectar ambientes com pouca luz e melhorar a imagem automaticamente</string>
   <string name="pref_super_night_se_title">Modo Nocturno automático</string>
   <string name="pref_userdefine_watermark_title">"Marca d'água personalizada"</string>
+  <string name="pref_video_ai_audio_single">Som frontal</string>
   <string name="pref_video_captrue_ability_title">Captura de imagens enquanto grava</string>
   <string name="pref_video_cast_setting_summary">Ligar para poder gravar um vídeo com vários dispositivos</string>
   <string name="pref_video_cast_setting_title">Gravações telefone duplo</string>
@@ -1274,6 +1278,11 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_off">Desligada</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
+  <string name="prek_b_j_o">Recriar efeito de som surround</string>
+  <string name="prek_b_j_p">Reduzir o impacto do vento na gravação de som</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Os sons do sujeito em foco vão ser melhorados</string>
+  <string name="prep_video_ai_audio_single_desc_tip">Os sons atrás do ecrã vão ser filtrados</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">O zoom de áudio não funciona com microfones externos</string>
   <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="preview_back_pressed_hint">Toque novamente para voltar à pré-visualização</string>

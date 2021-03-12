@@ -422,6 +422,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_sound_title">Som</string>
   <string name="allow_vibrate_title">Vibração</string>
   <string name="alpha_build">" | Alpha"</string>
+  <string name="already_delete_system_app">Aplicações de sistema desinstaladas</string>
   <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
   <string name="always_running">Sempre em execução (%s)</string>
@@ -1377,6 +1378,10 @@ Pode desligar esta funcionalidade em Definições > Bluetooth > Dispositivos emp
   <string name="bt_ldac_pre_summary">Fornece uma experiência de áudio de alta qualidade</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Propriedades</string>
+  <string name="bt_leaudio_open_dialog_summary">Não vai poder ligar vários dispositivos aos seus auscultadores quando o LC3 estiver ligado. Os outros dispositivos ligados vão ser desligados. Ligar LC3 mesmo assim?</string>
+  <string name="bt_leaudio_open_dialog_title">Atenção</string>
+  <string name="bt_leaudio_pre_title">LC3</string>
+  <string name="bt_leaudio_summary">Experimentar áudio de alta qualidade</string>
   <string name="bt_ldac_remember_choice">Memorizar preferência</string>
   <string name="bt_ldac_settings">Definições</string>
   <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, vai ser ligado por defeito. O LHDC fornece uma experiência de áudio de alta qualidade mas aumenta o consumo de bateria</string>
@@ -1623,6 +1628,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="codec_low_latency_summary">Minimizar a latência durante a sincronização do áudio e vídeo nos jogos</string>
   <string name="codec_low_latency_title">Baixa latência</string>
+  <string name="codec_low_latency_video_summary">Fornecer uma experiência áudio de baixa latência para jogos e vídeos tornando a sincronização entre som e imagem mais natural</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Este dispositivo</string>
@@ -2725,6 +2731,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="face_data_input_ok_title">Adicionado com sucesso</string>
   <string name="face_data_input_structure_title">Dados de rosto 3D</string>
   <string name="face_data_input_title">Adicionar rosto</string>
+  <string name="face_data_introduction_add">Iniciar</string>
   <string name="face_data_introduction_msg">Os dados do rosto podem ser utilizados para desbloquear o seu dispositivo ou verificar a sua identidade. Adicione uma palavra-passe de ecrã de bloqueio antes de adicionar o seu rosto</string>
   <string name="face_data_introduction_next">Seguinte</string>
   <string name="face_data_introduction_title">Reconhecimento de rosto</string>
@@ -3025,7 +3032,6 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
 
 Quando ligar as cópias de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos"</string>
   <string name="fullbackup_erase_dialog_message">Pretende parar de fazer cópias de segurança dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) e eliminar todas as cópias no Google Drive?</string>
-  <string name="function_description">Acerca desta funcionalidade</string>
   <string name="gadget_picker_title">Escolher gadget</string>
   <string name="gadget_toggle_wifi">A actualizar as definições de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
@@ -3178,6 +3184,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="headset_connectiong">A ligar…</string>
+  <string name="headset_notification_switch_summary">Mostrado estado na área de notificações quando os auriculares estiverem ligados</string>
+  <string name="headset_notification_switch_title">Área de notificações</string>
   <string name="headset_remove_message">Desemparelhar dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s vai ser desemparelhado de todos os dispositivos associados com esta Conta Mi</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
@@ -3435,6 +3443,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
+  <string name="keyboard_skin_follow_system_enable">Alterar para Modo Escuro junto com o sistema</string>
   <string name="keyguard_advance_setting_title">Definições avançadas</string>
   <string name="keyguard_security_setting_others">Outros</string>
   <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -4195,6 +4204,8 @@ Não pode reverter esta acção!"</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Atenção</string>
   <string name="miui_face_enroll_success">"Agora pode desbloquear este dispositivo utilizando o seu rosto.
 Continuar para aceder a definições adicionais"</string>
   <string name="miui_lab_ai_cloud_closed">O pré-carregamento IA ainda não está disponível</string>
@@ -4705,11 +4716,6 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="notification_conversation_important">Prioridade</string>
   <string name="notification_conversation_summary_low">Sem som ou vibração e aparece na parte mais baixa da secção de conversas</string>
   <string name="notification_display_settings">Área de notificações</string>
-  <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
-  <string name="notification_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
-  <string name="notification_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
-  <string name="notification_fold_footer_icon_summary">Mostrar o ícone das aplicações quando as notificações não importantes estiverem agrupadas</string>
-  <string name="notification_fold_footer_icon_title">Mostrar ícone das aplicações</string>
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_group_title">Grupo de categoria de notificações</string>
@@ -6877,7 +6883,6 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="switch_access_service_on">Trocar acessos</string>
   <string name="switch_bootup_sound">Som de boot</string>
   <string name="switch_headset_anti_lost">Aviso de auriculares em falta</string>
-  <string name="switch_headset_anti_lost_summary">Receber um alerta sempre que um dos auriculares não estiver no ouvido ou na caixa de carregamento por mais de um minuto</string>
   <string name="switch_headset_anti_lost_title">Aviso de auriculares em falta</string>
   <string name="switch_off_text">Desligado</string>
   <string name="switch_on_text">Ligado</string>

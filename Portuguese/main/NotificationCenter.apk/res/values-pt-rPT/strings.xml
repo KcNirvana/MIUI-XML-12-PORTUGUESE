@@ -70,6 +70,11 @@
   <string name="notification_aggregate_title">Group notifications</string>
   <string name="notification_display_setting">Área de notificações</string>
   <string name="notification_display_style">Estilo de notificações</string>
+  <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
+  <string name="notification_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
+  <string name="notification_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
+  <string name="notification_fold_footer_icon_summary">Mostrar o ícone das aplicações quando as notificações não importantes estiverem agrupadas</string>
+  <string name="notification_fold_footer_icon_title">Mostrar ícone das aplicações</string>
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_keyguard_hide_content">Mostrar notificações mas ocultar conteúdo</string>

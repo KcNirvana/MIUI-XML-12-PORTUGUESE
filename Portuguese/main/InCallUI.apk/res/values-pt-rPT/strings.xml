@@ -2,6 +2,7 @@
 <resources>
   <string name="ai_assistant">Assistente de chamadas IA</string>
   <string name="ai_assistant_not_installed">Instalar assistente de chamadas IA primeiro</string>
+  <string name="ai_dial">Chamada IA</string>
   <string name="ai_mode_auto">Auto</string>
   <string name="ai_mode_manual">Manual</string>
   <string name="ai_mode_subtitles">Legendas</string>

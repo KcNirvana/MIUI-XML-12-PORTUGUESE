@@ -42,6 +42,7 @@
   <string name="expand_button_title">Avançado</string>
   <string name="first_using_dialog_message">A bússola necessita de utilizar a ligação de rede, câmara e os serviços de localização do seu dispositivo para funcionar normalmente</string>
   <string name="first_using_dialog_title">Permissão de Acesso</string>
+  <string name="gradienter_title">Nível</string>
   <string name="guide_toast">Para calibrar a bússola mova o seu dispositivo como demonstrado</string>
   <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude; Verificar latitude;Bússola MIUI;Pressão atmosférica; Verificar altitude</string>
   <string name="latitude">LAT</string>

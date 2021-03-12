@@ -263,6 +263,15 @@ Tem de concordar com a Política de Privacidade do teclado Mint para utilizar es
 2. Quando estiver a ouvir música com o ecrã desligado"</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
   <string name="voice_assist_title">Ligar com voz</string>
+  <string name="wc_dialog_agree">Concordar</string>
+  <string name="wc_dialog_reject">Não concordar</string>
+  <string name="wc_dialog_summary">Os papéis de parede aleatórios oferecem imagens deslumbrantes e histórias emocionantes para o seu ecrã de bloqueio diariamente</string>
+  <string name="wc_dialog_title">Um ecrã de bloqueio reinventado</string>
+  <string name="wc_double_check_agree">Experimentar</string>
+  <string name="wc_double_check_reject">Não, obrigado</string>
+  <string name="wc_double_check_summary">Pode ligar os papéis de parede aleatórios se gostar. Pode sempre ligar ou desligar esta funcionalidade nas Definições > Ecrã de bloqueio</string>
+  <string name="wc_double_check_title">Experimentar papéis de parede aleatórios</string>
+  <string name="wc_notice_link_announcement_summary">Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> antes de utilizar esta funcionalidade</string>
   <string name="welcome">Bem-vindo</string>
   <string name="zone_picker_title">Escolher fuso horário</string>
 </resources>
