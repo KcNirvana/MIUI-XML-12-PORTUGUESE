@@ -661,6 +661,8 @@ Toque aqui para iniciar agora"</string>
   <string name="resource_wallpaper_download">Transferir papel de parede</string>
   <string name="restore_home_icon_text">Adicionar um atalho no ecrã inicial</string>
   <string name="restore_icon_later">Pode adicionar um atalho no ecrã inicial nas Definições novamente</string>
+  <string name="ringtone_confirm_dialog_message">A duração deste toque é longa. Usar mesmo assim?</string>
+  <string name="ringtone_confirm_dialog_title">Atenção</string>
   <string name="ringtone_set_success">Definido com sucesso</string>
   <string name="search_filter_name">Filtros</string>
   <string name="search_non_filter_result">Sem resultados</string>
@@ -684,8 +686,7 @@ Toque aqui para iniciar agora"</string>
   <string name="set_as_colorring">Definir como toque personalizado</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
   <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
-  <string name="set_wallpaper_group_success">"%1$s foi aplicado.
-Vai ver uma nova imagem a cada hora"</string>
+  <string name="set_wallpaper_group_success">\"%1$s\" aplicado com sucesso</string>
   <string name="setting_font_online">Tipos de letra online</string>
   <string name="settings">Definições</string>
   <string name="settings_search_keyword_font_free">Tipos de letra grátis</string>

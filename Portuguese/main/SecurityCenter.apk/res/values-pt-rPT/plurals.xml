@@ -490,6 +490,10 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">Transferido por %1$d pessoas</item>
     <item quantity="one">Transferido por %1$d pessoa</item>
   </plurals>
+  <plurals name="power_20s_shutdown">
+    <item quantity="other">O dispositivo vai desligar em %d segundos</item>
+    <item quantity="one">O dispositivo vai desligar em %d segundo</item>
+  </plurals>
   <plurals name="power_center_battery_charge_number">
     <item quantity="other">vezes</item>
     <item quantity="one">vez</item>

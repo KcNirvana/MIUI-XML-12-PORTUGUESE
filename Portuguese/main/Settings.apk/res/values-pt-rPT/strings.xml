@@ -4105,9 +4105,11 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_Box">Box</string>
   <string name="miheadset_LeftEar">Esquerdo</string>
   <string name="miheadset_RightEar">Direito</string>
-  <string name="miheadset_anc_indicate">Ligar e emparelhar auriculares</string>
   <string name="miheadset_active">Energético</string>
-  <string name="miheadset_ancBalance">Médio</string>
+  <string name="miheadset_ancHigh">Avião</string>
+  <string name="miheadset_ancLow">Escritório</string>
+  <string name="miheadset_ancMedium">Diariamente</string>
+  <string name="miheadset_anc_indicate">Ligar e emparelhar auriculares</string>
   <string name="miheadset_ancClosed">Desligado</string>
   <string name="miheadset_ancDecrease">Baixo</string>
   <string name="miheadset_ancIncrease">Alto</string>
@@ -4158,6 +4160,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_ignore">Desemparelhar</string>
   <string name="miheadset_in_ear_check">Detecção de auriculares</string>
   <string name="miheadset_in_ear_check_summary">Pausar e retomar automaticamente assim que colocar ou remover os auriculares</string>
+  <string name="miheadset_key_config_ANC_list_title">Controlo de ruído</string>
   <string name="miheadset_key_config_call_ai">Assistente de voz</string>
   <string name="miheadset_key_config_close">Desligado</string>
   <string name="miheadset_key_config_close_summary">Desligar transparência e redução do ruído</string>
