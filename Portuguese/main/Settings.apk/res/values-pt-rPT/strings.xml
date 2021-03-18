@@ -979,9 +979,9 @@ Aplicações:
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizado para áudio multimédia</string>
-  <string name="bluetooth_active_battery_level">Activado. %1$s de bateria</string>
-  <string name="bluetooth_active_battery_level_untethered">Activado. E: bateria %1$s | D: bateria %2$s</string>
-  <string name="bluetooth_active_no_battery_level">Activado</string>
+  <string name="bluetooth_active_battery_level">Activo | Bateria %1$s</string>
+  <string name="bluetooth_active_battery_level_untethered">Activo | E: Bateria %1$s | D: Bateria %2$s</string>
+  <string name="bluetooth_active_no_battery_level">Activo</string>
   <string name="bluetooth_advanced_titlebar">Definições avançadas Bluetooth</string>
   <string name="bluetooth_ask_disablement">%1$s quer desligar o Bluetooth</string>
   <string name="bluetooth_ask_disablement_no_name">Uma aplicação quer desligar o Bluetooth</string>
@@ -1010,14 +1010,14 @@ Aplicações:
   <string name="bluetooth_connect_settings">Definições da ligação Bluetooth</string>
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">%1$s ligado</string>
-  <string name="bluetooth_connected_battery_level">Ligado | Bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_battery_level">Ligado | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Ligado a vários dispositivos</string>
   <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia) %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Ligado (sem multimédia) | Bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Ligado (sem multimédia) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Ligado (sem telefone) %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Ligado (sem telefone) | Bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Ligado (sem telefone) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Ligado (sem telefone ou multimédia) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Ligado (sem telefone ou multimédia) | Bateria %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Ligado (sem telefone ou multimédia) | Bateria %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">Ligado (sem acesso a mensagens) %1$s</string>
   <string name="bluetooth_connected_summary">Ligado a %1$s</string>
   <string name="bluetooth_connecting">A ligar…</string>
@@ -1060,7 +1060,7 @@ Aplicações:
   <string name="bluetooth_disable_profile_title">Desactivar perfil?</string>
   <string name="bluetooth_disabled">Desligado</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s vai ser desligado do áudio multimédia</string>
-  <string name="bluetooth_disconnect_all_profiles">Isto vai terminar a ligação com::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Isto vai desligar a ligação com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s vai ser desligado do áudio de mãos livres</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s vai ser desligado do dispositivo de entrada</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s vai ser desligado da partilha de ligação da Internet deste telefone</string>
@@ -1629,6 +1629,8 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="codec_low_latency_summary">Minimizar a latência durante a sincronização do áudio e vídeo nos jogos</string>
   <string name="codec_low_latency_title">Baixa latência</string>
   <string name="codec_low_latency_video_summary">Fornecer uma experiência áudio de baixa latência para jogos e vídeos tornando a sincronização entre som e imagem mais natural</string>
+  <string name="codec_low_latency_zmi_summary">Reduzir a latência de áudio e melhorar os efeitos sonoros em jogos automaticamente</string>
+  <string name="codec_low_latency_zmi_title">Baixa latência para jogos</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Este dispositivo</string>
@@ -7616,7 +7618,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="volte_5G_limited_text">"Isto também vai desligar a ligação 5G.
 Durante uma chamada de voz, não pode utilizar a Internet e algumas aplicações podem não funcionar"</string>
   <string name="volte_5G_limited_title">Desligar VoLTE?</string>
-  <string name="volume_adjustment">Ajustar volume</string>
+  <string name="volume_adjustment">Volume</string>
   <string name="volume_alarm_description">Alarmes</string>
   <string name="volume_alarm_mute">Silenciar alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>

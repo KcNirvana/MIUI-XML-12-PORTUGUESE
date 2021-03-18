@@ -49,7 +49,7 @@ Verifique as Definições para saber mais"</string>
   <string name="fast_connect_device_headset_reset">Prima e segure o botão na caixa</string>
   <string name="fast_connect_device_title_connect_fail">Não foi possível ligar %1$s</string>
   <string name="fast_connect_device_title_connecting">A ligar…</string>
-  <string name="fast_connect_device_title_find_headset">Localizar %1$s</string>
+  <string name="fast_connect_device_title_find_headset">A procurar %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">Parece que este dispositivo não é seu: %1$s</string>
   <string name="fast_connect_new_feture_anti_lost">Aviso de auriculares em falta</string>
   <string name="fast_connect_new_feture_same_account">Ligar dispositivos emparelhados</string>
