@@ -1432,6 +1432,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
   <string name="gamebox_browser_not_find">Instale o Navegador primeiro</string>
+  <string name="gamebox_collimator">Mira</string>
   <string name="gamebox_display_1">Nenhum</string>
   <string name="gamebox_display_2">Saturado</string>
   <string name="gamebox_display_3">Brilhante</string>
@@ -1460,6 +1461,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
   <string name="gamebox_recent_task_expand_fail">Aplicações que funcionam com atalhos não estão instaladas</string>
   <string name="gamebox_simcard">Trocar cartões SIM</string>
+  <string name="gamebox_time">Temporizador</string>
   <string name="gamebox_type_close">Não mostrar</string>
   <string name="gamebox_type_float">Atalho fixo</string>
   <string name="gamebox_type_gesture">Deslizar para mostrar</string>
@@ -1510,6 +1512,10 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gb_advance_settings_vibration_4d_summary2">Vibrar durante mortes no jogo</string>
   <string name="gb_audition_instruction">Prima e segure para gravar (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">Utilize auriculares para um melhor efeito</string>
+  <string name="gb_collimator_color">Cor</string>
+  <string name="gb_collimator_size">Tamanho</string>
+  <string name="gb_collimator_style">Tipo</string>
+  <string name="gb_collimator_toast">Uma mira torna o objectivo muito mais conveniente</string>
   <string name="gb_create_icon_summary">Criar atalho no ecrã inicial</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
@@ -1545,6 +1551,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gb_game_macro_bubble_tips">Experimente combinações!</string>
   <string name="gb_game_macro_toast_tips">"Experimente combinações!
 Grave sequências e utilize-as em qualquer altura!"</string>
+  <string name="gb_game_time_toast">Temporizador disponível</string>
   <string name="gb_game_video_bottom_tips">Ver as gravações dos seus jogos no Game Turbo. Os vídeos são armazenados por 7 dias</string>
   <string name="gb_game_video_item_tag">Momento chave</string>
   <string name="gb_game_video_page_delete_success">Eliminado com sucesso</string>
@@ -1570,6 +1577,7 @@ Grave sequências e utilize-as em qualquer altura!"</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparência</string>
   <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
+  <string name="gb_not_support_on_device">Esta aplicação não pode ser utilizada no outro ecrã</string>
   <string name="gb_operat_frequently">Não tão rápido!</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_shoulder_key">Botões de ombro</string>
@@ -2187,7 +2195,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_checker_installed_apk_hint">Não é necessário guardar APKs após instalação</string>
   <string name="notification_enter_power_save_mode_subtitle">Desligar quando a bateria estiver a %s ou totalmente carregada​</string>
-  <string name="notification_enter_power_save_mode_title">Poupança de bateria extrema ligada</string>
+  <string name="notification_enter_power_save_mode_title">Poupança de bateria ligada</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria extrema desligada</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Dispositivo carregado</string>
   <string name="notification_exit_power_save_mode_now">Desligar</string>
@@ -4094,6 +4102,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="vb_quick_func_screen_record">Gravar</string>
   <string name="vb_quick_func_screening">Transmitir</string>
   <string name="vb_settings">Definições</string>
+  <string name="vb_ve_settings_ai_stronger">IA</string>
   <string name="vb_ve_settings_display_style_tips">*Estes efeitos são aplicados ao ecrã inteiro</string>
   <string name="vb_ve_settings_pic_border_stronger">Contornos melhorados</string>
   <string name="vb_ve_settings_picture_stronger">Animações melhoradas</string>
@@ -4150,6 +4159,7 @@ Tente aumentar a resolução!"</string>
   <string name="virus_update_tips_title">Aviso</string>
   <string name="virus_wait_network_dialog_message">O seu telefone não está ligado ao Wi-Fi. Utilizar a ligação de dados móveis?</string>
   <string name="vtb_func_desc">Acerca desta funcionalidade</string>
+  <string name="vtb_func_display_style_desc0">A IA pode reconhecer pessoas, animais, plantas e outros objectos nos vídeos e melhorá-los dinâmicamente</string>
   <string name="vtb_func_display_style_desc1">Os efeitos seleccionados não vão ser aplicados a vídeos HDR nos dispositivos seleccionados</string>
   <string name="vtb_func_display_style_desc2">Estes efeitos não podem ser aplicados a capturas de ecrã</string>
   <string name="vtb_func_frc_desc0">A suavização de movimentos reduz a desfocagem e adiciona detalhes a objectos em movimento. Utilizar esta funcionalidade aumenta o consumo de bateria</string>

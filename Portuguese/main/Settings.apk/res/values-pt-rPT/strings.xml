@@ -343,7 +343,11 @@ Para alternar entre serviços, deslize com dois dedos para cima sem soltar"</str
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="add_front_fingerprint_instruction_msg">O sensor de impressões digitais está na parte de trás do seu dispositivo</string>
   <string name="add_new">Adicionar</string>
+  <string name="add_one_text_app_name_once">Apenas pode adicionar um pacote de cada vez</string>
   <string name="add_rule">Adicionar regras</string>
+  <string name="add_text_app_name">Adicionar um pacote de teste</string>
+  <string name="add_text_app_name_here">Introduzir nome do pacote</string>
+  <string name="add_text_app_package_name">Adicionar um pacote de teste</string>
   <string name="add_virtual_keyboard">Gerir teclados</string>
   <string name="adding_profile_owner_warning">"Ao continuar, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
@@ -4104,10 +4108,11 @@ Não pode reverter esta acção!"</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Área central</string>
   <string name="miheadet_up_music">Anterior</string>
-  <string name="miheadset_Box">Box</string>
+  <string name="miheadset_Box">Caixa</string>
   <string name="miheadset_LeftEar">Esquerdo</string>
   <string name="miheadset_RightEar">Direito</string>
   <string name="miheadset_active">Energético</string>
+  <string name="miheadset_adaptive">Adaptável</string>
   <string name="miheadset_ancHigh">Avião</string>
   <string name="miheadset_ancLow">Escritório</string>
   <string name="miheadset_ancMedium">Diariamente</string>
@@ -7838,7 +7843,7 @@ Reveja a Política de Privacidade do fornecedor de serviços"</string>
   <string name="wifi_assistant_auto_confirm_data_message">Utilizar dados móveis quando o seu dispositivo não tiver acesso à Internet via Wi-Fi</string>
   <string name="wifi_assistant_confirm_always">Não perguntar novamente</string>
   <string name="wifi_assistant_confirm_connection_title">Não é possível ligar à Internet</string>
-  <string name="wifi_assistant_data_prompt">Aviso</string>
+  <string name="wifi_assistant_data_prompt">Mostrar aviso de utilização de dados</string>
   <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de utilização de dados quando o assistente Wi-Fi mudar para dados móveis</string>
   <string name="wifi_assistant_description">"O assistente Wi-Fi funciona assim:
 1. Quando uma ligação Wi-Fi for fraca, o seu dispositivo vai tentar ligar a outras redes Wi-Fi disponíveis
@@ -8062,12 +8067,13 @@ Definir a rede como oculta não altera as definições do router"</string>
   <string name="wifi_link_turbo_customize">Aplicações personalizadas</string>
   <string name="wifi_link_turbo_customize_summary">Seleccionar aplicações que vão funcionar com o assistente Wi-Fi</string>
   <string name="wifi_link_turbo_list">Aplicações</string>
+  <string name="wifi_link_turbo_mode">Modo optimização de velocidade</string>
   <string name="wifi_link_turbo_no_app">Sem aplicações</string>
   <string name="wifi_link_turbo_off">Desligado</string>
   <string name="wifi_link_turbo_on">Ligado</string>
   <string name="wifi_link_turbo_recommendation">Aplicações recomendadas</string>
   <string name="wifi_link_turbo_recommendation_summary">Receber recomendações baseadas na estatística de utilização de dados</string>
-  <string name="wifi_link_turbo_summary">Optimizar a velocidade da ligação para as aplicações seleccionadas utilizandos dados móveis quando a ligação Wi-Fi for fraca</string>
+  <string name="wifi_link_turbo_summary">Utilizar dados móveis para optimizar a velocidade da ligação</string>
   <string name="wifi_menu_advanced">Avançado</string>
   <string name="wifi_menu_connect">Ligar à rede</string>
   <string name="wifi_menu_forget">Esquecer rede</string>
@@ -8390,6 +8396,8 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xiaomi_cloud_service_description_format">A Xiaomi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
   <string name="xiaomi_custom_input_method">Personalizado para a Xiaomi</string>
+  <string name="xiaomi_hp_location">Ligar localização precisa</string>
+  <string name="xiaomi_hp_location_description">Melhorar a precisão do sistema de navegação por satélite ao ligar a localização precisa</string>
   <string name="xiaomi_money_service">Mi Coins</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações</string>
   <string name="xiaomi_router_available_notif_title">Router Mi disponível</string>

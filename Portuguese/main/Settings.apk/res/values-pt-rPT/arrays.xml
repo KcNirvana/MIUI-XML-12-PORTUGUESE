@@ -1382,6 +1382,14 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>DHCP</item>
         <item>Estático</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Auxiliar</item>
+        <item>Completo</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Optimizar a velocidade da ligação utilizando os dados móveis quando a ligação Wi-Fi for fraca</item>
+        <item>Combinar Wi-Fi e dados móveis para optimizar a velocidade da ligação</item>
+    </string-array>
     <string-array name="wifi_p2p_status">
         <item>Ligado</item>
         <item>Convidado</item>

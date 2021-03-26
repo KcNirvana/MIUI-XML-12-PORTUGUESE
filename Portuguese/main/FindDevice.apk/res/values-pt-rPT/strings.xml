@@ -30,7 +30,9 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="find_device_notice">"Vá a <b><font color='#0099FF'>i.mi.com</font></b> para localizar, bloquear ou restaurar o seu dispositivo"</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p3">para localizar, bloquear ou restaurar o seu dispositivo</string>
-  <string name="find_device_notice_sms_alert">Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade</string>
+  <string name="find_device_notice_sms_alert_with_common_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>
+  <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>
+  <string name="find_device_notice_sms_alert_with_internal_charge_hint">Para actualizar o estado do cartão SIM e garantir que todos os serviços estão a funcionar, uma &lt;font color=#0097FF>&lt;b>mensagem de texto internacional paga&lt;/b>&lt;/font> vai ser enviada após trocar de cartões SIM</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_storage_corrupted">Armazenamento de Localizar Dispositivo corrompido. O seu dispositivo está inseguro</string>
   <string name="find_device_success_title">Localizar Dispositivo</string>

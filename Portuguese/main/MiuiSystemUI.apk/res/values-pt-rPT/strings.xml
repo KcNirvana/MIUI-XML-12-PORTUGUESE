@@ -815,6 +815,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
+  <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
   <string name="forced_resizable_secondary_display">A aplicação pode não funcionar num ecrã secundário</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>
   <string name="fs_gesture_back_home_summary">Deslize de baixo rapidamente</string>
@@ -1221,6 +1222,15 @@ d 'de' MMMM"</string>
   <string name="miui_notification_menu_title_aggregate_feedback">Comentários</string>
   <string name="miui_notification_menu_title_fold">Não importante</string>
   <string name="miui_notification_menu_title_not_allow">Restringir</string>
+  <string name="miui_snooze_always_float">Não ocultar</string>
+  <string name="miui_snooze_cancel">Cancelar</string>
+  <string name="miui_snooze_default_time">Por %d minuto</string>
+  <string name="miui_snooze_to_settings">Definições</string>
+  <string name="miui_snooze_toast_hint_default">"As próximas notificações vão ser ocultadas por %d minuto. "</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"As próximas notificações vão ser ocultadas até bloquear o dispositivo. "</string>
+  <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
+  <string name="miui_snooze_user_set_fail">Vá a Definições > Notificações &amp; Centro de Controlo para mais opções</string>
+  <string name="miui_snooze_user_set_success">Aplicado com sucesso. Applied successfully. Vá a Definições > Notificações &amp; Centro de Controlo para mais opções</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

@@ -477,6 +477,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="dialog_button_connect">Ligar</string>
   <string name="dialog_button_disconnect">Sair</string>
   <string name="dialog_button_exit">Desligar</string>
+  <string name="dialog_button_goto">Definições</string>
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_button_reject">Rejeitar</string>
   <string name="dialog_button_scan">Procurar dispositivos</string>
@@ -1183,8 +1184,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimizar cores e ajustar contraste de vídeos 4K e 8K. Esta funcionalidade é apenas para dispositivos HDR10+</string>
   <string name="pref_i_n_r_b">Redução inteligente de ruído</string>
-  <string name="pref_k_h">Monitor intra-auricular ao vivo</string>
-  <string name="pref_k_s_i">Reproduzir o som gravado nos auriculares quando estiverem ligados</string>
+  <string name="pref_k_h">Monitorizar intra-auricular ao vivo</string>
+  <string name="pref_k_s_i">Monitorizar o som gravado nos auriculares quando estiverem ligados</string>
   <string name="pref_lens_dirty_detect_summary">Receber uma notificação quando a lente tiver suja</string>
   <string name="pref_lens_dirty_detect_title">Notificações sobre a lente suja</string>
   <string name="pref_live_duration_title">Duração ao vivo</string>
@@ -1278,6 +1279,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_watermark_off">Desligada</string>
   <string name="pref_watermark_on">Ligada</string>
   <string name="pref_watermark_title">"Marca d'água"</string>
+  <string name="pref_wind_denoise_title">Filtro de vento</string>
   <string name="prek_b_j_o">Recriar efeito de som surround</string>
   <string name="prek_b_j_p">Reduzir o impacto do vento na gravação de som</string>
   <string name="prep_video_ai_audio_new_desc_tip">Os sons do sujeito em foco vão ser melhorados</string>
@@ -1293,6 +1295,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="recommend_soft_light_tip">Ligue o flash</string>
   <string name="recommend_super_night">Experimente o Modo Nocturno</string>
   <string name="record_back_pressed_hint">Premir Voltar novamente para terminar a gravação</string>
+  <string name="remote_device_type_phone">Xiaomi</string>
   <string name="remote_online_connecting">Seleccionar dispositivo para ligar</string>
   <string name="remote_online_disconnect_confirmation">Cancelar a ligação a %1$s?</string>
   <string name="remote_online_exit_confirmation">Desligar gravação telefone duplo agora?</string>
@@ -1301,6 +1304,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="remote_online_interrupted">Desligado. Ligue novamente para continuar</string>
   <string name="remote_online_introduction_i">A gravação telefone duplo combina vídeos de dois telefones diferentes num só. Vai poder pré-visualizar ambos os vídeos e o vídeo final neste dispositivo. O áudio apenas vai ser gravado por este dispositivo</string>
   <string name="remote_online_introduction_ii">Para utilizar esta funcionalidade, o outro telefone Mi ou Redmi tem de suportar a gravação telefone duplo. Pode ser ligada através do atalho do Centro de Controlo</string>
+  <string name="remote_online_permission">Alterar a permissão de localização da Câmara para \"Permitir apenas durante a utilização\" para utilizar a gravação telefone duplo</string>
   <string name="remote_online_searching">A procurar dispositivos…</string>
   <string name="remote_online_service_name">Gravação telefone duplo</string>
   <string name="remote_online_unavailable">Não foram encontrados dispositivos</string>

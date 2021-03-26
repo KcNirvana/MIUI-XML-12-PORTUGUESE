@@ -301,7 +301,10 @@
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">O Tempo fornece informações meteorológicas precisas. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
+  <string name="xiaomi_weather_description_content">Tempo é uma aplicação de sistema. Não vai poder ver informações meteorológicas após desinstalar a aplicação</string>
+  <string name="xiaomi_weather_description_content_remove">Tempo é uma aplicação de sistema. Não vai poder ver informações meteorológicas após remover</string>
+  <string name="xiaomi_weather_description_title">Desinstalar \"Tempo\"?</string>
+  <string name="xiaomi_weather_description_title_remove">Remover \"Tempo\" do ecrã inicial?</string>
   <string name="xiaomi_weather_description_title">Acerca de Tempo</string>
   <string name="yes_vote_ratio">Para %1$s%%</string>
 </resources>

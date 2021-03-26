@@ -392,9 +392,13 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="third_web_filesize">Tamanho</string>
   <string name="third_web_savepath">Caminho</string>
   <string name="third_web_title">Transferir</string>
+  <string name="tip_download_icon_restore">Adicionar um atalho no ecrã inicial para Transferências</string>
+  <string name="tip_download_icon_retry">Não foi possível adicionar atalho. Tente novamente</string>
   <string name="title_homepage_infoflow">Actualizações recentes</string>
   <string name="title_tips">Atenção</string>
   <string name="title_unbind_xunlei">Remover a sua conta Xunlei</string>
+  <string name="toast_download_icon_restore_fail">Não foi possível adicionar atalho</string>
+  <string name="toast_download_icon_restore_success">Adicionado com sucesso</string>
   <string name="toast_only_wifi_download">Ligar ao Wi-Fi para transferir este item</string>
   <string name="toast_xunlei_engine_open">Ligou a optimização de transferências Xunlei</string>
   <string name="torrent_file_error">"Não foi possível analisar este ficheiro torrent"</string>

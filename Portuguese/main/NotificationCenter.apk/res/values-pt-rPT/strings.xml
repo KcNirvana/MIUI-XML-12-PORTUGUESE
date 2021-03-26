@@ -28,6 +28,8 @@
   <string name="feedback_tip_cancel">Os dados das notificação não vão ser obtidos</string>
   <string name="feedback_tip_msg">Para agrupar as notificações com mais precisão, necessitamos de obter o nome, título, descrição e hora de envio das notificações. Submeter o seu comentário?</string>
   <string name="feedback_tip_title">Comentários nas categorias</string>
+  <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
+  <string name="float_notification_snooze_summary">Deslizar para cima para ocultar temporariamente as próximas</string>
   <string name="float_notifications">Flutuantes</string>
   <string name="float_notifications_short">Flutuantes</string>
   <string name="fold_importance_default">Recomendadas</string>
@@ -52,6 +54,10 @@
   <string name="menu_setting_tip_show_in_home">As notificações de %s não vão ser agrupadas</string>
   <string name="menu_setting_tip_unfold">Todas as notificações desta aplicação vão ser consideradas importantes</string>
   <string name="menu_setting_unfold">Importantes</string>
+  <string name="miui_snooze_always_float">Não ocultar</string>
+  <string name="miui_snooze_cancel">Cancelar</string>
+  <string name="miui_snooze_default_time">Por %d minuto</string>
+  <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>

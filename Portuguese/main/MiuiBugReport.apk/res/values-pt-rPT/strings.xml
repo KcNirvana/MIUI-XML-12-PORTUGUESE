@@ -118,7 +118,7 @@ Envie este código ao supervisor"</string>
   <string name="feedback_choose_occurrence_time">Hora</string>
   <string name="feedback_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_contact_info_hint">Número de telefone/Email</string>
-  <string name="feedback_continue">Continuar com o comentário</string>
+  <string name="feedback_continue">Submeter comentário</string>
   <string name="feedback_delete_images">Eliminar imagens</string>
   <string name="feedback_description">Descrição</string>
   <string name="feedback_description_bugreport_hint">Em alguns casos (…) o meu telefone funciona mal (…)</string>
