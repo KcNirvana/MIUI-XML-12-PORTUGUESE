@@ -305,6 +305,5 @@
   <string name="xiaomi_weather_description_content_remove">Tempo é uma aplicação de sistema. Não vai poder ver informações meteorológicas após remover</string>
   <string name="xiaomi_weather_description_title">Desinstalar \"Tempo\"?</string>
   <string name="xiaomi_weather_description_title_remove">Remover \"Tempo\" do ecrã inicial?</string>
-  <string name="xiaomi_weather_description_title">Acerca de Tempo</string>
   <string name="yes_vote_ratio">Para %1$s%%</string>
 </resources>
