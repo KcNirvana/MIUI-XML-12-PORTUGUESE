@@ -41,6 +41,8 @@ Para mais questões, veja a ajuda"</string>
 2. Em alguns modelos de TV, esta funcionalidade apenas está disponível quando o espelho de ecrã está ligado. Ver \"Ajuda\" para saber mais"</string>
   <string name="dialog_scanning_device">A pesquisar dispositivos…</string>
   <string name="dialog_scanning_precondition">Ligue o Wi-Fi e o Bluetooth para utilizar a transmissão sem fios</string>
+  <string name="dialog_scanning_precondition_new_china">Ligar o Wi-Fi, Bluetooth e localização para poder utilizar a transmissão sem fios. Ligar agora?</string>
+  <string name="dialog_scanning_precondition_new_global">Ligar o Wi-Fi, Bluetooth e localização para poder utilizar a transmissão sem fios. Ligar agora?</string>
   <string name="dialog_select_tv">Seleccionar dispositivo (%d)</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Parar transmissão</string>

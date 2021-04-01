@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="actionbar_button_up_description">Voltar</string>
+  <string name="adaptive_fps_tip">2. Alcançar o melhor equilíbrio entre suavidade e duração da bateria ajustando dinâmicamente a taxa de actualização</string>
   <string name="advanced_mode">Definições avançadas</string>
   <string name="africa_introduction">A vida selvagem prospera na África - lar de muitos dos animais mais famosos do mundo</string>
   <string name="african_bush_elephant">Elefante africano</string>
@@ -140,7 +141,7 @@
   <string name="fps_smooth_title">Alta</string>
   <string name="fps_standard_summary">A taxa de actualização standard poupa bateria</string>
   <string name="fps_standard_title">Standard</string>
-  <string name="fps_user_tip">Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
+  <string name="fps_user_tip">1. Estas animações de demonstração são reproduzidas em baixa velocidade para referência. O desempenho real pode parecer diferente com base em vários factores</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
   <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>

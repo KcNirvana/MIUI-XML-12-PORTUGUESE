@@ -396,6 +396,9 @@
   <string name="update_notification_info">A actualizar dados em segundo plano…</string>
   <string name="usage_start">Iniciar</string>
   <string name="user_agreement">Termos de Utilização</string>
+  <string name="version_update_dialog_negative_desc">Agora não</string>
+  <string name="version_update_dialog_positive_desc">Actualizar</string>
+  <string name="version_update_dialog_title">Actualização disponível</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>
   <string name="voice_add_alarm">Adicionar um alarme utilizando um comando de voz</string>

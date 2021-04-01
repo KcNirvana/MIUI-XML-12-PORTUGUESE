@@ -197,4 +197,8 @@
     <item quantity="other">Eliminar %1$d itens?</item>
     <item quantity="one">Eliminar %1$d item?</item>
   </plurals>
+  <plurals name="whatsapp_file_audio_dec">
+    <item quantity="other">%1$s ficheiros áudio</item>
+    <item quantity="one">%1$s ficheiro áudio</item>
+  </plurals>
 </resources>

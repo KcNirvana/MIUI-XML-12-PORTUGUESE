@@ -149,6 +149,8 @@
   <string name="recovery">Restaurar</string>
   <string name="recovery_failed_dialog_button">Percebi</string>
   <string name="recovery_failed_dialog_title">Atenção</string>
+  <string name="remove_icon_description_content">Gravador é uma aplicação de sistema. Não vai poder gerir gravações após remover do ecrã inicial</string>
+  <string name="remove_icon_description_title">Remover \"Gravador\" do ecrã inicial?</string>
   <string name="rename">Mudar o nome</string>
   <string name="rename_dialog_title">Mudar o nome da gravação</string>
   <string name="rename_duplicate">Já existe outra gravação com este nome</string>

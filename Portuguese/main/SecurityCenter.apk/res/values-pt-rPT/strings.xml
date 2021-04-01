@@ -841,6 +841,13 @@
   <string name="cd_back">Voltar</string>
   <string name="cellular_data_auto_check">Verificar automaticamente</string>
   <string name="cellular_package_daily_input">Introduzir</string>
+  <string name="cetus_invisible_mode">Anónimo</string>
+  <string name="cetus_invisible_mode_description_card">Suspender permissões</string>
+  <string name="cetus_invisible_mode_description_switch">Ligar para suspender as permissões do microfone, câmara e localização para todas as aplicações</string>
+  <string name="cetus_invisible_mode_warn_all">Está anónimo. As permissões do microfone, câmara e localização estão suspensas</string>
+  <string name="cetus_invisible_mode_warn_camera">Está anónimo. As permissões da câmara estão suspensas</string>
+  <string name="cetus_invisible_mode_warn_location">Está anónimo. As permissões da localização estão suspensas</string>
+  <string name="cetus_invisible_mode_warn_record_audio">Está anónimo. As permissões do microfone estão suspensas</string>
   <string name="charger_detect_button_ok">Percebi</string>
   <string name="charger_detect_info1">Verifique se o carregador e o cabo estão ligados correctamente</string>
   <string name="charger_detect_info2">O carregamento também pode ser lento se estiver a utilizar cabos não standard ou carregadores e cabos antigos</string>
@@ -2599,6 +2606,11 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_list_item_set_lockscreen_time_summary">Bloquear o seu dispositivo rapidamente poupa bateria</string>
   <string name="power_center_list_item_wake_notification">Não ligar o ecrã para notificações</string>
   <string name="power_center_list_item_wake_notification_summary">As notificações recebidas apenas vão ser mostradas quando ligar o ecrã</string>
+  <string name="power_center_night_charge_noti_subtitle">A bateria vai ficar carregada às %s</string>
+  <string name="power_center_night_charge_noti_title">Optimização de carregamento ligado</string>
+  <string name="power_center_night_charge_protection">Optimização de carregamento</string>
+  <string name="power_center_night_charge_protection_setting">Ver mais opções em Segurança > Bateria</string>
+  <string name="power_center_night_charge_protection_summary">Para aumentar a vida da bateria, a MIUI aprende com a sua rotina diária de carregamento para reduzir o carregamento contínuo desnecessário</string>
   <string name="power_center_one_key_save">Optimizar</string>
   <string name="power_center_ontime_boot">Hora de ligar</string>
   <string name="power_center_ontime_shutdown">Hora de desligar</string>
@@ -2639,6 +2651,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_consume_rank_title">Utilização de bateria</string>
   <string name="power_consume_software_total_format">Aplicações: %s</string>
   <string name="power_customize_giveup_change">Rejeitar alterações?</string>
+  <string name="power_dailog_night_charge_protection_done">Percebi</string>
+  <string name="power_dailog_night_charge_protection_summary">A bateria está totalmente carregada na maior parte do tempo, o que pode diminuir a sua vida útil. A MIUI ligou a optimização de carregamento para prevenir estes problemas</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
@@ -3618,6 +3632,12 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="storage_available_total_size">%1$s de %2$s disponível</string>
   <string name="storage_available_total_size1">Ocupado: %1$s | Total: %2$s</string>
   <string name="storage_category_title">Opções adicionais</string>
+  <string name="storage_clear_available_total_size">%1$s/%3$s ocupado | %2$s disponível</string>
+  <string name="storage_clear_cache">Libertar %s</string>
+  <string name="storage_clear_cache_deep">Libertar armazenamento</string>
+  <string name="storage_clear_cache_large">Libertar %s</string>
+  <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
+  <string name="storage_clear_video">Limpar cache de vídeo</string>
   <string name="storage_deepclean_entry">Limpeza Profunda</string>
   <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
 

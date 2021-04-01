@@ -68,7 +68,7 @@
   <string name="data_empty">Sem itens</string>
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
   <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
-  <string name="dialog_privacy_title">Autorizações</string>
+  <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="dialog_privacy_revoke_cancel">Cancelar</string>
   <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
   <string name="dialog_privacy_revoke_description">By toggling off the switch, you withdraw your consent to the Privacy Policy of Mi Video. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period as required by applicable laws. Your withdrawal of consent to the Privacy Policy will be held as refusing to accept online services based on collected personal information.</string>
