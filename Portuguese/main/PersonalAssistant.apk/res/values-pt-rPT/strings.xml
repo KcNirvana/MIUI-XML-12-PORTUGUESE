@@ -753,6 +753,7 @@
   <string name="search_category_video">Vídeos</string>
   <string name="search_change_header">Substituir imagem de capa</string>
   <string name="search_clear_header">Remover imagem de capa</string>
+  <string name="search_header_dialog_title">Alterar fundo</string>
   <string name="search_hint">Pesquisar nos favoritos</string>
   <string name="search_label">A pesquisar…</string>
   <string name="search_setting_description">Títulos nos favoritos</string>

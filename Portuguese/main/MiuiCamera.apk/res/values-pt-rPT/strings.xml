@@ -43,6 +43,7 @@
   <string name="accessibility_document_blackwhite_button">A digitalizar documentos: Preto e branco</string>
   <string name="accessibility_document_origin_button">A digitalizar documentos: Original</string>
   <string name="accessibility_document_strengthen_button">A digitalizar documentos: Melhorados</string>
+  <string name="accessibility_double_click_to_exit">Duplo toque para sair</string>
   <string name="accessibility_dual_preview_change">Ver alterações</string>
   <string name="accessibility_dual_preview_change_finish">Alterações vistas</string>
   <string name="accessibility_dual_video_merged">Vídeos combinados</string>
@@ -83,6 +84,7 @@
   <string name="accessibility_live_preview_button">Ver item anterior</string>
   <string name="accessibility_live_reverse_button">Eliminar clip anterior</string>
   <string name="accessibility_live_speed_panel_on">Painel de velocidade</string>
+  <string name="accessibility_lock_focus_success">Focagem bloqueada</string>
   <string name="accessibility_manually_custom_panel_on">Painel de personalização</string>
   <string name="accessibility_mimoji_background_panel_on">Painel de fundos</string>
   <string name="accessibility_mimoji_gif_off">Modo GIF desligado</string>
@@ -118,6 +120,8 @@
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
   <string name="accessibility_record_button">Botão de Gravar</string>
   <string name="accessibility_reduce">Zoom out</string>
+  <string name="accessibility_reference_line_image_off">Não mostrar linhas de referência</string>
+  <string name="accessibility_reference_line_image_on">Mostrar linhas de referência</string>
   <string name="accessibility_reference_line_text">Abrir o painel com opções de linha de referência</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_select_all">Seleccionar tudo</string>
@@ -147,6 +151,8 @@
   <string name="accessibility_timer_burst_image_off">Disparo Temporizado desligado</string>
   <string name="accessibility_timer_burst_image_on">Disparo Temporizado ligado</string>
   <string name="accessibility_timer_burst_text">Painel de Disparo Temporizado</string>
+  <string name="accessibility_touch_focus_fail">Não foi possível focar</string>
+    <string name="accessibility_touch_focus_success">Focado com sucesso</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP desligado</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ligado</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP desligado</string>

@@ -546,6 +546,7 @@ Taxa de amostragem"</string>
   <string name="cell_data_off">Desligado</string>
   <string name="cell_data_off_content_description">Dados móveis desligados</string>
   <string name="change_theme_reboot">Para alterar o tema necessita de reiniciar</string>
+  <string name="choose_clock_dual_clock_hint_text">Não é possível alterar o formato com o relógio duplo ligado</string>
   <string name="choose_clock_panel_title">Layout do ecrã de bloqueio</string>
   <string name="choose_clock_third_theme_hint_text">Ecrã de bloqueio do tema actual</string>
   <string name="choose_clock_title_left_top">Esquerda</string>
@@ -1832,6 +1833,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="speed_bump_explanation">Notificações menos urgentes abaixo</string>
   <string name="ssl_ca_cert_warning">"A rede pode ser
 monitorizada"</string>
+  <string name="start_camera_error_try_again">Não foi possível iniciar Câmara. Tente novamente</string>
   <string name="start_dreams">Protector de ecrã</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar">Barra de estado</string>

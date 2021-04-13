@@ -2642,6 +2642,15 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
   <string name="power_center_title">Bateria</string>
+  <string name="power_center_unoffical_battery_button">Localizar um fornecedor autorizado</string>
+  <string name="power_center_unoffical_battery_dialog">Aviso de bateria não autorizada</string>
+  <string name="power_center_unoffical_battery_dialog_positive">Saber mais</string>
+  <string name="power_center_unoffical_battery_dialog_summary">Looks like an unauthorized battery is installed in this device. Charging power will be lowered to protect your device. Using unauthorized batteries may result in battery swelling, overheating, and leakage. It may also cause fire or other hazards. Find an authorized service provider to replace your battery.</string>
+  <string name="power_center_unoffical_battery_noti_summary">Your current battery might pose security risks</string>
+  <string name="power_center_unoffical_battery_summary1">This device was equipped with a built-in battery that should only be replaced by an authorized service provider.</string>
+  <string name="power_center_unoffical_battery_summary2">Replacing the battery elsewhere may damage this device. Using unauthorized batteries may result in battery swelling, overheating, and leakage. It may also cause fire or other hazards. Do not use unauthorized batteries.</string>
+  <string name="power_center_unoffical_battery_tip">"Health info isn't available for this unauthorized battery. Tap to learn about security risks."</string>
+  <string name="power_center_unoffical_battery_title">Riscos causados por utilizar baterias não autorizadas</string>
   <string name="power_center_used_time_Introduction">O tempo na bateria desde que foi carregada a %s</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_sleep_summary">Desactivar todas as funções de rede (chamadas, mensagens, Wi-Fi e serviços de dados) excepto para o despertador</string>

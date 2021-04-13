@@ -255,6 +255,8 @@ Selecção"</string>
   <string name="call_barring_outgoing">Barramento de chamadas efectuadas</string>
   <string name="call_barring_sum">Definições de barramento de chamadas de voz</string>
   <string name="call_description_recording">A gravar…</string>
+  <string name="call_fold_setting">Dobrar e desdobrar</string>
+  <string name="call_fold_setting_title">Dobrar e desdobrar</string>
   <string name="call_forward_option">Reencaminhar chamada</string>
   <string name="call_forwarding_number_hint">Reencaminhar chamadas para</string>
   <string name="call_forwarding_settings">Reencaminhamento de chamadas</string>
@@ -646,6 +648,8 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="fiveg_switch_title">Utilizar redes 5G</string>
   <string name="flash_when_ring_summary">Acender luz de flash ao receber chamadas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
+  <string name="fold_answer_pref_summary">Dobrar o dispositivo para atender chamadas automaticamente</string>
+  <string name="fold_answer_pref_title">Dobrar para atender chamadas</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir"</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as definições actuais do número de reencaminhamento.
@@ -1621,7 +1625,11 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="turn_on_dual_4g_failed">Não é possível ligar o 4G Duplo</string>
   <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar</string>
   <string name="turnover_mute_title">Inverter para silenciar</string>
-  <string name="undefined">Nada</string>
+  <string name="undefined">Nenhum</string>
+  <string name="unfold_close_camera_pref_summary">Desdobrar o dispositivo durante uma videochamada para desligar a câmara</string>
+  <string name="unfold_close_camera_pref_title">Desdobrar para desligar a câmara</string>
+  <string name="unfold_speaker_pref_summary">Desdobrar o dispositivo durante uma chamada para ligar os altifalantes</string>
+  <string name="unfold_speaker_pref_title">Desdobrar para utilizar altifalantes</string>
   <string name="unknown">Número privado</string>
   <string name="unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="unlock_success">Cartão SIM desbloqueado</string>

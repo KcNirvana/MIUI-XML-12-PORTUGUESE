@@ -102,6 +102,7 @@
   <string name="finddevice_miservice_notification_title">Ligar Localizar Dispositivo</string>
   <string name="forget_password"><u>Esqueceu a palavra-passe?</u></string>
   <string name="help_and_feedback">Ajuda e comentários</string>
+  <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
@@ -465,6 +466,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
   <string name="mx_voip_dspt">Mi Voice</string>
+  <string name="no_network">Não é possível ligar á rede</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
   <string name="notification_reinstall_key_text">Verifique a sua identidade e tente novamente</string>
   <string name="notification_sync_fail_title">Não foi possível sincronizar</string>

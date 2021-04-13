@@ -902,6 +902,12 @@ efeitos de fotos"</string>
   <string name="home_menu_video_post">Efeitos de vídeo</string>
   <string name="home_page_empty_action">Tirar uma foto</string>
   <string name="home_page_label">Fotos</string>
+  <string name="homepage_allphotos_tip_dialog_button_negative">Ignorar</string>
+  <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
+  <string name="homepage_allphotos_tip_dialog_description_all">Todas</string>
+  <string name="homepage_allphotos_tip_dialog_description_only_camera">Tiradas pela Câmara</string>
+  <string name="homepage_allphotos_tip_dialog_subtitle">Pode fazer isto mais tarde em Definições</string>
+  <string name="homepage_allphotos_tip_dialog_title">Que imagens quer ver em \"Fotos\"?</string>
   <string name="hr_preview_108m">Trocado para pré-visualização 108MP</string>
   <string name="how_to_set_relation">Prima e segure um álbum para criar um grupo</string>
   <string name="hybrid_check_network">Definições de rede</string>
@@ -909,6 +915,7 @@ efeitos de fotos"</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
+  <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde…</string>
   <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
@@ -1213,6 +1220,7 @@ para personalizar a galeria"</string>
   <string name="multi_view_tip_sub_title">Junte ou afaste dois dedos para ajustar o tamanho dos itens mostrados</string>
   <string name="multi_view_tip_title">Zoom</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
+  <string name="nearby_share">Nearby Share</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
   <string name="need_to_turn_on_sync">Ligue a sincronização com a Xiaomi Cloud</string>
   <string name="need_to_turn_on_sync_first">Ligue a sincronização com a Xiaomi Cloud primeiro</string>
@@ -1232,6 +1240,7 @@ para personalizar a galeria"</string>
   <string name="no">Não</string>
   <string name="no_ignore_faces">Sem pessoas</string>
   <string name="no_map_app">Não foi encontrada nenhuma aplicação lidar com esta acção</string>
+  <string name="no_network">Não foi possível ligar à rede</string>
   <string name="no_network_connect">Não foi possível concluir acção. Verifique as suas definições de rede e tente novamente</string>
   <string name="no_network_connected">Sem redes detectadas</string>
   <string name="noon">Meio-dia</string>
@@ -1253,6 +1262,7 @@ para personalizar a galeria"</string>
   <string name="ocr_ongoing">A reconhecer texto…</string>
   <string name="ocr_revise">Rever</string>
   <string name="ocr_save_to_note">Guardar</string>
+  <string name="ocr_save_to_note_new">Guardar em Notas</string>
   <string name="ocr_send">Partilhar</string>
   <string name="ocr_text_copied">Copiado</string>
   <string name="ocr_title">Resultado</string>
@@ -1747,6 +1757,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="security_share_subtitle_hide">Localização removida</string>
   <string name="security_share_subtitle_no_hide">Contém informações de localização</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
+  <string name="see_more_settings">Definições adicionais</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_image_operation">A adicionar fotos</string>
   <string name="select_item_face">"Isto é '%s'?"</string>

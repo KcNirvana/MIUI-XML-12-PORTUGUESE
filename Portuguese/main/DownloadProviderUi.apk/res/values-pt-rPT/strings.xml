@@ -64,6 +64,8 @@
   <string name="dialog_content_limit0">Restringido</string>
   <string name="dialog_content_limit_max">Ilimitado</string>
   <string name="dialog_delete_positive">Eliminar</string>
+  <string name="dialog_download_dir_content" formatted="false">A pasta de destino predefinida para as suas transferências foi alterada de \"%s\" para \"%s/DLManager\"</string>
+  <string name="dialog_download_dir_title">Nova pasta de destino</string>
   <string name="dialog_failed_body">Tentar transferir mais tarde ou removê-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Este ficheiro já existe</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
@@ -147,7 +149,7 @@
   <string name="extend">Mais</string>
   <string name="extract_file">A descompactar ficheiro…</string>
   <string name="file_exist_hint">Este ficheiro já existe</string>
-  <string name="file_picker">Escolher uma localização</string>
+  <string name="file_picker">Escolher uma pasta</string>
   <string name="file_size">Tamanho:</string>
   <string name="free_high_speed_channel">Acelerador Xunlei (grátis)</string>
   <string name="free_speedup_exp">Testar acelerador de transferências Xunlei gratuitamente</string>
@@ -244,9 +246,9 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="paused_waiting_for_network">A aguardar por rede</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir</string>
   <string name="period_of_validity">Validade:</string>
-  <string name="pref_download_revert_default">Guardar na localização predefinida</string>
+  <string name="pref_download_revert_default">Guardar na pasta predefinida</string>
   <string name="pref_download_settings_title">Limite de transferências em dados móveis</string>
-  <string name="pref_download_storage_path">Guardar numa localização personalizada</string>
+  <string name="pref_download_storage_path">Guardar numa pasta personalizada</string>
   <string name="pref_sniff_shortcut">Criar atalho no ecrã inicial para a pesquisa web</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação quando utilizar ligação de dados móveis para transferir conteúdo</string>
@@ -282,7 +284,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="retry_after_network_available">"Não foi possível ligar à rede. Verifique a sua ligação e tente novamente."</string>
   <string name="retry_download">Tentar novamente</string>
   <string name="revert_default">Restaurar as definições predefinidas</string>
-  <string name="revert_download_path">Utilizar a localização das transferências predefinida?</string>
+  <string name="revert_download_path">Utilizar a pasta predefinida das transferências?</string>
   <string name="save_path">"Guardar transferências em: "</string>
   <string name="save_text">Poupar ￥%1$s</string>
   <string name="search_clear_history_btn">Limpar histórico de pesquisa</string>

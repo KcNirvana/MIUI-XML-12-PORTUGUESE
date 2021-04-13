@@ -76,6 +76,8 @@
   <string name="preference_other">Outros</string>
   <string name="preference_privacy_title">Política de Privacidade</string>
   <string name="pressure_title">Pressão</string>
+  <string name="remove_icon_description_content">Bússola é uma aplicação de sistema. Não vai pode utilizá-la após remover do ecrã inicial</string>
+  <string name="remove_icon_description_title">Remover \"Bússola\" do ecrã inicial?</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="shake_enter_tip">Agitar para calibrar</string>
   <string name="unit_degree">Graus</string>
