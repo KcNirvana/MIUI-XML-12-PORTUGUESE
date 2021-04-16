@@ -2848,6 +2848,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
   <string name="fingerprint_apply_to_privacy_password">Protecção de Privacidade</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">A Protecção de Privacidade protege as suas mensagens, fotos, ficheiros, notas e aplicações</string>
+  <string name="fingerprint_base_title">Impressão digital %s</string>
   <string name="fingerprint_delete_message">Eliminar esta impressão digital?</string>
   <string name="fingerprint_delete_title">Remover \"%1$s\"</string>
   <string name="fingerprint_double_tap">Duplo toque no sensor</string>
@@ -2857,6 +2858,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de ecrã de bloqueio primeiro)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do ecrã de bloqueio primeiro)</string>
   <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desligadas pelas definições de segurança</string>
+  <string name="fingerprint_gesture_screen_title">Deslizar impressão digital</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Guardada como \"%s\"</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
@@ -4182,8 +4185,10 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_fitness_check_result_dialog1">Colocar os auriculares em ambos os ouvidos antes de começar</string>
   <string name="miheadset_fitness_check_result_dialog2">Terminar as chamadas antes de começar</string>
   <string name="miheadset_fitness_check_result_dialog_title">Atenção</string>
-  <string name="miheadset_fitness_check_result_not_ok">Bad fit</string>
-  <string name="miheadset_fitness_check_result_ok">Good fit</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Ajustar auricular</string>
+  <string name="miheadset_fitness_check_result_not_ok">Mau</string>
+  <string name="miheadset_fitness_check_result_ok">Bom</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Ajustar auricular</string>
   <string name="miheadset_fitness_check_result_summary1">Os protectores de ouvido que está a utilizar neste momento servem bem</string>
   <string name="miheadset_fitness_check_result_summary2">Ajustar a posição dos protectores de ouvido ou substituí-los por outros tamanhos e testar novamente</string>
   <string name="miheadset_fitness_check_start">Iniciar</string>
@@ -7649,6 +7654,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
   <string name="voice_service_preference_section_title">Serviços de entrada de texto por voz</string>
   <string name="voicemail_number_not_set">&lt;Não definido></string>
+  <string name="voip_assistant_settings">Assitente VoIP</string>
   <string name="volte_5G_limited_text">"Isto também vai desligar a ligação 5G.
 Durante uma chamada de voz, não pode utilizar a Internet e algumas aplicações podem não funcionar"</string>
   <string name="volte_5G_limited_title">Desligar VoLTE?</string>

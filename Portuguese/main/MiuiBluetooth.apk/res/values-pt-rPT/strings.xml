@@ -77,7 +77,8 @@ Protocolo de ligação mais rápido"</string>
   <string name="headset_device_enter_upgrade_failed">Erro</string>
   <string name="headset_device_error_box_close">A caixa está desligada</string>
   <string name="headset_device_error_disconnect">Os auriculares estão desligados. Feche a caixa e abra-a novamente</string>
-  <string name="headset_device_error_failed">Erro</string>
+  <string name="headset_device_error_failed">Não é possível actualizar</string>
+  <string name="headset_device_error_multconnect">Não é possível actualizar com vários dispositivos ligados</string>
   <string name="headset_device_error_no_device">Pelo menos um auricular não está na caixa</string>
   <string name="headset_device_error_single_device">Não é possível actualizar. Emparelhe novamente</string>
   <string name="headset_device_sync_donot_move_device">A sincronizar…</string>

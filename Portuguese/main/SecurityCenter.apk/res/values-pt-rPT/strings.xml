@@ -2639,6 +2639,16 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_stop_scan_title">Parar verificação</string>
   <string name="power_center_super_save_summary_text">Aumente o tempo restante até %1$dh %2$dm</string>
   <string name="power_center_super_save_title_text">Poupança de bateria extrema</string>
+  <string name="power_center_super_wireless_charge">Quick wireless charging</string>
+  <string name="power_center_super_wireless_charge_dialog_positive">Keep on</string>
+  <string name="power_center_super_wireless_charge_dialog_summary">"This mode increases the fan speed of the wireless charger's cooler. Keep this mode on to charge your device faster, or turn it off if you think the noise is too loud."</string>
+  <string name="power_center_super_wireless_charge_dialog_summary2">Go to Security > Battery > Settings for more options.</string>
+  <string name="power_center_super_wireless_charge_dialog_title">Quick wireless charging</string>
+  <string name="power_center_super_wireless_charge_noti_summary">Tap to open Settings</string>
+  <string name="power_center_super_wireless_charge_noti_switch">Notify about quick wireless charging</string>
+  <string name="power_center_super_wireless_charge_noti_title">Quick wireless charging is on</string>
+  <string name="power_center_super_wireless_charge_summary">"Increase the fan speed of the wireless charger's cooler"</string>
+  <string name="power_center_super_wireless_charge_toast_close">Quick wireless charging is off</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
   <string name="power_center_title">Bateria</string>
