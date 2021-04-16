@@ -84,7 +84,7 @@
   <string name="daily_forecast_add_city_message">Seguir o tempo em %1$s para uma previsão mais detalhada</string>
   <string name="daily_forecast_add_city_title">Seguir o tempo em %1$s</string>
   <string name="daily_forecast_detail">Detalhes da previsão</string>
-  <string name="daily_forecast_detail_date">dd-MM</string>
+  <string name="daily_forecast_detail_date">dd/MM</string>
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
  Puxe para actualizar ou verifique as definições de rede"</string>
   <string name="data_provided_by"/>
@@ -113,7 +113,7 @@
   <string name="gps_hint">Local actual</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Agora</string>
-  <string name="hourly_forecast_date">d/M</string>
+  <string name="hourly_forecast_date">dd/MM</string>
   <string name="hourly_forecast_title">Previsão horária</string>
   <string name="index_item_downloading">A transferir</string>
   <string name="index_item_experience_now">Instalar agora</string>
