@@ -828,6 +828,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="message_decode_error">Ocorreu um erro durante a descodificação da mensagem</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está desligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital está ligado</string>
+  <string name="mi_mobile_settings_summary">Plano de dados fornecido por Xiaomi</string>
+  <string name="mi_mobile_settings_title">Mi Mobile</string>
   <string name="mi_mobile_sim_activate_message">Activar SIM %d para poder utilizar Mi Mobile. Isto pode demorar até 5 minutos</string>
   <string name="mi_mobile_sim_activate_ok">Activar</string>
   <string name="mi_mobile_sim_activate_title">Bem-vindo a Mi Mobile!</string>

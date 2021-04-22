@@ -81,7 +81,9 @@
   <string name="book_card_rating_text">|   %1$s avaliações</string>
   <string name="calendar_account_settings">Definições da conta</string>
   <string name="calendar_import_source">Origem</string>
+  <string name="calendar_privacy_policy">Política de Privacidade</string>
   <string name="calendar_subscription_group_title">Subscrições do calendário</string>
+  <string name="calendar_user_agreement">Termos de Utilização</string>
   <string name="can_not_create_long_event">O nome do evento muito longo</string>
   <string name="can_not_modify_allday_event">Não é possível alterar evento de dia inteiro</string>
   <string name="can_not_modify_event">Não é possível alterar</string>
@@ -433,6 +435,7 @@
   <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
   <string name="preferences_week_start_day_dialog">Início da semana</string>
   <string name="preferences_week_start_day_title">Início da semana</string>
+  <string name="prefsx_notify_sound_none">Silêncio</string>
   <string name="premission_description_agree">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
   <string name="premission_description_calendar">Adicionar e mostrar os seus eventos</string>
   <string name="premission_description_contact">Mostrar aniversários dos seus contactos</string>

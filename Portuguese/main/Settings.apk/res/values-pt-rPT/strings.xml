@@ -3034,6 +3034,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="freeform_guide_notification_drop_down_summary">Premir, segurar e puxar para baixo a barra duma notificação</string>
   <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
   <string name="freeform_guide_settings">Janelas flutuantes</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Deslizar desde a parte inferior do ecrã para o canto superior direito</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Deslizar para janelas flutuantes</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
   <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
@@ -4173,6 +4175,8 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_double_click_key_mode">Duplo toque</string>
   <string name="miheadset_double_click_left">Duplo toque no auricular esquerdo</string>
   <string name="miheadset_double_click_right">Duplo toque no auricular direito</string>
+  <string name="miheadset_double_press_left">Premir duas vezes no auricular esquerdo</string>
+  <string name="miheadset_double_press_right">Premir duas vezes no auricular direito</string>
   <string name="miheadset_enhanceVoice">Melhorar voz</string>
   <string name="miheadset_enhence_high">Melhorar agudos</string>
   <string name="miheadset_enhence_low">Melhorar baixos</string>
@@ -4234,6 +4238,8 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_transparent">Transparência</string>
   <string name="miheadset_transparentMode">Transparência</string>
   <string name="miheadset_triple_click_key_mode">Triplo toque</string>
+  <string name="miheadset_triple_press_left">Premir três vezes no auricular esquerdo</string>
+  <string name="miheadset_triple_press_right">Premir três vezes no auricular direito</string>
   <string name="miheadset_unpair_device_text">%1$s vai ser desemparelhado de todos os dispositivos associados a esta Conta Mi</string>
   <string name="miheadset_voiceIncrease">Melhorar voz</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -5847,6 +5853,7 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="screen_projection_sample_title">Demonstrações</string>
   <string name="screen_projection_title">Transmissão</string>
   <string name="screen_reader_category_title">Leitores de ecrã</string>
+  <string name="screen_recorder_title">Gravador de Ecrã</string>
   <string name="screen_resolution_confirm">Reiniciar</string>
   <string name="screen_resolution_summary">Baixar a resolução do ecrã pode aumentar a bateria e a velocidade do sistema, mas as imagens podem ser menos claras. O seu dispositivo tem de reiniciar para aplicar esta alteração</string>
   <string name="screen_resolution_switch">Alterar resolução</string>
@@ -5964,6 +5971,8 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="search_choose_timezone">Seleccionar fuso horário;Fuso horário;Fusos horários</string>
   <string name="search_cloud_backup_settings_section_title">Definições da cópia;Cópia;Cópia;Cópias</string>
   <string name="search_cloud_restore_section_title">Restaurar da Xiaomi Cloud;Xiaomi Cloud;Cópias na Xiaomi Cloud</string>
+  <string name="search_connection_and_sharing">Mais;Sem fios</string>
+  <string name="search_control_center_style">Estilo de notificações</string>
   <string name="search_copyright_title">Direitos de autor</string>
   <string name="search_credentials_install">Instalar do armazenamento;Instalação directa;Instalar APK</string>
   <string name="search_date_and_time_settings_title">Data e hora;Data e hora;Data;Hora</string>
@@ -6050,6 +6059,7 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="search_screen_key_long_press_timeout">Toque longo dos botões;Toque longo;Toque;Tocar e segurar</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir marcações acidentais;bolso;marcação acidental;marcações acidentais</string>
   <string name="search_screen_paper_mode_title">Modo de Leitura;modo de leitura;leitura;luz azul;luz amarela;modo nocturno</string>
+  <string name="search_screen_recorder_title">Gravador de Ecrã;Gravação de ecrã</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_shot">Capturas de ecrã;Captura de ecrã;Capturar</string>
   <string name="search_screen_timeout">Inactividade;Suspender;Bloqueio de ecrã</string>

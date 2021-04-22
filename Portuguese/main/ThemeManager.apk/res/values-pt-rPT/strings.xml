@@ -367,6 +367,7 @@ Toque aqui para iniciar agora"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Não mostrar novamente</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
+  <string name="multiwindow_no_support_icon">Não é possível alterar ícones no ecrã dividido</string>
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>

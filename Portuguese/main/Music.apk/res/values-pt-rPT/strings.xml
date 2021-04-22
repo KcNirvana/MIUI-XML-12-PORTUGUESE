@@ -70,6 +70,8 @@
   <string name="back_confirm">Toque novamente para pôr a aplicação em segundo plano</string>
   <string name="banner_op">Música</string>
   <string name="bluetooth_device">Dispositivo áudio Bluetooth</string>
+  <string name="btn_text_edit">Editar</string>
+  <string name="btn_text_view_all">Ver tudo</string>
   <string name="buffering">Aguarde…</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_download_now">Transferir agora</string>
@@ -231,6 +233,8 @@
   <string name="fail_to_play">Não é possível reproduzir a música</string>
   <string name="failed_not_access_sd_card">Dê permissão ao cartão SD primeiro</string>
   <string name="failed_obtain_permissions">Não foi possível obter permissões</string>
+  <string name="failed_to_connect_hint">Verifique as definições de rede e tente novamente</string>
+  <string name="failed_to_connect_text">Não foi possível ligar à rede</string>
   <string name="favorite_canceled">Removida dos favoritos</string>
   <string name="favorite_playlist">Favoritos</string>
   <string name="favorite_singer">Artistas favoritos</string>
@@ -272,6 +276,7 @@
   <string name="hide_lyric">Ocultar letra</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
+  <string name="hint_search_songs_playlists_artists">Pesquisar músicas e artistas</string>
   <string name="home_tab_home">Início</string>
   <string name="home_tab_local">A minha música</string>
   <string name="home_tab_more_music">Mais música</string>
@@ -300,6 +305,7 @@
   <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading_hint">Aguarde…</string>
   <string name="loading_reached_the_bottom">É tudo por agora</string>
+  <string name="loading_text">Aguarde…</string>
   <string name="local_header_title">Dispositivo</string>
   <string name="local_music">Dispositivo</string>
   <string name="local_music_is_not_available">Não tem músicas no dispositivo</string>
@@ -641,6 +647,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
   <string name="ticket_title">Mostrar bilhetes</string>
   <string name="time_to_upgrade">Actualizar Música</string>
   <string name="title_online_recommend">Destaque listas de reprodução</string>
+  <string name="title_recently_played">Recentes</string>
   <string name="title_search_history">Histórico de pesquisa</string>
   <string name="title_search_hot">Populares</string>
   <string name="to_mi_pay">Mi Credits</string>

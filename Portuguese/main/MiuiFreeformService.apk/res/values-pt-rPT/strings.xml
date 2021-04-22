@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Janelas flutuantes</string>
+    <string name="bottom_bar_smallwindow_text">Soltar para fixar</string>
     <string name="contentDescription">Mover a janela</string>
     <string name="freeform_demo_back">Voltar</string>
     <string name="freeform_demo_final_over">Concluído</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">Seguinte</string>
     <string name="freeform_demo_title_finish">Fixe!</string>
     <string name="freeform_demo_title_skip">Ignorar</string>
+    <string name="freeform_slide_to_small_freeform">Minimizar janelas flutuantes</string>
+    <string name="freeform_slide_to_small_freeform_summary">Premir e deslizar para o canto superior direito</string>
+    <string name="fullscreen_slide_to_small_freeform">Maximizar janelas flutuantes</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Deslizar desde a parte inferior do ecrã para o canto superior direito</string>
     <string name="how_to_close_or_fullscreen_freeform">Fechar janelas flutuantes ou trocar para o modo ecrã inteiro</string>
     <string name="how_to_drop_down_to_fullscreen">Trocar para o modo ecrã inteiro</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Premir, segurar e puxar para baixo a barra duma janela flutuante</string>

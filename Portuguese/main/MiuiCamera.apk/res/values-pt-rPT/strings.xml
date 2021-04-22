@@ -96,6 +96,7 @@
   <string name="accessibility_module_picker_finish">Alterado para %s</string>
   <string name="accessibility_mode_dismiss_button">Fechar o modo de selecção de botões</string>
   <string name="accessibility_more">Mais</string>
+  <string name="accessibility_multi_cam_reselect_button">Seleccionar câmaras novamente</string>
   <string name="accessibility_open">Ligado</string>
   <string name="accessibility_pano_moving_left">Mover para a esquerda</string>
   <string name="accessibility_pano_moving_right">Mover para a direita</string>
@@ -115,6 +116,7 @@
   <string name="accessibility_preview_selected">Seleccionado</string>
   <string name="accessibility_preview_shrink">Zoom out</string>
   <string name="accessibility_preview_zoom_tip">Pré-visualização do zoom %1$.1fX</string>
+  <string name="accessibility_pro_parameters_panel_on">Abrir o menu com os parâmetros de Pro</string>
   <string name="accessibility_pro_video_simple_mode">Modo Leve</string>
   <string name="accessibility_protrait">Retrato</string>
   <string name="accessibility_pull_down_to_open_camera">Puxar para abrir a câmara</string>
