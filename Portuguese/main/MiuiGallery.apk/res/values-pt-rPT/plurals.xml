@@ -242,6 +242,10 @@
         <item quantity="other">A transferir %d ficheiros restantes</item>
         <item quantity="one">A transferir %d ficheiro restante</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d itens no total</item>
         <item quantity="one">%1$d item no total</item>
@@ -434,6 +438,14 @@
         <item quantity="other">%1$d itens</item>
         <item quantity="one">%1$d item</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d fotos sincronizadas</item>
+        <item quantity="one">%d foto sincronizada</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d vídeos sincronizados</item>
+        <item quantity="one">%d vídeo sincronizados</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Não vai poder restaurar os %d itens seleccionados se os eliminar. Eliminar mesmo assim?</item>
         <item quantity="one">Não vai poder restaurar o %d item seleccionado se o eliminar. Eliminar mesmo assim?</item>
@@ -453,5 +465,9 @@
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Os itens podem ser guardados aqui até %1$d dias. Actualize o seu plano para prolongar este período</item>
         <item quantity="one">Os itens podem ser guardados aqui até %1$d dia. Actualize o seu plano para prolongar este período</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
 </resources>

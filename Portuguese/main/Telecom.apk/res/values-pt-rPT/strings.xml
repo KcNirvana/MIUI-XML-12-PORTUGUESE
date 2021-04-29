@@ -237,6 +237,7 @@ Selecção"</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_by_admin">Desactivado pelo administrador</string>
   <string name="disabled_by_admin_summary_text">Controlado pelo administrador</string>
+  <string name="do_not_show_again">Não mostrar novamente</string>
   <string name="duplicate_video_call_not_allowed">Não é possível adicionar mais chamadas</string>
   <string name="enable_account_preference_title">Contas de chamadas</string>
   <string name="enable_adb">Depuração USB</string>
@@ -388,6 +389,11 @@ Selecção"</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
   <string name="saved_network">Guardada por %1$s</string>
+  <string name="scam_cancle">Cancelar</string>
+  <string name="scam_message">Está a configurar o encaminhamento de chamadas. Todas as suas chamadas recebidas vão ser atendidas por %1$s. Se o número não é seu, pode estar em risco de exposição das suas informações pessoais. Utilize esta funcionalidade com cautela</string>
+  <string name="scam_message_2">**21*número a encaminhar# é o código de encaminhamento. Contacte a sua operadora se tiver mais questões</string>
+  <string name="scam_ok">Ligar</string>
+  <string name="scam_title">Alerta de fraudes</string>
   <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
   <string name="screen_zoom_summary_default">Predefinido</string>
   <string name="screen_zoom_summary_extremely_large">Enorme</string>

@@ -2732,6 +2732,13 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="exterior">Esquema de cores</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
+  <string name="external_ram_dialog_btn_cancel">Mais tarde</string>
+  <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+  <string name="external_ram_dialog_message">Reiniciar o dispositivo para aplicar as alterações</string>
+  <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+  <string name="external_ram_summary">Adicionar %1$s %2$s de RAM utilizando o armazenamento. Apenas utilize esta funcionalidade quando existir espaço de armazenamento suficiente</string>
+  <string name="external_ram_title">Extensão de memória</string>
+  <string name="external_ram_toast">Não é possível utilizar a extensão de memória devido a espaço insuficiente</string>
   <string name="external_source_switch_title">Permitir desta fonte</string>
   <string name="external_source_trusted">Permitido</string>
   <string name="external_source_untrusted">Não permitido</string>
@@ -3204,6 +3211,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_category_system">Sistema</string>
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
+  <string name="headset_aac">AAC</string>
+  <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
   <string name="headset_connectiong">A ligar…</string>
   <string name="headset_find_both">Ambos</string>
   <string name="headset_find_cancel">Cancelar</string>
@@ -3225,6 +3234,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="headset_notification_switch_title">Área de notificações</string>
   <string name="headset_remove_message">Desemparelhar dispositivo?</string>
   <string name="headset_remove_message_indicate">%1$s vai ser desemparelhado de todos os dispositivos associados com esta Conta Mi</string>
+  <string name="headset_sbc">SBC</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
   <string name="headset_unsaved_device">Remover o dispositivo</string>
   <string name="headset_unsaved_devices">Utilizado noutros dispositivos</string>
@@ -4227,6 +4237,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_moreSettingsInAi">Definições adicionais</string>
   <string name="miheadset_multi_connect_mode">Multiponto</string>
   <string name="miheadset_multi_connect_mode_summary">Ligar a vários dispositivos ao mesmo tempo</string>
+  <string name="miheadset_network_not_available">Verifique as definições de rede e tente novamente</string>
   <string name="miheadset_next">Seguinte</string>
   <string name="miheadset_ok_device">OK</string>
   <string name="miheadset_openAnc">Redução de ruído</string>
@@ -5063,6 +5074,8 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
+  <string name="permission_records">Utilização de permissões</string>
+  <string name="permission_records_summary">Resumo da utilização de permissões pelas aplicações</string>
   <string name="permission_settings_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
   <string name="permission_settings_title">Permissões da aplicação</string>
   <string name="permissions_label">Permissões</string>

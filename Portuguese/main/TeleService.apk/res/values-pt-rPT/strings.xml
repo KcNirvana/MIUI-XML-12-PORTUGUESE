@@ -650,7 +650,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fold_answer_pref_summary">Dobrar o dispositivo para atender chamadas automaticamente</string>
   <string name="fold_answer_pref_title">Dobrar para atender chamadas</string>
-  <string name="four_point_five_switch_summary">Utilizar 4.5G para melhorar o acesso de dados e qualidade de voz</string>
+  <string name="four_point_five_switch_summary">Utilizar 4.5G para melhorar a velocidade da ligação e qualidade de voz</string>
   <string name="four_point_five_switch_title">4.5G</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir"</string>

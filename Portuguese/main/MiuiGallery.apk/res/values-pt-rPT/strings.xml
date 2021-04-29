@@ -422,6 +422,10 @@
   <string name="cloud_bacup_disable_processing">A processar…</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
   <string name="cloud_cancel_authorizing_to_device">A cancelar autorização…</string>
+  <string name="cloud_full_space_tip_message">Actualizar o seu plano de armazenamento para poder sincronizar todas as fotos e vídeos</string>
+  <string name="cloud_full_space_tip_negative">Agora não</string>
+  <string name="cloud_full_space_tip_positive">Actualizar</string>
+  <string name="cloud_full_space_tip_title">Armazenamento insuficiente</string>
   <string name="cloud_guide_auto_backup_title">Escolher álbuns para sincronizar</string>
   <string name="cloud_guide_login_title">Fazer cópias de fotos e vídeos automaticamente</string>
   <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -739,6 +743,7 @@ efeitos de fotos"</string>
   <string name="filter_category_texture">Lilt</string>
   <string name="filter_category_travel">Viagens</string>
   <string name="filter_food_caramel">Caramelo</string>
+  <string name="filter_food_orangeflavor">Tangerina</string>
   <string name="filter_general_blackice">Gelo negro</string>
   <string name="filter_general_blackwhite">Preto e branco</string>
   <string name="filter_general_delicious">Comida</string>
@@ -749,6 +754,7 @@ efeitos de fotos"</string>
   <string name="filter_general_lilt">Lilt</string>
   <string name="filter_general_movie">Cinema</string>
   <string name="filter_general_nature">Natureza</string>
+  <string name="filter_general_past">Outrora</string>
   <string name="filter_general_pink">Rosa</string>
   <string name="filter_general_portrait">Retrato</string>
   <string name="filter_general_rise">Ascenção</string>
@@ -792,15 +798,18 @@ efeitos de fotos"</string>
   <string name="filter_popular_coldsmoke">Névoa fria</string>
   <string name="filter_popular_comic">Anime</string>
   <string name="filter_popular_dream">Sonhos</string>
+  <string name="filter_popular_gingertea">Ruivo</string>
   <string name="filter_popular_hill">Montanhas</string>
   <string name="filter_popular_humanity">Documentário</string>
   <string name="filter_popular_icesnow">Queda de neve</string>
   <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_lnk">Tinta</string>
+  <string name="filter_popular_mango">Manga</string>
   <string name="filter_popular_purple">Roxo</string>
   <string name="filter_popular_shallow_summer">Junho</string>
   <string name="filter_popular_smokegreen">Sábio</string>
   <string name="filter_popular_watergreen">Esmeralda</string>
+  <string name="filter_popular_windchime">Harmonia</string>
   <string name="filter_popular_wintersun">Pleno inverno</string>
   <string name="filter_portrait_greyish">Cinza</string>
   <string name="filter_portrait_hint">Foco de cor</string>
@@ -877,6 +886,7 @@ efeitos de fotos"</string>
   <string name="filter_sky_yunmeng">Fantasia</string>
   <string name="filter_sky_yunxu">Cirro</string>
   <string name="filter_texture_shadow">Crepúsculo</string>
+  <string name="filter_travel_charlotte">Charlotte</string>
   <string name="finish_create_baby_album_toast">Criado um álbum para \"%s\" na Xiaomi Cloud</string>
   <string name="finish_fill_baby">Criar</string>
   <string name="first_time_add_video_to_secret_tips">Actualize a Galeria para poder ocultar vídeos</string>
@@ -1163,6 +1173,7 @@ para personalizar a galeria"</string>
   <string name="mi_mover_working_desc">Mi Mover está a transferir itens…</string>
   <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
   <string name="midnight">Noite</string>
+  <string name="mishare_all_devices">Todos os dispositivos</string>
   <string name="miuix_appcompat_deselect_all">Desmarcar</string>
   <string name="miuix_appcompat_select_all">Seleccionar tudo</string>
   <string name="miuix_appcompat_select_item">Seleccionar itens</string>
@@ -1714,7 +1725,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="search_backup_now">Ligar</string>
   <string name="search_backup_sub_title">Ligar para encontrar mais fotos</string>
   <string name="search_backup_title">Sincronização com a Xiaomi Cloud</string>
-  <string name="search_clear_histories">Limpar</string>
+  <string name="search_clear_histories">Limpar histórico de pesquisa</string>
   <string name="search_connection_error">Não foi possível ligar à rede</string>
   <string name="search_connection_error_and_set">Toque para verificar as definições de rede</string>
   <string name="search_empty_title">Localize fotos com pessoas, lugares e objectos na sua galeria</string>
@@ -1932,6 +1943,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="sync_off_title">Ligar a sincronização com a Xiaomi Cloud para fazer cópias de fotos e vídeos automaticamente</string>
   <string name="sync_pending_title">Vão ser sincronizados automaticamente</string>
   <string name="sync_state_unknow">A obter informação</string>
+  <string name="synced_photo_video_count">%1$s e %2$s sincronizados</string>
   <string name="synced_title">Fotos e vídeos copiados com sucesso</string>
   <string name="syncing_gprs_title">Utilizar dados móveis para fazer cópias</string>
   <string name="syncing_metadata_title">Sincronização de dados com a Xiaomi Cloud</string>

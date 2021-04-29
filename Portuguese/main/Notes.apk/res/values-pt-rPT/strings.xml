@@ -349,9 +349,7 @@
   <string name="repeat_mode_set_item_none">Nunca</string>
   <string name="repeat_mode_set_item_normal_workday">Segunda a sexta</string>
   <string name="repeat_mode_set_item_week">Todas as semanas (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Todas as semanas (%s)</string>
   <string name="repeat_mode_set_item_year">Todos os anos (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Todos os anos (%s)</string>
   <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
   <string name="repeat_mode_set_title">Repetir</string>
   <string name="repeat_mode_week">Todas as semanas</string>

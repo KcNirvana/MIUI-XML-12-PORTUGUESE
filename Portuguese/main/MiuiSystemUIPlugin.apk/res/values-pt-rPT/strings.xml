@@ -49,7 +49,7 @@
   <string name="dnd_popup_message">Pode ligar o modo Não incomodar para silenciar chamadas e notificações sem desligar os sons multimédia</string>
   <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
   <string name="loading">Estado desconhecido</string>
-  <string name="miui_dnd_count_down">Deslizar para definir</string>
+  <string name="miui_dnd_count_down">Definir temporizador</string>
   <string name="miui_dnd_count_down_time">"Temporizador Não incomodar
 %s"</string>
   <string name="miui_guide_dialog_button_negative_text">Definições</string>

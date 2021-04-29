@@ -72,6 +72,7 @@
   <string name="app_display_setting_edit_instruction">O título é mostrado no topo do assistente. Pode conter até 28 letras</string>
   <string name="app_display_setting_edit_toast">Título demasiado longo</string>
   <string name="app_display_setting_title">Alterar título</string>
+  <string name="app_first_loading_txt">A carregar cartões…</string>
   <string name="app_health_card_completion">Progresso</string>
   <string name="app_health_card_energy">Calorias</string>
   <string name="app_health_card_step">Passos</string>
