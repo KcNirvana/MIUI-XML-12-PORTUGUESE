@@ -1320,6 +1320,9 @@ e traz as pessoas que estão na frente"</string>
   <string name="reset_manual_picture_style_toast">Parâmetros repostos com sucesso</string>
   <string name="reset_manually_parameter_confirmed">OK</string>
   <string name="reset_manually_parameter_hint">Repor</string>
+  <string name="scan_install_prompt_header">Instalar Digitalizador</string>
+  <string name="scan_install_prompt_loading">A instalar Digitalizador…</string>
+  <string name="scan_install_prompt_message">Instalar Digitalizador e tentar novamente</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume + e Voltar simultaneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área dos auriculares</string>
   <string name="search_menu_title">Pesquisa</string>

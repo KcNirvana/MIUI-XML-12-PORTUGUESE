@@ -186,7 +186,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="miui_failed_solution_5">Tentar utilizar um pacote de instalação compatível</string>
   <string name="miui_failed_solution_6">Eliminar a aplicação já instalada e tentar novamente</string>
   <string name="miui_failed_solution_7">Transferir a última versão desta aplicação em GetApps</string>
-  <string name="miui_failed_solution_8">Transferir a aplicação de GetApps</string>
+  <string name="miui_failed_solution_8">Transferir a aplicação duma origem confiável</string>
   <string name="miui_failed_system_incompatible">Pacote de instalação incompatível</string>
   <string name="miui_failed_update_incompatible">Conflito nas assinaturas de aplicações</string>
   <string name="miui_failed_version_downgrade">Não é possível fazer o downgrade de aplicações</string>
@@ -297,7 +297,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="replace_app_des_text">Substituir a aplicação com esta versão?</string>
   <string name="review_button_cancel">Cancelar</string>
   <string name="review_button_continue">Continuar</string>
-  <string name="risk_warning_bottom_button">Instalar de GetApps</string>
+  <string name="risk_warning_bottom_button">Instalar duma origem confiável</string>
   <string name="risk_warning_msg">Esta assinatura neste pacote de instalação não parece genuíno. Para evitar riscos, instale esta aplicação de uma origem segura</string>
   <string name="risk_warning_title">Riscos detectados</string>
   <string name="risk_warning_top_button">Não instalar</string>

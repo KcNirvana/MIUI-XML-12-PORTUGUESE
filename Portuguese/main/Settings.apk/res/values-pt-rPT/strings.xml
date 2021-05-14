@@ -630,6 +630,7 @@ Alterar definições agora?"</string>
   <string name="asst_capability_ranking_summary">Classificar as notificações por relevância automaticamente</string>
   <string name="asst_capability_ranking_title">Classificação das notificações adaptáveis</string>
   <string name="attempt_other_network">Tentar outra rede</string>
+  <string name="au_pay">au PAY</string>
   <string name="audio_and_captions_category_title">Áudio e texto no ecrã</string>
   <string name="audio_files_title">Ficheiros de áudio</string>
   <string name="audio_profile_settings_title">Perfis de áudio</string>
@@ -3041,8 +3042,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="freeform_guide_notification_drop_down_summary">Premir, segurar e puxar para baixo a barra duma notificação</string>
   <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
   <string name="freeform_guide_settings">Janelas flutuantes</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Deslizar desde a parte inferior do ecrã para o canto superior direito</string>
-  <string name="freeform_guide_slide_to_small_freeform_title">Deslizar para janelas flutuantes</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Premir e segurar a parte inferior da janela e mover para o canto superior direito</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
   <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
@@ -3100,6 +3101,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="go_to_sleep">Desligar ecrã</string>
   <string name="google_backup_enable">Ligar cópias</string>
   <string name="google_backup_section_title">Cópias Google</string>
+  <string name="google_pay">Google Pay</string>
   <string name="google_service_title">Serviços Google</string>
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
@@ -3212,7 +3214,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="headset_aac">AAC</string>
-  <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
+  <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
   <string name="headset_connectiong">A ligar…</string>
   <string name="headset_find_both">Ambos</string>
   <string name="headset_find_cancel">Cancelar</string>
@@ -3959,7 +3961,7 @@ para o Segundo espaço"</string>
   <string name="low_label">Baixa</string>
   <string name="low_storage_summary">Tem pouco espaço de armazenamento. %1$s utilizados – %2$s livres</string>
   <string name="macaddr_label">Endereço MAC:</string>
-  <string name="magic_window_name">Dividir janela</string>
+  <string name="magic_window_name">Janelas paralelas</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testar ligação por erros de rede</string>
   <string name="main_running_process_description">Processo principal em utilização</string>

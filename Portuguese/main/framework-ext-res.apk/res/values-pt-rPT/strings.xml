@@ -8,6 +8,7 @@
   <string name="alwaysUsePrompt">Memorizar preferência</string>
   <string name="application_cannot_open_alipay_payment_code">Não foi possível abrir o código de pagamento Alipay</string>
   <string name="application_cannot_open_alipay_scanner">Não foi possível abrir o Digitalizador Alipay</string>
+  <string name="application_cannot_open_au_pay">Instalar au PAY primeiro</string>
   <string name="application_cannot_open_weixin_payment_code">Não foi possível abrir o código de pagamento WeChat</string>
   <string name="application_cannot_open_weixin_scanner">Não foi possível abrir o Digitalizador WeChat</string>
   <string name="application_not_install_content">A aplicação para executar esta acção não está instalada no seu dispositivo. Pode instalar esta aplicação ou atribuir uma acção diferente para este gesto</string>
@@ -73,6 +74,11 @@
   <string name="device_type_pc">Computador</string>
   <string name="disable_nfc">NFC desligado devido a carregamento sem fios</string>
   <string name="disable_nfc_reverse">NFC desligado devido a carregamento reverso sem fios</string>
+  <string name="dock_tip_floatwindow">Hold the bar and drag it to the edge of the screen to enter split-screen view.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Drag the bar horizontally to swap the positions of the two app windows.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Hold and drag downwards to switch to a floating window.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Drag the bar vertically to swap the positions of the two app windows.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Hold and drag to the left or right side of the screen to switch to a floating window.</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">0,0068€ por minuto para chamadas nacionais</string>
   <string name="enable_livetalk_title">Activar pacote de carregamento</string>
@@ -129,6 +135,8 @@
   <string name="miaudiovisual_notification_summary">Ligar para mostrar efeitos no ecrã de bloqueio</string>
   <string name="miaudiovisual_notification_title">Efeitos visuais e de áudio</string>
   <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar. Dispositivo bloqueado</string>
+  <string name="miui_multiwindow_not_support_small_window">%1$s não suporta janelas flutuantes</string>
+  <string name="miui_multiwindow_not_support_split">%1$s não suporta o ecrã dividido</string>
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>

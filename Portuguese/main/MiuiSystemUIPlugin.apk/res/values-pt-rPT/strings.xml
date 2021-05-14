@@ -104,7 +104,10 @@ A longa exposição a sons altos pode causar problemas de audição"</string>
   <string name="volume_dialog_accessibility_dismissed_message">Controlos de volume ocultos</string>
   <string name="volume_dialog_accessibility_shown_message">%s controlos de volume mostrados. Deslizar para cima para rejeitar</string>
   <string name="wireless_charging_connected_message">Não é possível utilizar o carregamento sem fios reverso quando o dispositivo estiver em carregamento sem fios</string>
-  <string name="wireless_charging_low_battery_level_message">Não é possível utilizar o carregamento sem fios quando a bateria tem menos de %d%% de carga</string>
+  <string name="wireless_charging_fg_control_cancel">Cancelar</string>
+  <string name="wireless_charging_fg_control_messgae">O carregamento sem fios reverso foi desligado porque tem menos de %d%% bateria restante. Pode ajustar estas definições</string>
+  <string name="wireless_charging_fg_control_ok">Ajustar</string>
+  <string name="wireless_charging_low_battery_level_message">Não é possível utilizar o carregamento sem fios quando tem menos de %d%% bateria restante</string>
   <string name="wireless_charging_ok">Percebi</string>
   <string name="wireless_charging_saver_cancel">Desligar</string>
   <string name="wireless_charging_saver_message">A poupança de bateria está ligada. Manter o carregamento sem fios reverso disponível?</string>

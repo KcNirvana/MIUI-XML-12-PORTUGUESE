@@ -175,7 +175,7 @@
   <string name="app_screen_time_support_false">Serviço não suportado</string>
   <string name="app_screen_time_time">%1$dh %2$dm</string>
   <string name="app_screen_time_time_minute">%1$dm</string>
-  <string name="app_screen_time_title">"Tempo de ecrã: "</string>
+  <string name="app_screen_time_title">"Tempo de ecrã"</string>
   <string name="app_setting">Definições</string>
   <string name="app_setting_account">Contas</string>
   <string name="app_setting_account_binding">Adicionar</string>

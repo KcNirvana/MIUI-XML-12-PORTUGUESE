@@ -88,10 +88,13 @@
   <string name="miui_feedback_edit_toast_third_packagename_required">Introduzir nome da aplicação</string>
   <string name="miui_feedback_main_answer_title">Existe uma resposta para esta questão</string>
   <string name="miui_feedback_main_frequent_question_title">FAQ</string>
-  <string name="miui_feedback_main_menu_catch_full_log">Gerar registos</string>
-  <string name="miui_feedback_main_menu_feedback_list">Ver histórico de comentários</string>
+  <string name="miui_feedback_main_item_catch_full_log">Obter registos</string>
+  <string name="miui_feedback_main_item_customer_service">Serviços pós-venda</string>
+  <string name="miui_feedback_main_item_feedback_list">Os meus comentários</string>
+  <string name="miui_feedback_main_menu_view_privacy">Política de Privacidade</string>
   <string name="miui_feedback_main_search_footer">Estas não são as questões que quer perguntar?</string>
   <string name="miui_feedback_main_search_issue">Introduzir palavras-chave para pesquisar</string>
+  <string name="miui_feedback_main_search_no_answer">Sem resultados</string>
   <string name="miui_feedback_main_start_submit">Submeter comentários</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Submeter</string>
   <string name="miui_feedback_main_submit_dialog_content">Não conseguimos achar uma solução para o seu problema. Pode-nos submeter os seus comentários</string>

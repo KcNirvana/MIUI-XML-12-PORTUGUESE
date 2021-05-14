@@ -305,7 +305,9 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
 %1$d. Faça cópias para o seu computador para evitar a perda de dados. %2$s.
 %3$d. As cópias vão ser guardadas em MIUI-Backup-AllBackup"</string>
   <string name="new_local_tab_backup">Copiar</string>
+  <string name="new_local_tab_backup_pad">Copiar up</string>
   <string name="new_local_tab_restore">Restaurar</string>
+  <string name="new_local_tab_restore_pad">Restaurar</string>
   <string name="new_low_storage_title">Sem espaço suficiente</string>
   <string name="new_more_settings_label">Definições adicionais</string>
   <string name="new_pc_backup_content1">%1$d. Abrir \"%2$s\"</string>
@@ -313,11 +315,14 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_pc_backup_content3">%d. Localizar a cópia em MIUI-Backup-AllBackup</string>
   <string name="new_pc_backup_content4">%d. Copiar o ficheiro para o seu computador</string>
   <string name="new_pc_backup_restore_link">Dispositivo móvel</string>
+  <string name="new_pc_backup_restore_link_pad">Dispositivo móvel</string>
   <string name="new_pc_backup_summary1">Seleccionar itens e tocar em \"Fazer cópia\"</string>
   <string name="new_pc_backup_summary2">Ligar o seu dispositivo móvel ao computador via cabo USB</string>
+  <string name="new_pc_backup_summary2_pad">Ligar o seu dispositivo móvel ao computador via cabo USB</string>
   <string name="new_pc_backup_summary4">Nota: pode também copiar fotos e vídeos de DCIM</string>
   <string name="new_pc_restore_content1">%d. Ligar o seu dispositivo móvel ao computador via cabo USB</string>
   <string name="new_pc_restore_content2">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
+  <string name="new_pc_restore_content2_pad">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
   <string name="new_pc_restore_content3">%1$d. Abrir \"%2$s\" e seleccionar os itens a restaurar</string>
   <string name="new_pc_title">Copiar cópias</string>
   <string name="new_select_file">Áudios, vídeos e ficheiros</string>
@@ -341,6 +346,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_usb_tab_restore">Restaurar</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligar à rede</string>
+  <string name="not_enough_storage_tips">Armazenamento insuficiente. Liberte algum espaço e tente novamente</string>
   <string name="note_title">Notas</string>
   <string name="nothing_searched">Sem resultados</string>
   <string name="notif_backup_complete_title">Copiado com sucesso</string>

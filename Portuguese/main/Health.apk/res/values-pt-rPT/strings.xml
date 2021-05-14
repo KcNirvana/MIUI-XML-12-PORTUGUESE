@@ -303,6 +303,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="dialog_delete_record_confirm">Eliminar este registo?</string>
   <string name="dialog_exercise_purpose">Bem-vindo a Saúde! O \"Contador de passos\" permite ver quantos passos faz durante o dia, assim como definir e gerir os seus objectivos de actividades</string>
   <string name="dialog_exit">Sair</string>
+  <string name="dialog_exit_use">Sair</string>
   <string name="dialog_feedback_content">Se não concordar em dar esta permissão, não vai poder utilizar algumas funcionalidades da aplicação. Pode restringir ou revogar autorizações em Definições</string>
   <string name="dialog_feedback_purpose">Saúde necessita de aceder ao armazenamento para submeter comentários</string>
   <string name="dialog_feedback_purpose2">Para submeter comentários</string>
@@ -334,6 +335,8 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="diastolic_pressure">Diastólica</string>
   <string name="disable">Desligado</string>
   <string name="discard_update">Não, obrigado</string>
+  <string name="download_apk">A transferir %s…</string>
+  <string name="download_background">Transferir</string>
   <string name="drag_sort">Ordenar</string>
   <string name="dream_talk">A falar %1$s</string>
   <string name="dream_talk_record">Foi gravado enquanto falava durante o sono</string>

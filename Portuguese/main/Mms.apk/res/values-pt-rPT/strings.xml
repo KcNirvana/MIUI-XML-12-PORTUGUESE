@@ -339,7 +339,7 @@
   <string name="menu_view_group_info">Info. do grupo</string>
   <string name="message_cannot_send_air_mode">"Não é possível enviar mensagens.
 Desligue o Modo Avião primeiro"</string>
-    <string name="message_cannot_send_sim_unavailable">"Não é possível enviar mensagens.
+  <string name="message_cannot_send_sim_unavailable">"Não é possível enviar mensagens.
 Verifique o seu cartão SIM"</string>
   <string name="message_class_label">"Classe da mensagem: "</string>
   <string name="message_contact">Contacto:</string>
@@ -365,7 +365,10 @@ Verifique o seu cartão SIM"</string>
   <string name="message_too_big_for_audio">A mensagem é demasiado grande</string>
   <string name="message_too_big_for_video">A mensagem é demasiado grande para anexar o vídeo</string>
   <string name="message_type_label">"Tipo: "</string>
+  <string name="message_unread">Não lidas</string>
   <string name="messagelist_sender_self">Eu</string>
+  <string name="messages_installed_notification_text_xiaomi">Toque para iniciar uma conversa</string>
+  <string name="messages_installed_notification_title_xiaomi">Mensagens instalado</string>
   <string name="messaging">Mensagens</string>
   <string name="mi_message_title">Mi Message</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -378,10 +381,13 @@ Verifique o seu cartão SIM"</string>
   <string name="miuix_appcompat_cloud_state_syncing">A sincronizar…</string>
   <string name="miuix_appcompat_confirm_description">Confirmar</string>
   <string name="miuix_appcompat_delete_description">Eliminar</string>
+  <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
   <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
   <string name="miuix_appcompat_search_input_description">Pesquisar</string>
+  <string name="miuix_appcompat_select_all">Seleccionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Seleccionar tudo</string>
+  <string name="miuix_appcompat_select_item">Seleccionar itens</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para actualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado com sucesso</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">A actualizar…</string>
@@ -498,6 +504,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="notification_ad_content">Recebeu uma mensagem de promoções de %s</string>
   <string name="notification_channel_msg_description">Notificação de mensagem</string>
   <string name="notification_channel_msg_name">Mensagem</string>
+  <string name="notification_channel_name_xiaomi">Notificações de actualizações</string>
   <string name="notification_channel_other_description">Notificação de outros</string>
   <string name="notification_channel_other_name">Outros</string>
   <string name="notification_channel_sim1_description">Notificação de mensagem do SIM1</string>
@@ -631,6 +638,9 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="privacy_password_title3">Actualizar o seu padrão</string>
   <string name="privacy_password_title4">Padrão actualizado</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_revoke_nonetwork_msg">O seu dispositivo necessita de ligar à Internet para poder remover o seu consentimento. Verifique as suas definições de rede e tente novamente</string>
+  <string name="privacy_revoke_nonetwork_ok">Percebi</string>
+  <string name="privacy_revoke_nonetwork_title">Não é possível ligar à rede</string>
   <string name="privacy_state_revoked_cancel">Cancelar</string>
   <string name="privacy_state_revoked_content">Ao desligar isto, está a remover o seu consentimento com a Política de Privacidade de Mensagens. Nós vamos parar de obter as suas informações pessoais</string>
   <string name="privacy_state_revoked_dialog_title">Remoção de consentimento</string>
@@ -643,6 +653,21 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="private_protect">Protecção de Privacidade</string>
   <string name="private_settings">Definições</string>
   <string name="processing">A processar…</string>
+  <string name="promo_back_btn_text_xiaomi">Voltar para Mensagens</string>
+  <string name="promo_install_btn_text">Seguinte</string>
+  <string name="promo_install_bullet_1_xiaomi">Utilizar o assistente Google para textos e tarefas</string>
+  <string name="promo_install_bullet_2_xiaomi">Manter as conversas actuais</string>
+  <string name="promo_install_bullet_3_xiaomi">Encontrar mensagens partilhadas facilmente</string>
+  <string name="promo_install_bullet_4_xiaomi">Utilizar Mensagens como aplicação predefinida de SMS</string>
+  <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Saber mais</a></string>
+  <string name="promo_install_subtitle_xiaomi">Obter conversas mais ricas e de alta qualidade em Wi-Fi ou dados móveis. Instalar Mensagens e utilizar como aplicação predefinida de SMS. <a href="https://support.google.com/messages/answer/6089066">Saber mais</a></string>
+  <string name="promo_install_title_xiaomi">A Xiaomi recomenda actualizar para Mensagens da Google</string>
+  <string name="promo_launch_messages_btn_text">Abrir Mensagens</string>
+  <string name="promo_no_thanks_btn_text_xiaomi">Não, obrigado</string>
+  <string name="promo_post_install_animation_alt_text_xiaomi">Mensagens da Google é a sua aplicação predefinida de SMS. Para colocar as Mensagens da Google como favorito no ecrã inicial, prima e segure Mensagens e retire dos favoritos. Após, prima e segure Mensagens da Google e mova para os favoritos</string>
+  <string name="promo_post_install_title_no_default_xiaomi">Substituir Mensagens por Mensagens da Google</string>
+  <string name="promo_post_install_title_with_default_xiaomi">Comece a enviar mensagens de texto de alta qualidade agora com o Mensagens da Google</string>
+  <string name="promo_use_messages_btn_text">Utilizar Mensagens</string>
   <string name="prvate_contact">Contacto privado</string>
   <string name="quick_reply">Responder</string>
   <string name="rate_limit_surpassed">OK</string>
@@ -779,6 +804,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="slide_show_part">Parte %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Deslizar para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação</string>
+  <string name="small_window_log_text">A câmara não pode ser utilizada no modo ecrã dividido</string>
   <string name="smart_message_title">Mensagens Inteligentes</string>
   <string name="smart_message_upgrade_title">Actualização da Política de Privacidade das Mensagens Inteligentes</string>
   <string name="smart_msg_main_purpose">As Mensagens Inteligentes fornecem identificação do remetente e serviços inteligentes</string>
