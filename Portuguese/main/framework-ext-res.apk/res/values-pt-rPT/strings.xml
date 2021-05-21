@@ -178,6 +178,11 @@
   <string name="reboot_info_auto_boot">O dispositivo está programado para ligar às %s</string>
   <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
   <string name="reboot_progress">A reiniciar…</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Memorizar preferência</string>
+  <string name="relaunch_dialog_button_cancel">Cancelar</string>
+  <string name="relaunch_dialog_button_confirm">OK</string>
+  <string name="relaunch_dialog_message">Não é possível ajustar o tamanho da janela enquanto estiver a utilizar a aplicação. Pode reiniciar a aplicação mas os dados da sessão vão ser perdidos. Reiniciar mesmo assim?</string>
+  <string name="relaunch_dialog_title">Reiniciar \"%s\"?</string>
   <string name="remain">Restantes: %s</string>
   <string name="replace">Substituir</string>
   <string name="resolver_app_recommend_flag">Recomendar</string>
@@ -259,6 +264,9 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">PA Móvel</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="stop_operate_camera_frequently">Está a abrir a câmara frontal muitas vezes</string>
+  <string name="stylus_pen_mask_screenshot">Toque no ecrã para tirar uma captura de ecrã</string>
+  <string name="stylus_pen_mask_text">Toque no ecrã para começar a escrever</string>
   <string name="sunlight_notification_content">Ajustar brilho à luz solar intensa automaticamente</string>
   <string name="sunlight_notification_title">Ligar modo Luz Solar</string>
   <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível</string>
@@ -288,7 +296,7 @@
   <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
   <string name="wireless_charging_notification_message1">Não foi possível encontrar dispositivos sem fios para carregar. O carregamento reverso foi desligado</string>
-  <string name="wireless_charging_notification_message2">A bateria está a menos de 30%. O carregamento reverso foi desligado</string>
+  <string name="wireless_charging_notification_message2">A bateria está a menos de %s. O carregamento reverso foi desligado</string>
   <string name="wireless_charging_notification_message3">Ocorreu um erro durante o carregamento. O carregamento reverso foi desligado</string>
   <string name="wireless_charging_notification_titile">O carregamento sem fios reverso foi desligado</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>

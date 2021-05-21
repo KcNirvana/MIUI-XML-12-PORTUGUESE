@@ -359,6 +359,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
   <string name="adjust_font_size_answer_cn">Tente ajustar o tamanho do texto e a espessura do tipo de letra utilizando os controlos abaixo</string>
   <string name="adjust_font_size_answer_global">Tente ajustar o tamanho do texto utilizando os controlos abaixo</string>
+  <string name="adjust_ligth">Ajustar brilho</string>
   <string name="adjust_temperature_title">Temperatura da cor</string>
   <string name="admin_device_owner_message">O administrador pode monitorizar e gerir as aplicações e os dados associados a este dispositivo, incluindo as definições, as autorizações, o acesso empresarial, a actividade da rede e as informações de localização do dispositivo</string>
   <string name="admin_disabled_other_options">As outras opções estão desactivadas pelo administrador</string>
@@ -3043,7 +3044,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
   <string name="freeform_guide_settings">Janelas flutuantes</string>
   <string name="freeform_guide_slide_to_small_freeform_summary">Premir e segurar a parte inferior da janela e mover para o canto superior direito</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
   <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
@@ -4247,6 +4248,7 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_plus">Volume +</string>
   <string name="miheadset_rename">Mudar o nome</string>
   <string name="miheadset_rename_device">Mudar o nome</string>
+  <string name="miheadset_single_ear_indicate">Utilize ambos os auriculares para utilizar o cancelamento de ruído</string>
   <string name="miheadset_soft">Soft</string>
   <string name="miheadset_transparent">Transparência</string>
   <string name="miheadset_transparentMode">Transparência</string>
@@ -6559,6 +6561,8 @@ Duplo toque para abrir Recentes"</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Modo capa inteligente</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>
   <string name="smartcover_sensitive_title">Modo capa inteligente</string>
+  <string name="smooth_adjust_ligth">Transições suaves</string>
+  <string name="smooth_adjust_ligth_summary">Tornar as transições mais suaves ao ajustar o brilho manualmentey. Quando esta funcionalidade estiver ligar, podem aparecer pequenas inconsistências de cor</string>
   <string name="sms_application_title">Mensagens</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>
@@ -6612,7 +6616,7 @@ Esta funcionalidade necessita de permissões para aceder à sua localização, u
   <string name="sound_dashboard_summary">Volume, vibração, Não incomodar</string>
   <string name="sound_effects_enable_title">Sons de toque</string>
   <string name="sound_haptic_settings">Sons e toques</string>
-  <string name="sound_mode">Modo silêncio e Não incomodar</string>
+  <string name="sound_mode">Modo silêncio</string>
   <string name="sound_settings">Som</string>
   <string name="sound_settings_example_summary">Volume do toque e notificações a 80%</string>
   <string name="sound_settings_summary">Volume do toque e notificações a %1$s</string>

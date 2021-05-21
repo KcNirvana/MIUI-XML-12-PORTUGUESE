@@ -278,6 +278,7 @@
   <string name="search_timer_keywords">Temporizador</string>
   <string name="search_worldclock">Relógios</string>
   <string name="search_worldclock_keywords">Horas;Relógio;Relógios mundiais</string>
+  <string name="select_operation">Seleccionar</string>
   <string name="set_alarm">Definir alarme</string>
   <string name="set_alarm_choose_ringtone">Seleccionar toque</string>
   <string name="set_alarm_done">Concluído</string>
@@ -292,6 +293,7 @@
   <string name="shortcut_stop_watch">Iniciar cronómetro</string>
   <string name="shut_down_keep_screen">O ecrã não vai permanecer ligado</string>
   <string name="shutdown_alarm_alert_enable_summary">Os alarmes de desligar vão desligar-se pelo menos 10 minutos após ter desligado o seu dispositivo</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Ligar para que os alarmes definidos sejam desligados quando o dispositivo for desligado. Apenas alarmes definidos para pelo menos %d minutos depois de desligar o dispositivo vão ser desligados</string>
   <string name="shutdown_alarm_alert_title">Alarme de desligar</string>
   <string name="shutdown_alarm_disable_summary">O alarme não vai tocar com o telefone desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado (se o alarme for definido para pelo menos 10 minutos depois de estar desligado)</string>

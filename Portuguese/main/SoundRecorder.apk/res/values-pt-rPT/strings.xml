@@ -144,8 +144,6 @@
   <string name="record_list_cloud_fm">Gravações FM sincronizadas</string>
   <string name="record_list_fm">Gravações FM</string>
   <string name="record_mark_point">Marcar %s</string>
-  <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Qualidade de gravação</string>
   <string name="record_resotre">Recuperar gravações</string>
   <string name="recorder_record">Áudio</string>

@@ -552,6 +552,8 @@
   <string name="applock_header_text_less_than_half">Demasiado pequeno. Arraste um bocado mais</string>
   <string name="applock_lock_all">Bloquear tudo</string>
   <string name="applock_login_and_add_account">Iníciar sessão e adicionar</string>
+  <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
+  <string name="applock_mixtype_showpwd_icon">Mostrar</string>
   <string name="applock_no_account_login">Não tem sessão iniciada na sua Conta Mi</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
   <string name="applock_not_login_account">Não tem sessão iniciada</string>
@@ -1258,6 +1260,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="examination_score_80_100">Alguns itens podem ser optimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas</string>
+  <string name="exception_checking">A verificar…</string>
   <string name="exception_dialog_message">As estatísticas de utilização de dados não foram calculadas devido a um erro. Sem estatísticas precisas a Segurança não vai poder fazer a monitorização de utilização de dados. Reiniciar para restaurar esta funcionalidade?</string>
   <string name="exception_dialog_ok_button">Reiniciar</string>
   <string name="exception_notify_message">Não foi possível calcular estatísticas de dados devido a um erro. Reinicie para restaurar</string>
@@ -1451,6 +1454,7 @@ You must understand that this feature is provided for your reference only. The w
   <string name="gamebooster_lowbattery_notification_summary">Carregue a sua bateria antes que desligue</string>
   <string name="gamebooster_lowbattery_notification_title">A sua bateria é inferior a 5%%</string>
   <string name="gamebooster_main_activity_back">Voltar</string>
+  <string name="gamebooster_network_dialog_cn_message">Não pode utilizar o Game Turbo quando Segurança não tem permissão para ligar à Internet e aceder à sua localização. Dar permissão agora?</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
@@ -1611,12 +1615,16 @@ Grave sequências e utilize-as em qualquer altura!"</string>
   <string name="gb_shoulder_key_circle_left">E</string>
   <string name="gb_shoulder_key_circle_right">D</string>
   <string name="gb_shoulder_key_dialog_txt">Pode ligar o Game Turbo utilizando botões de ombro</string>
+  <string name="gb_shoulder_key_dialog_message">Pode utilizar ambos os botões simultâneamente para iniciar o Game Turbo quando não estiver a jogar</string>
   <string name="gb_shoulder_key_guide_btn_done">Percebi</string>
   <string name="gb_shoulder_key_guide_btn_next">Seguinte</string>
   <string name="gb_shoulder_key_guide_tips">Configurar  botões de ombro para jogar como um pro!</string>
   <string name="gb_shoulder_key_guide_tips1">Abrir ferramentas e configurar os botões de ombro</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Mover os botões [E] e [D] para qualquer posição funcional para concluir a configuração</string>
   <string name="gb_shoulder_key_settings_guide_tips2">Utilizar botões de ombro para funcionalidades que atribuiu durante os jogos</string>
+  <string name="gb_shoulder_key_settings_summary">Utilizar ambos os botões simultâneamente para iniciar o Game Turbo quando não estiver a jogar</string>
+  <string name="gb_shoulder_key_settings_title">Utilizar botões de ombro para Game Turbo</string>
+  <string name="gb_shoulder_key_settings_title_new">Início rápido de Game Turbo</string>
   <string name="gb_sign_gift">Iniciar sessão para receber recompensas</string>
   <string name="gb_sign_gift_button_text">Receber</string>
   <string name="gb_sign_notification_summary">Jogar sem atrasos de rede</string>
@@ -1625,6 +1633,7 @@ Grave sequências e utilize-as em qualquer altura!"</string>
   <string name="gb_signed_gift_loading_summary">Aguarde…</string>
   <string name="gb_signed_title">Verificado neste mês</string>
   <string name="gb_sound_audition">Tentar</string>
+  <string name="gb_storage_game_dialog_message">Pode armazenar os jogos no Game Turbo automaticamente. Não vão aparecer no ecrã inicial se ligar esta funcionalidade. Ligar agora?</string>
   <string name="gb_storage_game_uninstall">Desinstalar jogos</string>
   <string name="gb_storage_summary">Não mostrar jogos adicionados ao Game Turbo no ecrã inicial</string>
   <string name="gb_storage_title">Remover jogos do ecrã inicial</string>
@@ -3934,6 +3943,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="third_desktop_dialog_ok">Percebi</string>
   <string name="third_desktop_dialog_title">Erro</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
+  <string name="tips">Atenção</string>
   <string name="tips_dialog_title">Não sabe o seu limite</string>
   <string name="tips_message">Para ver o detalhe do seu plano de dados, marque %2$s (%1$s)</string>
   <string name="tips_of_app_manage">Desinstalar aplicações raramente utilizadas para poupar espaço</string>
@@ -4308,6 +4318,9 @@ Tente aumentar a resolução!"</string>
   <string name="write_clipboard_tip_title">Guardar itens na área de transferências</string>
   <string name="wrong_password">Palavra-passe incorrecta</string>
   <string name="xiaomi_privacy_protection_measures">Medidas de Protecção de Privacidade</string>
+  <string name="xspace_warning_dialog_button">Percebi</string>
+  <string name="xspace_warning_dialog_message">Devido a restrições introduzida no Android %d, todas as aplicações clonadas apenas vão poder aceder a fotos e vídeos gerados pela própria aplicação</string>
+  <string name="xspace_warning_dialog_title">Atenção</string>
   <string name="xunyou_net_booster">Acelerador de rede</string>
   <string name="xunyou_net_booster_detail">Utilizar o acelerador de rede Xunyou para jogos</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>

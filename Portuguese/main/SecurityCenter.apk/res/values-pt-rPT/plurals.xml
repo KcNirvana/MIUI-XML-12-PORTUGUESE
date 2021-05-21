@@ -192,6 +192,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d segundos</item>
     <item quantity="one">%d segundo</item>
   </plurals>
+  <plurals name="gb_toolbox_guide_known">
+    <item quantity="other">Percebi (%ds)</item>
+    <item quantity="one">Percebi (%ds)</item>
+  </plurals>
   <plurals name="gb_voice_changer_toast_tips_window_bubble">
     <item quantity="other">"Try Voice changer now
 to get a %d-day free trial!"</item>
