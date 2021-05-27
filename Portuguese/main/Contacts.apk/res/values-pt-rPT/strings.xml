@@ -534,6 +534,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_picker_name_column">Nome de contacto</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para criar grupos necessita de uma conta</string>
+  <string name="no_contact_selected">Seleccionar um contacto para ver detalhes</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos da Conta Mi</string>
   <string name="noContacts">Sem contactos</string>
@@ -665,6 +666,7 @@ Motivo: \"%s\""</string>
   <string name="remove_duplicate">"A MIUI vai ajudá-lo a encontrar e a unir contactos duplicados.
 
  Para começar, toque no ícone Unir na parte inferior do seu ecrã"</string>
+  <string name="residual_time_description">%1$sdia%2$shora</string>
   <string name="restore_app_btn_cancel">Cancelar</string>
   <string name="restore_app_btn_restore">OK</string>
   <string name="restore_app_description_content">Adicionar um atalho ao ecrã inicial para aceder ao seus contactos</string>
@@ -792,9 +794,9 @@ Motivo: \"%s\""</string>
   <string name="t9_search_empty_send_sms">Enviar mensagem</string>
   <string name="t9_search_empty_video_call">Videochamada</string>
   <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false">Introduzir %d e %d para pesquisar por aniel imões</string>
+  <string name="t9_search_guide_pinyin_title2" formatted="false">Introduzir %d e %d para pesquisar por Daniel Simões</string>
   <string name="t9_search_guide_zhuyin_title1">Pesquisa rápida de contactos</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduzir %d e %d para pesquisar por oão outinho</string>
+  <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduzir %d e %d para pesquisar por João Moutinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>

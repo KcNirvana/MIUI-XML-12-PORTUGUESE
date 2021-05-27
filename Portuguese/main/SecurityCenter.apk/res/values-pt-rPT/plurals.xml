@@ -144,9 +144,17 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <item quantity="other">%d dias atrás</item>
     <item quantity="one">%d dia atrás</item>
   </plurals>
+  <plurals name="exit_dialog_scan_message_new">
+    <item quantity="other">A pontuação do seu dispositivo é menor que %d. Optimizar agora?</item>
+    <item quantity="one">A pontuação do seu dispositivo é menor que %d. Optimizar agora?</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">Pesquisar entre %d aplicações</item>
     <item quantity="one">Pesquisar entre %d aplicação</item>
+  </plurals>
+  <plurals name="find_leak_risk">
+    <item quantity="other">%d riscos de privacidade</item>
+    <item quantity="one">%d risco de privacidade</item>
   </plurals>
   <plurals name="first_aid_result_summary_exception">
     <item quantity="other">%1$d problemas que necessitam de optimização</item>

@@ -48,6 +48,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
+  <string name="insert_data">Inserir dados</string>
+  <string name="kill_pkg_toast_message">O seu dispositivo está a aquecer e a aplicação vai ser desligada</string>
   <string name="lasttime_applist_cloud">Aplicações actualizadas:</string>
   <string name="lasttime_feature_cloud">Funcionalidades actualizadas:</string>
   <string name="message_i_know">Percebi</string>
@@ -102,6 +104,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor. "</string>
   <string name="sleepmode_privacy_link">Saiba mais acerca da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo de suspensão</string>
+  <string name="stricter_high_temp_state_message">O seu dispositivo está a aquecer. Apenas pode utilizar as aplicações Contactos e Telefone</string>
   <string name="sucess">Concluído</string>
   <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>
   <string name="update_profile_sucess">Actualizado com sucesso</string>

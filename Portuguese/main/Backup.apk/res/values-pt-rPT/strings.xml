@@ -18,6 +18,7 @@
   <string name="already_enable_encrypt">Encriptação já está activada</string>
   <string name="app_name">Cópias de segurança</string>
   <string name="apps_and_data_item_desc">Aplicações e dados</string>
+  <string name="apps_item_desc">Aplicação</string>
   <string name="auto_backup">Cópia de segurança programada</string>
   <string name="auto_backup_all_user_apps">Todas as aplicações</string>
   <string name="auto_backup_choose">Itens da cópia de segurança</string>
@@ -321,6 +322,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="new_pc_backup_summary2_pad">Ligar o seu dispositivo móvel ao computador via cabo USB</string>
   <string name="new_pc_backup_summary4">Nota: pode também copiar fotos e vídeos de DCIM</string>
   <string name="new_pc_restore_content1">%d. Ligar o seu dispositivo móvel ao computador via cabo USB</string>
+  <string name="new_pc_restore_content1_pad">%d. Ligar o seu dispositivo móvel ao computador via cabo USB</string>
   <string name="new_pc_restore_content2">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
   <string name="new_pc_restore_content2_pad">%d. Copiar a cópia do seu computador para MIUI-Backup-AllBackup</string>
   <string name="new_pc_restore_content3">%1$d. Abrir \"%2$s\" e seleccionar os itens a restaurar</string>

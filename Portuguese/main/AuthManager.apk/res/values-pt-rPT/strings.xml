@@ -215,8 +215,7 @@
   <string name="permission_group_title_privacy_related">Privacidade</string>
   <string name="permission_group_title_sensitive_privacy_related">Permissões sensíveis</string>
   <string name="permission_group_title_settings_related">Definições</string>
-  <string name="permission_list_include">"Incluindo as seguintes:
-"</string>
+  <string name="permission_list_include">Incluindo as seguintes</string>
   <string name="permission_reminders">Lembretes de permissões</string>
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>

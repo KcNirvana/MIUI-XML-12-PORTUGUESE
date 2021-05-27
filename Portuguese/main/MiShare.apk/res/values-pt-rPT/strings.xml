@@ -31,6 +31,7 @@
   <string name="error_receive_user_cancel">Transferência cancelada</string>
   <string name="error_receive_user_interrupted">A outra pessoa cancelou a transferência</string>
   <string name="error_refuse_receive">Transferência cancelada</string>
+  <string name="error_remote_ap_working">Pedir à outra pessoa para desligar o PA Móvel</string>
   <string name="error_remote_busy">O outro dispositivo está ocupado. Aguarde um momento e tente novamente</string>
   <string name="error_remote_mirror_working">O outro dispositivo não pode aceitar itens enquanto estiver a partilhar o ecrã</string>
   <string name="error_self_busy">O dispositivo está ocupado. Aguarde um momento e tente novamente</string>

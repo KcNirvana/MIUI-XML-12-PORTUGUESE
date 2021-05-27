@@ -110,8 +110,12 @@
   <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Utilizador</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
-  <string name="other_settings_upload_debug_log_summary">As estatísticas de utilização que nos ajudam a encontrar e resolver problemas podem conter informações pessoais</string>
-  <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
+  <string name="other_settings_upload_debug_log_detail">"Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema.
+Os dados que enviar vão conter dados gerais sobre o seu dispositivo (p.e. nível de bateria, actividades do sistema e erros). Estes dados vão ser utilizados para melhorar a MIUI.
+Desligar esta funcionalidade não afecta o envio de informação necessário para os serviços essenciais como actualizações de sistema e segurança.
+Pode controlar esta funcionalidade das Definições > Segurança > Privacidade > Utilização e diagnóstico"</string>
+  <string name="other_settings_upload_debug_log_summary">Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema</string>
+  <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
   <string name="other_settings_user_experience_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>
   <string name="other_settings_user_experience_summary_index">Ver detalhes</string>

@@ -48,6 +48,15 @@
   <string name="dnd_popup_close_message">Percebi</string>
   <string name="dnd_popup_message">Pode ligar o modo Não incomodar para silenciar chamadas e notificações sem desligar os sons multimédia</string>
   <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
+  <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancelar</string>
+  <string name="hearing_assist_bluetooth_enable_tips_start">Ligar</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">A monitorização ao vivo funciona com o Bluetooth ligado. Ligar Bluetooth agora?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_title">Ligar Bluetooth</string>
+  <string name="hearing_assist_transmission_label">Monitorização ao vivo</string>
+  <string name="hearing_assist_transmission_tips_cancel">Cancelar</string>
+  <string name="hearing_assist_transmission_tips_continue">Ligar</string>
+  <string name="hearing_assist_transmission_tips_summary">Transmitir o microfone do seu telefone para os auriculares Bluetooth. Ligar agora?</string>
+  <string name="hearing_assist_transmission_tips_title">Monitorização ao vivo</string>
   <string name="loading">Estado desconhecido</string>
   <string name="miui_dnd_count_down">Definir temporizador</string>
   <string name="miui_dnd_count_down_time">"Temporizador Não incomodar

@@ -52,6 +52,7 @@
   <string name="cta_v2_agree_desc">Permitir que esta aplicação se ligue à Internet e conceder as permissões obrigatórias listadas acima</string>
   <string name="cta_v2_app_purpose">Criar, ver e gerir notas</string>
   <string name="cta_v2_app_purpose_v12">Bem-vindo a Notas! Pode utilizar esta aplicação para criar tarefas e notas</string>
+  <string name="data_empty_folder">Sem pastas</string>
   <string name="data_empty_note">Sem notas</string>
   <string name="data_empty_todo">Sem tarefas</string>
   <string name="date_calculate_today">0 dias</string>
@@ -172,6 +173,7 @@
   <string name="gesture_guide_message">Pode tocar, premir e segurar e arrastar para criar e ordenar notas. Aprender os gestos agora?</string>
   <string name="gesture_guide_ok">Aprender</string>
   <string name="gesture_guide_title">Gestos</string>
+  <string name="handwrite_description">Nota escrita à mão</string>
   <string name="hear_note">Notas ditadas</string>
   <string name="hide_arrow_description">Ocultar</string>
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
@@ -193,6 +195,7 @@
   <string name="menu_add_description">Adicionar nota</string>
   <string name="menu_add_folder">Adicionar à pasta</string>
   <string name="menu_add_folder_description">Adicionar pasta</string>
+  <string name="menu_add_handwrite_description">Adicionar uma nota escrita à mão</string>
   <string name="menu_create_folder">Nova pasta</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_delete_forever">Eliminar</string>

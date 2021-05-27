@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Ver todas as suas aplicações:
+ Toque no ícone Launcher @drawable/all_apps"</item>
+        <item>"Adicionar aplicações no seu ecrã inicial:
+ Toque e segure numa aplicação no Launcher até vibrar"</item>
+        <item>"Organizar o seu ecrã inicial:
+ Toque e segure num item e quando vibrar coloque-o onde quiser"</item>
+        <item>"Remover itens:
+ Toque e segure num item e quando vibrar coloque-o no ícone do Lixo @drawable/trash"</item>
+        <item>"Vários ecrãs iniciais:
+ Deslize para a esquerda ou direita para trocar"</item>
+        <item>"Tudo concluído?
+ Toque e segure no item e quando vibrar coloque-o no ícone do Lixo</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>"A casa é um jardim
+Toque e segure num lugar vazio 
+Para fazer crescer novos ícones"</item>
+        <item>"O telefone não é à prova de água 
+Não o mergulhe na água 
+ou em outros líquidos"</item>
+        <item>"Quer mais ecrãs iniciais? 
+Deslize para a esquerda ou direita para os encontrar
+(Não é necessário roubo)"</item>
+        <item>"Pequenos pontos do ecrã inicial 
+O que podem eles fazer? 
+Toque e segure para aprender"</item>
+        <item>"Ícones da barra de estado 
+Para descobrir os seus segredos 
+Puxe a janela"</item>
+        <item>"Existe um truque para 
+Arrastar os itens entre os ecrãs iniciais 
+Faça uma pausa nas laterais"</item>
+        <item>"Toque na PlayStore para aplicações
+Como uma caixa de chocolates 
+Cada um, é uma surpresa"</item>
+        <item>"Ah, e por falar nisso: 
+Ceci n’est pas une trombone 
+Eu sou um Android"</item>
+    </string-array>
+</resources>
