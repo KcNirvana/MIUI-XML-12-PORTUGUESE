@@ -433,12 +433,6 @@
         <item>PIN</item>
         <item>Palavra-passe</item>
     </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Desligada</item>
-        <item>Fluxo</item>
-        <item>Brilho</item>
-        <item>Onda</item>
-    </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
         <item>Accra</item>

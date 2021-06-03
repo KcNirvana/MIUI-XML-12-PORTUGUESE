@@ -375,6 +375,8 @@ e ajustar as preferências automaticamente"</string>
   <string name="clone_guide_tip4">Segurar o seu dispositivo com firmeza e certifique-se de que o sujeito esteja bem iluminado</string>
   <string name="clone_recapture_alert">Começar de novo?</string>
   <string name="clone_too_much_movement_stop">Moveu o dispositivo para muito longe. Parou de capturar por enquanto</string>
+  <string name="clone_video_mode">Vídeo</string>
+  <string name="close">Fechar</string>
   <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="close_night_algo_toast_low_power">Carregar o seu dispositivo para poder definir a exposição</string>
@@ -502,11 +504,12 @@ documentos digitalizados automaticamente"</string>
   <string name="document_mode_use_hint_text_title">Digitalizar documentos</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Melhorada</string>
-  <string name="dolly_zoom_capture_tip1">Coloque o sujeito dentro do quadrado e mantenha o dispositivo pelo menos a %d metros</string>
+  <string name="dolly_zoom_capture_tip1">Coloque o sujeito dentro do quadrado</string>
   <string name="dolly_zoom_capture_tip2">Afaste o dispositivo do sujeito de forma constante</string>
   <string name="dolly_zoom_capture_tip3">Perdeu de vista o sujeito. Comece de novo</string>
   <string name="dolly_zoom_capture_tip4">Afastou o dispositivo demasiado. Comece de novo</string>
   <string name="dolly_zoom_capture_tip5">Não foi possível guardar vídeo</string>
+  <string name="dolly_zoom_capture_tip6">Mova o sujeito para o centro do quadrado</string>
   <string name="dolly_zoom_guide_tip1">Certifique-se que existe espaço suficiente entre o sujeito e o fundo</string>
   <string name="dolly_zoom_guide_tip10">E mais!</string>
   <string name="dolly_zoom_guide_tip2">Tente evitar grandes áreas de cor sólida</string>
@@ -687,7 +690,7 @@ no modo Retrato"</string>
   <string name="live_sticker_updating">A actualizar…</string>
   <string name="live_workspace_title">Rascunhos</string>
   <string name="live_workspace_title_edit">Seleccionar itens para eliminar</string>
-  <string name="location_access_allow">Permitir</string>
+  <string name="location_access_allow">Concordar</string>
   <string name="location_permission_des">Memorizar localizações para fotos e vídeos</string>
   <string name="location_permission_not_ask_again">Permitir que a Câmara possa aceder à sua localização nas Definições</string>
   <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
@@ -1332,6 +1335,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes do código QR</string>
+  <string name="send">Enviar</string>
   <string name="settings_camera_detect_card_description">Mostrar um atalho sempre que a câmara IA detectar um cartão ID</string>
   <string name="settings_camera_detect_description_doc">Mostrar um atalho sempre que a câmara IA detectar um documento</string>
   <string name="settings_camera_near_range_description">Remover a desfocagem ao focar em superfícies planas muito próximas</string>

@@ -32,6 +32,8 @@
   <string name="autofill_save_sub_message">Pode ver e gerir as suas palavras-passe em Definições &gt; Segurança &gt; %s</string>
   <string name="autofill_save_title">Guardar palavras-passe automaticamente</string>
   <string name="autofill_service_name">Gestão de palavras-passe</string>
+  <string name="battery_authentic_failed_button">Percebi</string>
+  <string name="battery_authentic_failed_title">Atenção</string>
   <string name="bluetooth_close">Este aplicação desligou o Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s desligou o Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth desligado</string>
@@ -151,6 +153,7 @@
   <string name="onehour">30 minutos</string>
   <string name="open_close_tip_action">Percebi</string>
   <string name="open_close_tip_content">Para fechar a janela, prima e segure a barra de acção e deslize para cima</string>
+  <string name="other_ime">Outros teclados</string>
   <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
   <string name="package_delete_confirm_step_2">Desinstalar esta aplicação pode fazer com que o sistema fique instável</string>
   <string name="package_delete_confirm_step_3">Não vai poder abrir esta aplicação depois de a desinstalar</string>

@@ -788,6 +788,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_reveal_eye">Mostre os seus olhos</string>
   <string name="face_unlock_reveal_mouth">Mostre os seus lábios</string>
   <string name="face_unlock_success">Desbloqueado com sucesso</string>
+  <string name="face_unlock_swipe_up_retry">Deslizar para cima para tentar novamente</string>
   <string name="face_unlock_rise">Abaixe a sua cabeça</string>
   <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>

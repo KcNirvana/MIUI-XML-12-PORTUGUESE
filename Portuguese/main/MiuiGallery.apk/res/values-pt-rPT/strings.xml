@@ -925,6 +925,7 @@ efeitos de fotos"</string>
   <string name="grant_permission_unlock_and_set">Desbloquear e definir</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="have_known">Percebi</string>
+  <string name="hello_blank_fragment">Fragmento em branco</string>
   <string name="help">Não consegue encontrar dispositivos?</string>
   <string name="help_content">Se não conseguir encontrar o dispositivo que precisa, diga à outra pessoa para ligar o Mi Share</string>
   <string name="hidden_album_display_name">Álbum oculto</string>
@@ -937,6 +938,9 @@ efeitos de fotos"</string>
   <string name="home_menu_photo_movie">Clipes</string>
   <string name="home_menu_print">Imprimir fotos</string>
   <string name="home_menu_video_post">Efeitos de vídeo</string>
+  <string name="home_page_all_photos">Tudo</string>
+  <string name="home_page_camera">Câmara</string>
+  <string name="home_page_custom">Personalizado</string>
   <string name="home_page_empty_action">Tirar uma foto</string>
   <string name="home_page_label">Fotos</string>
   <string name="homepage_allphotos_tip_dialog_button_negative">Ignorar</string>
@@ -2357,6 +2361,7 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="vlog_video_importing">A importar vídeo…</string>
   <string name="vlog_video_saved_in_my_create">Vídeo guardado com sucesso</string>
   <string name="vlog_video_selected_not_support">Não é possível editar o vídeo seleccionado</string>
+  <string name="vlog_video_trans_code_cons">A importar…</string>
   <string name="voice_assistant">Entrada de voz</string>
   <string name="watch_all_photo">Galeria</string>
   <string name="welcome">Bem-vindo à Xiaomi Cloud</string>

@@ -39,6 +39,7 @@
   <string name="disagreement_exit_app">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher terminar sessão ou restringir permissões em Definições</string>
   <string name="disagreement_function">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta funcionalidade. Pode escolher não utilizar esta funcionalidade</string>
   <string name="disagreement_location_service">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço</string>
+  <string name="disagreement_terminate_miuidaemon">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço</string>
   <string name="disagreement_terminate_service">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher desinstalar, terminar sessão ou restringir permissões em Definições</string>
   <string name="download_introduction">A aplicação \"Transferências\" está a utilizar Xunlei para transferir itens para o seu dispositivo. Esta ferramenta serve para GetApps, actualizações de sistema, temas e vídeos</string>
   <string name="enable_accessibility_canceled">Acessibilidade cancelada</string>
@@ -186,6 +187,7 @@ Pode controlar esta funcionalidade das Definições > Segurança > Privacidade >
   <string name="provision_skip_underline">Ignorar</string>
   <string name="recorder_introduction">Pode utilizar esta aplicação para gravar áudio e copiar gravações para a Xiaomi Cloud</string>
   <string name="require_authority_statement">Para nos permitir fornecer serviços básicos, necessita de conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
+  <string name="require_miuidaemon_authority_statement">Para nos permitir fornecer serviços básicos, necessita de conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
   <string name="require_network_authority_statement">Para nos permitir fornecer serviços básicos, é necessário ligar à Internet e conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
   <string name="screen_recording_introduction">Esta aplicação permitir gravar o que está a acontecer no seu sistema</string>
   <string name="security_introduction">Pode utilizar esta aplicação para limpar lixo no seu dispositivo, encontrar e eliminar vírus, optimizar desempenho para jogos, poupar bateria, gerir aplicações e muito mais</string>

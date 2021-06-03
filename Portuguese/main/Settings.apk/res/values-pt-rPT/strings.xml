@@ -1580,10 +1580,14 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="channel_notifications_off_desc">O Android está a bloquear a apresentação desta categoria de notificações neste dispositivo</string>
   <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
+  <string name="charge_animation_style_lollipop">Fluxo</string>
+  <string name="charge_animation_style_none">Desligada</string>
   <string name="charge_animation_style_summary">Escolher o estilo de animação de carregamento no ecrã de bloqueio</string>
   <string name="charge_animation_style_title">Animação de carregamento</string>
+  <string name="charge_animation_style_video">Brilho</string>
+  <string name="charge_animation_style_wave">Onda</string>
   <string name="charge_length_format">%1$s atrás</string>
-  <string name="charging_sounds_title">Som de carregamento</string>
+  <string name="charging_sounds_title">Sons de carregamento e vibração</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
@@ -1654,7 +1658,7 @@ Se instalar um certificado AC, o proprietário do mesmo pode aceder aos seus dad
   <string name="color_calibration_none">Este dispositivo</string>
   <string name="color_cyan">Ciano</string>
   <string name="color_game_led_applications_title">Seleccionar aplicações</string>
-  <string name="color_game_led_applications_title_summary">Seleccionar aplicações individuais que vão funcionar com o LED</string>
+  <string name="color_game_led_applications_title_summary">Seleccionar aplicações individualmente que vão funcionar com o LED</string>
   <string name="color_game_led_battery_title">Manter enquanto estiver a carregar</string>
   <string name="color_game_led_charging_summary">O LED vai ser desligado quando a bateria estiver carregada</string>
   <string name="color_game_led_end_time">Fim</string>
@@ -4901,6 +4905,8 @@ A aplicação também pode ligar ou desligar o modo Não incomodar e alterar def
   <string name="notifications_title">Notificações</string>
   <string name="now">Reiniciar agora</string>
   <string name="number_of_device_admins_none">Sem aplicações activas</string>
+  <string name="oaid_apps_summary">Permitir ou restringir acesso para aplicações individualmente</string>
+  <string name="oaid_apps_title">Gerir ID Virtual</string>
   <string name="nsd_quick_toggle_summary">Permitir que aplicações noutros dispositivos descubram aplicações neste dispositivo</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
   <string name="oaid_string">"ID virtual actual:
@@ -5688,6 +5694,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="ringtones_category_preference_title">Toques</string>
   <string name="ringtones_install_custom_sound_content">Este ficheiro vai ser copiado para a pasta %s</string>
   <string name="ringtones_install_custom_sound_title">Adicionar som personalizado?</string>
+  <string name="risk_tip">Risco detectado</string>
   <string name="roaming">Roaming</string>
   <string name="roaming_alert_title">Permitir roaming de dados?</string>
   <string name="roaming_check_price_warning">Consulte a sua operadora para obter preços</string>
@@ -5896,6 +5903,7 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="screen_saturation">Saturação</string>
   <string name="screen_shot">Tirar captura de ecrã</string>
   <string name="screen_timeout">Suspender ecrã</string>
+  <string name="screen_timeout_subtitle">Mostrar conteúdo estático por períodos de tempo extensos pode tornar as cores desiguais</string>
   <string name="screen_timeout_summary">Após %1$s de inactividade</string>
   <string name="screen_timeout_title">Modo de suspensão</string>
   <string name="screen_usage_summary">Tempo durante o qual o ecrã tem estado ligado desde o carregamento completo</string>
@@ -6175,6 +6183,7 @@ Para utilizar a fixação da aplicação: \u0009
   <string name="secspace_fod_use_password">Introduzir palavra-passe</string>
   <string name="secure_keyguard_business_title">Bloqueio de ecrã</string>
   <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não vai utilizar o bloqueio de ecrã para optimizar a encriptação de dados</string>
+  <string name="security_center_title">Segurança</string>
   <string name="security_dashboard_summary">Bloqueio de ecrã, impressão digital</string>
   <string name="security_dashboard_summary_face">Bloqueio de ecrã, desbloqueio facial</string>
   <string name="security_dashboard_summary_no_fingerprint">Bloqueio de ecrã</string>
@@ -6978,6 +6987,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="switch_headset_anti_lost_title">Aviso de auriculares em falta</string>
   <string name="switch_off_text">Desligado</string>
   <string name="switch_on_text">Ligado</string>
+  <string name="switch_power_sound">Som de carregamento</string>
   <string name="switch_screen_button_order">Trocar a ordem dos botões</string>
   <string name="switch_screen_button_order_desc">Trocar a ordem dos botões Voltar e Menu</string>
   <string name="switch_select_to_speak_on">Seleccione para falar</string>
@@ -7104,6 +7114,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="three_gesture_horizontal">Deslizar horizontalmente com %d dedos</string>
   <string name="three_gesture_long_press">Premir e segurar com %d dedos</string>
   <string name="three_gesture_pc_mode">Ligar Modo PC</string>
+  <string name="time_floating_window">Relógio flutuante</string>
+  <string name="time_floating_window_summary">Mostrar o relógio nas janelas flutuantes acima de outras aplicações</string>
   <string name="time_format_category_title">Formato da hora</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_spent_in_app_pref_title">Tempo de ecrã</string>

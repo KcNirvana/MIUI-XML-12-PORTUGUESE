@@ -652,6 +652,14 @@ Prima \"Limpar e converter…\" para continuar"</string>
   <string name="fold_answer_pref_title">Dobrar para atender chamadas</string>
   <string name="four_point_five_switch_summary">Utilizar 4.5G para melhorar a velocidade da ligação e qualidade de voz</string>
   <string name="four_point_five_switch_title">4.5G</string>
+  <string name="full_forwarding_number">Número para reencaminhar</string>
+  <string name="full_forwarding_number_error_msg">Apenas são suportados números que começam por \"0\"</string>
+  <string name="full_forwarding_number_error_title">Número de telefone inválido</string>
+  <string name="full_forwarding_number_prefix">"Número de telefone: "</string>
+  <string name="full_forwarding_option_forwarding">A reencaminhar</string>
+  <string name="full_forwarding_option_off">Desligado</string>
+  <string name="full_forwarding_option_voicemail">Voice Mail</string>
+  <string name="full_forwarding_settings">Reencaminhamento total</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir"</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as definições actuais do número de reencaminhamento.
@@ -721,6 +729,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="invalid_pin2">Introduzir um PIN2 que tenha entre %1$d a %2$d números</string>
   <string name="invalid_puk">Introduzir um PUK que tenha entre %1$d a %2$d números</string>
   <string name="invalid_puk2">Introduzir um PUK2 que tenha %d números</string>
+  <string name="invalid_secretcode_format_txt">Formato de código secreto inválido</string>
   <string name="ivr_mo_area_code_settings">Código de área actual</string>
   <string name="ivr_mo_area_code_settings_hint">Introduzir código de área actual</string>
   <string name="ivr_parameter_settings">Definições dos parâmetros IVR</string>
@@ -1152,6 +1161,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC…</string>
   <string name="pin_progress_unlock_icc">A desbloquear cartão SIM…</string>
   <string name="port_title">Número da porta</string>
+  <string name="play_voicemail_settings">Reproduzir Voice Mail</string>
   <string name="pointer_location">Localização do ponteiro</string>
   <string name="pointer_location_summary">Sobreposição do ecrã a mostrar os dados de toque atuais</string>
   <string name="power_charging_duration">%1$s - %2$s até estar carregada</string>
@@ -1678,6 +1688,7 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="voice_service_warning_dialog_title">Chamadas VoLTE</string>
   <string name="voicemail">Voice Mail</string>
   <string name="voicemail_abbreviated">VM:</string>
+  <string name="voicemail_callforward_settings">Voice Mail e reencaminhamento de chamadas</string>
   <string name="voicemail_default">A sua operadora</string>
   <string name="voicemail_notification_ringtone_title">Som</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
