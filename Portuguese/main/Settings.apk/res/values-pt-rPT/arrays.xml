@@ -1143,6 +1143,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Pesquisa</item>
         <item>Definições</item>

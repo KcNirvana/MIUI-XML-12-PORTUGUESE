@@ -475,7 +475,8 @@
   <string name="recents_layout_style">Organizar itens em Recentes</string>
   <string name="recents_layout_style_horizontal">Horizontalmente</string>
   <string name="recents_layout_style_vertical">Verticalmente</string>
-  <string name="recents_smallwindow_text">Solte para adicionar</string>
+  <string name="recents_smallwindow_drag_text">Arrastar aqui para fixar</string>
+  <string name="recents_smallwindow_text">Soltar para adicionar</string>
   <string name="recents_task_screening">Transmitir</string>
   <string name="recents_title_app_manager">Gerir aplicações</string>
   <string name="recents_title_game">Jogos</string>

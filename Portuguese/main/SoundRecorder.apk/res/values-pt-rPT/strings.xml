@@ -33,6 +33,7 @@
   <string name="delete">Eliminar</string>
   <string name="delete_cloud_data_at_same_time">Eliminar da Xiaomi Cloud também</string>
   <string name="delete_dialog_message">Eliminar a gravação?</string>
+  <string name="delete_recorder">Eliminar</string>
   <string name="deleting_message">A eliminar…</string>
   <string name="details">Detalhes</string>
   <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente no seu dispositivo</string>
@@ -93,6 +94,7 @@
   <string name="other_settings_pref_title">Definições adicionais</string>
   <string name="path_soundrecorder_setting">Aplicações de sistema/Gravador</string>
   <string name="pause">Pausar</string>
+  <string name="play_speed">%1$.1fX</string>
   <string name="playback_delete_records">Eliminar gravação</string>
   <string name="playback_share_records">Partilhar gravação</string>
   <string name="preference_clear_data">Limpar dados</string>

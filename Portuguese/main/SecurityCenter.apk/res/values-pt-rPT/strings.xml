@@ -505,7 +505,13 @@
   <string name="app_permission_use_title">Permissões</string>
   <string name="app_predict_black_list_empty">Sem itens</string>
   <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões</string>
+  <string name="app_predict_dialog_button">Adicionar ao ecrã inicial</string>
+  <string name="app_predict_dialog_message">A IA vao sugerir aplicações que pode necessitar</string>
+  <string name="app_predict_dialog_success">Adicionado ao ecrã inicial com sucesso</string>
   <string name="app_predict_folder_name">Pesquisar</string>
+  <string name="app_predict_guide_button">Adicionar</string>
+  <string name="app_predict_guide_message">A IA vao sugerir aplicações que pode necessitar</string>
+  <string name="app_predict_guide_title">Sugestão inteligente de aplicações</string>
   <string name="app_predict_loading_text">Aguarde…</string>
   <string name="app_predict_search_title">Todas as aplicações</string>
   <string name="app_predict_setting_black_list">Lista de bloqueio</string>
@@ -1742,6 +1748,7 @@ das suas sessões de jogo"</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
   <string name="gmscore_support_service">Serviços Google básicos</string>
   <string name="go_to">Continuar</string>
+  <string name="go_to_mi_sim">Toque para utilizar Mi SIM</string>
   <string name="go_to_send">Enviar</string>
   <string name="go_to_setting_fingerprint">Definições</string>
   <string name="google_base_app_fail">Não foi possível transferir. Verifique se Segurança tem permissão de ligar à Internet</string>
@@ -2144,6 +2151,7 @@ O seu dispositivo está %d%% mais rápido agora"</string>
   <string name="mi_ime_not_used">Utilizar um teclado autorizado pela Xiaomi</string>
   <string name="mi_service_app_detail">Detalhes de utilização de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
+  <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque para abrir Mi Sim&lt;/U>&lt;/font>"</string>
   <string name="mian_page_primary_txt">Roaming</string>
   <string name="midrop_post_notification_contentText">Tente o Mi Drop. É rápido e não tem anúncios</string>
   <string name="midrop_post_notification_contentTitle">Necessita de transferir ficheiros?</string>
@@ -2870,6 +2878,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_setting_super_save_summary_text">Restringe funcionalidades de sistema para poupar bateria</string>
   <string name="power_setting_warm_configure">Controlo de temperatura</string>
   <string name="power_setting_warm_performance_tip">Cenários que necessitam de maior consumo de potência vão aumentar a temperatura do seu dispositivo acima dos níveis predefinidos</string>
+  <string name="power_setting_wireless_reverse_charging_fg_control_title">Limite de carregamento</string>
   <string name="power_setting_wireless_reverse_charging_summary">Carregue dispositivos sem fios compatíveis</string>
   <string name="power_setting_wireless_reverse_charging_title">Carregamento sem fios reverso</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
@@ -2882,6 +2891,17 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_superpower_title_systemui_highpower">Tempo restante</string>
   <string name="power_superpower_title_systemui_lowpower">Ligar carregador</string>
   <string name="power_wifi">Wi-Fi</string>
+  <string name="power_wireless_need_update_text">A actualizar…</string>
+  <string name="power_wireless_update_button_text">Actualizar</string>
+  <string name="power_wireless_update_dialog_button">Percebi</string>
+  <string name="power_wireless_update_dialog_message">Carregar o dispositivo pelo menos a %s para poder actualizar o firmware do carregamento sem fios</string>
+  <string name="power_wireless_update_dialog_title">Bateria fraca</string>
+  <string name="power_wireless_update_driver">Actualizações de firmware</string>
+  <string name="power_wireless_update_notification_button">Ver</string>
+  <string name="power_wireless_update_notification_subtitle">Actualizar firmware para melhorar a estabilidade do carregamento sem fios</string>
+  <string name="power_wireless_update_notification_title">Actualização do carregamento sem fios</string>
+  <string name="power_wireless_update_text">Actualizado</string>
+  <string name="power_wireless_update_tv_text">A actualizar firmware. Não desligue o dispositivo</string>
   <string name="pp_app_behavior_record_detail">Registar todos os comportamentos da aplicação</string>
   <string name="pp_app_del_img_intercept_detail">Receber notificações quando as aplicações eliminarem itens da Galeria sem a sua permissão</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando as aplicações utilizarem permissões de alto risco</string>
@@ -3418,6 +3438,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="setting">Definições</string>
   <string name="setting_online_service">Serviços online</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
+  <string name="setting_wireless_reverse_charging_fg_control_summary">Parar o carregamento sem fios reverso quando a bateria deste dispositivo atingir %s</string>
+  <string name="setting_wireless_reverse_charging_summary">Colocar o dispositivo que suporta o carregamento sem fios no centro deste dispositivo</string>
   <string name="settings">Definições de utilização de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificações de descarregamento de bateria</string>
