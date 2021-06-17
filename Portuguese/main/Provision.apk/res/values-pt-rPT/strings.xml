@@ -251,7 +251,8 @@ Os componentes de %s e Conta Mi vão ligar à Internet e adquirir a sua localiza
   <string name="terms_of_use_label_phrase">, Frases frequentes</string>
   <string name="terms_of_use_label_systemhelper">, Serviços auto-registados</string>
   <string name="terms_of_use_label_updater">, Actualizações</string>
-  <string name="terms_of_use_lable_apps">Serviços Mi, serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, ecrã inicial, Jogos, assistente, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
+  <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Tem de concordar com a Política de Privacidade de Facemoji para utilizar esta funcionalidade"</string>
@@ -260,10 +261,11 @@ Tem de concordar com a Política de Privacidade de Facemoji para utilizar esta f
 Tem de concordar com a Política de Privacidade do teclado Mint para utilizar esta funcionalidade"</string>
   <string name="terms_of_use_lable_gms">, serviços Google Play </string>
   <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
-  <string name="title_fingerprint">Definir palavra-passe</string>
+  <string name="title_fingerprint">Definir bloqueio de ecrã</string>
   <string name="title_set_fingerprint">Bloqueio de ecrã</string>
   <string name="user_agreement">Termos de Utilização</string>
   <string name="user_agreement_declare">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Enquanto o seu dispositivo está a ser activado, os serviços de activação SIM Mi, ecrã inicial, Frases frequentes e Actualizações vão ligar à Internet e aceder à sua localização</string>
+  <string name="user_agreement_declare_wifi_device">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Enquanto o seu dispositivo está a ser activado, os serviços de activação SIM Mi, ecrã inicial, Frases frequentes e Actualizações vão ligar à Internet e aceder à sua localização</string>
   <string name="voice_assist_condition">"Vai poder utilizar a IA Mi nos seguintes casos:
 1. Quando o ecrã estiver ligado.
 2. Quando estiver a ouvir música com o ecrã desligado"</string>

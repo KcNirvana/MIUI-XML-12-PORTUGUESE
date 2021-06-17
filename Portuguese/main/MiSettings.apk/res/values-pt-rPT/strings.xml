@@ -8,6 +8,7 @@
   <string name="africans_white_backed_vulture">Abutre de dorso branco</string>
   <string name="all_ringtone">Mais</string>
   <string name="all_ringtone_summary">Seleccionar toques online</string>
+  <string name="all_ringtone_summary_pad">Seleccionar toques</string>
   <string name="amazon_introduction">A região com a maior biodiversidade do nosso planeta, muitas vezes referida como \"Pulmões da Terra\"</string>
   <string name="amazon_orange_winged_info">A amazona de asa laranja é um papagaio grande e barulhento que solta gritos altos e agudos</string>
   <string name="animal_branch">Família</string>
@@ -356,6 +357,7 @@
   <string name="srgb_color_region_summary">Mostrar todo o conteúdo do ecrã na gama de cores RGB</string>
   <string name="start_easymode">Ligar Modo Leve</string>
   <string name="steady_on_screen_notification_title">Pouse o seu telefone e faça uma pausa</string>
+  <string name="steady_on_screen_notification_title_pad">Pouse o seu dispositivo e faça uma pausa</string>
   <string name="steady_on_screen_notify">Notificar utilização sem interrupções</string>
   <string name="steady_on_screen_setting">Limite de tempo para sessões sem interrupção</string>
   <string name="steady_on_screen_summary">Limite de tempo para sessões sem interrupção</string>
@@ -543,6 +545,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_focus_level_summary">Nível actual: %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">O Modo Foco apenas permite a utilização da Câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo Foco apenas permite a utilização da Câmara. Não vai poder desligar o Modo Foco prematuramente</string>
+  <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo Foco apenas permite a utilização da Câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_summary">Restringir todas as funcionalidades, excepto a Câmara e chamadas de emergência</string>
   <string name="usage_state_focus_mode_summary1">Bem começado é meio caminha andado</string>
   <string name="usage_state_focus_mode_summary2">Mantenha-se focado</string>
@@ -550,6 +553,7 @@ Esta aplicação necessita de ligar à Internet e das seguintes permissões para
   <string name="usage_state_focus_mode_title">Modo Foco</string>
   <string name="usage_state_focus_mode_warning_message">O Modo Foco apenas permite a utilização da câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_warning_message_pad">O Modo Foco apenas permite a utilização da câmara. Não vai poder desligar o Modo Foco prematuramente</string>
+  <string name="usage_state_focus_mode_warning_message_sim_pad">O Modo Foco apenas permite a utilização da câmara e efectuar chamadas de emergência. Não vai poder desligar o Modo Foco prematuramente</string>
   <string name="usage_state_focus_mode_warning_title">Atenção</string>
   <string name="usage_state_focus_success">Desafio concluído</string>
   <string name="usage_state_focus_take_photo">Câmara</string>

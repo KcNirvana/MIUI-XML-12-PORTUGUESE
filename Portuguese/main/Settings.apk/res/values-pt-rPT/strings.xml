@@ -3064,7 +3064,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="freeform_guide_notification_drop_down_summary">Premir, segurar e puxar para baixo a barra duma notificação</string>
   <string name="freeform_guide_notification_drop_down_title">Abrir janelas flutuantes</string>
   <string name="freeform_guide_settings">Janelas flutuantes</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Premir e segurar a parte inferior da janela e mover para o canto superior direito</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Premir e segurar a parte inferior da janela e mover para o canto superior direito
+Esta funcionalidade apenas está disponível quando a navegação está definida para gestos"</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimizar uma aplicação</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
@@ -3113,7 +3114,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_setting_on">Ligado</string>
   <string name="gesture_settings_activity_title">Definições de gestos</string>
   <string name="gesture_settings_title">Atalhos de gestos</string>
-  <string name="gesture_wakeup_summary">Dar um duplo toque no ecrã para ligar ou desligar o ecrã</string>
+  <string name="gesture_wakeup_summary">Duplo toque no ecrã para ligar ou desligar o ecrã apenas com temas predefinidos</string>
   <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar o ecrã</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da ligação</string>
@@ -3880,6 +3881,7 @@ para o Segundo espaço"</string>
   <string name="lockpassword_confirm_workspace_password">Verificar palavra-passe do Espaço de trabalho</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirmar a sua palavra-passe</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmar o seu padrão</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">Confirmar o seu PIN</string>
   <string name="lockpassword_confirm_your_password_generic">Introduza a palavra-passe do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
   <string name="lockpassword_confirm_your_pattern_generic">Utilize o padrão do dispositivo para continuar</string>
@@ -4215,6 +4217,8 @@ Não pode reverter esta acção!"</string>
   <string name="miheadset_double_click_right">Duplo toque no auricular direito</string>
   <string name="miheadset_double_press_left">Premir duas vezes no auricular esquerdo</string>
   <string name="miheadset_double_press_right">Premir duas vezes no auricular direito</string>
+  <string name="miheadset_dual_connect_mode">Ligar 2 dispositivos</string>
+  <string name="miheadset_dual_connect_mode_summary">Ligar para ligar os seus auriculares a dois dispositivos Bluetooth simultâneamente</string>
   <string name="miheadset_enhanceVoice">Melhorar voz</string>
   <string name="miheadset_enhence_high">Melhorar agudos</string>
   <string name="miheadset_enhence_low">Melhorar baixos</string>

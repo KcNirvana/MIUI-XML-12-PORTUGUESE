@@ -79,6 +79,7 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
   <string name="receiver_error">Não foi possível receber. Aguarde um momento e tente novamente</string>
   <string name="refuse_file">Rejeitar</string>
   <string name="retry_task">Enviar novamente</string>
+  <string name="samsung_phone">Telefone Samsung</string>
   <string name="scanning_device_tips">A procurar dispositivos próximos… Certifique-se que o outro dispositivo está visível</string>
   <string name="scanning_only_xiaomi_device">Este item apenas pode ser transferido para dispositivos Xiaomi ou Black Shark</string>
   <string name="search_menu_title">Pesquisar</string>

@@ -1121,13 +1121,13 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar o menu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimizar contraste para a luz disponível</item>
-        <item>Aumentar contraste do ecrã</item>
+        <item>Ajustar contraste com base no conteúdo mostrado</item>
+        <item>Melhorar contraste do ecrã</item>
         <item>Contraste constante</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Contraste automático</item>
-        <item>Contraste aumentado</item>
+        <item>Vívido (recomendado)</item>
+        <item>Saturado</item>
         <item>Predefinido</item>
     </string-array>
     <string-array name="screen_saturation_title">
@@ -1261,12 +1261,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Ajustar as cores com base na luz actual</item>
+        <item>Ajustar as cores com base no conteúdo mostrado</item>
         <item>Melhorar sempre as cores</item>
         <item>Restaurar cor predefinida do conteúdo do ecrã com a calibração</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Automático</item>
+        <item>Vívido</item>
         <item>Saturada</item>
         <item>Cor original</item>
     </string-array>
