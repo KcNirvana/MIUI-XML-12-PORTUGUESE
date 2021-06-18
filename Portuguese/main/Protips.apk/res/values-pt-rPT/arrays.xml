@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="tips">
-        <item>"Ver todas as suas aplicações:
- Toque no ícone Launcher @drawable/all_apps"</item>
-        <item>"Adicionar aplicações no seu ecrã inicial:
- Toque e segure numa aplicação no Launcher até vibrar"</item>
-        <item>"Organizar o seu ecrã inicial:
- Toque e segure num item e quando vibrar coloque-o onde quiser"</item>
-        <item>"Remover itens:
- Toque e segure num item e quando vibrar coloque-o no ícone do Lixo @drawable/trash"</item>
-        <item>"Vários ecrãs iniciais:
- Deslize para a esquerda ou direita para trocar"</item>
-        <item>"Tudo concluído?
- Toque e segure no item e quando vibrar coloque-o no ícone do Lixo"</item>
-    </string-array>
     <string-array name="tips2">
         <item>"A casa é um jardim
 Toque e segure num lugar vazio 
