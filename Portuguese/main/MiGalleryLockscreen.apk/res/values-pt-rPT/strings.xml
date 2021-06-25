@@ -251,7 +251,7 @@ Envie este código ao supervisor"</string>
   <string name="lks_subscription_toast">Papel de parede alterado</string>
   <string name="llks_add_cate">Subscrever %s</string>
   <string name="llks_auto_switch_wp">Subscrever as categorias que gosta</string>
-  <string name="llks_display_error">Necessário permissões</string>
+  <string name="llks_display_error">Permissões necessárias</string>
   <string name="llks_display_error_des">Dê permissão para que os papéis de parede aleatórios possam ser mostrados no ecrã de bloqueio nas Definições</string>
   <string name="llks_learn_more_cate">Mais categorias</string>
   <string name="llks_pop_btm_des">Comece o dia com um sorriso</string>

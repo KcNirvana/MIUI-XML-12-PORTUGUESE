@@ -104,6 +104,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor. "</string>
   <string name="sleepmode_privacy_link">Saiba mais acerca da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo de suspensão</string>
+  <string name="softbank_high_temp_toast_time_10min">Lanterna desligada para evitar superaquecimento</string>
+  <string name="softbank_high_temp_toast_time_4min">Flash desligado para evitar superaquecimento</string>
   <string name="stricter_high_temp_state_message">O seu dispositivo está a aquecer. Apenas pode utilizar as aplicações Contactos e Telefone</string>
   <string name="sucess">Concluído</string>
   <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>

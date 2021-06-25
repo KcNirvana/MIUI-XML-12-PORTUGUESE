@@ -1436,7 +1436,9 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="output_title">Saída de som multimédia</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="overview">Vista geral</string>
-  <string name="owner_info_settings_edit_text_hint">P.e. Android do João</string>
+  <string name="owner_info_settings_edit_text_hint">Exemplo: Android do João</string>
+  <string name="pad_zen_mode_warnings_all_time_content">As notificações e chamadas vão ser silenciadas</string>
+  <string name="pad_zen_mode_warnings_keyguard_content">As notificações e chamadas vão ser silenciadas quando o dispositivo estiver bloqueado</string>
   <string name="phone_hint">Deslizar a partir do ícone para aceder ao Telefone</string>
   <string name="phone_label">Abrir Telefone</string>
   <string name="phone_locked_foget_password">Esqueceu-se da palavra-passe?</string>

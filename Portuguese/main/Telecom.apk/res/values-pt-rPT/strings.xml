@@ -294,6 +294,7 @@ Selecção"</string>
   <string name="managed_user_title">Perfil de trabalho</string>
   <string name="media_category">Multimédia</string>
   <string name="media_transfer_this_device_name">Este dispositivo</string>
+  <string name="message_no_voice_capability">Não é possível efectuar chamadas neste dispositivo</string>
   <string name="missedcall_notification_public_version_title">Telefone</string>
   <string name="mobile_data_always_on">Dados móveis sempre activados</string>
   <string name="mobile_data_always_on_summary">Manter sempre os dados móveis activados, mesmo quando o Wi-Fi estiver activado (para mudança de rede rápida)</string>

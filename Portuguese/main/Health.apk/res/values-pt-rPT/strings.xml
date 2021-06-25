@@ -181,6 +181,7 @@ Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios nor
   <string name="close_stand_notice_tip">A detecção de actividades em pé foi desligada. A detecção automática após abertura é mais imprecisa</string>
   <string name="collapse">Ocultar</string>
   <string name="complete_preference_basic_info">Conclua o seu perfil</string>
+  <string name="complete_progress">Progresso</string>
   <string name="completed">"Concluído "</string>
   <string name="completed_stand">Concluído</string>
   <string name="confirm_opening">Confirmar abertura</string>
@@ -1462,6 +1463,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_stand_day_ring">Pausas para ficar em pé hoje: %1$s. Tem de fazer pelo menos 12 hoje</string>
   <string name="tb_stand_wm_column_chart">Pausas para ficar em pé hoje %1$s e %2$s. Deslize horizontalmente para alterar o intervalo de tempo. Toque para ver detalhes</string>
   <string name="tb_stand_wm_column_click">%1$s. Pausas para ficar em pé: %2$d. %3$s</string>
+  <string name="tb_step_widget" formatted="false">Hoje: %1$s | Progresso: %2$d%</string>
   <string name="tb_unmultiple_selecte_all">Desmarcar tudo</string>
   <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
   <string name="tb_user_account_unsigned">Toque para iniciar sessão na Conta Mi</string>
@@ -1549,6 +1551,7 @@ Actualizar agora?"</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_center">Perfil</string>
   <string name="value_error_correct">Editar registo</string>
+  <string name="view_step_and_progress">Ver a contagem de passos actual</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas</string>
   <string name="voice_remind">Aumentámos o volume para que possa ouvir melhor as instruções</string>

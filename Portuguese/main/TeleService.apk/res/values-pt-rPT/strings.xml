@@ -767,6 +767,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="label_available">Redes disponíveis</string>
   <string name="label_cdp">Código PIN de desbloqueio do cartão SIM da empresa</string>
   <string name="label_ndp">Código PIN de desbloqueio do cartão SIM</string>
+  <string name="label_ndp_nck">Código NCK de desbloqueio do cartão SIM</string>
   <string name="label_nsdp">Código PIN de desbloqueio do subconjunto do cartão SIM</string>
   <string name="label_puk">Introduzir PUK</string>
   <string name="label_puk2_code">Introduzir código PUK2</string>
@@ -991,6 +992,8 @@ Vai ser utilizada a rede preferida"</string>
   <string name="no_change">Não foram feitas alterações</string>
   <string name="no_checked_network">Não vai poder ligar-se à rede móvel e fazer chamadas. Seleccionar outra rede?</string>
   <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet</string>
+  <string name="no_unlock_chance_hint">"Já não tem mais tentativas.
+Contacte a sua operadora"</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail guardado no cartão SIM</string>
   <string name="no_voip">Chamadas pela Internet não suportadas</string>
@@ -1490,11 +1493,13 @@ Interface UT: %5$s"</string>
   <string name="sim_description_default">Cartão SIM %s</string>
   <string name="sim_description_emergency_calls">Só cham. de emergência</string>
   <string name="sim_label_emergency_calls">Chamadas de emergência</string>
+  <string name="sim_me_lock_disabled">Bloqueio do SIM desactivado</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
   <string name="sim_roaming_settings_summary">Ligar a redes de dados móveis em roaming</string>
   <string name="sim_roaming_settings_title">Roaming Mi</string>
   <string name="sim_service_setting">SIM e Roaming Mi</string>
+  <string name="simmelock_name">Bloqueio SIM ME</string>
   <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="sim_unlock_success">Cartão SIM desbloqueado</string>
   <string name="singleContactImportedMsg">Contacto importado</string>
@@ -1544,6 +1549,7 @@ Interface UT: %5$s"</string>
   <string name="stock_quotes_disable">Cotação de acções está desligado</string>
   <string name="stock_quotes_enable">Cotação de acções está ligado</string>
   <string name="storage_category">Armazenamento</string>
+  <string name="strPasswordLengthIncorrect">De 4 a 16 números</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>
   <string name="sum_cdma_call_settings">Definições adicionais apenas de chamada CDMA</string>
   <string name="sum_cfb_disabled">Desligado</string>
@@ -1647,6 +1653,7 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="unfold_speaker_pref_summary">Desdobrar o dispositivo durante uma chamada para ligar os altifalantes</string>
   <string name="unfold_speaker_pref_title">Desdobrar para utilizar altifalantes</string>
   <string name="unknown">Número privado</string>
+  <string name="unlock_chances_left">Tentativas restantes:</string>
   <string name="unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="unlock_success">Cartão SIM desbloqueado</string>
   <string name="updating_fdn_contact">A actualizar número de marcação fixa…</string>

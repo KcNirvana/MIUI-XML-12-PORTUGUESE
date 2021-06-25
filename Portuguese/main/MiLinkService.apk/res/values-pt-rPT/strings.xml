@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account_other">Outras</string>
-  <string name="app_name">Serviço MiLink</string>
+  <string name="app_name">Transmissão</string>
   <string name="app_pkg_name">Serviço MiLink</string>
+  <string name="audio_record_des">Para transmitir áudio do dispositivo para ecrãs externos</string>
   <string name="casting_tips">A transmitir…</string>
   <string name="close_hotspot_hint">Desligar PA Móvel antes de transmitir</string>
   <string name="close_slave_wifi_hint">Desligar das redes Wi-Fi auxiliares antes de transmitir</string>
@@ -20,6 +21,8 @@
   <string name="dialog_connect_verify_perssion_fail">Não foi possível autorizar a transmissão na sua TV. Aguarde um momento e tente novamente</string>
   <string name="dialog_connected">Ligado</string>
   <string name="dialog_connecting">A ligar…</string>
+  <string name="dialog_location_permission_message">Esta aplicação necessita de aceder à sua localização para poder localizar ecrãs externos próximos. Seleccionar \"Permitir sempre\" para evitar possíveis erros</string>
+  <string name="dialog_location_permission_title">Permissões necessárias</string>
   <string name="dialog_miplay_permission_message">Permitir que Transmissão grave áudio, aceda a ficheiro no armazenamento interno e aceda à sua localização para funcionar normalmente. Toque em \"Definições\" e seleccione \"Permissões da aplicação\" para continuar</string>
   <string name="dialog_miplay_permission_positive">Definições</string>
   <string name="dialog_miplay_permission_title">Permissões necessárias</string>
@@ -47,6 +50,7 @@ Para mais questões, veja a ajuda"</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Parar transmissão</string>
   <string name="enable_screen_projection_summary">Transmitir conteúdos do ecrã para um ecrã externo</string>
+  <string name="file_read_des">Para mostrar fotos e outros ficheiros em ecrãs externos</string>
   <string name="global_privacy">Termos e Condições</string>
   <string name="global_privacy_detail"><Data>"Ler e concordar com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de utilizar esta aplicação.&lt;br>Se não concordar na utilização dos serviços mencionados, não vai poder utilizar algumas funcionalidades"</Data></string>
   <string name="global_privacy_explain">Bem-vindo a Transmissão! Esta aplicação fornece os seguintes serviços:</string>
@@ -146,7 +150,9 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
   <string name="notification_desc_scanning">Pesquisar dispositivos próximos…</string>
   <string name="notification_rc_title">Assistente XiaoMi TV</string>
   <string name="notification_show_more">Ver mais funcionalidades</string>
+  <string name="notify">Transmissão está em segundo plano</string>
   <string name="open_game_accelerate">Ligar Game Turbo</string>
+  <string name="p2p_location_des">Para ligar o dispositivo a ecrã externos</string>
   <string name="path_setting_cast">Ligações e partilha/Transmissão</string>
   <string name="path_setting_cast_demo">Ligações e partilha/Transmissão/Demonstração</string>
   <string name="path_setting_cast_demo_document">Ligações e partilha/Transmissão/Demonstração/Documentos</string>

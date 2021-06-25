@@ -44,6 +44,14 @@
     <item quantity="few"> (%1$d ficheiros)</item>
     <item quantity="many"> (%1$d ficheiros)</item>
   </plurals>
+  <plurals name="search_head_hint_all">
+    <item quantity="other">Resultados (%1$d itens)</item>
+    <item quantity="zero">Resultados (%1$d itens)</item>
+    <item quantity="one">Resultados (%1$d item)</item>
+    <item quantity="two">Resultados (%1$d itens)</item>
+    <item quantity="few">Resultados (%1$d itens)</item>
+    <item quantity="many">Resultados (%1$d itens)</item>
+  </plurals>
   <plurals name="search_head_hint_app">
     <item quantity="other">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
     <item quantity="zero">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>

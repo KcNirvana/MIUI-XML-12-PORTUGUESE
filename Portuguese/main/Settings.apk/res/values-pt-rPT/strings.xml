@@ -1346,7 +1346,7 @@ Taxa de amostragem"</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
   <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU e IMSI para funcionar. Leia e concorde com a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Concordar?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
-  <string name="bootloader_status_privacy_dialog_title">Necessário permissões</string>
+  <string name="bootloader_status_privacy_dialog_title">Permissões necessárias</string>
   <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
   <string name="bootloader_status_privacy_dialog_yes">Concordar</string>
   <string name="bootloader_status_summary">Verificar se o dispositivo está bloqueado</string>
@@ -2489,6 +2489,11 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="dock_sounds_enable_summary_on">Reproduzir sons ao inserir ou remover o telefone da estação de ancoragem</string>
   <string name="dock_sounds_enable_title">Som ao inserir estação de ancoragem</string>
   <string name="docking_sounds_title">Sons da estação de ancoragem</string>
+  <string name="document_default_status">Seleccionar</string>
+  <string name="document_excel_title">Excel</string>
+  <string name="document_pdf_title">PDF</string>
+  <string name="document_powerpoint_title">PowerPoint</string>
+  <string name="document_word_title">Word</string>
   <string name="does_not_exist">A aplicação não existe</string>
   <string name="domain_url_section_title">Aplicações instaladas</string>
   <string name="domain_urls_apps_summary_off">Sem aplicações para abrir links compatíveis</string>
@@ -2795,6 +2800,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="face_intro_error_max">Já adicionou o número máximo de rostos</string>
   <string name="face_intro_error_unknown">Não é possível adicionar mais rosto</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Ao proteger o seu telefone com uma opção de bloqueio de ecrã ninguém o vai conseguir utilizar se for roubado ou se o perder. Também precisa de uma opção de bloqueio de ecrã para configurar o desbloqueio facial. Para voltar, toque em Cancelar</string>
+  <string name="face_password_unlock">Dados do rosto e bloqueio de ecrã</string>
   <string name="face_unlock">Desbloqueio facial</string>
   <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
   <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto consome mais bateria</string>
@@ -2885,6 +2891,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
+  <string name="fingerprint_face_password_unlock">Impressões digitais, dados do rosto e bloqueio de ecrã</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de ecrã de bloqueio primeiro)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do ecrã de bloqueio primeiro)</string>
   <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desligadas pelas definições de segurança</string>
@@ -2908,6 +2915,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_others_title">Outros</string>
+  <string name="fingerprint_password_unlock">Impressões digitais e bloqueio de ecrã</string>
   <string name="fingerprint_payment">Pagamentos</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_swipe_for_notifications_summary">Para verificar as suas notificações, deslize rapidamente para baixo no sensor de impressões digitais situado na parte traseira do seu telefone</string>
@@ -3650,6 +3658,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="launch_noapp_dialog_replace">Definições</string>
   <string name="launch_notification_center">Área de notificações</string>
   <string name="launch_recents">Iniciar Recentes</string>
+  <string name="launch_smarthome">Xiaomi Quick Connect</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
   <string name="launch_wechat_health_code">WeChat health code</string>
   <string name="launch_wechat_health_code_auto_close">WeChat health code shortcut is no longer available. You can switch to a different shortcut.</string>
@@ -5005,6 +5014,35 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="owner_info_settings_title">Mensagem no ecrã de bloqueio</string>
   <string name="owner_space">Primeiro espaço</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
+  <string name="pad_backup_summary">Back up and restore items on this device</string>
+  <string name="pad_backup_title">Dispositivos móveis</string>
+  <string name="pad_computer_backup_summary">Fazer cópias e restaurar itens utilizando um computador</string>
+  <string name="pad_how_backup_content">"You can save backups locally or to the cloud. Local backups can be stored on your mobile device, computer, or USB drive.
+
+Mobile device
+Save your system settings, accounts, app data, and other items in a separate file stored on your device (MIUI-backup-AllBackup). Note: Performing a factory reset will delete such backups permanently. Remember to copy backups to your computer.
+
+Computer
+Create a backup on this device, then go to MIUI-backup-AllBackup and copy the backup to your computer via USB cable.
+
+USB drive
+Save your system settings, accounts, app data, and other items to a USB drive.
+
+Xiaomi Cloud
+Sync your contacts, photos, videos, the list of your apps, system settings, and Home screen layout with the cloud."</string>
+  <string name="pad_how_restore_backup_content">"Here's how you can restore items that were backed up using different methods:
+
+Mobile device
+Tap \"Mobile device\" find the option to restore items and select the backup to continue.
+
+Computer
+Copy the backup from your computer to MIUI-backup-AllBackup via USB cable and restore items from your mobile device.
+
+USB drive
+Copy the backup from your USB drive to MIUI-backup-AllBackup and select the option to restore items from a USB drive to continue.
+
+Xiaomi Cloud
+Open Xiaomi Cloud and restore items from there."</string>
   <string name="page_layout_1">Domingo, 16 de Agosto</string>
   <string name="page_layout_10">Definições</string>
   <string name="page_layout_11">Tempo</string>
@@ -5097,6 +5135,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
   <string name="password_toggle_content_description">Mostrar palavra-passe</string>
   <string name="password_turned_off_text">Desligado</string>
   <string name="password_turned_on_text">Ligado</string>
+  <string name="password_unlock">Bloqueio de ecrã</string>
   <string name="password_unlock_title">Bloqueio de ecrã</string>
   <string name="payment_summary">Predefinido: %1$s</string>
   <string name="peak_refresh_rate_summary">Aumentar automaticamente a taxa de actualização do ecrã de 60 para 90 Hz. Aumenta a utilização de bateria</string>

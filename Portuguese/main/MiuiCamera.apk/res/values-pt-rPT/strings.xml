@@ -1411,6 +1411,10 @@ e traz as pessoas que estão na frente"</string>
   <string name="timbre_lady">Senhora</string>
   <string name="timbre_normal">Original</string>
   <string name="timbre_robot">Robot</string>
+  <string name="time_freeze_action_end_tip">Toque para anular a paragem do segundo plano</string>
+  <string name="time_freeze_action_start_tip">Toque para parar o segundo plano</string>
+  <string name="time_freeze_adjust_button_title">Ajustar</string>
+  <string name="time_freeze_clipbox_tint">Parar</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
   <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timefreeze_guide_tip2">Pode congelar e descongelar o fundo em qualquer momento antes ou durante a filmagem</string>

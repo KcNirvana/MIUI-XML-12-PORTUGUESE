@@ -533,6 +533,7 @@
   <string name="app_running_tip_dialog_text">Sair de %1$s para prevenir de executar em segundo plano. Isto vai acelerar o seu dispositivo e reduzir o consumo de bateria</string>
   <string name="app_running_tip_dialog_title">Sair da aplicação</string>
   <string name="app_running_tip_uninstall">Desinstalar esta aplicação</string>
+  <string name="app_settings_link">Definições adicionais na aplicação</string>
   <string name="app_statusbar_audio_now">A gravar áudio</string>
   <string name="app_statusbar_camera_now">A tirar fotos</string>
   <string name="app_statusbar_location_now">Localização</string>
@@ -932,6 +933,8 @@
   <string name="confirm_fingerprint_msg">Verificar a sua impressão digital</string>
   <string name="confirm_leave">Não, obrigado</string>
   <string name="confirm_open">Ligar</string>
+  <string name="confirm_open_shut_down_password_content">Definir um bloqueio de ecrã antes de ligar a confirmação de desligamento</string>
+  <string name="confirm_open_shut_down_password_title">Definir bloqueio de ecrã</string>
   <string name="confirm_prompt_all_permission">Perguntar por permissões para todas as aplicações?</string>
   <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="confirm_take">Obter</string>
@@ -3392,6 +3395,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>
   <string name="sc_warning_updater_not_found">Não foi localizada a aplicação Actualizações</string>
   <string name="scan_installed_games">A verificar jogos instalados…</string>
+  <string name="scan_open_shut_down_password_content">Proteger o seu dispositivo de acessos indevidos</string>
+  <string name="scan_open_shut_down_password_title">Confirmação de desligamento</string>
   <string name="scan_status_risk">Perigoso</string>
   <string name="scan_status_safe">Seguro</string>
   <string name="scanning_bar_number">%d%%</string>
@@ -3472,6 +3477,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar esta funcionalidade em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>
   <string name="showpattern">Mostrar padrão</string>
+  <string name="shut_down_password_content">Se perder o dispositivo, a confirmação de desligamento vai protegê-lo de ser desligado por quem o encontrar</string>
   <string name="shutdown_cancel_reminder">Não desligou</string>
   <string name="shutdown_cancel_reminder_detail">O dispositivo não vai desligar porque está no decorrer de uma chamada</string>
   <string name="shutdown_cancel_reminder_detail2">Parece que está a jogar. O desligamento programado foi cancelado</string>
@@ -3873,6 +3879,7 @@ Formatar vai eliminar todo o conteúdo existente no ^2. Para evitar a perda de d
   <string name="suggest_app_tolock_masked">Conteúdo oculto</string>
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
   <string name="suggest_scan_again">Conclua a verificação para evitar riscos de segurança</string>
+  <string name="suggest_to_use_mi_sim">Use Mi Sim to prevent you from generating additional carrier fees.</string>
   <string name="summary_app_lock_disable">Proteger os seus dados com o Bloqueio de aplicações</string>
   <string name="summary_app_update_new">Actualizar aplicações para aceder a novas funcionalidades</string>
   <string name="summary_auto_update">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>
@@ -4248,6 +4255,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_setting_fragment_title_guide">Operadoras e planos de dados</string>
   <string name="traffic_to_limit_warning">Já utilizou %s do limite de dados</string>
   <string name="traffic_usage_warning_body">Já utilizou %s de dados móveis este mês</string>
+  <string name="traffic_usage_warning_body_go_to_mi_sim">"You've already used %s of mobile data this month,Tap to use Mi SIM."</string>
   <string name="traffic_usage_warning_limit">Limite de utilização de dados</string>
   <string name="traffic_usage_warning_title">Aviso de utilização de dados</string>
   <string name="try_game">Experimentar</string>
@@ -4355,6 +4363,8 @@ Esta funcionalidade não funciona com suavização de movimento.
 Ligar uma das funcionalidade vais desligar a outra"</string>
   <string name="vb_video_super_division_tips">"Não é claro o suficiente?
 Tente aumentar a resolução!"</string>
+  <string name="verify_shut_down_password_content">Necessário confirmar o bloqueio de ecrã para desligar o dispositivo</string>
+  <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
   <string name="video_repeat">Reproduzir novamente</string>
   <string name="videobox_hangup_tips_content">Esta funcionalidade permite que a aplicação seja executada em segundo plano com o ecrã desligado. Ligar agora?</string>
   <string name="videobox_hangup_tips_title">Atenção</string>

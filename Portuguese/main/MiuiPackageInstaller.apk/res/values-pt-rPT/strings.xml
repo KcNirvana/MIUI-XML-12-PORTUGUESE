@@ -18,6 +18,7 @@
   <string name="all_permissions">Todas as permissões</string>
   <string name="anonymous_source_continue">Continuar</string>
   <string name="anonymous_source_warning">O seu telefone e dados pessoais são mais vulneráveis aos ataques por aplicações desconhecidas. Ao instalar esta aplicação, está a concordar que é responsável por qualquer dano ou perda de dados resultante da sua utilização</string>
+  <string name="anonymous_source_warning_tablet">Os seus dispositivos e dados pessoais são mais vulneráveis aos ataques por aplicações desconhecidas. Ao instalar esta aplicação, está a concordar que é responsável por qualquer dano ou perda de dados resultante da sua utilização</string>
   <string name="app_install_failed_button_text">Pesquisar aplicações</string>
   <string name="app_name">Instalador de pacotes</string>
   <string name="app_name_unknown">Desconhecido</string>
@@ -120,8 +121,10 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="install_failed_blocked">O pacote foi impedido de ser instalado</string>
   <string name="install_failed_conflict">O pacote entra em conflito com um pacote existente com o mesmo nome</string>
   <string name="install_failed_incompatible">Esta aplicação não é compatível com o seu telefone</string>
+  <string name="install_failed_incompatible_tablet">Esta aplicação não é compatível com o seu dispositivo</string>
   <string name="install_failed_invalid_apk">O pacote parece estar corrompido</string>
   <string name="install_failed_msg">Não foi possível instalar %1$s</string>
+  <string name="install_failed_msg_tablet">Não foi possível instalar %1$s</string>
   <string name="install_failed_system_incompatible">Esta aplicação não é compatível com a MIUI</string>
   <string name="install_finished_notification_summary">Toque para libertar espaço</string>
   <string name="install_finished_notification_title">%1$s instalado com sucesso. Pode libertar %2$s</string>
@@ -338,12 +341,10 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="uninstalling">A desinstalar…</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_apps_admin_dlg_text">O seu administrador não permite a instalação de aplicações obtidas de fontes desconhecidas</string>
-  <string name="unknown_apps_dlg_text">Para sua segurança, o seu telefone está definido para bloquear a instalação de aplicações obtidas de fontes desconhecidas</string>
   <string name="unknown_installer">Ferramentas não identificadas</string>
   <string name="unlike">Não obrigado</string>
   <string name="untrusted_external_source_always_click">Permitir sempre</string>
   <string name="untrusted_external_source_title">Permitir que \"%1$s\" possa instalar aplicações?</string>
-  <string name="untrusted_external_source_warning">Para sua segurança, não tem permissão para instalar aplicações desconhecidas desta origem</string>
   <string name="untrusted_external_source_warning_summary">O seu telefone e dados pessoais estão vulneráveis a ataques de origens desconhecidas. Ao permitir a instalação destas aplicações por origens desconhecidas, está a responsabilizar-se por qualquer dano ou perda de dados que possa resultar da utilização dessas aplicações</string>
   <string name="user_is_not_allowed_dlg_text">O utilizador actual não tem permissão para fazer esta desinstalação</string>
   <string name="user_is_not_allowed_dlg_title">Não permitido</string>

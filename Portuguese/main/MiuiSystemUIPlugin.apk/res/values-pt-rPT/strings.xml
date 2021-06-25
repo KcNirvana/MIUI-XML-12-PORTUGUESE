@@ -94,6 +94,7 @@
   <string name="quick_settings_pcmode_turn_off_description">O ecrã do seu telefone vai ser mostrado no ecrã externo. Desligar o Modo PC?</string>
   <string name="quick_settings_pcmode_turn_on_description">O ecrã do seu computador vai ser mostrado no ecrã externo. Ligar o Modo PC?</string>
   <string name="quick_settings_scanner_label">Digitalizador</string>
+  <string name="quick_settings_uwbsh_label">Controlos mágicos Xiaomi</string>
   <string name="quick_settings_wireless_label">Carregamento sem fios reverso</string>
   <string name="reboot_info_auto_boot">Próximo alarme: %s</string>
   <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>

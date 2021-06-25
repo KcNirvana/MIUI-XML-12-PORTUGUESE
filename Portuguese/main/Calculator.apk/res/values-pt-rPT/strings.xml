@@ -177,8 +177,10 @@
   <string name="label_from_date">De</string>
   <string name="label_history">Histórico</string>
   <string name="label_interest">Juros (%)</string>
+  <string name="label_investment_disclaimer">Estamos a utilizar um período de 3 meses para cálculos recorrentes</string>
   <string name="label_investment_duration">Duração</string>
   <string name="label_loan_tenure">Posse do empréstimo</string>
+  <string name="label_monthly_investment">Investimento mensal</string>
   <string name="label_months">Meses</string>
   <string name="label_no_history">Sem itens</string>
   <string name="label_powered_by">Fornecido por Calculadora</string>
@@ -701,6 +703,10 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
   <string name="withdraw_network_error">O seu dispositivo necessita de ligar à rede para remover o consentimento. Verifique as suas definições de rede e tente novamente</string>
   <string name="word_figure_guide_text">Prima e segure o texto para converter</string>
   <string name="yesterday">Ontem</string>
+  <string name="xiaomi_calculator_delete_description">Calculadora é uma aplicação de sistema. Não vai poder utilizar a mesma depois de desinstalar</string>
+  <string name="xiaomi_calculator_delete_title">Desinstalar Calculadora?</string>
+  <string name="xiaomi_calculator_remove_icon_description">Calculadora é uma aplicação de sistema. Não vai poder utilizar a mesma depois de a remover do ecrã inicial</string>
+  <string name="xiaomi_calculator_remove_icon_title">Remover \"Calculadora\" do ecrã inicial?</string>
   <string name="xiaomi_connect_download_manager_fail">Erro no Gestor de Transferências</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
   <string name="xiaomi_update_dialog_message">"Versão %1$s
