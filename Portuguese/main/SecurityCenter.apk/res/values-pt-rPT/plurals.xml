@@ -28,6 +28,18 @@
     <item quantity="other">Restringidas %2$d vezes às %1$s</item>
     <item quantity="one">Restringida %2$d vez às %1$s</item>
   </plurals>
+  <plurals name="app_behavior_desc_duration_usage">
+    <item quantity="other">Permitidas %3$d vezes entre %1$s e %2$s</item>
+    <item quantity="one">Permitida %3$d vez entre %1$s e %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_duration_usage_time">
+    <item quantity="other">Utilizada por %1$d minutos</item>
+    <item quantity="one">Utilizada por %1$d minuto</item>
+  </plurals>
+  <plurals name="app_behavior_desc_duration_usage_time_end">
+    <item quantity="other">Utilizada por %1$d minutos até %2$s</item>
+    <item quantity="one">Utilizada por %1$d minuto até %2$s</item>
+  </plurals>
   <plurals name="app_behavior_desc_virtual">
     <item quantity="other">Devolvidas %3$d mensagens em branco entre %1$s e %2$s</item>
     <item quantity="one">Devolvida %3$d mensagem em branco entre %1$s e %2$s</item>
@@ -230,9 +242,17 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">Get a %d-day free trial</item>
     <item quantity="one">Get a %d-day free trial</item>
   </plurals>
+  <plurals name="gtb_brightness_dialog_message">
+    <item quantity="other">Esta funcionalidade diminui o brilho do ecrã após %d minutos de inactividade automaticamente. Manter ligada?</item>
+    <item quantity="one">Esta funcionalidade diminui o brilho do ecrã após %d minuto de inactividade automaticamente. Manter ligada?</item>
+  </plurals>
+  <plurals name="gtb_setting_item_summary_brightness">
+    <item quantity="other">Diminuir o brilho do ecrã automaticamente após %d minutos de inactividade</item>
+    <item quantity="one">Diminuir o brilho do ecrã automaticamente após %d minuto de inactividade</item>
+  </plurals>
   <plurals name="gtb_spring_festival_colored_egg">
-    <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-    <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    <item quantity="other">Parabéns. Desbloqueou %s Easter eggs</item>
+    <item quantity="one">Parabéns. Desbloqueou %s Easter egg</item>
   </plurals>
   <plurals name="hide_txt_hint_with_blank_2">
     <item quantity="other">    +%1$d mais caracteres</item>

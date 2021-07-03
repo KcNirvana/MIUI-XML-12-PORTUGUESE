@@ -202,7 +202,9 @@
   <string name="screen_button_notification_title">Botões de navegação desligados</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume Mais e Voltar simultaneamente</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desligar esta funcionalidade, prima o botão Volume Mais</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Para desligar esta funcionalidade, prima o botão Volume Mais</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a zona do auscultador</string>
+  <string name="screen_on_proximity_sensor_summary_for_kddi">Não tape a zona do sensor de proximidade</string>
   <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
   <string name="screen_paper_mode_enter_toast">O Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada</string>
@@ -237,6 +239,10 @@
   <string name="slavewifi_disconnect">Desligar</string>
   <string name="slavewifi_notification_title">A utilizar dupla banda Wi-Fi</string>
   <string name="slavewifi_settings">Toque para alterar as definições</string>
+  <string name="small_freeform_enter_warning">Janelas flutuantes</string>
+  <string name="small_freeform_exit_tip">Fechar janelas flutuantes</string>
+  <string name="small_freeform_memory_toast_app_type">Não é possível abrir agora. Esta aplicação necessita de mais memória para poder funcionar</string>
+  <string name="small_freeform_memory_toast_game_type">Não é possível abrir agora. Este jogo necessita de mais memória para poder funcionar</string>
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="standard">Silêncio</string>

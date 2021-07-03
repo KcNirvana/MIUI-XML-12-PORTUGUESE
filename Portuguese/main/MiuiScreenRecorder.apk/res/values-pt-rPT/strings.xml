@@ -46,9 +46,11 @@ Toque para ver"</string>
   <string name="is_go_home_summary">Abrir a página inicial do Gravador de Ecrã após parar a gravação</string>
   <string name="loopback_sound">Colunas</string>
   <string name="low_battery">Carregue a bateria antes de começar a gravar</string>
+  <string name="low_battery_for_pad">Carregue a bateria antes de começar a gravar</string>
   <string name="low_battery_title">Bateria fraca</string>
   <string name="low_battery_warning">Bateria fraca. A gravação foi parada e o vídeo guardado</string>
-  <string name="low_memory">Tem menos de 1GB de espaço disponível. Pode apenas gravar até 20 minutes</string>
+  <string name="low_memory">Tem menos de 1GB de espaço disponível. Pode apenas gravar até 20 minutos</string>
+  <string name="low_memory_for_pad">Tem menos de 1GB de espaço disponível. Pode apenas gravar até 20 minutes</string>
   <string name="low_memory_title">Sem espaço suficiente</string>
   <string name="low_momery_warning">Sem espaço suficiente. A gravação foi parada e o vídeo guardado</string>
   <string name="memory_not_allowed">Sem espaço suficiente. Liberte algum espaço e tente novamente</string>
@@ -108,5 +110,6 @@ Toque para ver"</string>
   <string name="using_record_confirm_cancel">Restringir</string>
   <string name="using_record_confirm_ok">Permitir</string>
   <string name="view_recorded_file">Toque para ver a gravação</string>
+  <string name="view_recorded_videos">Ver gravações</string>
   <string name="warning_recording_when_a2dp_connect">O seu dispositivo não suporta a gravação de sons de sistema enquanto os auscultadores Bluetooth estiverem a ser utilizados</string>
 </resources>

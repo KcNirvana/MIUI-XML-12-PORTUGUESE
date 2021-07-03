@@ -280,7 +280,7 @@ Envie este código ao supervisor"</string>
   <string name="loading">Aguarde…</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
-  <string name="lock_show_permission_exception">Ocorreu um erro. Dê permissão para que os papéis de parede aleatórios possam ser mostrados no ecrã de bloqueio em Segurança</string>
+  <string name="lock_show_permission_exception">Dê permissão para que os papéis de parede aleatórios possam ser mostrados no ecrã de bloqueio em Segurança</string>
   <string name="like">Adicionar aos favoritos</string>
   <string name="liked">Adicionado aos favoritos</string>
   <string name="lockscreen_h5_back_tv">Voltar</string>

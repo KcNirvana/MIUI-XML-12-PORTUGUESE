@@ -31,7 +31,6 @@
   <string name="app_permissions_group_summary">%1$d de %2$d aplicações permitidas</string>
   <string name="app_store_install_hint">Instalar agora</string>
   <string name="app_store_installing_message">A instalar…</string>
-  <string name="app_store_missing_message">Ainda não instalou a nossa loja de aplicações oficial. Instalar agora?</string>
   <string name="app_store_missing_title">A loja de aplicações não está instalada</string>
   <string name="application_detail_tips">Detalhes da aplicação e permissões necessárias</string>
   <string name="auto_startup_dialog_msg">Esta aplicação pode iniciar sem a sua permissão</string>
@@ -101,6 +100,7 @@ Todos os dados anteriores vão ser guardados"</string>
   <string name="install_confirm_dialog_title">Atenção</string>
   <string name="install_confirm_question">Instalar esta aplicação? Vai ter acesso a:</string>
   <string name="install_confirm_question_des_10">Se estiver disposto a correr os riscos e quiser prosseguir com a instalação, autorize a instalação em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Aplicações inseguras</string>
+  <string name="install_confirm_question_des_10_tablet">Se estiver disposto a correr os riscos e quiser prosseguir com a instalação, autorize a instalação em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Aplicações inseguras</string>
   <string name="install_confirm_question_no_perms">Instalar esta aplicação? Não necessita de permissões especiais</string>
   <string name="install_confirm_question_update">Instalar uma actualização para esta aplicação existente? Os dados existentes não vão ser perdidos. A aplicação actualizada vai ter acesso a:</string>
   <string name="install_confirm_question_update_no_perms">Instalar uma actualização para esta aplicação existente? Os dados existentes não vão ser perdidos. Não necessita de permissões especiais</string>
@@ -296,7 +296,6 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="pref_key_app_store_title">Recomendar versões seguras</string>
   <string name="privacyPerms">Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
-  <string name="reboot_time">A preparar-se para reiniciar… (%1$s)</string>
   <string name="replace_app_des_text">Substituir a aplicação com esta versão?</string>
   <string name="review_button_cancel">Cancelar</string>
   <string name="review_button_continue">Continuar</string>
@@ -315,6 +314,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
  "&lt;li&gt;Quando uma aplicação contém vírus&lt;/li&gt;"
  "&lt;li&gt;O pacote de instalação vem duma origem desconhecida&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">O seu telefone está sujeito a riscos de segurança. Não vai ser questionado para instalar versões seguras de aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
+  <string name="settings_warning_dialog_msg_tablet">O seu dispositivo está sujeito a riscos de segurança. Não vai ser questionado para instalar versões seguras de aplicações se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="settings_warning_dialog_title">Atenção</string>
   <string name="spannable_continue_text">Eu percebo os riscos. Instalar mesmo assim</string>
   <string name="system_warning">Se negar esta permissão, as funcionalidades básicas podem não funcionar correctamente</string>
@@ -346,6 +346,7 @@ Em alternativa, pode desligar o modo Leve e tentar novamente"</string>
   <string name="untrusted_external_source_always_click">Permitir sempre</string>
   <string name="untrusted_external_source_title">Permitir que \"%1$s\" possa instalar aplicações?</string>
   <string name="untrusted_external_source_warning_summary">O seu telefone e dados pessoais estão vulneráveis a ataques de origens desconhecidas. Ao permitir a instalação destas aplicações por origens desconhecidas, está a responsabilizar-se por qualquer dano ou perda de dados que possa resultar da utilização dessas aplicações</string>
+  <string name="untrusted_external_source_warning_summary_tablet">O seu dispositivo e dados pessoais estão vulneráveis a ataques de origens desconhecidas. Ao permitir a instalação destas aplicações por origens desconhecidas, está a responsabilizar-se por qualquer dano ou perda de dados que possa resultar da utilização dessas aplicações</string>
   <string name="user_is_not_allowed_dlg_text">O utilizador actual não tem permissão para fazer esta desinstalação</string>
   <string name="user_is_not_allowed_dlg_title">Não permitido</string>
   <string name="virus_scan_caller_unknown">Desconhecido</string>

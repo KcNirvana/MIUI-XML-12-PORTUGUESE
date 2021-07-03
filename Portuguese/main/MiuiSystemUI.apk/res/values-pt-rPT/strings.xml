@@ -954,7 +954,9 @@ Continuar a mostrá-las?"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Não é possível trocar de espaços quando o modo de poupança extrema está ligado</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_pattern_after_boot_msg">Para desbloquear o dispositivo, introduza o seu padrão</string>
   <string name="input_pattern_hint_text">Desenhar padrão</string>
+  <string name="input_pin_after_boot_msg">Para desbloquear o dispositivo, introduza o seu PIN</string>
   <string name="input_pin_code">Introduzir PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
   <string name="install_other_apps">Instalação de aplicações desconhecidas</string>

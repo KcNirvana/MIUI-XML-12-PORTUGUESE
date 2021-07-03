@@ -21,5 +21,6 @@ uma captura de ecrã extendida"</string>
     <string name="screenshot_insert_failed">Não foi possível carregar a captura de ecrã. Crie uma nova ou veja a imagem na Galeria</string>
     <string name="screenshot_long_screenshot">Deslizar</string>
     <string name="screenshot_send">Enviar</string>
+    <string name="screenshot_thumbnail">Miniaturas da captura de ecrã</string>
     <string name="search_menu_title">Pesquisa</string>
 </resources>

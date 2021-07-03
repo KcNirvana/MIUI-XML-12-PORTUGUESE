@@ -1963,6 +1963,7 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="custom_color">Personalizado</string>
   <string name="custom_gesture_title">Gestos personalizados</string>
   <string name="custom_wifi_name_title">Editar nome do Wi-Fi</string>
+  <string name="customize_knock_gesture">Gestos de toques personalizados</string>
   <string name="cutout_mode_always">Mostrar sempre o entalhe</string>
   <string name="cutout_mode_default">Automático</string>
   <string name="cutout_mode_settings_title">Algumas aplicações podem ser mostradas incorrectamente se personalizar o modo como o entalhe é mostrado</string>
@@ -2505,6 +2506,8 @@ Para corrigir este problema, pode desligar a localização para esta aplicação
   <string name="done_button">Concluído</string>
   <string name="double_click_power_key">Duplo toque no botão Ligar/Desligar</string>
   <string name="double_click_volume_down_when_lock">Duplo toque no botão Volume- com o ecrã bloqueado</string>
+  <string name="double_knock">Duplo toque</string>
+  <string name="double_tap_power_for_camera_suggestion_title">Abrir câmara rapidamente</string>
   <string name="double_tap_power_for_camera_summary">Para abrir rapidamente a câmara, prima duas vezes o botão Ligar/Desligar. Funciona a partir de qualquer ecrã</string>
   <string name="double_tap_power_for_camera_title">Abrir a câmara rapidamente</string>
   <string name="double_twist_for_camera_mode_title">Inverter a câmara para selfie</string>
@@ -3177,6 +3180,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_anim_rhythm">Ritmo</string>
   <string name="gxzw_anim_star">Estrelas</string>
   <string name="gxzw_anim_title">Animações da impressão digital</string>
+  <string name="gxzw_anim_unlock_effect">Animação %s</string>
   <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque no ecrã para fazer aparecer o ícone de impressão digital. Esta funcionalidade aumenta o consumo de bateria</string>
   <string name="gxzw_aod_show_tittle">Ícone de impressão digital com o ecrã desligado</string>
   <string name="gxzw_dialog_message">Para utilizar o sensor de impressão digital no ecrã, utilize apenas protectores de ecrã compatíveis ou autorizados</string>
@@ -3489,6 +3493,12 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="ipaddr_label">IPaddr:</string>
   <string name="item_system_app">Aplicações de sistema</string>
   <string name="join_two_items">%1$s e %2$s</string>
+  <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_disabled_summary">Unavailable because NFC/Osaifu-keitai is turned off</string>
+  <string name="kddi_nfc_quick_toggle_summary">Enable NFC/Osaifu-keitai function</string>
+  <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_secure_settings_title">Bloquear no ecrã de bloqueio</string>
+  <string name="kddi_nfc_secure_toggle_summary">Allow NFC/Osaifu-keitai function while the screen is unlocked</string>
   <string name="keep_legacy_fingerprint">Manter</string>
   <string name="keep_screen_on">Não bloquear ecrã</string>
   <string name="keep_screen_on_summary">O ecrã nunca vai entrar em suspensão durante o carregamento</string>
@@ -3629,6 +3639,17 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="keywords_wifi_notify_open_networks">WiFi, Wi-Fi, telefonar, chamadas</string>
   <string name="keywords_write_settings">gravar modificar definições do sistema</string>
   <string name="kid_space_settings">Espaço crianças</string>
+  <string name="knock_edge_area_invalid">Este gesto não funciona perto dos limites do ecrã</string>
+  <string name="knock_guide_dialog_title">Seleccionar uma acção para este gesto. Pode alterar mais tarde em Definições > Definições adicionais > Atalhos de botões</string>
+  <string name="knock_guide_drive_desc">Tirar capturas de ecrã enquanto conduz</string>
+  <string name="knock_guide_launch_desc">Ligar a Mi IA quando o seu telefone estiver deitado na mesa</string>
+  <string name="knock_guide_set_screenshot">Captura de ecrã</string>
+  <string name="knock_guide_set_voiceassist">Mi IA</string>
+  <string name="knock_guide_sub_title">Pode ligar a Mi IA ou tirar capturas de ecrã com toques no ecrã</string>
+  <string name="knock_guide_title">Duplo toque</string>
+  <string name="knock_long_press_horizontal_slid">Premir e deslizar com um toque</string>
+  <string name="knock_slide_shape">Desenhar um círculo com um toque</string>
+  <string name="knock_slide_v">Desenhar V com um toque</string>
   <string name="label_available">Redes disponíveis</string>
   <string name="label_mi_stats">Analíticas Mi</string>
   <string name="language_and_input_for_work_category_title">Teclados e ferramentas do perfil de trabalho</string>
@@ -3996,7 +4017,8 @@ para o Segundo espaço"</string>
   <string name="low_label">Baixa</string>
   <string name="low_storage_summary">Tem pouco espaço de armazenamento. %1$s utilizados – %2$s livres</string>
   <string name="macaddr_label">Endereço MAC:</string>
-  <string name="magic_window_name">Janelas paralelas</string>
+  <string name="magic_list_empty_text">Sem aplicações compatíveis com esta funcionalidade</string>
+  <string name="magic_window_name">Optimizar aplicações para o modo paisagem</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testar ligação por erros de rede</string>
   <string name="main_running_process_description">Processo principal em utilização</string>
@@ -5681,6 +5703,7 @@ Reinicie o seu dispositivo e tente novamente"</string>
   <string name="reset_network_final_desc">Repor todas as definições de rede? Não é possível anular esta acção!</string>
   <string name="reset_network_final_desc_esim">Repor todas as definições de rede e eliminar os SIM transferidos? Não pode reverter esta acção!</string>
   <string name="reset_network_title">Reposição de Wi-Fi, redes móveis e Bluetooth</string>
+  <string name="reset_network_title_noSim">Reposição de Wi-Fi e Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_remove_data_hint">Todos os itens listados acima vão ser eliminados permanentemente. Faça cópias de todos os itens importantes para o seu computador ou Xiaomi Cloud antes de continuar</string>
   <string name="reset_second_space_passwd">Repor a palavra-passe do Segundo espaço</string>
@@ -7775,7 +7798,10 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
   <string name="voice_service_preference_section_title">Serviços de entrada de texto por voz</string>
   <string name="voicemail_number_not_set">&lt;Não definido></string>
-  <string name="voip_assistant_settings">Assitente VoIP</string>
+  <string name="voip_assistant_settings">Assistente VoIP</string>
+  <string name="voip_assistant_settings_off">Desligado</string>
+  <string name="voip_assistant_settings_on">Ligado</string>
+  <string name="voip_assistant_settings_summary">Gravar chamadas VoIP e utilizar a optimização</string>
   <string name="volte_5G_limited_text">"Isto também vai desligar a ligação 5G.
 Durante uma chamada de voz, não pode utilizar a Internet e algumas aplicações podem não funcionar"</string>
   <string name="volte_5G_limited_title">Desligar VoLTE?</string>

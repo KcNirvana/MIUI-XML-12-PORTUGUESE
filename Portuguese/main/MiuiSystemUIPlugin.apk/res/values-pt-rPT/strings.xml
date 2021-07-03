@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="already_in_small_freeform">Algumas aplicações são abertas em janelas flutuantes</string>
+  <string name="app_name">Plugin da IU de sistema</string>
   <string name="controls_confirmation_message">Confirmar alteração para %s</string>
   <string name="controls_dialog_confirmation">Controlos actualizados</string>
   <string name="controls_dialog_message">%s sugeriu este controlo para os favoritos</string>
@@ -57,6 +58,10 @@
   <string name="hearing_assist_transmission_tips_continue">Ligar</string>
   <string name="hearing_assist_transmission_tips_summary">Transmitir o microfone do seu telefone para os auriculares Bluetooth. Ligar agora?</string>
   <string name="hearing_assist_transmission_tips_title">Monitorização ao vivo</string>
+  <string name="icon_content_description">Ícone de diálogo</string>
+  <string name="item_view_role_description">Separador</string>
+  <string name="kddi_miui_toast_zen_standard_to_off">As chamadas e notificações vão ser reproduzidas</string>
+  <string name="kddi_miui_toast_zen_to_standard">As chamadas e notificações vão ser silenciadas</string>
   <string name="loading">Estado desconhecido</string>
   <string name="miui_dnd_count_down">Definir temporizador</string>
   <string name="miui_dnd_count_down_time">"Temporizador Não incomodar
@@ -72,9 +77,11 @@
   <string name="miui_ringer_total">Não incomodar</string>
   <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons de chamadas e notificações voltaram ao normal</string>
+  <string name="miui_toast_zen_dnd_to_off_T">As notificações voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Modo Silêncio desligado</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
   <string name="miui_toast_zen_to_dnd">As chamadas e notificações vão ser silenciadas</string>
+  <string name="miui_toast_zen_to_dnd_T">As notificações vão ser silenciadas</string>
   <string name="miui_toast_zen_to_dnd_when_lock">As chamadas e notificações vão ser silenciadas quando o dispositivo for bloqueado</string>
   <string name="miui_toast_zen_to_standard">Modo Silêncio ligado</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons multimédia vão ser silenciados</string>
