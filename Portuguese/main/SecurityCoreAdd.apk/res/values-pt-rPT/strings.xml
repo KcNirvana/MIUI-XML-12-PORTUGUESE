@@ -340,6 +340,8 @@ Separe e proteja os seus dados"</string>
   <string name="settings_notification_and_switch_second_space">Definições do Segundo espaço</string>
   <string name="settings_notification_from_owner_space_title">Mostrar notificações do Primeiro espaço</string>
   <string name="settings_notification_from_second_space_title">Mostrar notificações do Segundo espaço</string>
+  <string name="settings_notification_second_space_show_in_locked_summary">Mostrar notificações do Segundo espaço no ecrã de bloqueio</string>
+  <string name="settings_notification_second_space_show_in_locked_title">Mostrar notificações no ecrã de bloqueio</string>
   <string name="settings_second_space_entrance_summary">Mostrar atalho do Segundo espaço nas Definições</string>
   <string name="settings_second_space_entrance_title">Atalhos nas Definições</string>
   <string name="settings_set_password_for_owner_space">Definir um bloqueio de ecrã no Primeiro espaço</string>

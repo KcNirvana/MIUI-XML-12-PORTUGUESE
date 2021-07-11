@@ -44,6 +44,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="failure">Erro</string>
   <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de utilizador segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
+  <string name="high_temp_benchmark_state">Sobreaquecimento</string>
+  <string name="high_temp_benchmark_state_message">O seu dispositivo está demasiado quente. Tente novamente mais tarde</string>
   <string name="high_temp_state">Sobreaquecimento</string>
   <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
   <string name="hints_loading_text">Aguarde…</string>
@@ -98,14 +100,15 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="show_system_app">Mostrar aplicações de sistema</string>
   <string name="sleep_config_enhance_description">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
   <string name="sleep_config_enhance_description_non_nfc">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
+  <string name="sleep_config_enhance_description_pad">Sempre que a MIUI detectar inactividade vai fechar aplicações em segundo plano, restringir NFC, Bluetooth, GPS, utilização de dados móveis e Wi-Fi e não vai ligar o ecrã para notificações</string>
   <string name="sleep_config_enhance_title">Modo de suspensão</string>
   <string name="sleepmode_disclaimer_agree">Concordar</string>
   <string name="sleepmode_disclaimer_cancel">Cancelar</string>
   <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor. "</string>
   <string name="sleepmode_privacy_link">Saiba mais acerca da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo de suspensão</string>
-  <string name="softbank_high_temp_toast_time_10min">Lanterna desligada para evitar superaquecimento</string>
-  <string name="softbank_high_temp_toast_time_4min">Flash desligado para evitar superaquecimento</string>
+  <string name="softbank_high_temp_toast_time_10min">Lanterna desligada para evitar sobreaquecimento</string>
+  <string name="softbank_high_temp_toast_time_4min">Flash desligado para evitar sobreaquecimento</string>
   <string name="stricter_high_temp_state_message">O seu dispositivo está a aquecer. Apenas pode utilizar as aplicações Contactos e Telefone</string>
   <string name="sucess">Concluído</string>
   <string name="update_profile_failture_not_connect_wifi">Não foi possível actualizar. Ligue-se ao Wi-Fi e tente novamente</string>

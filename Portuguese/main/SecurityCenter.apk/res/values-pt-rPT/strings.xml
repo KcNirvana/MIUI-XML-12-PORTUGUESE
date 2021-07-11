@@ -592,6 +592,7 @@
   <string name="applock_no_account_login">Não tem sessão iniciada na sua Conta Mi</string>
   <string name="applock_not_add_account"><u>Agora não</u></string>
   <string name="applock_not_login_account">Não tem sessão iniciada</string>
+  <string name="applock_numeric_pwd_type_line">Total de dígitos na palavra-passe: %1$d | Dígitos introduzidos: %2$d</string>
   <string name="applock_operate_faceunlock_summary">Desbloquear aplicações olhando apenas para o ecrã</string>
   <string name="applock_operate_faceunlock_title">Utilizar desbloqueio facial</string>
   <string name="applock_operate_fingerprint_summary">O Bloqueio de aplicações suporta várias impressões digitais</string>
@@ -2534,7 +2535,10 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante</string>
   <string name="pc_performance_mode_dialog_summary">O seu dispositivo vai funcionar por %s no modo desempenho. O modo desempenho aumenta o consumo de bateria e pode levar a sobreaquecimento</string>
+  <string name="pc_performance_mode_dialog_summary2">O desempenho do dispositivo vai melhorar. Isto vai aumentar o consumo de bateria e pode levar a sobreaquecimento. Ligar mesmo assim?</string>
   <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
+  <string name="pc_performance_mode_noti_summary">O modo desempenho pode aumentar o consumo de bateria e levar a sobreaquecimento</string>
+  <string name="pc_performance_mode_noti_title">Desempenho melhorado</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Poupança de bateria</string>
   <string name="pc_search_keywords_battery_use">Utilização da bateria</string>
@@ -2924,6 +2928,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_wireless_update_notification_title">Actualização do carregamento sem fios</string>
   <string name="power_wireless_update_text">Actualizado</string>
   <string name="power_wireless_update_tv_text">A actualizar firmware… Não desligue o dispositivo</string>
+  <string name="pp_anti_track_summary">Não permitir o rastreio de actividades</string>
+  <string name="pp_antitrack_detail">As aplicações pode rastrear as suas actividades pessoais através de identificadores, localização e outras informações pessoais. Rastrear as suas actividades em diferentes aplicações e sites permite a personalização de anúncios e conteúdo relevante para si</string>
   <string name="pp_app_behavior_record_detail">Registar todos os comportamentos da aplicação</string>
   <string name="pp_app_del_img_intercept_detail">Receber notificações quando as aplicações eliminarem itens da Galeria sem a sua permissão</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Receber notificações quando as aplicações utilizarem permissões de alto risco</string>
@@ -2935,6 +2941,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pp_app_reads_clipboard_smart_reminder_detail">A MIUI vai decidir se as aplicações têm permissão para aceder à área de transferências. Quando isso acontecer, vai receber uma notificação</string>
   <string name="pp_app_warning_permission_tips">Receber notificações sobre o comportamento da aplicação</string>
   <string name="pp_app_warning_permission_tips_detail">Receber notificações quando as aplicações acederem à sua localização, gravem áudio ou utilizem a câmara</string>
+  <string name="pp_block_mac">Restringir acesso ao endereço MAC</string>
+  <string name="pp_block_mac_summary">O acesso ao endereço MAC está restringido por defeito para todas as aplicações</string>
   <string name="pp_call_phone_msg">Registo de chamadas</string>
   <string name="pp_capability_approved_title">As nossas medidas de protecção de privacidade foram testadas e certificadas pelos principais especialistas da indústria</string>
   <string name="pp_chain_start_is_prohibited">Restringir o início desencadeado</string>
@@ -2951,14 +2959,19 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pp_hide_app_form_desktop">Remover os ícones das aplicações do ecrã inicial</string>
   <string name="pp_icon_layout_status_bg_content_enable">Protegido</string>
   <string name="pp_icon_layout_status_bg_content_unable">Desligado</string>
+  <string name="pp_identifier_protection">Proteger identificadores pessoais</string>
   <string name="pp_interception_net_visit_content_manager">Proteger a Galeria e aplicações de redes sociais</string>
   <string name="pp_interception_net_visit_content_manager_detail">Seleccionar que aplicações têm permissão de aceder à Galeria e às suas fotos, vídeos e mensagens da aplicações de redes sociais</string>
   <string name="pp_local_msg">Localização</string>
   <string name="pp_manage_apps_location_information">Permitir que as aplicações acedam à sua localização</string>
+  <string name="pp_manage_track">Monitorizar rastreios</string>
+  <string name="pp_manage_track_summary">Detectar e desactivar vários tipos de rastreios dentro das aplicações. Estes rastreios podem partilhar dados pessoais ao acederem e guardarem itens no armazenamento interno ou utilizarem SDKs para rastrearem a sua actividade</string>
   <string name="pp_one_app_two_use">Utilizar duas contas sem terminar sessão</string>
   <string name="pp_one_phone_two_space">Utilizar um dispositivo como dois</string>
   <string name="pp_only_allow_permission_during_this_run">Permitir que as aplicações utilizem as permissões uma vez</string>
   <string name="pp_only_allow_permission_during_this_run_detail">Pode permitir a utilização de permissões relacionadas com relacionadas com localização, gravação de áudio e contactos apenas uma vez. Estas permissões vão ser restringidas novamente após fechar a aplicação</string>
+  <string name="pp_operator_get_number">Aprovação para aceder ao número de telefone</string>
+  <string name="pp_operator_get_number_summary">As aplicações vão pedir permissão sempre que necessitarem de aceder ao seu número de telefone para iniciar sessão</string>
   <string name="pp_optional_protection_function">Medidas de protecção opcionais</string>
   <string name="pp_permission_action_virtual_detail">Conceder permissões mas enviar ficheiros em branco em vez de informações pessoais</string>
   <string name="pp_permission_settings">Permissões</string>
@@ -2967,6 +2980,10 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pp_privacy_lab_blur_location_summary">Permitir que as aplicações acedam à sua localização aproximada em vez da real</string>
   <string name="pp_privacy_lab_clipboard">Proteger a área de transferências</string>
   <string name="pp_privacy_lab_clipboard_summary">Permitir que a MIUI decida se uma aplicação pode aceder à área de transferências e receber notificações quando o fizer</string>
+  <string name="pp_privacy_lab_operator_get_number">Aprovação para aceder ao número de telefone</string>
+  <string name="pp_privacy_lab_operator_get_number_summary">As aplicações vão pedir permissão sempre que necessitarem de aceder ao seu número de telefone para iniciar sessão</string>
+  <string name="pp_privacy_lab_operator_introduction">Atenção</string>
+  <string name="pp_privacy_lab_operator_introduction_summary">As aplicações podem guardar o seu número de telefone se já foi obtido antes. Alterar esta permissão não vai eliminar os números obtidos anteriormente</string>
   <string name="pp_privacy_protection">Protecção</string>
   <string name="pp_privacy_protection_function">Funcionalidades de Protecção de Privacidade</string>
   <string name="pp_privacy_protection_lab">Laboratório de Protecção de Privacidade</string>
@@ -2993,7 +3010,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="pp_special_permission_settings_detail">Controlar como as aplicações utilizam permissões especiais</string>
   <string name="pp_storage_msg">Armazenamento</string>
   <string name="pp_understanding_privacy">Sensibilização</string>
-  <string name="pp_virtual_identity_manager">Virtual ID</string>
+  <string name="pp_virtual_identity_manager">ID virtual</string>
+  <string name="pp_virtual_identity_summary">Fornecer um ID virtual (OAID) para as aplicações em vez do identificador real. Protege a sua privacidade e permite controlar como as aplicações registam o seu comportamento</string>
   <string name="pref_about_traffic_title">Definições de utilização de dados</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_data_usage_summary">Após alterar o template de calibração, a MIUI vai utilizá-lo para obter as estatísticas de dados da sua operadora</string>
@@ -3262,7 +3280,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="privacy_search_key_5">Permissões especiais</string>
   <string name="privacy_search_key_6">Notificações de permissões</string>
   <string name="privacy_search_key_7">Localização</string>
-  <string name="privacy_search_key_8">Máscara de privacidade</string>
+  <string name="privacy_search_key_8">Não rastrear</string>
   <string name="privacy_search_key_9">ID Virtual</string>
   <string name="privacy_show_other_permissions">Mostrar outras permissões</string>
   <string name="privacy_show_password">Mostrar palavras-passe</string>

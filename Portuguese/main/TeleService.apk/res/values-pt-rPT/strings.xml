@@ -897,13 +897,13 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mobile_data_status_roaming_without_plan_subtext">Actualmente em roaming. Necessário plano de dados</string>
   <string name="mobile_geo_location_config_summary">Marcar localizações anormais de sinais de rede para melhorar a experiência de comunicação</string>
   <string name="mobile_geo_location_config_title">Optimização da qualidade da rede de ponto fixo</string>
-  <string name="mobile_intelligent_connection_title">Optimização inteligente de redes móveis</string>
-  <string name="mobile_network_dual_card_optimizationmobile_title">Optimização de redes móveis</string>
+  <string name="mobile_intelligent_connection_title">Optimização de rede móvel</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Cartões SIM e redes móveis</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
   <string name="mobile_networks">Definições de redes móveis</string>
   <string name="mobile_property">Propriedades de redes móveis</string>
-  <string name="mobile_special_network_optimization_config_summary">Perceber de forma inteligente vários cenários na rede para melhorar a experiência de comunicação</string>
-  <string name="mobile_special_network_optimization_config_title">Modo adaptável de cena</string>
+  <string name="mobile_special_network_optimization_config_summary">Melhorar a qualidade das chamadas adaptando-se a diferentes cenários automaticamente</string>
+  <string name="mobile_special_network_optimization_config_title">Adaptação a diferentes cenários</string>
   <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
   <string name="modem_dialog_title">Rede móvel instável</string>
   <string name="msim_apn_not_set">Não definido</string>

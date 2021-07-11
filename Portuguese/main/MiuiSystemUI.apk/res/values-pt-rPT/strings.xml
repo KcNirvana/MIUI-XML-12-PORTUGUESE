@@ -668,7 +668,9 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dev_logpersist_clear_warning_title">Limpar o armazenamento persistente do registo?</string>
   <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Podem causar comportamento instável do dispositivo e nas aplicações nele instaladas</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
-  <string name="device_locked_without_biometric">A detecção biométrica não pode ser executada devido ao uso da função bloqueio de ecrã de aplicações de terceiros</string>
+  <string name="device_locked_without_biometric">Não é possível desbloquear este dispositivo com impressão digital ou dados de rosto com ecrãs de bloqueio de terceiros</string>
+  <string name="device_locked_without_biometric_face">Não é possível desbloquear este dispositivo com dados de rosto com ecrãs de bloqueio de terceiros</string>
+  <string name="device_locked_without_biometric_finger">Não é possível desbloquear este dispositivo com impressão digital com ecrãs de bloqueio de terceiros</string>
   <string name="device_services">Serviços do dispositivo</string>
   <string name="direct_boot_unaware_dialog_message">Nota: após reiniciar, só é possível iniciar esta aplicação quando o dispositivo for desbloqueado</string>
   <string name="disable_carrier_button_text">Desactivar eSIM</string>
@@ -809,12 +811,24 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
+  <string name="fingerprint_again_identified_msg_password">"A sua impressão digital está activa.
+Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe"</string>
+  <string name="fingerprint_again_identified_msg_pattern">"A sua impressão digital está activa.
+Utilize-a para desbloquear o dispositivo ou desenhar o padrão"</string>
+  <string name="fingerprint_again_identified_msg_pin">"A sua impressão digital está activa.
+Utilize-a para desbloquear o dispositivo ou introduzir o PIN"</string>
   <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressões digitais</string>
   <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>
   <string name="fingerprint_enter_second_psw_title">Introduzir a palavra-passe do Segundo espaço</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
   <string name="fingerprint_not_identified_msg">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe ou tente novamente daqui a um momento</string>
   <string name="fingerprint_not_identified_msg_lock">Demasiadas tentativas incorrectas. Introduza a sua palavra-passe</string>
+  <string name="fingerprint_not_identified_msg_password">"Demasiadas tentativas incorrectas.
+Introduza a sua palavra-passe"</string>
+  <string name="fingerprint_not_identified_msg_pattern">"Demasiadas tentativas incorrectas.
+Desenhe o seu padrão"</string>
+  <string name="fingerprint_not_identified_msg_pin">"Demasiadas tentativas incorrectas.
+Introduza o seu PIN"</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
@@ -1024,6 +1038,7 @@ prioridade"</string>
   <string name="keyguard_indication_trust_disabled">O dispositivo vai permanecer bloqueado até ser desbloqueado manualmente</string>
   <string name="keyguard_indication_trust_unlocked">Mantido desbloqueado pelo Smart Lock</string>
   <string name="keyguard_instructions_when_pattern_disabled">Prima Menu para desbloquear</string>
+  <string name="keyguard_invalid_sim_puk_hint">O código PUK tem de ter %1$d dígitos</string>
   <string name="keyguard_left_remotecentral">C.Remoto</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Lanterna</string>

@@ -481,6 +481,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
 - Reprodução de áudio
 
 - Serviços de streaming online"</string>
+  <string name="privacy_request_subtitle_offline">Bem-vindo a Música! Esta aplicação fornece um leitor de ficheiros áudio</string>
   <string name="privacy_request_title">Termos e Condições</string>
   <string name="pro_member">Membro PRO</string>
   <string name="project_device">Telefone Mi</string>

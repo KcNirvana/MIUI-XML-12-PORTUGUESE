@@ -536,7 +536,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="dual_video_record_standalone">Separados</string>
   <string name="dual_video_user_guide_main_content">Para criar vídeos multicâmara, seleccione duas câmaras no seu dispositivo e grave simultaneamente. As gravações vão ser armazenadas separadamente ou combinadamente numa vista separada ou num vídeo em ecrã no ecrã</string>
   <string name="dual_video_user_guide_main_content_new">"Os vídeos multicâmara são gravados com várias câmaras em simultaneamente.
-A gravação telefone duplo permite ligar a outro dispositivo e criar um vídeo multicâmara ao seleccionar \"Combinado\""</string>
+A gravação telefone duplo permite ligar a um dispositivo próximo e criar um vídeo multicâmara ao seleccionar \"Combinado\""</string>
   <string name="dual_video_user_guide_main_title">Vídeos multicâmara</string>
   <string name="dual_video_user_guide_merge_content">Grave com duas câmaras simultaneamente e combine as gravações numa vista separada ou num vídeo em ecrã no ecrã</string>
   <string name="dual_video_user_guide_merge_content_new">Grave com duas câmaras simultaneamente e combine as gravações numa vista separada ou num vídeo em ecrã no ecrã</string>
@@ -630,6 +630,10 @@ e criar uma espectacular"</string>
 Imprima a cópia em papel A4"</string>
   <string name="id_card_mode_use_hint_text_title">Digitalizar CC</string>
   <string name="install_confirmed">Instalar</string>
+  <string name="invisible_mode_dialog_cancel">Cancelar</string>
+  <string name="invisible_mode_dialog_summary">Não é possível utilizar a câmara agora. Desligue o modo anónimo nas Definições para poder utilizar a câmara</string>
+  <string name="invisible_mode_dialog_title">Está anónimo</string>
+  <string name="invisible_mode_dialog_to_close">Definições</string>
   <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
   <string name="latitude_text">Latitude</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.

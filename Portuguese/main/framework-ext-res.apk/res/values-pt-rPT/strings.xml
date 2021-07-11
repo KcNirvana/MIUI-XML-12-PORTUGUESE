@@ -123,6 +123,12 @@
   <string name="international_livetalk_enable">A utilizar pacote de recarga para chamadas internacionais</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espaço</string>
+  <string name="keyboard_identity_reject_confirm">Percebi</string>
+  <string name="keyboard_identity_reject_message">O teclado não é compatível com este dispositivo</string>
+  <string name="keyboard_identity_transfer_error_message">Não foi possível ligar o teclado. Tente novamente</string>
+  <string name="keyboard_upgrade_failed">Não foi possível actualizar teclado</string>
+  <string name="keyboard_upgrade_start">A actualizar teclado…</string>
+  <string name="keyboard_upgrade_success">Teclado actualizado com sucesso</string>
   <string name="livetalk_not_enable">Pacote de recarga desligado</string>
   <string name="location_usage_restricted_body">Toque para permitir</string>
   <string name="location_usage_restricted_title">Acesso à localização em segundo plano restringido</string>

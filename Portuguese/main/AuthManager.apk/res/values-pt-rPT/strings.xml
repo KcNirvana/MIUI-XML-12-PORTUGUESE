@@ -92,6 +92,10 @@
   <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos ao ecrã inicial</string>
   <string name="HIPS_Perm_mediaVolume">Ajustar volume multimédia</string>
   <string name="HIPS_Perm_mediaVolume_Desc">permitir que a aplicação ajuste o volume multimédia</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Aceder ao número de telefone para iniciar sessão</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Desc">adquirir o número de telefone da operadora para iniciar sessão</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Se não conseguiu iniciar sessão com um toque, volte para a página de início e tente novamente</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Esta aplicação necessita de adquirir o seu número de telefone da operadora para iniciar sessão. Permitir?</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder à aplicação Telefone</string>
@@ -220,6 +224,7 @@
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permission_warning_template_ask">Permitir a %1$s as seguintes permissões?</string>
   <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s</string>
+  <string name="pp_privacy_lab_operator_introduction">Atenção</string>
   <string name="real_location_off">Localização aproximada ligada</string>
   <string name="real_location_on">Localização aproximada desligada</string>
   <string name="screen_overlay_button">Abrir definições</string>

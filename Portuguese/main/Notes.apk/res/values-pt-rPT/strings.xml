@@ -179,6 +179,7 @@
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
   <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo das notas ocultas</string>
   <string name="hint_foler_name">Nome</string>
+  <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="image_action_annotate">Adicionar descrição</string>
   <string name="image_action_browse">Ver imagem</string>
   <string name="image_action_delete">Eliminar imagem</string>
@@ -234,6 +235,7 @@
   <string name="new_audio_create_guide_tip">Premir e segurar para criar uma nota de voz</string>
   <string name="new_audio_create_talkback_des">Toque para criar uma nota de texto. Prima e segure para criar uma nota de voz. Soltar o botão para parar a gravação e criar a nota ou deslizar para cima para cancelar</string>
   <string name="new_data_empty_note">Sem itens</string>
+  <string name="no_network">Não é possível ligar à rede</string>
   <string name="not_now">Agora não</string>
   <string name="not_set">Não definido</string>
   <string name="note_alert_expired">Expirado</string>
@@ -543,6 +545,9 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="view_all_notes">Ver todas</string>
+  <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
+  <string name="web_sso_login_message">A iniciar sessão…</string>
+  <string name="webview_reload">Tentar novamente</string>
   <string name="widget_content_loading">Aguarde…</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>

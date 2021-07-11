@@ -573,6 +573,7 @@ Alterar definições agora?"</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Esta aplicação pode aceder às suas contas. Controlado por %1$s</string>
   <string name="app_settings_link">Definições adicionais na aplicação</string>
   <string name="app_switch_key">Recentes</string>
+  <string name="app_uninstall_sounds_enable_title">Som de desinstalação</string>
   <string name="app_usage_cycle">Ciclo de utilização de dados móveis</string>
   <string name="app_usage_preference">Preferências de utilização da aplicação</string>
   <string name="app_version">Versão</string>
@@ -2610,6 +2611,11 @@ Pode ver o registo gerado no Ficheiros"</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Monitorizar todas as constelações e frequências de GNSS sem ciclos</string>
   <string name="enable_gpu_debug_layers">Activar depuração GPU</string>
   <string name="enable_gpu_debug_layers_summary">Permitir carregamento de depuração GPU para depuração de aplicações</string>
+  <string name="enable_local_backup">Ligar</string>
+  <string name="enable_local_backup_cancel">Cancelar</string>
+  <string name="enable_local_backup_message">Ligar esta funcionalidade para poder guardar cópias neste dispositivo e copiá-las para o seu computador ou armazenamento USB. Ligar agora?</string>
+  <string name="enable_local_backup_ok">OK</string>
+  <string name="enable_local_backup_title">Cópias locais</string>
   <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
   <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS na operadora %1$s quando os dados móveis estão desligados</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
@@ -3098,7 +3104,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gadget_picker_title">Escolher gadget</string>
   <string name="gadget_toggle_wifi">A actualizar as definições de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
-  <string name="gallery_privacy_password_role_instruction">As suas fotos privadas vão ser armazenadas aqui</string>
+  <string name="gallery_privacy_password_role_instruction">Para ver os itens privados, puxar em \"Álbuns\"</string>
   <string name="game_booster">Jogo;Jogos;Turbo;Modo jogo</string>
   <string name="game_booster_title">Game Turbo</string>
   <string name="game_controller_settings_category">Controlador de jogo</string>
@@ -3758,6 +3764,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="local_backup_section_summary_new">Copiar contas, dados das aplicações e mais</string>
   <string name="local_backup_section_title">Cópias de segurança locais</string>
   <string name="local_backup_section_title_new">Neste dispositivo</string>
+  <string name="local_backup_usestatus_title">Cópias locais desligadas</string>
   <string name="locale_default">Predefinido</string>
   <string name="locale_settings">Região</string>
   <string name="location_access_summary">As aplicações podem obter informação da sua localização</string>
@@ -3885,6 +3892,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="lock_settings_title">Segurança do ecrã</string>
   <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e segurança</string>
   <string name="lock_setup">Configuração concluída</string>
+  <string name="lock_sound_effect_enable_title">Reproduzir sons ao bloquear dispositivo</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockdown_settings_summary">Mostrar a opção de botão Ligar/Desligar, que desliga o Smart Lock, o desbloqueio com dados biométricos e as notificações no ecrã de bloqueio</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -3996,6 +4004,7 @@ para o Segundo espaço"</string>
   <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Xiaomi Cloud</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_account_summary">Gerir contas, serviços cloud, pagamentos e mais</string>
+  <string name="login_account_summary_temp">Gerir contas, serviços cloud e mais</string>
   <string name="login_action">Iniciar sessão</string>
   <string name="long_press_back_key">Toque longo no botão Voltar</string>
   <string name="long_press_buttom_key">Toque longo no botão Voltar no ecrã de bloqueio</string>
@@ -4208,6 +4217,7 @@ Não pode reverter esta acção!"</string>
   <string name="mi_pay_summary_without_nfc">Mi Pay</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados</string>
   <string name="micloud_service_summary">Sincronizar a lista de aplicações, copiar definições de sistema e layout do ecrã inicial</string>
+  <string name="micloud_service_summary_temp">Sincronizar fotos, vídeos, contactos e mais</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Área central</string>
   <string name="midnight">Noite</string>
@@ -4677,6 +4687,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_disabled_summary">Não disponível porque o NFC está desligado</string>
   <string name="nfc_disclaimer_content">O NFC troca dados entre este dispositivo e outros dispositivos ou alvos próximos, tais como terminais de pagamento, leitores de acesso e anúncios ou etiquetas interactivas</string>
   <string name="nfc_disclaimer_title">Ligar NFC</string>
+  <string name="nfc_dnd_mode_summary">Responder a etiquetas NFC com um valor limitado de etiquetas NDEF</string>
+  <string name="nfc_dnd_mode_title">Não incomodar NFC</string>
   <string name="nfc_how_it_works_content">Configure uma aplicação de pagamento. Basta aproximar a parte de trás do telefone a um terminal com o símbolo sem fios</string>
   <string name="nfc_how_it_works_got_it">Percebi</string>
   <string name="nfc_how_it_works_title">Pagamento num terminal</string>
@@ -6680,6 +6692,7 @@ Duplo toque para abrir Recentes"</string>
   <string name="sms_received_sound_dialog_title">Seleccionar som de mensagens recebidas</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="snooze_options_title">Permitir a suspensão de notificações</string>
+  <string name="softbank_apn_lock_toast">APN bloqueado. Não é possível editar</string>
   <string name="software_version">Versão de software</string>
   <string name="sometimes_running">Ocasionalmente em execução (%s)</string>
   <string name="sort_avg_use">Ordenar por utilização média</string>
@@ -6714,6 +6727,7 @@ Antes de utilizar os nossos serviços, leia e concorde com os nossos %s"</string
   <string name="sos_privacy_dialog_message">"Leia e concorde com os nossos %s antes de utilizar esta funcionalidade.
 Esta funcionalidade necessita de permissões para aceder à sua localização, utilizar redes móveis e ler os seus contactos. Concorda?"</string>
   <string name="sos_privacy_dialog_title">Termos e Condições</string>
+  <string name="sos_privacy_policy">Política de Privacidade</string>
   <string name="sound_assist_summary">Personalizar as suas definições de som</string>
   <string name="sound_assist_title">Assistente de som</string>
   <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
@@ -7020,6 +7034,17 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="style_and_wallpaper_settings_title">Estilos e papéis de parede</string>
   <string name="style_suggestion_summary">Experimente diferentes estilos, papéis de parede e mais</string>
   <string name="style_suggestion_title">Personalizar o seu telefone</string>
+  <string name="stylus_ota_check_update">Verificar actualizações</string>
+  <string name="stylus_ota_current_firmware_version">Versão de firmware</string>
+  <string name="stylus_ota_downloading_firmware">Transferir firmware</string>
+  <string name="stylus_ota_firmware_update">Actualizar firmware</string>
+  <string name="stylus_ota_hardware_version">Versão de hardware</string>
+  <string name="stylus_ota_latest">Actualizado</string>
+  <string name="stylus_ota_model">Modelo</string>
+  <string name="stylus_ota_new_version">Actualizar</string>
+  <string name="stylus_ota_serial_number">Número de série</string>
+  <string name="stylus_ota_update">Actualizar</string>
+  <string name="stylus_ota_updating">A actualizar</string>
   <string name="subscription_available">Disponível</string>
   <string name="sud_back_button_label">Voltar</string>
   <string name="sud_more_button_label">Mais</string>
@@ -7413,6 +7438,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
   <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
+  <string name="unlock_sound_effect_enable_title">Reproduzir sons ao desbloquear dispositivo</string>
   <string name="unlock_type_category_title">Método de reconhecimento</string>
   <string name="unlogin_account_summary">Todos os serviços Mi. Uma Conta Mi</string>
   <string name="unlogin_account_title">Início de sessão Conta Mi</string>
