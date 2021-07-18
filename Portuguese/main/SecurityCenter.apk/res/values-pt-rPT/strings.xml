@@ -2918,6 +2918,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_superpower_title_systemui_lowpower">Ligar carregador</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="power_wireless_need_update_text">A actualizar…</string>
+  <string name="power_wireless_ubable_update_toast">Não é possível actualizar o firmware durante o carregamento sem fios</string>
   <string name="power_wireless_update_button_text">Actualizar</string>
   <string name="power_wireless_update_dialog_button">Percebi</string>
   <string name="power_wireless_update_dialog_message">Carregar o dispositivo pelo menos a %s para poder actualizar o firmware do carregamento sem fios</string>
@@ -4311,6 +4312,12 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="untrust_app_perm_install_list">Permitir aceder à lista de aplicações instaladas</string>
+  <string name="untrust_app_perm_network">Permitir ligar à rede</string>
+  <string name="untrust_app_perm_notification">Permitir notificações</string>
+  <string name="untrust_app_perm_oaid">Permitir aceder ao ID virtual</string>
+  <string name="untrust_app_perm_title">Aplicação de origem desconhecida</string>
+  <string name="untrust_app_perm_warn">Esta aplicação veio de origens desconhecidas e pode representar riscos de segurança. Pode utilizar as permissões listadas abaixo para comprometer a sua privacidade</string>
   <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>

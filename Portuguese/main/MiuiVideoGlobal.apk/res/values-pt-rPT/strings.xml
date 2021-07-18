@@ -66,8 +66,13 @@
   <string name="common_cancel">Cancelar</string>
   <string name="continue_play">Retomar</string>
   <string name="data_empty">Sem itens</string>
+  <string name="dialog_disagree_privacychange_info">Não vai poder utilizar o serviço de streaming online se não concordar com a nossa Política de Privacidade. Toque \"Cancelar\" para voltar ou \"Não concordar\" para continuar e utilizar Vídeos apenas como um leitor de vídeos</string>
+  <string name="dialog_disagree_privacychange_title">Não concordar?</string>
+  <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustments in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
+  <string name="dialog_privacy_change_title">Actualização da Política de Privacidade</string>
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
   <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
+  <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br></br> • Streaming online<br></br>• Leitor de vídeos<br></br>O Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.<br></br>Leia e concorde com os nossos <a href="%1$s">Termos de Utilização</a> e <a href="%2$s">Política de Privacidade</a> antes de continuar</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="dialog_privacy_revoke_cancel">Cancelar</string>
   <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
@@ -78,6 +83,7 @@
   <string name="dialog_privacy_revoking">A retirar consentimento…</string>
   <string name="dialog_revoke_privacy_info_new2">Após retirar consentimento, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Retirar consentimento mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Retirar consentimento</string>
+  <string name="disagree">Não concordar</string>
   <string name="download">Transferir</string>
   <string name="download_checking_tip">A preparar transferência…</string>
   <string name="download_complete">Transferido</string>
@@ -202,6 +208,11 @@
   <string name="galleryplus_vp_videoview_error_title">"Can't play this video"</string>
   <string name="grant_write_settings_permission">Conceda esta permissão para controlar o brilho</string>
   <string name="got_it">Percebi</string>
+  <string name="hidden_channels">Os canais seguintes não vão ser mostrados na página inicial</string>
+  <string name="hide">Ocultar</string>
+  <string name="history">History</string>
+  <string name="history_local_video">Dispositivo</string>
+  <string name="history_online_video">Online</string>
   <string name="local_video_create_a_new_playlist">Nova lista de reprodução</string>
   <string name="local_video_date">Data</string>
   <string name="local_video_dialog_default">Predefinido</string>
@@ -215,7 +226,7 @@
   <string name="local_video_from_z_to_a">Z-A</string>
   <string name="local_video_name">Nome</string>
   <string name="local_video_notification_btn">Ver em Vídeos</string>
-  <string name="local_video_notification_title">A new local video found</string>
+  <string name="local_video_notification_title">Novo vídeo encontrado</string>
   <string name="local_video_number_of_selected">%1$d/%2$d seleccionados</string>
   <string name="local_video_size">Tamanho</string>
   <string name="local_video_space">Ocupado: %s</string>
@@ -400,7 +411,7 @@
   <string name="ovp_detail_deeplink_plugin_install_error">Não foi possível instalar plugin</string>
   <string name="ovp_detail_deeplink_unCollect">Removido dos favoritos</string>
   <string name="ovp_detail_douban_score">Classificação Douban</string>
-  <string name="ovp_detail_download">Transferir</string>
+  <string name="ovp_detail_download">Transferências</string>
   <string name="ovp_detail_has_empty_cp">O vídeo não está disponível</string>
   <string name="ovp_detail_more_episode">Mais</string>
   <string name="ovp_detail_more_summary">Mais</string>
@@ -423,7 +434,9 @@
   <string name="ovp_home_item_camera">Galeria</string>
   <string name="ovp_home_item_download">Transferências</string>
   <string name="ovp_home_item_folder">Ficheiros</string>
+  <string name="ovp_home_me">Conta</string>
   <string name="ovp_home_no_data_callback">Não foi possível carregar informações. Puxe para actualizar</string>
+  <string name="ovp_home_online">Online</string>
   <string name="ovp_home_online_content_title">Online</string>
   <string name="ovp_info_video_loading">Aguarde…</string>
   <string name="ovp_load_playinfo_failure">Não foi possível obter informações</string>
@@ -708,6 +721,11 @@ Tente ver outros vídeos!"</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>
   <string name="t_ovp_check_delete_favor">Seleccionar itens para remover</string>
   <string name="t_start_download">A iniciar transferência:</string>
+  <string name="tab_name_local">Dispositivo</string>
+  <string name="tab_name_me">Perfil</string>
+  <string name="tab_name_moment">Momentos</string>
+  <string name="tab_name_trending">Tendências</string>
+  <string name="tab_name_video">Vídeos</string>
   <string name="thursday">Quinta-feira</string>
   <string name="title_firework_recommend">Recomendações Firework</string>
   <string name="today">Hoje</string>
@@ -742,6 +760,29 @@ Tente ver outros vídeos!"</string>
   <string name="v_set_password">Definir palavra-passe</string>
   <string name="v_txt_login">Iniciar sessão para sincronizar os seus favoritos</string>
   <string name="v_update">Actualizar</string>
+  <string name="video_already_download_tip">Já transferiu este item</string>
+  <string name="video_download_btn">Transferir</string>
+  <string name="video_download_fail">Não foi possível transferir o vídeo</string>
+  <string name="video_download_fail_hint">Não foi possível transferir</string>
+  <string name="video_download_floating_guide">Transferir vídeos gratuitamente</string>
+  <string name="video_download_folder_title">Transferências</string>
+  <string name="video_download_forbidden">Não é possível transferir deste site</string>
+  <string name="video_download_login_guide">Iniciar sessão em %s para poder transferir vídeos</string>
+  <string name="video_download_network_error">Erro de rede</string>
+  <string name="video_download_play_video_guide">Reproduzir o vídeo primeiro</string>
+  <string name="video_download_play_video_guide2">Tocar no botão após as luzes acenderem para iniciar a transferência</string>
+  <string name="video_download_play_video_step1">Passo %1$d</string>
+  <string name="video_download_play_video_step2">Passo %2$d</string>
+  <string name="video_download_site_search">URL</string>
+  <string name="video_download_source">Transferências da web</string>
+  <string name="video_download_start">A transferir…</string>
+  <string name="video_download_storage_error">Sem espaço suficiente</string>
+  <string name="video_download_title">Transferir vídeos</string>
+  <string name="video_download_youtube_copyright_forbidden">Não é possível transferir vídeos do YouTube devido a restrições de direitos de autor</string>
+  <string name="video_downloading">A transferir…</string>
+  <string name="video_live_over">Sessão finalizada</string>
+  <string name="video_noyet_download_tip">Este vídeo já está a ser transferido</string>
+  <string name="video_offline">Este item já não está disponível</string>
   <string name="view">Ver</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>

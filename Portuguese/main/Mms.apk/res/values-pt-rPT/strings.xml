@@ -28,6 +28,8 @@
   <string name="adding_attachments">Aguarde enquanto os itens são adicionados à apresentação de diapositivos</string>
   <string name="adding_attachments_title">A adicionar anexos</string>
   <string name="adding_recipients">Adicionar destinatários…</string>
+  <string name="aim_show_card">Mostrar cartão</string>
+  <string name="aim_show_original">Mostrar mensagem</string>
   <string name="alert_dlg_cancel_button">Cancelar</string>
   <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Mensagens</string>
@@ -82,6 +84,7 @@
   <string name="button_resend_message">Enviar novamente</string>
   <string name="button_unfold">Mostrar</string>
   <string name="call_sender">Ligar ao remetente</string>
+  <string name="cancel">Cancelar</string>
   <string name="cannot_add_picture_and_video">Não é possível adicionar um vídeo e uma imagem no mesmo diapositivo</string>
   <string name="cannot_add_slide_anymore">Não é possível adicionar mais diapositivos</string>
   <string name="cannot_forward_drm_obj">O objecto DRM incluído na mensagem não pode ser reencaminhado</string>
@@ -261,6 +264,7 @@
   <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
+  <string name="go_close">Definições</string>
   <string name="google_message_promo_content">Xiaomi recomenda a actualização para Mensagens da Google. Permite o envio de mensagens por Wi-Fi, partilha de multimédia e mais. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Saber mais&lt;/a&gt;&lt;/font&gt;</string>
   <string name="google_message_promo_title">Actualizar a sua aplicação de mensagens</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
@@ -305,9 +309,14 @@
   <string name="invalid_destination">Endereço de destino inválido</string>
   <string name="invalid_private_contact">Contacto inválido</string>
   <string name="invalid_recipient_message">Corrija os destinatários ou eles não vão receber a mensagem</string>
+  <string name="invisible_mode_on">Está anónimo</string>
   <string name="is_composing">A escrever…</string>
-  <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Disposição de diapositivos "</string>
+  <string name="leave_mms_tips_context_app">Sair de Mensagens e abrir a aplicação agora?</string>
+  <string name="leave_mms_tips_context_app_name">Sair de Mensagens e abrir \"%s\" agora?</string>
+  <string name="leave_mms_tips_context_browser">Sair de Mensagens e abrir o navegador agora?</string>
+  <string name="leave_mms_tips_context_email">Sair de Mensagens e abrir o email agora?</string>
+  <string name="leave_mms_tips_context_map">Sair de Mensagens e abrir o mapa agora?</string>
   <string name="loading_all_messages">Aguarde…</string>
   <string name="loading_conversations">Aguarde…</string>
   <string name="loading_mms">Aguarde…</string>
@@ -583,6 +592,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_privacy_authority">Toque nesta opção para autorizar ou revogar a sua autorização</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
+  <string name="pref_summary_switch_aim_card">Mostrar mensagens com vídeos, imagens e outros formatos como cartões</string>
   <string name="pref_summary_voice_report">Ligar para ler as mensagens em voz alta assim que as receber. Prima o botão Volume- ou Ligar/Desligar para parar a reprodução</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
@@ -614,6 +624,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
   <string name="pref_title_sms_validity_period">Período de validade de SMS</string>
   <string name="pref_title_storage_status">Estado do armazenamento de mensagens</string>
+  <string name="pref_title_switch_aim_card">Converter mensagens em cartões</string>
   <string name="pref_title_system_mms_priority">Definir como predefinida</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
   <string name="pref_title_voice_report">Ler mensagens em voz alta</string>
@@ -916,6 +927,9 @@ Se não concordar com as permissões necessárias, esta aplicação não vai fun
   <string name="type_to_compose_text_or_leave_blank">Escreva a mensagem ou deixe em branco</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
+  <string name="unable_connect_camera">Está anónimo. Não pode utilizar a câmara</string>
+  <string name="unable_get_location">>Está anónimo. Não pode utilizar a localização</string>
+  <string name="unable_use_microphone">Está anónimo. Não pode utilizar o microfone</string>
   <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
 Tentativas efectuadas: %s"</string>
   <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>

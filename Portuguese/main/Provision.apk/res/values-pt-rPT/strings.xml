@@ -101,7 +101,7 @@
   <string name="other_settings_ad_dialog_content">Após desligar esta funcionalidade, não vai mais receber anúncios personalizados. Vai continuar a receber anúncios irrelevantes para si</string>
   <string name="other_settings_ad_dialog_disagree">Desligar</string>
   <string name="other_settings_ad_disable_summary">Ligar anúncios personalizados</string>
-  <string name="other_settings_ad_enable">Anúncios personalizadoss</string>
+  <string name="other_settings_ad_enable">Anúncios personalizados</string>
   <string name="other_settings_ad_enable_summary">Personalizar anúncios com base nos seus interesses</string>
   <string name="other_settings_auto_update">Actualizações automáticas</string>
   <string name="other_settings_auto_update_summary">A MIUI vai seleccionar o melhor momento para instalar as actualizações. O seu dispositivo vai ser reiniciado automaticamente</string>
@@ -115,10 +115,10 @@
 Os dados que enviar vão conter dados gerais sobre o seu dispositivo (p.e. nível de bateria, actividades do sistema e erros). Estes dados vão ser utilizados para melhorar a MIUI.
 Desligar esta funcionalidade não afecta o envio de informação necessário para os serviços essenciais como actualizações de sistema e segurança.
 Pode controlar esta funcionalidade das Definições > Segurança > Privacidade > Utilização e diagnóstico"</string>
-  <string name="other_settings_upload_debug_log_summary">Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema</string>
+  <string name="other_settings_upload_debug_log_summary">"Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema. "</string>
   <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico</string>
   <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
-  <string name="other_settings_user_experience_summary">Ajude-nos a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização</string>
+  <string name="other_settings_user_experience_summary">"Ajudar a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização. "</string>
   <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
   <string name="permission_MIUIDaemon_introduction">MIUI Daemon permite transferir dados do seu dispositivo para outro dispositivo quando o ecrã está danificado</string>
   <string name="permission_account">Aceder a contas no seu dispositivo:</string>

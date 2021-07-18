@@ -410,6 +410,7 @@
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
   <string name="sns_toast_over_limit">Enviado como imagem</string>
+  <string name="splash_note">Stylus</string>
   <string name="sync_all_terms">%1$s, %2$s e %3$s</string>
   <string name="sync_desc_state_complete">Sincronizado</string>
   <string name="sync_desc_state_complete_china">Todos os %1$s foram sincronizados</string>

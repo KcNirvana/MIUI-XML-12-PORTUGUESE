@@ -301,6 +301,10 @@
   <string name="translation_query_error">Não foi possível encontrar resultados</string>
   <string name="translation_query_error_network">Não foi possível obter informações. Verifique a ligação à rede e tente novamente</string>
   <string name="turn_off">Desligar</string>
+  <string name="trial_mode_dialog_button_cancel">Cancelar</string>
+  <string name="trial_mode_dialog_button_save">Guardar</string>
+  <string name="trial_mode_dialog_message">\"%s\" está a ser executada em modo de teste. Reiniciar o dispositivo ou alterar para modo leve vai eliminar o jogo. Guardar o jogo no armazenamento interno?</string>
+  <string name="trial_mode_dialog_title">Modo teste</string>
   <string name="turn_on_work_profile">Ligar</string>
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número desconhecido</string>

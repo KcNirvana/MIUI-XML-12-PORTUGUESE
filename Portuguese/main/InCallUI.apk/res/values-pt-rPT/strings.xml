@@ -181,6 +181,9 @@
   <string name="picking_participant">A obter informação de contacto…</string>
   <string name="private_num">Número privado</string>
   <string name="prompt_no_volte_when_failed">Os serviços VoLTE não estão disponíveis</string>
+  <string name="relay_cal_from_device_name">De %1$s</string>
+  <string name="relay_call">Não interferir</string>
+  <string name="relay_call_device_name">Dispositivo ligado (%1$s)</string>
   <string name="remind_unlock_message">O seu dispositivo está bloqueado. \"%s\" vai estar disponível após desbloquear o seu dispositivo. Desbloquear agora?</string>
   <string name="respond_via_sms_custom_message">Personalizar SMS</string>
   <string name="select_audio_dialog_title">Seleccionar modo de atendimento</string>
