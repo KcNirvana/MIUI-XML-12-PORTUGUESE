@@ -248,6 +248,8 @@
   <string name="edit_event_title_edit_countdown">Editar contagem decrescente</string>
   <string name="edit_event_to_label">Data de fim</string>
   <string name="edit_your_long_holidays">Editar feriados</string>
+  <string name="ee_dd_short_month">"EEE, d 'de' MMMM"</string>
+  <string name="eee_dd_long_month">"EEEE, d 'de' MMMM"</string>
   <string name="email_guests_label">Enviar email para convidados</string>
   <string name="email_install_hint">O Email foi desinstalado. Instale o Email novamente para restaurar calendários ou adicionar um novo</string>
   <string name="email_picker_label">Enviar email com</string>
@@ -978,6 +980,8 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="work_day_indication"/>
   <string name="wuxing">Cinco</string>
   <string name="work_day_default_banner_title">Bom trabalho!</string>
+  <string name="xiaomi_calendar_delete_description">Calendário é uma aplicação de sistema que permite criar e gerir enventos</string>
+  <string name="xiaomi_calendar_delete_title">Remover \"Calendário\" do ecrã inicial?</string>
   <string name="xiaomi_calendar_display_name">Calendário Conta Mi</string>
   <string name="xingxiu">Alphard</string>
   <string name="yearly">Anualmente (cada %s)</string>

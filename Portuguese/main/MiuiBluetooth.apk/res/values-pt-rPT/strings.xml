@@ -66,6 +66,8 @@ Verifique as Definições para saber mais"</string>
 Protocolo de ligação mais rápido"</string>
   <string name="fast_connect_wbs_name">ZMI WBS01</string>
   <string name="fast_connect_wbs_reset">Segure o botão por %1$s segundos enquanto desliga</string>
+  <string name="fiveg_sa_switch_summary">Utilizar rede SA no SIM secundário (apenas para testes)</string>
+  <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
   <string name="get_target_info">Obter informações do destino</string>
   <string name="goto_package">Abrir %1$s</string>
   <string name="hdcp_checking_dialog_title">Definir verificação HDCP</string>

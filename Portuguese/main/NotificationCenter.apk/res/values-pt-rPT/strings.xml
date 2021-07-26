@@ -23,7 +23,6 @@
   <string name="enable_lockscreen_notification">Notificações no ecrã de bloqueio permitidas</string>
   <string name="enable_show_badge_notification">Emblemas de notificações permitidos</string>
   <string name="expand_top_notification">Expandir notificação no topo</string>
-  <string name="expandable_under_keyguard">Abrir área de notificações no ecrã de bloqueio</string>
   <string name="feedback">Comentários</string>
   <string name="feedback_tip_cancel">Os dados das notificação não vão ser obtidos</string>
   <string name="feedback_tip_msg">Para agrupar as notificações com mais precisão, necessitamos de obter o nome, título, descrição e hora de envio das notificações. Submeter o seu comentário?</string>

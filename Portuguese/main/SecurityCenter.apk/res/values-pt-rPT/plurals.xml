@@ -722,6 +722,18 @@ You can get a %d-day free trial now!"</item>
     <item quantity="other">%d vírus eliminados</item>
     <item quantity="one">%d vírus eliminado</item>
   </plurals>
+  <plurals name="sim_lock_puk_dialog_message">
+    <item quantity="other">Tem apenas %d tentativas restantes para verificar o PUK do SIM. Se atingir o limite, o cartão SIM vai ser cancelado. Continuar mesmo assim?</item>
+    <item quantity="one">Tem apenas %d tentativa restante para verificar o PUK do SIM. Se atingir o limite, o cartão SIM vai ser cancelado. Continuar mesmo assim?</item>
+  </plurals>
+  <plurals name="simlock_set_pin_error">
+    <item quantity="other">O PIN introduzido não é válido. Tem %d tentativas restantes</item>
+    <item quantity="one">O PIN introduzido não é válido. Tem %d tentativa restante</item>
+  </plurals>
+  <plurals name="simlock_set_puk_error">
+    <item quantity="other">Introduzir PUK do SIM. Tem %d tentativas restantes</item>
+    <item quantity="one">Introduzir PUK do SIM. Tem %d tentativa restante</item>
+  </plurals>
   <plurals name="sp_monitored_apps_count">
     <item quantity="other">%s aplicações de pagamento estão protegidas</item>
     <item quantity="one">%s aplicação de pagamento está protegida</item>

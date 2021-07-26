@@ -20,6 +20,8 @@
   <string name="channel_phone_edit">Editado no telefone</string>
   <string name="channel_phone_upload">Carregado no telefone</string>
   <string name="channel_phone_view">Visto no telefone</string>
+  <string name="channel_tablet_upload">Carregado no tablet</string>
+  <string name="channel_tablet_view">Visto no tablet</string>
   <string name="channel_web_edit">Editado no navegador</string>
   <string name="channel_web_upload">Carregado no navegador</string>
   <string name="channel_web_view">Visto no navegador</string>

@@ -832,6 +832,8 @@ Introduza o seu PIN"</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_msg">Não foi possível verificar a impressão digital. Tente novamente</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
+  <string name="fiveg_sa_switch_summary">Utilizar rede SA no SIM secundário (apenas para testes)</string>
+  <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
   <string name="float_notification_snooze_strategy">Ocultar temporariamente</string>
   <string name="forced_resizable_secondary_display">A aplicação pode não funcionar num ecrã secundário</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>

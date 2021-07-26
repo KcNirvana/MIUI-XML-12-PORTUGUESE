@@ -2969,6 +2969,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi quando isto estiver desligado</string>
   <string name="firmware_version">Versão Android</string>
+  <string name="fiveg_sa_switch_summary">Utilizar rede SA no SIM secundário (apenas para testes)</string>
+  <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
   <string name="flash_drive_backup_disable">Ligar drive USB primeiro</string>
   <string name="flash_drive_backup_enable">Utilizar uma drive USB para copiar ou restaurar itens</string>
   <string name="flash_drive_backup_restore">Fazer cópia ou restaurar utilizando USB</string>
@@ -3689,7 +3691,7 @@ Copie o ficheiro da cópia para o seu dispositivo (MIUI-backup-AllBackup). Vá a
   <string name="launch_noapp_dialog_replace">Definições</string>
   <string name="launch_notification_center">Área de notificações</string>
   <string name="launch_recents">Iniciar Recentes</string>
-  <string name="launch_smarthome">Xiaomi Quick Connect</string>
+  <string name="launch_smarthome">Xiaomi Magic Control</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
   <string name="launch_wechat_health_code">WeChat health code</string>
   <string name="launch_wechat_health_code_auto_close">WeChat health code shortcut is no longer available. You can switch to a different shortcut.</string>
@@ -7051,6 +7053,8 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="style_suggestion_title">Personalizar o seu telefone</string>
   <string name="stylus_ota_check_update">Verificar actualizações</string>
   <string name="stylus_ota_current_firmware_version">Versão de firmware</string>
+  <string name="stylus_ota_demands">Manter este dispositivo ligado à stylus via Bluetooth. Ambos os dispositivos devem tar %1$s carregados</string>
+  <string name="stylus_ota_download_failed">Não foi possível transferir firmware</string>
   <string name="stylus_ota_downloading_firmware">Transferir firmware</string>
   <string name="stylus_ota_firmware_update">Actualizar firmware</string>
   <string name="stylus_ota_hardware_version">Versão de hardware</string>
@@ -7058,7 +7062,9 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="stylus_ota_model">Modelo</string>
   <string name="stylus_ota_new_version">Actualizar</string>
   <string name="stylus_ota_serial_number">Número de série</string>
+  <string name="stylus_ota_timeout_failed">Sessão expirada</string>
   <string name="stylus_ota_update">Actualizar</string>
+  <string name="stylus_ota_update_failed">Não foi possível actualizar firmware</string>
   <string name="stylus_ota_updating">A actualizar</string>
   <string name="subscription_available">Disponível</string>
   <string name="sud_back_button_label">Voltar</string>

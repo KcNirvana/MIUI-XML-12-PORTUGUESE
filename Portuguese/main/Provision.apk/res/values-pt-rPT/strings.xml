@@ -14,7 +14,7 @@
   <string name="camera_introduction">Pode utilizar esta aplicação para tirar fotos e gravar vídeos</string>
   <string name="carrier_introduction">Para o fornecermos com melhores serviços, o seu dispositivo pode enviar-nos periodicamente informações sobre a sua versão, dados de identificação (incluindo IMEI/IMSI/MSISDN/MAC,MEID/ICCID) e localização</string>
   <string name="clock_introduction">Pode utilizar esta aplicação para ver as horas, temporizador, relógios mundiais, definir alarmes e muito mais</string>
-  <string name="close_location_service_setting">Pode desligar o acesso à localização em Definições &gt; Definições adicionais &gt; Privacidade ou restringir permissões individuais das aplicações em Segurança</string>
+  <string name="close_location_service_setting">Pode desligar o acesso à localização em Definições &gt; Protecção de Privacidade &gt; Gerir ou restringir permissões individuais das aplicações em Segurança</string>
   <string name="cm_terms_content">Para melhorarmos os serviços fornecidos, a sua operadora de rede pode enviar informações pessoais e do dispositivo para os seus servidores utilizando a rede móvel ou Wi-Fi</string>
   <string name="cm_terms_title">Contrato de operadora de rede móvel</string>
   <string name="compass_introduction">Pode utilizar esta aplicação para navegação, ver coordenadas, pressão atmosférica e altitude</string>

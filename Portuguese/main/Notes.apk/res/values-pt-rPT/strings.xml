@@ -257,6 +257,7 @@
   <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
   <string name="note_mindnote_entrance_icon_text">Criar uma mapa mental</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Criar uma mapa mental</string>
+  <string name="note_not_text_stub">Sem texto</string>
   <string name="note_sort_way">Ordenar por</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
@@ -450,6 +451,7 @@
   <string name="toast_notes_delete_success">Eliminada com sucesso</string>
   <string name="toast_notes_hidden_edit">Esta nota foi ocultada com sucesso. Puxe para ver as notas ocultas</string>
   <string name="toast_notes_hidden_home">Esta nota foi ocultada com sucesso. Puxe para ver as notas ocultas</string>
+  <string name="toast_notes_hidden_pad">Esta nota foi ocultada. Puxe o painel lateral para ver as notas ocultas</string>
   <string name="toast_notes_unhidden">Mostradas com sucesso</string>
   <string name="toast_pic_is_not_really">A guardar imagem…</string>
   <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque o conteúdo da nota é muito longo</string>
@@ -550,7 +552,10 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="web_sso_login_message">A iniciar sessão…</string>
   <string name="webview_reload">Tentar novamente</string>
   <string name="widget_content_loading">Aguarde…</string>
+  <string name="widget_create_select_size">Seleccionar tamanho</string>
+  <string name="widget_empty_content">Toque para seleccionar uma nota</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
+  <string name="widget_note_list_page_title">Seleccionar nota</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Actualização disponível</string>

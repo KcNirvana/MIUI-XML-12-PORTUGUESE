@@ -896,7 +896,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
   <string name="mobile_data_status_roaming_with_plan_subtext">Actualmente em roaming. O plano de dados está activado</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Actualmente em roaming. Necessário plano de dados</string>
   <string name="mobile_geo_location_config_summary">Marcar localizações anormais de sinais de rede para melhorar a experiência de comunicação</string>
-  <string name="mobile_geo_location_config_title">Optimização da qualidade da rede de ponto fixo</string>
+  <string name="mobile_geo_location_config_title">Optimização da rede de ponto fixo</string>
   <string name="mobile_intelligent_connection_title">Optimização de rede móvel</string>
   <string name="mobile_network_dual_card_optimizationmobile_title">Cartões SIM e redes móveis</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
@@ -1403,7 +1403,7 @@ Interface UT: %5$s"</string>
   <string name="reject_via_sms_summary">Mostrar botão para terminar chamada e enviar mensagem</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="relay_call_answered_by_other_devices">Esta chamada foi atendida noutro dispositivo</string>
-  <string name="relay_call_released_due_to_connect_lost">Ligação perdida. Continue a chamada no dispositivo desligado</string>
+  <string name="relay_call_released_due_to_connect_lost">Ligação perdida. Continue a chamada no outro dispositivo</string>
   <string name="relay_connection_service_label">Chamadas Relay</string>
   <string name="remove">Eliminar</string>
   <string name="remove_sip_account">Remover conta</string>
@@ -1498,7 +1498,7 @@ Interface UT: %5$s"</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Cartão SIM %s</string>
   <string name="sim_description_emergency_calls">Só cham. de emergência</string>
-  <string name="sim_fiveg_network_title">SIM %1$s %2$s</string>
+  <string name="sim_fiveg_network_title">SIM %1$s (%2$s)</string>
   <string name="sim_label_emergency_calls">Chamadas de emergência</string>
   <string name="sim_me_lock_disabled">Bloqueio do SIM desactivado</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
