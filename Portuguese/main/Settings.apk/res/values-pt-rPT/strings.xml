@@ -5057,6 +5057,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="pad_backup_summary">Back up and restore items on this device</string>
   <string name="pad_backup_title">Dispositivos móveis</string>
   <string name="pad_computer_backup_summary">Fazer cópias e restaurar itens utilizando um computador</string>
+  <string name="pad_flash_drive_backup_enable">Utilizar um pen USB para copiar ou restaurar itens</string>
   <string name="pad_how_backup_content">"You can save backups locally or to the cloud. Local backups can be stored on your mobile device, computer, or USB drive.
 
 Mobile device

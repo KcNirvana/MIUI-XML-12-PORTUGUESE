@@ -120,6 +120,12 @@
   <string name="app_news_default_title">Notícias</string>
   <string name="app_note_add">Adicionar</string>
   <string name="app_note_title_empty">Notas</string>
+  <string name="app_olympic_card_service_des">Classificações actualizadas em tempo real</string>
+  <string name="app_olympic_card_service_title">Tabela de medalhas</string>
+  <string name="app_olympic_card_title">Tabela de medalhas</string>
+  <string name="app_olympic_card_title_info">Os dados são fornecidos por terceiros e podem ter atrasos</string>
+  <string name="app_olympic_gold_medal_country_region">Equipa</string>
+  <string name="app_olympic_gold_medal_total">Total</string>
   <string name="app_pa_more">Mais</string>
   <string name="app_pa_search">Pesquisar</string>
   <string name="app_pa_setting_bugreport">Comentários</string>

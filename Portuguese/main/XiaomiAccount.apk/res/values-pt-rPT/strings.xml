@@ -285,6 +285,7 @@ Envie este código ao supervisor"</string>
   <string name="passport_error_sim_not_ready">Não é possível encontrar cartão SIM</string>
   <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
+  <string name="passport_error_user_agreement_error">Concordar com os termos e condições primeiro</string>
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e o dispositivo ligado à rede</string>
   <string name="passport_error_verify_activator_phone_title">Não foi possível verificar o número de telefone</string>
