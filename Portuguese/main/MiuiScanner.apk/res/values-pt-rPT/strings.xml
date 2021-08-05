@@ -184,6 +184,7 @@
   <string name="general_wifi_data_wrong_data">Introduzir SSID e palavra-passe</string>
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
+  <string name="hint_no_permissions_text">Conceder permissões de armazenamento nas Definições para utilizar o telefone normalmente. Digitalizar</string>
   <string name="history">Histórico</string>
   <string name="history_empty">Sem itens</string>
   <string name="hold_down">Premir e segurar para tirar a palavra</string>
