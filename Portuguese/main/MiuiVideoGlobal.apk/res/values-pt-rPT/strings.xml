@@ -72,7 +72,7 @@
   <string name="dialog_privacy_change_title">Actualização da Política de Privacidade</string>
   <string name="dialog_privacy_info_new2">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a></string>
   <string name="dialog_privacy_info_new3">Para utilizar estes serviços, tem de concordar que %1$s vai recolher, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="%2$s">Política de Privacidade</a> e <a href="%3$s">Termos de Utilização</a></string>
-  <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:<br></br> • Streaming online<br></br>• Leitor de vídeos<br></br>O Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.<br></br>Leia e concorde com os nossos <a href="%1$s">Termos de Utilização</a> e <a href="%2$s">Política de Privacidade</a> antes de continuar</string>
+  <string name="dialog_privacy_info_new4">Bem-vindo a Vídeos. Esta aplicação fornece os seguintes serviços:&lt;br>&lt;/br> • Streaming online&lt;br>&lt;/br>• Leitor de vídeos&lt;br>&lt;/br>O Vídeos necessita de obter informações pessoais para lhe fornecer os serviços básicos. Pode saber mais na nossa Política de Privacidade.&lt;br>&lt;/br>Leia e concorde com os nossos &lt;a href=%1$s>Termos de Utilização&lt;/a> e &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de continuar</string>
   <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="dialog_privacy_revoke_cancel">Cancelar</string>
   <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
@@ -166,10 +166,8 @@
   <string name="galleryplus_orientation_lock">Locked orientation successfully</string>
   <string name="galleryplus_orientation_unlock">Screen orientation is unlocked</string>
   <string name="galleryplus_permission_content">Give Mi Video the required permissions to be able to use this feature.</string>
-  <string name="galleryplus_permission_content2">"To be able to use this feature, go to Settings > Apps > Mi Video > App permissions and allow Mi Video to do the following:
-
-1. Access storage
-2. Access device ID"</string>
+  <string name="galleryplus_permission_content_opt">Mi Video needs permissions to work normally. Clear all app data in the Settings and open the app again.</string>
+  <string name="galleryplus_permission_content_xms">Mi Video needs permissions to work normally. Go to Settings and give Mi Video the required permissions.</string>
   <string name="galleryplus_permission_open_settings">Settings</string>
   <string name="galleryplus_permission_refuse">No thanks</string>
   <string name="galleryplus_permission_retry">Permissions</string>
@@ -232,6 +230,9 @@
   <string name="local_video_space">Ocupado: %s</string>
   <string name="local_video_time">Duração</string>
   <string name="login">Iniciar sessão</string>
+  <string name="long_video_no_more_content">"That's all for now"</string>
+  <string name="long_video_watch_on">Watch on</string>
+  <string name="long_video_you_may_also_like">You may also like</string>
   <string name="lp_base_folder">Cartão SD</string>
   <string name="lp_speed_title">Velocidade de reprodução</string>
   <string name="lp_speed_toast">A reproduzir à velocidade %sX…</string>
@@ -397,6 +398,7 @@
   <string name="off_tip_firework_recommend">Não vai receber recomendações da Firework</string>
   <string name="ok">OK</string>
   <string name="on_tip_firework_recommend">Vai receber recomendações da Firework</string>
+  <string name="out_of_memory_background_playback_is_suspended">Reprodução pausada devido a memória insuficiente</string>
   <string name="ovp_alert_dialog_download_install_task">A transferir plugin HD…</string>
   <string name="ovp_buffering_video_netplay_label_v5">A fazer buffer…</string>
   <string name="ovp_category">Categorias</string>

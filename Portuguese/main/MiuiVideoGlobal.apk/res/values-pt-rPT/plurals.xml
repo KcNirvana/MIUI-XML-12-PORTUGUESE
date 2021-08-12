@@ -8,13 +8,21 @@
         <item quantity="other">%d pastas</item>
         <item quantity="one">%d pasta</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d temporadas</item>
+        <item quantity="one">%d temporada</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
-        <item quantity="other">Subtitles will be shown %.1f seconds earlier</item>
-        <item quantity="one">Subtitles will be shown %.1f second earlier</item>
+        <item quantity="other">As legendas vão ser mostradas %.1f segundos antes</item>
+        <item quantity="one">As legendas vão ser mostradas %.1f segundo antes</item>
     </plurals>
     <plurals name="lv_subtitle_offset_delay_times">
-        <item quantity="other">Subtitles will be shown %.1f seconds later</item>
-        <item quantity="one">Subtitles will be shown %.1f second later</item>
+        <item quantity="other">As legendas vão ser mostradas %.1f segundos depois</item>
+        <item quantity="one">As legendas vão ser mostradas %.1f segundo depois</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Tamanho: %.2fKB</item>
