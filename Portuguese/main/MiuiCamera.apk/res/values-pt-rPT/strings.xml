@@ -62,6 +62,15 @@
   <string name="accessibility_flash_off">Flash desligado</string>
   <string name="accessibility_flash_on">Flash ligado</string>
   <string name="accessibility_flash_torch">Flash ligado, modo lanterna</string>
+  <string name="accessibility_focus_face_pos_bottom">Localizado perto da parte inferior do quadrado</string>
+  <string name="accessibility_focus_face_pos_left">Localizado perto da parte esquerda do quadrado</string>
+  <string name="accessibility_focus_face_pos_left_bottom">Localizado perto do canto inferior esquerdo do quadrado</string>
+  <string name="accessibility_focus_face_pos_left_top">Localizado perto do canto superior esquerdo do quadrado</string>
+  <string name="accessibility_focus_face_pos_mid">Localizado perto do centro do quadrado</string>
+  <string name="accessibility_focus_face_pos_right">Localizado perto da parte direita do quadrado</string>
+  <string name="accessibility_focus_face_pos_right_bottom">Localizado perto do canto inferior direito do quadrado</string>
+  <string name="accessibility_focus_face_pos_right_top">Localizado perto do canto superior direito do quadrado</string>
+  <string name="accessibility_focus_face_pos_top">Localizado perto da parte superior do quadrado</string>
   <string name="accessibility_focus_status">Zoom %1$sX</string>
   <string name="accessibility_front_preview_status">Pré-visualização da câmara frontal</string>
   <string name="accessibility_hdr">Botão trocar HDR</string>
@@ -154,7 +163,7 @@
   <string name="accessibility_timer_burst_image_on">Disparo Temporizado ligado</string>
   <string name="accessibility_timer_burst_text">Painel de Disparo Temporizado</string>
   <string name="accessibility_touch_focus_fail">Não foi possível focar</string>
-    <string name="accessibility_touch_focus_success">Focado com sucesso</string>
+  <string name="accessibility_touch_focus_success">Focado com sucesso</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP desligado</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP ligado</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP desligado</string>
@@ -522,10 +531,12 @@ documentos digitalizados automaticamente"</string>
   <string name="dolly_zoom_guide_tip9">Becos</string>
   <string name="dolly_zoom_guide_video_title1">Zoom Mágico</string>
   <string name="dolly_zoom_guide_video_title2">Cenas</string>
+  <string name="download_alert">Não é possível editar durante transferências em curso</string>
   <string name="download_cancel_hint">Cancelar transferência de %1$s?</string>
   <string name="download_confirm">Transferir</string>
   <string name="download_hint">%1$s MB de dados móveis vão ser utilizados para transferir itens. Transferir mesmo assim?</string>
   <string name="download_title">Aviso de utilização de dados</string>
+  <string name="download_waiting">A aguardar…</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
@@ -1515,6 +1526,7 @@ O modo Ultra grande-angular ajuda quando não consegue se mover mais longe da ce
   <string name="video_effect_entry_summer_day">Verão</string>
   <string name="video_effect_entry_summer_day_describe">O baixo contraste e os tons brilhantes funcionam bem quando necessita de precisa preservar os tons de pele. Este filtro é adequado para cenas externas com sol</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
+  <string name="video_overheat_tip_content">O dispositivo está muito quente. Tente gravar o vídeo numa resolução mais baixa</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
   <string name="video_shortcut_short">Vídeo</string>
   <string name="video_tag_flag_title">Marcar</string>

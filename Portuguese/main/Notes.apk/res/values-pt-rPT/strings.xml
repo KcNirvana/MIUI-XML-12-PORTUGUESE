@@ -26,6 +26,7 @@
   <string name="app_name">Notas</string>
   <string name="app_notification_info">As Notas estão a executar em segundo plano</string>
   <string name="app_widget">Notas</string>
+  <string name="app_widget_name_new">Notas</string>
   <string name="application_icon">Ícone da aplicação</string>
   <string name="audio_create_normal_state">Soltar para criar. Deslizar para cima para cancelar</string>
   <string name="audio_create_will_cancel_state">Soltar para cancelar</string>
@@ -173,6 +174,7 @@
   <string name="gesture_guide_message">Pode tocar, premir e segurar e arrastar para criar e ordenar notas. Aprender os gestos agora?</string>
   <string name="gesture_guide_ok">Aprender</string>
   <string name="gesture_guide_title">Gestos</string>
+  <string name="hand_write_only_support_tablet_editing">A escrita à mão apenas pode ser editada em tablets</string>
   <string name="handwrite_description">Nota escrita à mão</string>
   <string name="hear_note">Notas ditadas</string>
   <string name="hide_arrow_description">Ocultar</string>
@@ -582,6 +584,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
   <string name="widget_havenot_content_new">Toque para criar uma nota. Segure no widget para redimensionar</string>
   <string name="widget_note_list_page_title">Seleccionar nota</string>
+  <string name="widget_take_notes_title">Notas</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Actualização disponível</string>

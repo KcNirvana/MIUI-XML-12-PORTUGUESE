@@ -171,6 +171,9 @@
   <string name="open">Abrir</string>
   <string name="other">Outros</string>
   <string name="other_settings">Outras definições</string>
+  <string name="pad_keyboard_add_city">Adicionar localização</string>
+  <string name="pad_keyboard_left_switch">Anterior</string>
+  <string name="pad_keyboard_right_switch">Seguinte</string>
   <string name="permission_device_info">Informação de dispositivo</string>
   <string name="permission_device_introduce">Para reconhecer o ID dispositivo baseado no modelo e IMEI e fornecer serviços de localização baseado nas preferências de idioma</string>
   <string name="permission_exit">Sair</string>
