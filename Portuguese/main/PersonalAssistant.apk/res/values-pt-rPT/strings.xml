@@ -305,6 +305,7 @@
   <string name="bluetooth_item_double_battery_level_right_invalid">D: Sem dados</string>
   <string name="bluetooth_open_ok">Ligado com sucesso</string>
   <string name="bluetooth_setting_brief">Ver utilização de bateria dos dispositivos ligados</string>
+  <string name="calc_convert">Converter</string>
   <string name="calc_currency">Moeda</string>
   <string name="calc_name">Científica</string>
   <string name="calc_num">Caracteres financeiros</string>

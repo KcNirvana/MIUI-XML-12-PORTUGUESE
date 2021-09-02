@@ -37,8 +37,6 @@
   <string name="app_clean_group_image_recv">Imagens recebidas</string>
   <string name="app_clean_group_image_send">Imagens enviadas</string>
   <string name="appcleaner_g_day_earlier">Mais cedo</string>
-  <string name="appcleaner_g_seven_day">Últimos 7 dias</string>
-  <string name="appcleaner_g_thirty_day">Últimos 30 dias</string>
   <string name="app_description_content">A Limpeza procura lixo no seu dispositivo e liberta espaço de armazenamento. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="app_description_title">Acerca de Limpeza</string>
   <string name="app_name">Limpeza</string>
@@ -50,9 +48,6 @@
   <string name="auto_clean_switch_off">Desligado</string>
   <string name="auto_clean_switch_on">Ligado</string>
   <string name="auto_clean_time_every_day">Todos os dias</string>
-  <string name="auto_clean_time_fifteen_day">A cada 15 dias</string>
-  <string name="auto_clean_time_seven_day">A cada 7 dias</string>
-  <string name="auto_clean_time_three_day">A cada 3 dias</string>
   <string name="auto_cleaner_open">Ligar</string>
   <string name="back">Voltar</string>
   <string name="browser_scan_history_desc">Histórico do navegador</string>
@@ -103,11 +98,6 @@
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Registos de chamadas</string>
   <string name="cancel">Cancelar</string>
-  <string name="clean_content_all">Tudo</string>
-  <string name="clean_content_one">1 item</string>
-  <string name="clean_content_three">3 itens</string>
-  <string name="clean_content_two">2 itens</string>
-  <string name="clean_content_zero">Nenhum</string>
   <string name="clean_master_icon_recall_button_text">Adicionar</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
@@ -154,14 +144,12 @@
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
   <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>
-  <string name="deepclean_app_content">Desinstalar aplicações não utilizadas em 30 dias</string>
   <string name="deepclean_app_summary_empty">Verificação concluída. Sem aplicações para eliminar​</string>
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_empty">Verificação concluída</string>
   <string name="deepclean_install_info_desc2">Desinstalar aplicações para libertar espaço</string>
-  <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
   <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Mi App Store</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
@@ -282,9 +270,6 @@
   <string name="global_wa_setting_alert_pref_time_title">Frequência</string>
   <string name="global_wa_setting_alert_size_dialog_title">Tamanho do lixo do WhatsApp</string>
   <string name="global_wa_setting_alert_time_dialog_title">Frequência</string>
-  <string name="global_wa_setting_alert_time_every_day">Todos os dias</string>
-  <string name="global_wa_setting_alert_time_seven_day">Todas as semanas</string>
-  <string name="global_wa_setting_alert_time_three_day">A cada 3 dias</string>
   <string name="global_wa_setting_other_pref_category_title">Outros</string>
   <string name="global_wa_setting_other_pref_reconmmend_title">Recomendações</string>
   <string name="global_wa_setting_other_pref_shortcut_title">Atalho no ecrã inicial</string>
@@ -302,7 +287,13 @@
   <string name="golbal_wa_backend_alert_dialog_btn">Abrir</string>
   <string name="goto_set">Definir</string>
   <string name="grabage_rank_title">Limpo hoje</string>
+  <string name="guide_dc_dialog_message">Menos de 2GB de espaço livre. Isto pode diminuir o desempenho do seu dispositivo. Execute uma Limpeza Profunda para libertar espaço</string>
+  <string name="guide_dc_dialog_message_new">Menos de %dGB espaço livre. Isto pode diminuir o desempenho do seu dispositivo. Execute uma Limpeza Profunda para libertar espaço</string>
+  <string name="guide_dc_dialog_negative">Cancelar</string>
+  <string name="guide_dc_dialog_positive">OK</string>
+  <string name="guide_dc_dialog_title">Storage is running low</string>
   <string name="guide_secure_dialog_message">A pontuação de optimização do seu dispositivo é menor que 80 pontos. Optimizar agora?</string>
+  <string name="guide_secure_dialog_message_new">A pontuação de optimização do seu dispositivo é menor que %d pontos. Optimizar agora?</string>
   <string name="guide_secure_dialog_negative">Cancelar</string>
   <string name="guide_secure_dialog_positive">Optimizar</string>
   <string name="guide_secure_dialog_title">Optimização de desempenho</string>
@@ -386,6 +377,7 @@
   <string name="long_click_dialog_summary">Prima e segure para adicionar às excepções</string>
   <string name="long_click_dialog_title">Aviso</string>
   <string name="low_memory_clean_dialog_msg">Limpar pelo menos 100MB primeiro</string>
+  <string name="low_memory_clean_dialog_msg_new">Limpar pelo menos %dMB primeiro</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">Sem espaço suficiente</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancelar</string>
@@ -449,7 +441,6 @@
   <string name="notification_garbage_cleanup_title">Limpar lixo</string>
   <string name="notification_installed_clean_size">Libertar %2$s após instalar %1$s</string>
   <string name="notification_low_memory_button_text">Corrigir</string>
-  <string name="notification_low_memory_cache_summary">Menos de 1.5GB de espaço disponível</string>
   <string name="notification_low_memory_cache_title">Limpar cache</string>
   <string name="notification_low_memory_deepclean_summary">A Limpeza Profunda pode libertar espaço no seu dispositivo</string>
   <string name="notification_low_memory_deepclean_title">Espaço de armazenamento baixo</string>
@@ -482,7 +473,6 @@
   <string name="notification_wechat_clean_low_level_text">Limpar lixo do WeChat</string>
   <string name="notification_whatsapp_clean_button_text">Limpar</string>
   <string name="notification_whatsapp_clean_size">A cache do WhatsApp atingiu %s</string>
-  <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
   <string name="onekeyclean_boost_available">%s disponíveis</string>
   <string name="onekeyclean_boost_cleaned">%s limpos</string>
@@ -588,7 +578,6 @@
   <string name="sponsored">Patrocinado</string>
   <string name="start_downloading_app">A iniciar transferência: %1$s</string>
   <string name="start_install">Instalar agora</string>
-  <string name="summary_auto_cleaner">Receber notificações cada vez que o tamanho do lixo atingir 100MB</string>
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
   <string name="summary_delete_cache">Limpar cache das aplicações seleccionadas?</string>
   <string name="summary_delete_large_file">Eliminar ficheiros seleccionados?</string>
@@ -599,6 +588,7 @@
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
   <string name="tips_low_storage_dialog_cancel">Cancelar</string>
   <string name="tips_low_storage_dialog_msg_storage">Está a utilizar 90% do seu espaço de armazenamento. Desinstale aplicações que não utiliza</string>
+  <string name="tips_low_storage_dialog_msg_storage_new">Está a utilizar %s do seu espaço de armazenamento. Desinstale aplicações que não utiliza</string>
   <string name="tips_low_storage_dialog_ok">Limpar</string>
   <string name="tips_low_storage_dialog_ok_storage">Libertar espaço</string>
   <string name="tips_low_storage_dialog_title">Armazenamento quase cheio</string>

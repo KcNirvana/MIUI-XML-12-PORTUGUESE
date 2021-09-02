@@ -4,6 +4,10 @@
   <string name="Today">Hoje</string>
   <string name="Yesterday">Ontem</string>
   <string name="ad_download">Transferir</string>
+  <string name="ad_join">Aderir à comunidade</string>
+  <string name="ad_more">Mais</string>
+  <string name="add_local_shortcut_add">Adicionar</string>
+  <string name="add_local_shortcut_des">Adicionar “Os meus vídeos” ao ecrã inicial</string>
   <string name="agree">Concordar</string>
   <string name="agree_and_continue">Concordar</string>
   <string name="app_description_content">Vídeos é uma aplicação de sistema que contém um leitor de vídeo. Ainda vai poder reproduzir vídeos após remover do ecrã inicial</string>
@@ -53,6 +57,7 @@
   <string name="cast_tracks_chooser_dialog_ok">OK</string>
   <string name="cast_tracks_chooser_dialog_subtitles">Legendas</string>
   <string name="cast_unmute">Restaurar som</string>
+  <string name="click_to_open_pip">Toque para trocar para ecrã no ecrã</string>
   <string name="click_to_reload_more">Toque para carregar mais</string>
   <string name="click_to_retry">Tentar novamente</string>
   <string name="cloud_auto_pip_play_switch">Utilizar ecrã no ecrã automaticamente</string>
@@ -89,6 +94,8 @@
   <string name="download_complete">Transferido</string>
   <string name="download_delete_tip">Eliminar itens seleccionados?</string>
   <string name="download_delete_title">Eliminar</string>
+  <string name="download_guide_click_icon_to_website_or_enter_url">Tocar num atalho para abrir o site ou introduzir URL</string>
+  <string name="download_guide_known">Percebi</string>
   <string name="download_paused">Pausado</string>
   <string name="download_pending">Pendente…</string>
   <string name="download_power_off_tips">Esta funcionalidade não está disponível</string>
@@ -168,7 +175,7 @@
   <string name="galleryplus_permission_content">Give Mi Video the required permissions to be able to use this feature.</string>
   <string name="galleryplus_permission_content_opt">Mi Video needs permissions to work normally. Clear all app data in the Settings and open the app again.</string>
   <string name="galleryplus_permission_content_xms">Mi Video needs permissions to work normally. Go to Settings and give Mi Video the required permissions.</string>
-  <string name="galleryplus_permission_open_settings">Settings</string>
+  <string name="galleryplus_permission_open_settings">Definições</string>
   <string name="galleryplus_permission_refuse">No thanks</string>
   <string name="galleryplus_permission_retry">Permissions</string>
   <string name="galleryplus_permission_title">Attention</string>
@@ -211,6 +218,7 @@
   <string name="history">History</string>
   <string name="history_local_video">Dispositivo</string>
   <string name="history_online_video">Online</string>
+  <string name="i_know">OK</string>
   <string name="local_video_create_a_new_playlist">Nova lista de reprodução</string>
   <string name="local_video_date">Data</string>
   <string name="local_video_dialog_default">Predefinido</string>
@@ -226,6 +234,7 @@
   <string name="local_video_notification_btn">Ver em Vídeos</string>
   <string name="local_video_notification_title">Novo vídeo encontrado</string>
   <string name="local_video_number_of_selected">%1$d/%2$d seleccionados</string>
+  <string name="local_video_shortcut_name">Os meus vídeos</string>
   <string name="local_video_size">Tamanho</string>
   <string name="local_video_space">Ocupado: %s</string>
   <string name="local_video_time">Duração</string>
@@ -432,6 +441,8 @@
   <string name="ovp_favor">Favoritos</string>
   <string name="ovp_favor_null">Sem itens</string>
   <string name="ovp_feedback_title">Comentários sobre Vídeos</string>
+  <string name="ovp_hint_new">Novo</string>
+  <string name="ovp_hint_the_latest_version">Actualizado</string>
   <string name="ovp_home_folder_is_null_jump_upfolder_tip">Não foi possível encontrar ficheiro multimédia. Foi para a pasta de cima</string>
   <string name="ovp_home_item_camera">Galeria</string>
   <string name="ovp_home_item_download">Transferências</string>
@@ -445,12 +456,14 @@
   <string name="ovp_loading_video_netplay_label_v5">Aguarde…</string>
   <string name="ovp_local_videos_title">Dispositivo</string>
   <string name="ovp_navigation_category">Categoria</string>
+  <string name="ovp_navigation_darkmode">Modo Escuro</string>
   <string name="ovp_navigation_favorites">Favoritos</string>
   <string name="ovp_navigation_feedback">Comentários</string>
   <string name="ovp_navigation_history">Histórico</string>
   <string name="ovp_navigation_home">Início</string>
   <string name="ovp_navigation_localvideo">Dispositivo</string>
   <string name="ovp_navigation_setting">Definições</string>
+  <string name="ovp_navigation_version_update">Verificar actualizações</string>
   <string name="ovp_player_cached_error_btn">Vídeos online</string>
   <string name="ovp_player_cached_error_hint_info">Não é possível reproduzir vídeos locais agora</string>
   <string name="ovp_plugin_install_failure">Não foi possível instalar o plugin</string>
@@ -665,6 +678,14 @@ Tente ver outros vídeos!"</string>
   <string name="pw_video_history">Histórico</string>
   <string name="pw_video_mine">Os meus vídeos</string>
   <string name="pw_video_offline">Dispositivo</string>
+  <string name="question_click_bottom_tab">Pode também tocar num atalho para abrir um site</string>
+  <string name="question_click_with_light">Tocar no botão de Transferir assim que acender</string>
+  <string name="question_edit_url_here">Pesquisar ou introduzir URL</string>
+  <string name="question_how_to_download_video">Como posso transferir vídeos?</string>
+  <string name="question_known">Percebi</string>
+  <string name="question_look_video_here">Os vídeos transferido vão ser guardados aqui</string>
+  <string name="question_next">Seguinte</string>
+  <string name="question_step">Ignorar</string>
   <string name="read_and_agree">Concordar</string>
   <string name="recommend_online_switch">Recomendações online</string>
   <string name="recommend_online_tips">Ligar para receber recomendações de vídeos online</string>
@@ -678,6 +699,7 @@ Tente ver outros vídeos!"</string>
   <string name="report_content_violence">Discurso de ódio</string>
   <string name="report_fail">Não foi possível reportar. Tente novamente</string>
   <string name="report_success">Reportado com sucesso</string>
+  <string name="request_camera_permission_message">This service need to ask your permission follows, we will strictly abide by relevant laws to protect your personal information: &lt;br>&lt;br>&lt;b> Access Camera: experience real-time recording services for setting Avatar &lt;/b>&lt;br>&lt;br> If you do not agree to call the above permissions, this function will not work properly, but it will not affect your use of the basic functions of this application. You can choose to turn off the above permission call in the system settings to withdraw your consent.</string>
   <string name="retry">Tentar novamente</string>
   <string name="revoke">Revogar</string>
   <string name="s1">Guardar imagem</string>
@@ -723,6 +745,7 @@ Tente ver outros vídeos!"</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>
   <string name="t_ovp_check_delete_favor">Seleccionar itens para remover</string>
   <string name="t_start_download">A iniciar transferência:</string>
+  <string name="tab_name_download">Transferências</string>
   <string name="tab_name_local">Dispositivo</string>
   <string name="tab_name_me">Perfil</string>
   <string name="tab_name_moment">Momentos</string>

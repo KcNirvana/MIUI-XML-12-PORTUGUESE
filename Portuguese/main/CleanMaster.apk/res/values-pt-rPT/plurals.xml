@@ -95,6 +95,10 @@
     <item quantity="other">Eliminar %1$s fotos de todos os dispositivos?</item>
     <item quantity="one">Eliminar %1$s foto de todos os dispositivos?</item>
   </plurals>
+  <plurals name="every_x_day">
+    <item quantity="other">A cada %d dias</item>
+    <item quantity="one">A cada %d dia</item>
+  </plurals>
   <plurals name="global_wa_clean_finish_audio">
     <item quantity="other">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> músicas)</item>
     <item quantity="one">Libertados &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (suficiente para &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> música)</item>
@@ -138,6 +142,10 @@
   <plurals name="install_find_application_num">
     <item quantity="other">%d aplicações encontradas</item>
     <item quantity="one">%d aplicação encontrada</item>
+  </plurals>
+  <plurals name="last_x_day">
+    <item quantity="other">Últimos %d dias</item>
+    <item quantity="one">Último %d dia</item>
   </plurals>
   <plurals name="minute">
        <item quantity="other">%1$d minutos</item>
