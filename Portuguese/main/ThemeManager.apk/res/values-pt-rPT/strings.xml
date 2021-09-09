@@ -51,6 +51,7 @@
   <string name="apply_success_not_enable_aod">Ligar primeiro o ecrã ambiente nas Definições</string>
   <string name="apply_success_not_support_aod">Não é possível combinar os temas ao ecrã ambiente neste dispositivo. O resto dos componentes foram aplicados com sucesso</string>
   <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
+  <string name="apply_warning_tip_get_device_status">Permitir que a aplicação aceda ao seu ID de dispositivo primeiro em Perfil > Definições</string>
   <string name="audio_duration_minutes_format">%1$d minutos</string>
   <string name="audio_duration_seconds_format">%1$d segundos</string>
   <string name="audition_ringtone">Reproduzir</string>
@@ -164,6 +165,9 @@
   <string name="detail_recommend_title">Recomendados</string>
   <string name="dev_options">Opções de programador</string>
   <string name="dev_options_summary">Recursos web</string>
+  <string name="dialog_apply_lock_screen_wallpaper_content">O tema actual não suporta a alteração do papel de parede do ecrã de bloqueio</string>
+  <string name="dialog_apply_lock_screen_wallpaper_warning">Papel de parede do ecrã de bloqueio</string>
+  <string name="dialog_content_get_device_status">Esta aplicação necessita de aceder ao seu ID de dispositivo para poder autenticar os itens que comprou. Pode não conseguir utilizar alguns itens comprados se desligar esta funcionalidade. Desligar mesmo assim?</string>
   <string name="desc_more_online_wallpaper">Mais papéis de parede online</string>
   <string name="dialog_show_never">Não mostrar novamente</string>
   <string name="display">Ecrã</string>
@@ -367,6 +371,7 @@ Toque aqui para iniciar agora"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Não mostrar novamente</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
+  <string name="multiwindow_no_support">Esta acção não é suportada no ecrã dividido</string>
   <string name="multiwindow_no_support_icon">Não é possível alterar ícones no ecrã dividido</string>
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Adquiridos</string>
@@ -409,6 +414,7 @@ Toque aqui para iniciar agora"</string>
   <string name="personalize_icon_title">Ícones</string>
   <string name="personalize_notify_ringtone_title">Notificações</string>
   <string name="personalize_notify_style_title">Efeitos</string>
+  <string name="personalize_second_space_not_support_set_font">Não é possível alterar o tipo de letra no Segundo espaço</string>
   <string name="personalize_theme_entrance">Temas</string>
   <string name="personalize_third_font">Tipos de letra</string>
   <string name="personalize_title">Papéis de parede e personalização</string>
@@ -417,6 +423,8 @@ Toque aqui para iniciar agora"</string>
   <string name="playing_ringtone">A reproduzir</string>
   <string name="pref_lockscreen_magazine_summary">Substituir o papel de parede com apresentação de imagens de várias categorias</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
+  <string name="preference_subtitle_get_device_status">Permitir o acesso ao ID de dispositivo para poder transferir itens comprados</string>
+  <string name="preference_title_get_device_status">Aceder ao ID de dispositivo</string>
   <string name="present_local_fonts">Os meus tipos de letra</string>
   <string name="present_local_themes">Os meus temas</string>
   <string name="present_local_themes_subtitle">Personalize o seu dispositivo</string>
@@ -698,6 +706,10 @@ Toque aqui para iniciar agora"</string>
   <string name="settings_search_keyword_font_online">Tipos de letra online</string>
   <string name="settings_search_keyword_font_style">Formato do tipo de letra</string>
   <string name="settings_search_keyword_font_wechat">Tipos de letra Wechat</string>
+  <string name="share_content_text_first_font">O tipo de letra \"%1$s\" dá ao seu telefone um visual completamente novo</string>
+  <string name="share_content_text_first_theme">O tema \"%1$s\" dá ao seu telefone um visual completamente novo</string>
+  <string name="share_content_text_first_wallpaper">O papel de parede \"%1$s\" dá ao seu telefone um visual completamente novo</string>
+  <string name="share_content_text_second">" Descubra o seu estilo em %1$s!"</string>
   <string name="share_copy_theme_url">Copiar o URL do tema</string>
   <string name="share_copy_url_success">Copiado com sucesso</string>
   <string name="share_copy_wallpaper_url">Copiar o URL do papel de parede</string>
@@ -728,6 +740,7 @@ Toque aqui para iniciar agora"</string>
   <string name="show_mamual_hide_miwallpaper">Mostrar efeitos de ecrã inicial ocultos</string>
   <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
   <string name="show_mamual_hide_wallpaper">Mostrar papéis de parede ocultos</string>
+  <string name="still_apply">Aplicar</string>
   <string name="super_wallpaper">Super papéis de parede</string>
   <string name="super_wallpaper_list_footer_text">Fique ligado nos nossos novos lançamentos!</string>
   <string name="super_wallpaper_list_label">Super papéis de parede</string>
@@ -913,16 +926,20 @@ Toque aqui para iniciar agora"</string>
   <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="video_data_tips_title">Aviso de utilização de dados</string>
+  <string name="video_not_support_message">O vídeo pode ser mostrado incorrectamente ou diminuir o desempenho. Aplicar mesmo assim?</string>
+  <string name="video_not_support_title">O vídeo é demasiado grande</string>
   <string name="video_silence_apply_success">Aplicado com sucesso</string>
   <string name="video_wallpaper_import">Toque para adicionar itens</string>
   <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>
+  <string name="wallpaper_dark_mode_image_preview_tip">Pré-visualização Modo Escuro</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
   <string name="wallpaper_delete_all">Eliminar itens seleccionados?</string>
   <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
   <string name="wallpaper_download_incall_show">Transferir vídeo</string>
   <string name="wallpaper_dynamic">Dinâmicos</string>
   <string name="wallpaper_group_set_loop">Bloquear apresentação de imagens do ecrã com imagens semelhantes</string>
+  <string name="wallpaper_light_mode_image_preview_tip">Pré-visualização Modo Leve</string>
   <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionado à apresentação</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionado à apresentação</string>

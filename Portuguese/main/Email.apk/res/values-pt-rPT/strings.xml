@@ -514,7 +514,7 @@
   <string name="folder_junk_name_en2">Correio electrónico não solicitado</string>
   <string name="folder_junk_name_en3">Spam</string>
   <string name="folder_junk_name_en4">Lixo</string>
-  <string name="folder_list_current_account">Conta actual</string>
+  <string name="folder_list_current_account">Caixa de entrada actual</string>
   <string name="folder_list_display_all">Mostrar todas as pastas</string>
   <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
   <string name="folder_no_mails">Sem emails</string>

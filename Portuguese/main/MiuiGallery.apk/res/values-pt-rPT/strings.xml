@@ -176,6 +176,7 @@
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
   <string name="app_summary">Gerir e editar as suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
+  <string name="app_summary_2">Gerir e editar as suas fotos e vídeos neste dispositivo</string>
   <string name="apply">Aplicar</string>
   <string name="art_still_cancel_download">Cancelar</string>
   <string name="art_still_download">Transferir</string>
@@ -522,6 +523,8 @@
   <string name="create_quick_icon_on_desk">Criar atalho</string>
   <string name="creating_baby_album">A criar álbum…</string>
   <string name="crop_label">Fotos recortadas</string>
+  <string name="cta_agreement_declare"><Data>Para compreender os seus direitos como utilizador e o modo como utilizamos os seus dados, leia e concorde com os nossos &lt;a href=\"%1$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de utilizar esta aplicação</Data></string>
+  <string name="cta_network_declare">Para sincronizar fotos e vídeos com a Xiaomi Cloud, é necessário ligar à Internet</string>
   <string name="custom_select_title_deselect_all">Desmarcar tudo</string>
   <string name="custom_select_title_quickly_share">Partilhar</string>
   <string name="custom_select_title_select_all">Seleccionar tudo</string>
@@ -941,11 +944,18 @@ efeitos de fotos"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Definir</string>
+  <string name="grant_permission_go_and_set_2">Definições</string>
+  <string name="grant_permission_go_and_set_3">Definições</string>
+  <string name="grant_permission_shortcut">Dar permissão para criar atalhos no ecrã inicial primeiro</string>
+  <string name="grant_permission_storage">Dar permissão para aceder ao armazenamento primeiro</string>
+  <string name="grant_permission_storage_unlock">Desbloquear o dispositivo e dar permissão para aceder ao armazenamento primeiro</string>
   <string name="grant_permission_text">"A Galeria necessita de acesso a
 %s
  para funcionar normalmente. Toque \"Definir\" para ir para as Permissões"</string>
   <string name="grant_permission_title">Permissão de acesso</string>
   <string name="grant_permission_unlock_and_set">Desbloquear e definir</string>
+  <string name="grant_permission_unlock_and_set_2">Desbloquear</string>
+  <string name="grant_permission_write_clipboard">Para poder copiar itens, dar permissão para guardar itens na área de transferências</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="have_known">Percebi</string>
   <string name="hello_blank_fragment">Fragmento em branco</string>
@@ -1456,8 +1466,14 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleccione uma pessoa</string>
   <string name="people_page_label">Pessoas</string>
   <string name="people_page_unname">Sem nome</string>
+  <string name="permission_account_desc">Para iniciar sessão e gerir contas de sistema</string>
+  <string name="permission_account_name">Aceder a contas</string>
+  <string name="permission_clipboard_desc">Para aceder e guardar itens na área de transferências</string>
+  <string name="permission_clipboard_name">Aceder e guardar itens na área de transferências</string>
   <string name="permission_contacts_desc">Para atribuir nomes de pessoas em fotos</string>
+  <string name="permission_contacts_desc_2">Para associar pessoas em fotos com contactos</string>
   <string name="permission_contacts_name">Contactos</string>
+  <string name="permission_contacts_name_2">Aceder a contactos</string>
   <string name="permissin_contract_desc">Para atribuir nomes de pessoas em fotos</string>
   <string name="permission_contract_name">Contactos</string>
   <string name="permission_optional_category">Permissões opcionais</string>
@@ -1465,7 +1481,9 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
   <string name="permission_phone_name">Telefone</string>
   <string name="permission_require_category">Permissões obrigatórias</string>
   <string name="permission_storage_desc">Para mostrar, editar e guardar fotos</string>
+  <string name="permission_storage_desc_2">Para mostrar, editar e guardar fotos</string>
   <string name="permission_storage_name">Armazenamento</string>
+  <string name="permission_storage_name_2">Aceder e guardar fotos e ficheiros no dispositivo</string>
   <string name="permission_use_desc">Permissões</string>
   <string name="pet_album_display_name">Fotos do animal de estimação</string>
   <string name="petabyteShort">PB</string>

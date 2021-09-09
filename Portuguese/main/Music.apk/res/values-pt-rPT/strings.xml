@@ -10,7 +10,7 @@
   <string name="action_item_download">Transferir</string>
   <string name="action_item_favorite">Favoritos</string>
   <string name="action_item_hide">Ocultar</string>
-  <string name="action_item_hifi">Auriculares e efeitos de áudio</string>
+  <string name="action_item_hifi">Auriculares</string>
   <string name="action_item_play_all">Reproduzir tudo</string>
   <string name="action_item_play_next">Reproduzir mais tarde</string>
   <string name="action_item_remove">Remover</string>
@@ -21,6 +21,7 @@
   <string name="ad_data_exception">Excepção de dados de anúncios</string>
   <string name="ad_recommend">Anúncios recomendados</string>
   <string name="ad_setting">Definições de anúncios</string>
+  <string name="add">Adicionar</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="add_to_playlist_successful">Adicionado com sucesso</string>
@@ -124,6 +125,7 @@
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser transferida</string>
   <string name="dialog_clear_history">Limpar a lista de recentes?</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo</string>
+  <string name="dialog_continue">OK</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
@@ -145,6 +147,7 @@
   <string name="dialog_song_view_type_artist">Artistas</string>
   <string name="dialog_song_view_type_folder">Pastas</string>
   <string name="dialog_song_view_type_song">Músicas</string>
+  <string name="dialog_stop_audio_in">Temporizador</string>
   <string name="dialog_title_clearlist_tracks">Limpar lista de reprodução</string>
   <string name="dialog_title_delete_tracks">Eliminar músicas</string>
   <string name="dialog_title_name_playlist">Nome da lista de reprodução</string>
@@ -364,6 +367,7 @@
   <string name="mulit_choice_management">Gerir vários itens</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
+  <string name="music_quality">Qualidade de áudio</string>
   <string name="music_service">Serviço de música</string>
   <string name="music_settings">Música</string>
   <string name="music_traffic">Plano de dados de música</string>
@@ -391,6 +395,7 @@
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
   <string name="no_local_source_find">Não é possível encontrar a música</string>
   <string name="no_longer_prompt">Não mostrar novamente</string>
+  <string name="no_lyrics">Sem letras</string>
   <string name="no_online_song_selected">Não foi seleccionada nenhuma música</string>
   <string name="no_results_return">Sem resultados</string>
   <string name="no_scanned_songs">Vazio</string>
@@ -656,6 +661,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
   <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
+  <string name="toast_hungama_vip_song">This song is only available to PRO members. Get a subscription to download this song。</string>
   <string name="toast_my_playlist_illegal_name">O título desta lista não é válido. Mude o nome desta lista</string>
   <string name="toast_my_playlist_set_to_private">Esta lista agora é privada. As outras pessoas não a conseguem ver</string>
   <string name="toast_my_playlist_set_to_public">Esta lista agora é pública. As outras pessoas conseguem-na ver</string>

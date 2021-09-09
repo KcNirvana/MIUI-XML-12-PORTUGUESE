@@ -402,6 +402,10 @@
   <string name="navigation_guide_recent_summary">Deslizar para cima e pausar</string>
   <string name="navigation_guide_recent_title">Abrir Recentes</string>
   <string name="navigation_guide_settings">Demonstração de gestos</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Cancelar</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">Não é possível utilizar gestos com launchers de terceiros. Alterar para o launcher de sistema e ligar os gestos de ecrã em tamanho inteiro?</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Atenção</string>
   <string name="navigation_type_full_screen">Gestos</string>
   <string name="navigation_type_title">Navegação do sistema</string>
   <string name="navigation_type_virtual_key">Botões</string>
@@ -489,10 +493,10 @@
   <string name="recommend_app">Sugestões da aplicação</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
-  <string name="recommend_apps_no_data_toast">Sem recomendações</string>
-  <string name="recommend_apps_notice">Aplicações recomendadas</string>
-  <string name="recommend_apps_notice_nodata">Aplicações recomendadas (Sem dados)</string>
-  <string name="recommend_apps_switch_title">Aplicações recomendadas</string>
+  <string name="recommend_apps_no_data_toast">Sem itens nas recomendações de hoje</string>
+  <string name="recommend_apps_notice">Recomendações de hoje</string>
+  <string name="recommend_apps_notice_nodata">Recomendações de hoje (Sem itens)</string>
+  <string name="recommend_apps_switch_title">Recomendações de hoje</string>
   <string name="recommend_apps_tips">Esta funcionalidade necessita de estar ligada à Internet para funcionar normalmente. Para desligar esta funcionalidade toque no nome desta pasta</string>
   <string name="recommend_loading">A carregar</string>
   <string name="recommend_refresh">Actualizar</string>

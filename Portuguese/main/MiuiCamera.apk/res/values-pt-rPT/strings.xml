@@ -274,7 +274,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="aiwatermark_location_absent_hint">Não foi possível obter a localização</string>
   <string name="aiwatermark_location_list_title">Localização</string>
   <string name="aiwatermark_location_tips">"Permitir que Câmara aceda à sua localização para obter marcas d'água mais relevantes"</string>
-  <string name="altitude_text">Altitude</string>
+  <string name="altitude_text">Alt.</string>
   <string name="ambilight_description_title">Acerca da exposição longa</string>
   <string name="ambilight_intro_crowd_moving_part1">Quando tirar uma foto numa rua movimentada, peça ao seu sujeito para que fique parado. As outras pessoas vão aparecer como trilhas desfocadas</string>
   <string name="ambilight_intro_crowd_moving_part2">Também pode tirar fotos de tráfego intenso e multidões em movimento. A exposição longa vai manter os edifícios nítidos mas todos os objetos em movimento vão ficar desfocados</string>
@@ -646,7 +646,7 @@ Imprima a cópia em papel A4"</string>
   <string name="invisible_mode_dialog_title">Está anónimo</string>
   <string name="invisible_mode_dialog_to_close">Definições</string>
   <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>
-  <string name="latitude_text">Latitude</string>
+  <string name="latitude_text">Lat.</string>
   <string name="lens_dirty_detected_content">"Parece que a lente da câmara está suja.
 Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lens_dirty_detected_title_back">A lente da câmara traseira está suja</string>
@@ -709,7 +709,7 @@ no modo Retrato"</string>
   <string name="location_permission_des">Memorizar localizações para fotos e vídeos</string>
   <string name="location_permission_not_ask_again">Permitir que a Câmara possa aceder à sua localização nas Definições</string>
   <string name="location_permission_not_ask_again_go_to_settings">Permitir</string>
-  <string name="longitude_text">Longitude</string>
+  <string name="longitude_text">Long.</string>
   <string name="lpl_dialog_item_name_burst">Premir e segurar para Disparo Contínuo</string>
   <string name="lpl_dialog_item_name_record">Premir e segurar para gravar vídeo</string>
   <string name="lpl_dialog_title">Seleccionar função para o disparo</string>
