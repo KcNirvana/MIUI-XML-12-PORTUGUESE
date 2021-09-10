@@ -2693,7 +2693,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="power_center_battery_app_detail">Utilização de bateria</string>
   <string name="power_center_battery_charge_night">Poupar bateria enquanto carrega à noite</string>
   <string name="power_center_battery_charge_times">Carregado hoje</string>
-  <string name="power_center_battery_chargefull_time">Até totalmente carregado</string>
+  <string name="power_center_battery_chargefull_time">Até totalmente carregada</string>
   <string name="power_center_battery_detail">Detalhes</string>
   <string name="power_center_battery_duration">Tempo restante</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
@@ -3369,8 +3369,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="report_success">Mensagem reportada</string>
   <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone vão ser enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Atenção</string>
-  <string name="required_permissions">Permissões obrigatórias</string>
-  <string name="required_permissions_desc">Estas permissões são necessárias para a aplicação funcionar normalmente</string>
+  <string name="required_permissions">"Permissões obrigatórias "</string>
+  <string name="required_permissions_desc">estas permissões são necessárias para a aplicação funcionar normalmente</string>
   <string name="reset_data_dialog_message">Este dispositivo não está associado à sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
   <string name="reset_data_dialog_ok">Reposição de fábrica</string>
   <string name="reset_data_title">Não é possível restaurar palavra-passe</string>

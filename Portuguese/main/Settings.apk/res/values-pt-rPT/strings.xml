@@ -3137,8 +3137,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_setting_on">Ligado</string>
   <string name="gesture_settings_activity_title">Definições de gestos</string>
   <string name="gesture_settings_title">Atalhos de gestos</string>
-  <string name="gesture_wakeup_summary">Duplo toque no ecrã para ligar ou desligar o ecrã apenas com temas predefinidos</string>
-  <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar o ecrã</string>
+  <string name="gesture_wakeup_summary">Duplo toque para ligar ou desligar o ecrã (apenas temas predefinidos)</string>
+  <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da ligação</string>
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
