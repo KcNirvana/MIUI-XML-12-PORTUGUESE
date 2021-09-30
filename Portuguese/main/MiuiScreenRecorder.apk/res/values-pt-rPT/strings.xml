@@ -73,7 +73,7 @@ Toque para ver"</string>
   <string name="permission_intro_storage">Para guardar gravações de ecrã</string>
   <string name="permission_microphone_desc">Utilizar o microfone como origem do áudio para gravações de ecrã</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferências</string>
-  <string name="quit_recording">Sair do Gravador de Ecrã</string>
+  <string name="quit_recording">Saiu do Gravador de Ecrã</string>
   <string name="recording_failure">Não foi possível gravar. Comece de novo</string>
   <string name="recording_max_size">A gravação foi parada e guardada porque o vídeo atingiu o tamanho máximo. Comece a gravar de onde ficou se ainda não terminou</string>
   <string name="recording_without_mic">O microfone está a ser utilizado e o som não pode ser gravado</string>

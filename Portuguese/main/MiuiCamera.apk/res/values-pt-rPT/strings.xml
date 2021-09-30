@@ -468,7 +468,7 @@ e ajustar as preferências automaticamente"</string>
   <string name="cta_perm_loc">Localização</string>
   <string name="cta_perm_storage">Aceder a fotos neste dispositivo</string>
   <string name="cta_perm_storage_desc">Para ver e guardar fotos</string>
-  <string name="cta_perm_type">Permissões opcionais (Utilizadas para funcionalidades adicionais)</string>
+  <string name="cta_perm_type">Permissões opcionais (utilizadas para funcionalidades adicionais)</string>
   <string name="cta_perm_voice">Utilizar microfone</string>
   <string name="cta_perm_voice_desc">Para gravar áudio enquanto tira fotos</string>
   <string name="cta_user_tips">"Para compreender os seus direitos de utilizador e como fazemos a gestão dos seus dados, leia e concorde com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href ='%2$s'>Política de Privacidade</a>"</string>

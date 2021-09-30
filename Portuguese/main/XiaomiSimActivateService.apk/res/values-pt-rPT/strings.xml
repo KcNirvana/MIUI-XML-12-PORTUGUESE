@@ -28,13 +28,13 @@
   <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
   <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %d</string>
   <string name="activate_phone_failed_notif_title_sim">Não foi possível activar \"%2$s\" utilizando o cartão SIM %1$d</string>
-  <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Conta Mi criada com sucesso utilizando o cartão SIM %d</string>
-  <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Não foi possível criar a Conta Mi utilizando o cartão SIM %d</string>
+  <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Conta Mi criada com sucesso utilizando o SIM %d</string>
+  <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Não foi possível criar a Conta Mi utilizando o SIM %d</string>
   <string name="activate_phone_server_failed_notif_title">Não foi possível activar \"%s\"</string>
   <string name="activate_phone_server_success_notif_title">\"%s\" activado com sucesso</string>
   <string name="activate_phone_success_notif_title">Cartão SIM activado</string>
   <string name="activate_phone_success_notif_title_msim">Cartão SIM %d activado</string>
-  <string name="activate_phone_success_notif_title_sim">\"\"%2$s\"\" activado com sucesso utilizando o cartão SIM %1$d</string>
+  <string name="activate_phone_success_notif_title_sim">\"%2$s\" activado com sucesso utilizando o SIM %1$d</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Tentar novamente</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Tentar novamente</string>
   <string name="activate_popup_confirm_error_device_id">Tentar novamente</string>
@@ -44,9 +44,9 @@
   <string name="activate_popup_confirm_failed_send_sms">Reenviar</string>
   <string name="activate_popup_confirm_failed_server">Tentar novamente</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
-  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">%1$d mensagens de texto internacionais vão ser enviadas para activar \"\"%2$s\"\". Vão ser cobrados valores adicionais pela sua operadora</string>
+  <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">%1$d mensagens de texto internacionais vão ser enviadas para activar \"%2$s\". Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora</string>
-  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">%1$d mensagens de texto vão ser enviadas para activar \"\"%2$s\"\". Vão ser cobrados valores adicionais pela sua operadora</string>
+  <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">%1$d mensagens de texto vão ser enviadas para activar \"%2$s\". Vão ser cobrados valores adicionais pela sua operadora</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado.
 Introduza o número de telefone associado ao o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.

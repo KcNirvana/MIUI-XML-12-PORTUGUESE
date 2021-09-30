@@ -79,6 +79,7 @@
   <string name="cdd_message">Devido a restrições do Android 11, não vai poder ver alguns ficheiros gerados em aplicações de terceiros</string>
   <string name="cdd_title">Atenção</string>
   <string name="clean_hint">Toque para libertar espaço</string>
+  <string name="clean_hint_pad">Limpar lixo para libertar espaço</string>
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="click_to_switch_volume_pad">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="clock_in">A fazer check-in…</string>

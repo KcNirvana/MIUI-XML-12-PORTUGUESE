@@ -683,8 +683,8 @@ Toque aqui para iniciar agora"</string>
   <string name="search_sort_news">Novos primeiro</string>
   <string name="search_sort_synthesize">Geral</string>
   <string name="search_sort_top">Populares primeiro</string>
-  <string name="scrollable_wallpaper_close">Turned off scrolling</string>
-  <string name="scrollable_wallpaper_open">Turned on scrolling</string>
+  <string name="scrollable_wallpaper_close">Deslizar desligado</string>
+  <string name="scrollable_wallpaper_open">Deslizar ligado</string>
   <string name="sdcard_not_mounted_dialog_message">"Inserir o cartão SD agora.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Não foi detectado nenhum cartão SD</string>

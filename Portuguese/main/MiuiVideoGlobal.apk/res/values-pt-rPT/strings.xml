@@ -215,7 +215,7 @@
   <string name="got_it">Percebi</string>
   <string name="hidden_channels">Os canais seguintes não vão ser mostrados na página inicial</string>
   <string name="hide">Ocultar</string>
-  <string name="history">History</string>
+  <string name="history">Histórico</string>
   <string name="history_local_video">Dispositivo</string>
   <string name="history_online_video">Online</string>
   <string name="i_know">OK</string>
@@ -838,4 +838,5 @@ tamanho da actualização Delta: %2$s"</string>
   <string name="ytb_logout">Terminar sessão</string>
   <string name="ytb_play_next">Seguinte</string>
   <string name="ytb_subscribed">Subscrições</string>
+  <string name="ytb_trending">Tendências</string>
 </resources>

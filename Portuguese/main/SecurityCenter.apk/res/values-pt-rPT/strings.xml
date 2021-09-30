@@ -2311,7 +2311,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="notification_checker_installed_apk_hint">Não é necessário guardar APKs após instalação</string>
   <string name="notification_enter_power_save_mode_subtitle">Desligar quando a bateria estiver a %s ou totalmente carregada​</string>
   <string name="notification_enter_power_save_mode_title">Poupança de bateria ligada</string>
-  <string name="notification_exit_power_save_mode">Poupança de bateria extrema desligada</string>
+  <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_full_subtitle">Dispositivo carregado</string>
   <string name="notification_exit_power_save_mode_now">Desligar</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
@@ -2464,8 +2464,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
   <string name="optimize_result_title_system_default_settings">As definições predefinidas foram alteradas</string>
   <string name="optimize_result_toast_system_default_settings">As definições predefinidas foram repostas</string>
   <string name="optimize_result_toast_system_no_item_selected">Sem itens seleccionados</string>
-  <string name="optional_permissions">Permissões opcionais</string>
-  <string name="optional_permissions_desc">Estas permissões são necessárias quando utilizar funcionalidades adicionais</string>
+  <string name="optional_permissions">"Permissões opcionais "</string>
+  <string name="optional_permissions_desc">estas permissões são necessárias quando utilizar funcionalidades adicionais</string>
   <string name="optmizingbar_optimize_done">Optimizado</string>
   <string name="optmizingbar_ready">A optimizar…</string>
   <string name="optmizingbar_stop_optmize">Parar</string>

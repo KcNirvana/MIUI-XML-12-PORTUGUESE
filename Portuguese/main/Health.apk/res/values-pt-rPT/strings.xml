@@ -76,6 +76,7 @@ Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios nor
   <string name="average_menstruation_days">Duração média</string>
   <string name="avg_altitude">Altitude média</string>
   <string name="avg_day">Média</string>
+  <string name="avg_earphone_listening_duration">Auriculares</string>
   <string name="avg_finish_stand">Média diária em pé</string>
   <string name="avg_freq">Frequência média</string>
   <string name="avg_heart_rate">Frequência cardíaca média</string>
@@ -84,6 +85,7 @@ Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios nor
   <string name="avg_low_pressure">Média diastólica (baixo)</string>
   <string name="avg_pace">Ritmo médio</string>
   <string name="avg_steps">Passos diários</string>
+  <string name="avg_treble_duration">Sons altos</string>
   <string name="awake_count">Acordares</string>
   <string name="awake_count_abnormal_description">Acordou muito durante a noite</string>
   <string name="awake_count_normal_description">Acordou uma vez à noite. Isto é normal</string>
@@ -173,6 +175,7 @@ Se não quiser ter acesso a aulas recomendadas, pode utilizar os exercícios nor
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="click_finish_stand">Toque para terminar</string>
+  <string name="click_to_solve">Ajuda</string>
   <string name="climb">Subir escadas</string>
   <string name="climbing">Escalada</string>
   <string name="close">Desligar</string>
@@ -346,12 +349,15 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="each_week_day_format1">Todas as %1$s</string>
   <string name="each_week_day_format2">Todas as %1$s, %2$s e %3$s</string>
   <string name="each_week_day_format3">Todas as %1$s até %2$s</string>
+  <string name="earphone_listening_duration">Auriculares</string>
   <string name="edit_aid_file">Editar</string>
   <string name="edit_basic_info_desc">Informações básicas</string>
   <string name="edit_immediately">Introduzir</string>
   <string name="edit_sleep_record_button">Editar</string>
   <string name="elliptical_machine">Elíptica</string>
   <string name="emergency_contact">Contacto de emergência</string>
+  <string name="emergency_lock_show_subtitle">Localizar o seu ID de emergência médica ao tocar \"Emergência\" e \"ID Emergência médica\" com o ecrã bloqueado</string>
+  <string name="emergency_lock_show_title">Mostrar quando bloqueado</string>
   <string name="enable">Ligado</string>
   <string name="enable_go_now">Ligar</string>
   <string name="enable_not_now">Agora não</string>
@@ -366,6 +372,7 @@ Saúde vai apenas notificá-lo acerca de itens importantes"</string>
   <string name="environment_detection_hint_two">O seu treino vai ser pausado e retomado automaticamente baseado nos sons que produz</string>
   <string name="environment_detection_ing">A verificar o ambiente de treinos…</string>
   <string name="equivalent_exercise">Andou ≈%1$s km (%2$s kcal)</string>
+  <string name="evaluation_origin_health">Sugestões fornecidas por Saúde</string>
   <string name="every_day">Todos os dias</string>
   <string name="excessive">Demasiado</string>
   <string name="exercise">Actividade</string>
@@ -448,6 +455,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="finish_stand">Terminar</string>
   <string name="finish_stand2">Ficar em pé</string>
   <string name="finished_rate">%1$d%% concluído</string>
+  <string name="first_aid_card">ID de emergência médica</string>
   <string name="fmt_chinese_date"/>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
@@ -509,6 +517,7 @@ Se ainda for difícil adormecer depois de 30 minutos, reduza os factores que con
   <string name="health_setting">Definições de Saúde</string>
   <string name="health_uninstall_dialog_content">A Saúde é uma aplicação de sistema. Não vai poder contar passos, registar o sono e peso após desinstalar</string>
   <string name="health_uninstall_dialog_title">Desinstalar Saúde?</string>
+  <string name="hearing">Audição</string>
   <string name="heart_rate">Batimentos cardíacos</string>
   <string name="height">Altura</string>
   <string name="high">Alta</string>
@@ -652,6 +661,7 @@ Comece de novo"</string>
   <string name="light_sleep_time_decrease_description">O seu sono leve é demasiado curto</string>
   <string name="light_sleep_time_increase_description">O seu sono leve é demasiado longo</string>
   <string name="light_sleep_time_normal_description">O seu sono leve é suficiente</string>
+  <string name="listening_duration">Auriculares</string>
   <string name="load_failed">Não foi possível carregar itens. Aguarde um momento e tente novamente</string>
   <string name="loading">Aguarde…</string>
   <string name="location_perm_description">Para registar exercícios ao ar livre e rotas</string>
@@ -665,6 +675,16 @@ Comece de novo"</string>
   <string name="location_service_dialog_title">Localização desligada</string>
   <string name="location_service_ntfc_content">Saúde</string>
   <string name="location_service_ntfc_title">A pesquisar GPS…</string>
+  <string name="lock_not_support_description">Para ter o seu ID de emergência médica disponível no ecrã de bloqueio, toque Mais > Editar e ligue o Mostrar quando bloqueado</string>
+  <string name="lock_show_dialog_content">"O seu ID de emergência médica pode ser acedido sem desbloquear o seu telefone.
+Se não quiser partilhar esta informação, pode desligar esta funcionalidade"</string>
+  <string name="lock_show_dialog_title">Atenção</string>
+  <string name="lock_show_solve_description">Para mostrar o seu ID de emergência médica no ecrã de bloqueio, permitir que Saúde possa ser mostrado no ecrã de bloqueio</string>
+  <string name="lock_show_solve_go">Definições</string>
+  <string name="lock_show_solve_path">Tocar em \"Definições\", escolher \"Mostrar no ecrã de bloqueio\" e seleccionar \"Permitir sempre\"</string>
+  <string name="lock_show_solve_title">Adicionar informações no ecrã de bloqueio</string>
+  <string name="lock_support_description">O seu ID de emergência médica pode ser visto ao tocar \"Emergência\" e \"ID de emergência médica\" com o ecrã bloqueado</string>
+  <string name="lock_support_description2">Não consegue encontrar o seu ID de emergência médica no ecrã de bloqueio?</string>
   <string name="login_and_open_sync">Iniciar sessão e ligar sincronização</string>
   <string name="login_and_open_sync2">Iniciar sessão e ligar sincronização</string>
   <string name="low">Baixa</string>
@@ -1396,6 +1416,10 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_go_next_a_day">Dia anterior</string>
   <string name="tb_go_on_detection">Retomar</string>
   <string name="tb_has_snore_dream_talk">Ressonar e falar detectado</string>
+  <string name="tb_hearing_card">Audição | Exposição dos auriculares: %1$s | Gravado: %2$s</string>
+  <string name="tb_hearing_column">%1$s | Exposição dos auriculares: %2$s | Sons altos: %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Exposição dos auriculares: %2$s | Sons altos: %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Média de exposição dos auriculares: %2$s | Média de exposição a sons altos: %3$s.</string>
   <string name="tb_heart_rate_max_min">Batimento cardíaco. Mais alto: %1$d | Mais baixo: %2$d</string>
   <string name="tb_home_blood_pressure_card">Pressão arterial: Sistólica: %1$d | Diastólica: %2$d | Registada: %3$s | Estado: %4$s</string>
   <string name="tb_home_blood_pressure_card_no_data">Pressão arterial: Sem dados</string>
@@ -1472,6 +1496,7 @@ baseados nas suas informações pessoais"</string>
   <string name="tb_user_step_card_info">Objectivo diário: %1$s, cerca de %2$s ou %3$s</string>
   <string name="tb_user_step_target_btn">Alterar objectivo</string>
   <string name="tb_user_weight_card_info">IMC %1$s, %2$s. Peso recomendado: %3$s</string>
+  <string name="tb_volume_list_item">%1$s | Sons ambiente: %3$s (%2$d dB).</string>
   <string name="tb_weight_choice">%2$s de %1$s é %3$s</string>
   <string name="tb_weight_decrease">Perdeu peso</string>
   <string name="tb_weight_has_record">Pesagem encontrada</string>
@@ -1518,7 +1543,9 @@ baseados nas suas informações pessoais"</string>
   <string name="total_slip">Número de golpes</string>
   <string name="total_time_label">Total de tempo</string>
   <string name="treadmill">Passadeira</string>
-  <string name="try_again">Tentar novament</string>
+  <string name="treble_duration">Sons altos</string>
+  <string name="treble_sum_duration">Sons altos</string>
+  <string name="try_again">Tentar novamente</string>
   <string name="turn_count">Turnos</string>
   <string name="turn_on_necessary_permissions">São necessárias permissões para monitorizar o sono</string>
   <string name="unable_record_future_menstruation">Não é possível registar períodos futuros</string>
@@ -1555,6 +1582,13 @@ Actualizar agora?"</string>
   <string name="visceral_fat">Gordura visceral</string>
   <string name="visceral_fat_descripe_content">A gordura visceral é essencial para estabilizar e proteger os órgãos internos. No entanto, a gordura visceral alta aumenta o risco de doenças cardiovasculares e metabólicas</string>
   <string name="voice_remind">Aumentámos o volume para que possa ouvir melhor as instruções</string>
+  <string name="volume_high">Alto</string>
+  <string name="volume_high_description">Para prevenir danos na sua audição, utilizar auriculares com redução de ruído. Não aumente o volume para encobrir o ruído</string>
+  <string name="volume_level">Sons ambiente</string>
+  <string name="volume_normal">OK</string>
+  <string name="volume_normal_description">Exposição a sons leves não deve causar danos à audição. Podem ajudar a concentrar-se</string>
+  <string name="volume_too_high">Muito alto</string>
+  <string name="volume_too_high_description">Exposição prolongada a sons altos pode causar danos à audição. Para proteger a sua audição, afaste-se de sons altos ou utilize auriculares com redução de ruído</string>
   <string name="walk">Andar</string>
   <string name="weight_height_weight_bmi">Índice de massa corporal</string>
   <string name="weight_keep_up">Perfeito! Continue a manter um peso saudável</string>

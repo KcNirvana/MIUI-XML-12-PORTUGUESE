@@ -3136,7 +3136,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_setting_off">Desligado</string>
   <string name="gesture_setting_on">Ligado</string>
   <string name="gesture_settings_activity_title">Definições de gestos</string>
-  <string name="gesture_settings_title">Atalhos de gestos</string>
+  <string name="gesture_settings_title">Gestos de atalhos</string>
   <string name="gesture_wakeup_summary">Duplo toque para ligar ou desligar o ecrã (apenas temas predefinidos)</string>
   <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>

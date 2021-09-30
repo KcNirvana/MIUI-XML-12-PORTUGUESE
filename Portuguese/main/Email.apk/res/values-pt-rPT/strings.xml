@@ -381,6 +381,7 @@
   <string name="copy">Copiar</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
+  <string name="copy_toast_msg">Link copiado para a área de transferências</string>
   <string name="create_action">Novo</string>
   <string name="custom_from_account_label">Enviar como:</string>
   <string name="database_exception">Ocorreu um erro. Inicie sessão novamente</string>
@@ -478,6 +479,9 @@
   <string name="failed_parse_eml_file">Não foi possível abrir o ficheiro EML. Tente novamente</string>
   <string name="failed_read_write_calendar_permission">Não tem permissões para aceder ao calendário</string>
   <string name="failed_read_write_contacts_permission">Não tem permissões para aceder aos contactos</string>
+  <string name="fallback_menu_item_copy_link">Copiar link</string>
+  <string name="fallback_menu_item_open_in_browser">Abrir no navegador</string>
+  <string name="fallback_menu_item_share_link">Partilhar link</string>
   <string name="feedback">Enviar comentários</string>
   <string name="feedback_body">Mensagem</string>
   <string name="feedback_sent">Obrigado pelo seu comentário</string>
@@ -1154,6 +1158,9 @@ Aguarde até estar totalmente sincronizado"</string>
   <string name="show_images_all">Carregar e mostrar todas as imagens</string>
   <string name="show_password">Mostrar palavra-passe</string>
   <string name="show_server_cet">Ver certificado</string>
+  <string name="sign_in_dialog_outlook_enterprise">Outlook empresarial (sem calendário)</string>
+  <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com calendário)</string>
+  <string name="sign_in_dialog_outlook_imap">IMAP (sem calendário)</string>
   <string name="sign_in_graph_error">Apenas pode iniciar sessão utilizando protocolos IMAP ou EXCHANGE quando a sua organização não alterou as configurações do servidor. Se o endereço do servidor é personalizado pela sua organização, inicie sessão utilizando o novo protocolo Microsoft</string>
   <string name="sign_in_no_useful_provider_error">Não é possível obter a configuração de protocolos da Microsoft</string>
   <string name="signature">"
