@@ -9,6 +9,7 @@
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="added_category">Adicionada</string>
   <string name="aggree_desc">Permita que esta aplicação se ligue à Internet e conceda as permissões obrigatórias listadas acima.</string>
+  <string name="agree">Concordar</string>
   <string name="app_all_purpose">"Bem-vindo a Ficheiros! Pode utilizar esta aplicação para gerir os ficheiros armazenados no seu dispositivo. "</string>
   <string name="app_all_purpose_pad">"Bem-vindo a Ficheiros! Pode utilizar esta aplicação para gerir os ficheiros armazenados no seu dispositivo. "</string>
   <string name="app_function">Gerir ficheiros no dispositivo</string>
@@ -163,6 +164,7 @@
   <string name="error_invalid_path">Caminho incorrecto</string>
   <string name="error_not_support">Não suportado</string>
   <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção</string>
+  <string name="exit">Sair</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fab_menu_sort">Ordem</string>
@@ -335,6 +337,7 @@
   <string name="notification_dialog_title">Notificações</string>
   <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
   <string name="online_not_support">Não é possível ver este ficheiro neste momento</string>
+  <string name="open_or_close_wlan">Ligar e desligar Wi-Fi</string>
   <string name="open_private_folder">Largue para ver pastas ocultas</string>
   <string name="operation_add_fav">A adicionar aos favoritos…</string>
   <string name="operation_cancel">Cancelar</string>
@@ -384,6 +387,7 @@
   <string name="partial_encrypt_success">Não foi possível ocultar alguns ficheiros. Tente novamente</string>
   <string name="path_name_email">Email</string>
   <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
+  <string name="permission_description">Detalhe das permissões</string>
   <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Ficheiros possa aceder a ficheiros nas Definições</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Armazenamento interno</string>
@@ -403,7 +407,12 @@
   <string name="pick_file">Escolher ficheiros</string>
   <string name="pick_folder">Escolher pasta</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
+  <string name="pref_permission_allowed">Concedidas</string>
+  <string name="pref_permission_manage_key_storage">Aceder a fotos e ficheiros no dispositivo</string>
+  <string name="pref_permission_not_allowed">Não concedidas</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_policy_renew">Política de Privacidade actualizada</string>
+  <string name="privacy_policy_renew_content"><Data>"A &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> de Ficheiros foi actualizada. Para compreender todos os seu direitos como utilizador, leia e concorde com a nova versão da Política de Privacidade antes de continuar"</Data></string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Pastas ocultas</string>
   <string name="private_folder_no_file_hints">Sem ficheiros ocultos</string>
@@ -552,6 +561,10 @@
   <string name="wechat_title">"Can't access WeChat documents"</string>
   <string name="wechat_video">Vídeo em %s</string>
   <string name="wifi_state">Rede Wi-Fi</string>
+  <string name="withdraw">Remover</string>
+  <string name="withdraw_consent">Remover consentimento</string>
+  <string name="withdraw_consent_content">Se continuar, vai remover o consentimento da Política de Privacidade de Ficheiros. As informações pessoais já obtidas e retidas vão ser eliminadas consoantes as leis aplicáveis"</string>
+  <string name="withdraw_consent_summary">Remover consentimento da Política de Privacidade de Ficheiros</string>
   <string name="year_month_day_format">dd-MM-yyyy</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
