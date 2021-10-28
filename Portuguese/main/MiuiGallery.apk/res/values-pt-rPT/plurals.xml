@@ -490,9 +490,17 @@
         <item quantity="other">%1$s | %2$s itens</item>
         <item quantity="one">%1$s | %2$s item</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d itens seleccionados vão ser eliminados permanentemente da Xiaomi Cloud e dispositivos sincronizados. Eliminar mesmo assim?</item>
+        <item quantity="one">%d item seleccionado vai ser eliminado permanentemente da Xiaomi Cloud e dispositivos sincronizados. Eliminar mesmo assim?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">Não vai poder restaurar os %d itens seleccionados se os eliminar. Eliminar mesmo assim?</item>
-        <item quantity="one">Não vai poder restaurar o %d item seleccionado se o eliminar. Eliminar mesmo assim?</item>
+        <item quantity="other">Não vai poder restaurar %d itens seleccionados se os eliminar. Eliminar mesmo assim?</item>
+        <item quantity="one">Não vai poder restaurar %d item seleccionado se o eliminar. Eliminar mesmo assim?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d itens seleccionados vão ser eliminados permanentemente. Eliminar mesmo assim?</item>
+        <item quantity="one">%d item seleccionado vai ser eliminado permanentemente. Eliminar mesmo assim?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">Não vai poder restaurar os %d itens seleccionados se os eliminar. Eliminar mesmo assim?</item>

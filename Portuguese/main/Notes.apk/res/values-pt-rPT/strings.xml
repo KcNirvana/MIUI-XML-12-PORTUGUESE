@@ -275,6 +275,7 @@
   <string name="note_gesture_guide_step3">Premir,segurar e arrastar uma nota por cima duma pasta para a mover para lá</string>
   <string name="note_header_first_enter_guide">Puxar para ver mais</string>
   <string name="note_invalid_mindnote_hint">Os mapas mentais não estão disponíveis nesta versão. Atualize a aplicação para utilizar esta funcionalidade</string>
+  <string name="note_item_default_title">Nota vazia</string>
   <string name="note_link_email">Escrever email</string>
   <string name="note_link_other">Abrir utilizando a aplicação de mapas</string>
   <string name="note_link_select">Seleccionar texto</string>
@@ -344,6 +345,12 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com dois dedos para eliminar notas sem confirmação</string>
   <string name="pref_desc_todo_float_mode">Deslize a partir da borda do ecrã para abrir as ferramentas</string>
   <string name="pref_excerpt_link_float">Receber um lembrete para criar excertos sempre que um URL for copiado</string>
+  <string name="pref_permission_allowed">Concedidas</string>
+  <string name="pref_permission_manage">Detalhe das permissões</string>
+  <string name="pref_permission_manage_key_contact">Aceder a contactos</string>
+  <string name="pref_permission_manage_key_recording">Gravar áudio</string>
+  <string name="pref_permission_manage_key_storage">Aceder ao armazenamento</string>
+  <string name="pref_permission_not_allowed">Não concedidas</string>
   <string name="pref_quick_note_desc">Utilizar o atalho para criar notas e tarefas, guardar URLs copiados, texto e imagens em Notas</string>
   <string name="pref_remind_type_summary">Tocar sons de lembretes no modo Silêncio</string>
   <string name="pref_remind_type_summary_new">Ignorar modo Silêncio e continuar a reproduzir sons até que o alarme seja desligado</string>
@@ -585,7 +592,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="widget_havenot_content_new">Toque para criar uma nota. Segure no widget para redimensionar</string>
   <string name="widget_note_list_page_title">Seleccionar nota</string>
   <string name="widget_take_notes_title">Notas</string>
-  <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
-  <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
-  <string name="xiaomi_market_sdk_update_dialog_title">Actualização disponível</string>
+  <string name="widget_size_item_big">Grande</string>
+  <string name="widget_size_item_medium">Médio</string>
+  <string name="widget_size_item_small">Pequeno</string>
 </resources>

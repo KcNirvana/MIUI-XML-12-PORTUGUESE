@@ -40,6 +40,7 @@
   <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
   <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
   <string name="app_name">Temas</string>
+  <string name="application_list_permission_desc">Para mostrar aplicações compatíveis com papéis de parede transparentes</string>
   <string name="apply_choosen_type_resource">Aplicar itens seleccionados</string>
   <string name="apply_default_font_tip">Continuar a utilizar o tipo de letra do sistema?</string>
   <string name="apply_font_btn_exclude">Agora não</string>
@@ -242,6 +243,7 @@
   <string name="has_mamual_hide_icons">Ícones ocultos</string>
   <string name="has_mamual_hide_theme">Ocultos</string>
   <string name="has_mamual_hide_wallpaper">Ocultos</string>
+  <string name="head_portraits">Foto de perfil</string>
   <string name="hide_free_aod">Não mostrar temas gratuitos</string>
   <string name="hide_free_font">Ocultar tipos de letra gratuitos</string>
   <string name="hide_free_icons">Não mostrar ícones gratuitos</string>
@@ -373,6 +375,9 @@ Toque aqui para iniciar agora"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
   <string name="multiwindow_no_support">Esta acção não é suportada no ecrã dividido</string>
   <string name="multiwindow_no_support_icon">Não é possível alterar ícones no ecrã dividido</string>
+  <string name="need_to_open_application_permission_desc">Para poder saber que aplicações são compatíveis com papéis de parede transparentes, dê permissão a Temas para aceder à lista de todas as aplicações instaladas</string>
+  <string name="need_to_open_permission">Permissões necessárias</string>
+  <string name="need_to_open_storage_permission_desc">Para poder utilizar e transferir itens em Temas, dê permissão a Temas para aceder ao armazenamento primeiro</string>
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>
@@ -430,6 +435,7 @@ Toque aqui para iniciar agora"</string>
   <string name="present_local_themes_subtitle">Personalize o seu dispositivo</string>
   <string name="present_official_themes">As nossas escolhas</string>
   <string name="present_online_themes">Obter mais temas online</string>
+  <string name="privacy_settings">Privacidade</string>
   <string name="provision_default_theme_title">Predefinido</string>
   <string name="provision_loading_tips">Aguarde…</string>
   <string name="provision_second_title">Seleccionar um temas predefinidos</string>
@@ -741,6 +747,8 @@ Toque aqui para iniciar agora"</string>
   <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
   <string name="show_mamual_hide_wallpaper">Mostrar papéis de parede ocultos</string>
   <string name="still_apply">Aplicar</string>
+  <string name="storage_migration_exit_msg">Para tornar Temas compatível com as próximas versões do Android, movemos os seus itens transferidos para uma nova localização. Reinicie a aplicação para aplicar as alterações</string>
+  <string name="storage_permission_denied_desc">Permitir que Temas possa aceder ao armazenamento para poder ver itens</string>
   <string name="super_wallpaper">Super papéis de parede</string>
   <string name="super_wallpaper_list_footer_text">Fique ligado nos nossos novos lançamentos!</string>
   <string name="super_wallpaper_list_label">Super papéis de parede</string>
